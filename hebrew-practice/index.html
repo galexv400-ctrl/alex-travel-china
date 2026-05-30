@@ -1,0 +1,546 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Hebrew Daily Practice</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      background: linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #0f3460 100%);
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      padding: 24px 16px;
+      color: #eee;
+    }
+
+    h1 {
+      font-size: 1.8rem;
+      margin-bottom: 4px;
+      letter-spacing: 1px;
+    }
+    .subtitle { color: #a0aec0; font-size: 0.9rem; margin-bottom: 24px; }
+
+    /* Streak bar */
+    .streak-bar {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      background: rgba(255,255,255,0.07);
+      border-radius: 12px;
+      padding: 10px 20px;
+      margin-bottom: 24px;
+      font-size: 0.95rem;
+    }
+    .streak-flame { font-size: 1.4rem; }
+    .streak-count { font-weight: 700; font-size: 1.2rem; color: #f6ad55; }
+
+    /* Progress */
+    .progress-wrap {
+      width: 100%;
+      max-width: 520px;
+      margin-bottom: 8px;
+      display: flex;
+      justify-content: space-between;
+      font-size: 0.8rem;
+      color: #a0aec0;
+    }
+    .progress-bar-outer {
+      width: 100%;
+      max-width: 520px;
+      background: rgba(255,255,255,0.1);
+      border-radius: 99px;
+      height: 8px;
+      margin-bottom: 24px;
+      overflow: hidden;
+    }
+    .progress-bar-inner {
+      height: 100%;
+      background: linear-gradient(90deg, #48bb78, #68d391);
+      border-radius: 99px;
+      transition: width 0.4s ease;
+    }
+
+    /* Card */
+    .card {
+      background: rgba(255,255,255,0.08);
+      border: 1px solid rgba(255,255,255,0.12);
+      border-radius: 20px;
+      width: 100%;
+      max-width: 520px;
+      padding: 36px 32px;
+      text-align: center;
+      backdrop-filter: blur(8px);
+      margin-bottom: 20px;
+      min-height: 260px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 12px;
+    }
+
+    .hebrew-word {
+      font-size: 4rem;
+      font-weight: 700;
+      letter-spacing: 4px;
+      direction: rtl;
+      color: #fff;
+      line-height: 1.1;
+    }
+    .pronunciation {
+      color: #90cdf4;
+      font-size: 1rem;
+      font-style: italic;
+    }
+    .category-badge {
+      background: rgba(102, 126, 234, 0.3);
+      border: 1px solid rgba(102, 126, 234, 0.5);
+      border-radius: 99px;
+      padding: 3px 14px;
+      font-size: 0.75rem;
+      color: #a3bffa;
+      text-transform: uppercase;
+      letter-spacing: 1px;
+    }
+
+    /* Answer input */
+    .answer-section {
+      width: 100%;
+      max-width: 520px;
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+      margin-bottom: 16px;
+    }
+    .answer-input {
+      width: 100%;
+      padding: 14px 18px;
+      border-radius: 12px;
+      border: 2px solid rgba(255,255,255,0.15);
+      background: rgba(255,255,255,0.08);
+      color: #fff;
+      font-size: 1.1rem;
+      outline: none;
+      transition: border-color 0.2s;
+    }
+    .answer-input:focus { border-color: #667eea; }
+    .answer-input.correct { border-color: #48bb78; background: rgba(72,187,120,0.1); }
+    .answer-input.wrong   { border-color: #fc8181; background: rgba(252,129,129,0.1); }
+
+    .btn-row { display: flex; gap: 10px; }
+    button {
+      flex: 1;
+      padding: 13px;
+      border: none;
+      border-radius: 12px;
+      font-size: 1rem;
+      font-weight: 600;
+      cursor: pointer;
+      transition: transform 0.1s, opacity 0.2s;
+    }
+    button:active { transform: scale(0.97); }
+    .btn-check  { background: linear-gradient(135deg, #667eea, #764ba2); color: #fff; }
+    .btn-skip   { background: rgba(255,255,255,0.1); color: #ccc; }
+    .btn-next   { background: linear-gradient(135deg, #48bb78, #38a169); color: #fff; display: none; }
+
+    /* Feedback */
+    .feedback {
+      font-size: 1.1rem;
+      font-weight: 600;
+      min-height: 28px;
+      transition: opacity 0.3s;
+    }
+    .feedback.correct { color: #68d391; }
+    .feedback.wrong   { color: #fc8181; }
+    .feedback.reveal  { color: #f6ad55; }
+
+    /* Score summary */
+    .score-summary {
+      display: none;
+      flex-direction: column;
+      align-items: center;
+      gap: 16px;
+      text-align: center;
+    }
+    .score-big { font-size: 3rem; font-weight: 700; color: #f6ad55; }
+    .score-label { color: #a0aec0; font-size: 0.95rem; }
+    .encouragement { font-size: 1.2rem; }
+    .missed-list { text-align: left; width: 100%; }
+    .missed-list h3 { color: #a0aec0; font-size: 0.85rem; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 8px; }
+    .missed-item {
+      background: rgba(252,129,129,0.1);
+      border-left: 3px solid #fc8181;
+      border-radius: 6px;
+      padding: 8px 12px;
+      margin-bottom: 6px;
+      font-size: 0.9rem;
+    }
+    .missed-item .heb { font-size: 1.2rem; direction: rtl; margin-right: 8px; }
+    .missed-item .eng { color: #a0aec0; }
+    .btn-restart { background: linear-gradient(135deg, #667eea, #764ba2); color: #fff; width: 100%; max-width: 300px; padding: 14px; }
+
+    /* Motivational quotes */
+    .daily-quote {
+      max-width: 520px;
+      text-align: center;
+      color: #718096;
+      font-size: 0.85rem;
+      font-style: italic;
+      margin-top: 8px;
+    }
+  </style>
+</head>
+<body>
+
+<h1>עברית יומית</h1>
+<p class="subtitle">Daily Hebrew Practice — Alexandra</p>
+
+<div class="streak-bar">
+  <span class="streak-flame">🔥</span>
+  <span id="streakCount" class="streak-count">0</span>
+  <span>day streak</span>
+  <span style="margin-left:12px; color:#718096; font-size:0.8rem;" id="lastPracticed"></span>
+</div>
+
+<div class="progress-wrap">
+  <span id="progressText">Question 1 of 10</span>
+  <span id="scoreText">Score: 0</span>
+</div>
+<div class="progress-bar-outer">
+  <div class="progress-bar-inner" id="progressBar" style="width:0%"></div>
+</div>
+
+<div class="card" id="mainCard">
+  <span class="category-badge" id="categoryBadge">Noun</span>
+  <div class="hebrew-word" id="hebrewWord">—</div>
+  <div class="pronunciation" id="pronunciation"></div>
+</div>
+
+<div class="answer-section" id="quizSection">
+  <input class="answer-input" id="answerInput" type="text" placeholder="Type the English meaning..." autocomplete="off" />
+  <div class="btn-row">
+    <button class="btn-skip" id="btnSkip">Skip / Show</button>
+    <button class="btn-check" id="btnCheck">Check ✓</button>
+    <button class="btn-next" id="btnNext">Next →</button>
+  </div>
+  <div class="feedback" id="feedback"></div>
+</div>
+
+<div class="card score-summary" id="scoreSummary">
+  <div class="score-big" id="scoreBig"></div>
+  <div class="score-label" id="scoreLabel"></div>
+  <div class="encouragement" id="encouragement"></div>
+  <div class="missed-list" id="missedList"></div>
+  <button class="btn-restart" onclick="startSession()">Practice Again →</button>
+</div>
+
+<div class="daily-quote" id="dailyQuote"></div>
+
+<script>
+  const VOCAB = [
+    // Basics
+    { heb: "שָׁלוֹם",      pron: "sha-LOM",       eng: ["hello","peace","goodbye","shalom"],        cat: "Greeting" },
+    { heb: "תּוֹדָה",      pron: "to-DA",         eng: ["thank you","thanks"],                       cat: "Expression" },
+    { heb: "כֵּן",         pron: "ken",            eng: ["yes"],                                      cat: "Expression" },
+    { heb: "לֹא",          pron: "lo",             eng: ["no"],                                       cat: "Expression" },
+    { heb: "בְּבַקָּשָׁה", pron: "be-va-ka-SHA",  eng: ["please","you're welcome"],                  cat: "Expression" },
+    { heb: "סְלִיחָה",     pron: "sli-KHA",       eng: ["sorry","excuse me"],                        cat: "Expression" },
+    // Nouns – everyday
+    { heb: "בַּיִת",       pron: "BA-yit",        eng: ["house","home"],                             cat: "Noun" },
+    { heb: "מִשְׁפָּחָה",  pron: "mish-pa-KHA",   eng: ["family"],                                   cat: "Noun" },
+    { heb: "אֹכֶל",        pron: "O-khel",        eng: ["food"],                                     cat: "Noun" },
+    { heb: "מַיִם",        pron: "MA-yim",        eng: ["water"],                                    cat: "Noun" },
+    { heb: "כֶּסֶף",       pron: "KE-sef",        eng: ["money","silver"],                           cat: "Noun" },
+    { heb: "זְמַן",        pron: "z'MAN",         eng: ["time"],                                     cat: "Noun" },
+    { heb: "יוֹם",         pron: "yom",           eng: ["day"],                                      cat: "Noun" },
+    { heb: "לַיְלָה",      pron: "LAY-la",        eng: ["night"],                                    cat: "Noun" },
+    { heb: "שָׁנָה",       pron: "sha-NA",        eng: ["year"],                                     cat: "Noun" },
+    { heb: "חֹדֶשׁ",       pron: "KHO-desh",      eng: ["month"],                                    cat: "Noun" },
+    { heb: "שָׁבוּעַ",     pron: "sha-VU-a",      eng: ["week"],                                     cat: "Noun" },
+    { heb: "שָׁעָה",       pron: "sha-A",         eng: ["hour"],                                     cat: "Noun" },
+    { heb: "דֶּרֶך",       pron: "DE-rekh",       eng: ["way","road","path"],                        cat: "Noun" },
+    { heb: "עִיר",         pron: "ir",            eng: ["city","town"],                              cat: "Noun" },
+    { heb: "אֶרֶץ",        pron: "E-rets",        eng: ["country","land","earth"],                   cat: "Noun" },
+    { heb: "שֶׁמֶשׁ",      pron: "SHE-mesh",      eng: ["sun"],                                      cat: "Noun" },
+    { heb: "יָד",          pron: "yad",           eng: ["hand"],                                     cat: "Noun" },
+    { heb: "עַיִן",        pron: "A-yin",         eng: ["eye"],                                      cat: "Noun" },
+    { heb: "לֵב",          pron: "lev",           eng: ["heart"],                                    cat: "Noun" },
+    { heb: "רֹאשׁ",        pron: "rosh",          eng: ["head"],                                     cat: "Noun" },
+    { heb: "פֶּה",         pron: "pe",            eng: ["mouth"],                                    cat: "Noun" },
+    { heb: "חַלּוֹן",      pron: "kha-LON",       eng: ["window"],                                   cat: "Noun" },
+    { heb: "דֶּלֶת",       pron: "DE-let",        eng: ["door"],                                     cat: "Noun" },
+    { heb: "שֻׁלְחָן",     pron: "shul-KHAN",     eng: ["table"],                                    cat: "Noun" },
+    { heb: "כִּסֵּא",      pron: "ki-SEH",        eng: ["chair"],                                    cat: "Noun" },
+    { heb: "מִיטָה",       pron: "mi-TA",         eng: ["bed"],                                      cat: "Noun" },
+    { heb: "מִטְבָּח",     pron: "mit-BAKH",      eng: ["kitchen"],                                  cat: "Noun" },
+    { heb: "חֶדֶר",        pron: "KHE-der",       eng: ["room"],                                     cat: "Noun" },
+    { heb: "עִיתוֹן",      pron: "i-TON",         eng: ["newspaper"],                                cat: "Noun" },
+    { heb: "מַפְתֵּחַ",    pron: "maf-TEY-akh",   eng: ["key"],                                      cat: "Noun" },
+    { heb: "מִטְרִיָּה",   pron: "mit-ri-YA",     eng: ["umbrella"],                                 cat: "Noun" },
+    { heb: "תַּפּוּחַ",    pron: "ta-PU-akh",     eng: ["apple"],                                    cat: "Noun" },
+    { heb: "בָּצָל",       pron: "ba-TZAL",       eng: ["onion"],                                    cat: "Noun" },
+    { heb: "גֶּשֶׁם",      pron: "GE-shem",       eng: ["rain"],                                     cat: "Noun" },
+    { heb: "שָׁמַיִם",     pron: "sha-MA-yim",    eng: ["sky","heaven"],                             cat: "Noun" },
+    { heb: "עָנָן",        pron: "a-NAN",         eng: ["cloud"],                                    cat: "Noun" },
+    { heb: "חוֹף",         pron: "khof",          eng: ["beach","shore","coast"],                    cat: "Noun" },
+    { heb: "רְחוֹב",       pron: "r'KHOV",        eng: ["street"],                                   cat: "Noun" },
+    { heb: "שָׁעוֹן",      pron: "sha-ON",        eng: ["clock","watch"],                            cat: "Noun" },
+    { heb: "סַכִּין",      pron: "sa-KIN",        eng: ["knife"],                                    cat: "Noun" },
+    { heb: "כּוֹכָב",      pron: "ko-KHAV",       eng: ["star"],                                     cat: "Noun" },
+    { heb: "יֶלֶד",        pron: "YEH-led",       eng: ["boy","child"],                              cat: "Noun" },
+    { heb: "יַלְדָּה",     pron: "yal-DA",        eng: ["girl"],                                     cat: "Noun" },
+    { heb: "אִישׁ",        pron: "ish",           eng: ["man","husband"],                            cat: "Noun" },
+    { heb: "אִשָּׁה",      pron: "i-SHA",         eng: ["woman","wife"],                             cat: "Noun" },
+    { heb: "חָבֵר",        pron: "kha-VER",       eng: ["friend"],                                   cat: "Noun" },
+    { heb: "כֶּלֶב",       pron: "KE-lev",        eng: ["dog"],                                      cat: "Noun" },
+    { heb: "חָתוּל",       pron: "kha-TUL",       eng: ["cat"],                                      cat: "Noun" },
+    // Adjectives
+    { heb: "גָּדוֹל",      pron: "ga-DOL",        eng: ["big","large","great"],                      cat: "Adjective" },
+    { heb: "קָטָן",        pron: "ka-TAN",        eng: ["small","little"],                           cat: "Adjective" },
+    { heb: "חָזָק",        pron: "kha-ZAK",       eng: ["strong"],                                   cat: "Adjective" },
+    { heb: "חַלָּשׁ",      pron: "kha-LASH",      eng: ["weak"],                                     cat: "Adjective" },
+    { heb: "יָפֶה",        pron: "ya-FE",         eng: ["beautiful","pretty","nice"],                cat: "Adjective" },
+    { heb: "מְהִיר",       pron: "m'HEER",        eng: ["fast","quick"],                             cat: "Adjective" },
+    { heb: "אִיטִי",       pron: "i-TI",          eng: ["slow"],                                     cat: "Adjective" },
+    { heb: "חָם",          pron: "kham",          eng: ["hot","warm"],                               cat: "Adjective" },
+    { heb: "קַר",          pron: "kar",           eng: ["cold"],                                     cat: "Adjective" },
+    { heb: "עָיֵף",        pron: "a-YEF",         eng: ["tired"],                                    cat: "Adjective" },
+    { heb: "שָׂמֵחַ",      pron: "sa-ME-akh",     eng: ["happy"],                                    cat: "Adjective" },
+    { heb: "עָצוּב",       pron: "a-TZUV",        eng: ["sad"],                                      cat: "Adjective" },
+    { heb: "גָּבוֹהַּ",    pron: "ga-VO-ah",      eng: ["tall","high"],                              cat: "Adjective" },
+    { heb: "נָמוּך",       pron: "na-MUKH",       eng: ["short","low"],                              cat: "Adjective" },
+    { heb: "חָדָשׁ",       pron: "kha-DASH",      eng: ["new"],                                      cat: "Adjective" },
+    { heb: "יָשָׁן",       pron: "ya-SHAN",       eng: ["old","sleeping"],                           cat: "Adjective" },
+    { heb: "טוֹב",         pron: "tov",           eng: ["good"],                                     cat: "Adjective" },
+    { heb: "רַע",          pron: "ra",            eng: ["bad","evil"],                               cat: "Adjective" },
+    // Verbs
+    { heb: "לִישׁוֹן",     pron: "li-SHON",       eng: ["to sleep"],                                 cat: "Verb" },
+    { heb: "לָרוּץ",       pron: "la-RUTZ",       eng: ["to run"],                                   cat: "Verb" },
+    { heb: "לֶאֱכֹל",      pron: "le-e-KHOL",     eng: ["to eat"],                                   cat: "Verb" },
+    { heb: "לִשְׁתּוֹת",   pron: "lish-TOT",      eng: ["to drink"],                                 cat: "Verb" },
+    { heb: "לְדַבֵּר",     pron: "l'da-BER",      eng: ["to speak","to talk"],                       cat: "Verb" },
+    { heb: "לִשְׁמֹעַ",    pron: "lish-MO-a",     eng: ["to hear","to listen"],                      cat: "Verb" },
+    { heb: "לִרְאוֹת",     pron: "lir-OT",        eng: ["to see"],                                   cat: "Verb" },
+    { heb: "לָלֶכֶת",      pron: "la-LE-khet",    eng: ["to go","to walk"],                          cat: "Verb" },
+    { heb: "לָבוֹא",       pron: "la-VO",         eng: ["to come"],                                  cat: "Verb" },
+    { heb: "לִמְכֹּר",     pron: "lim-KOR",       eng: ["to sell"],                                  cat: "Verb" },
+    { heb: "לִקְנוֹת",     pron: "lik-NOT",       eng: ["to buy"],                                   cat: "Verb" },
+    { heb: "לַעֲזֹר",      pron: "la-a-ZOR",      eng: ["to help"],                                  cat: "Verb" },
+    { heb: "לִלְמֹד",      pron: "lil-MOD",       eng: ["to learn","to study"],                      cat: "Verb" },
+    { heb: "לְהַסְכִּים",  pron: "l'has-KIM",     eng: ["to agree"],                                 cat: "Verb" },
+    { heb: "לְאַהֵב",      pron: "l'a-HEV",       eng: ["to love"],                                  cat: "Verb" },
+    { heb: "לִכְתֹּב",     pron: "likh-TOV",      eng: ["to write"],                                 cat: "Verb" },
+    { heb: "לִקְרֹא",      pron: "lik-RO",        eng: ["to read","to call"],                        cat: "Verb" },
+    { heb: "לַחְשֹׁב",     pron: "lakh-SHOV",     eng: ["to think"],                                 cat: "Verb" },
+    { heb: "לָדַעַת",      pron: "la-DA-at",      eng: ["to know"],                                  cat: "Verb" },
+  ];
+
+  const ENCOURAGEMENTS = [
+    ["100%", "🌟 Perfect score! You're a Hebrew superstar!", "מעולה — excellent!"],
+    ["90%",  "🎉 Brilliant! Almost flawless!", "כל הכבוד — well done!"],
+    ["70%",  "💪 Great work — keep going!", "יפה מאוד — very nice!"],
+    ["50%",  "😊 Good effort! A little more practice and you'll nail it.", "תמשיכי להתאמן!"],
+    ["0%",   "🌱 Every expert was once a beginner. Keep it up!", "אל תוותרי — don't give up!"],
+  ];
+
+  const QUOTES = [
+    "Language is the road map of a culture. — Rita Mae Brown",
+    "To learn a language is to have one more window from which to look at the world.",
+    "The more languages you know, the more human you are. — Tomáš Masaryk",
+    "Practice makes permanent — not perfect, but permanent!",
+    "Every word you learn is a door that opens.",
+  ];
+
+  // --- State ---
+  let queue = [], current = 0, score = 0, missed = [], answered = false;
+  const ROUND_SIZE = 10;
+
+  // --- Storage ---
+  function loadStreak() {
+    const data = JSON.parse(localStorage.getItem('heb_streak') || '{}');
+    return { count: data.count || 0, lastDate: data.lastDate || null };
+  }
+  function saveStreak() {
+    const today = new Date().toISOString().slice(0, 10);
+    const s = loadStreak();
+    if (s.lastDate === today) return s.count;
+    const yesterday = new Date(Date.now() - 86400000).toISOString().slice(0, 10);
+    const newCount = s.lastDate === yesterday ? s.count + 1 : 1;
+    localStorage.setItem('heb_streak', JSON.stringify({ count: newCount, lastDate: today }));
+    return newCount;
+  }
+  function renderStreak() {
+    const s = loadStreak();
+    document.getElementById('streakCount').textContent = s.count;
+    if (s.lastDate) {
+      const d = new Date(s.lastDate + 'T12:00:00');
+      document.getElementById('lastPracticed').textContent =
+        'Last: ' + d.toLocaleDateString('en-GB', { day: 'numeric', month: 'short' });
+    }
+  }
+
+  // --- Session ---
+  function shuffle(arr) {
+    const a = [...arr];
+    for (let i = a.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [a[i], a[j]] = [a[j], a[i]];
+    }
+    return a;
+  }
+
+  function startSession() {
+    queue = shuffle(VOCAB).slice(0, ROUND_SIZE);
+    current = 0; score = 0; missed = [];
+    document.getElementById('scoreSummary').style.display = 'none';
+    document.getElementById('quizSection').style.display = 'flex';
+    document.getElementById('mainCard').style.display = 'flex';
+    document.getElementById('dailyQuote').style.display = 'block';
+    document.getElementById('dailyQuote').textContent =
+      QUOTES[Math.floor(Math.random() * QUOTES.length)];
+    renderStreak();
+    showQuestion();
+  }
+
+  function showQuestion() {
+    answered = false;
+    const q = queue[current];
+    document.getElementById('hebrewWord').textContent = q.heb;
+    document.getElementById('pronunciation').textContent = '(' + q.pron + ')';
+    document.getElementById('categoryBadge').textContent = q.cat;
+    document.getElementById('answerInput').value = '';
+    document.getElementById('answerInput').className = 'answer-input';
+    document.getElementById('answerInput').disabled = false;
+    document.getElementById('feedback').textContent = '';
+    document.getElementById('feedback').className = 'feedback';
+    document.getElementById('btnCheck').style.display = '';
+    document.getElementById('btnSkip').style.display = '';
+    document.getElementById('btnNext').style.display = 'none';
+    updateProgress();
+    document.getElementById('answerInput').focus();
+  }
+
+  function updateProgress() {
+    document.getElementById('progressText').textContent =
+      'Question ' + (current + 1) + ' of ' + ROUND_SIZE;
+    document.getElementById('scoreText').textContent = 'Score: ' + score;
+    document.getElementById('progressBar').style.width =
+      (current / ROUND_SIZE * 100) + '%';
+  }
+
+  function normalise(s) {
+    return s.trim().toLowerCase().replace(/[^a-z\s]/g, '').replace(/\s+/g, ' ');
+  }
+
+  function checkAnswer() {
+    if (answered) return;
+    const q = queue[current];
+    const raw = document.getElementById('answerInput').value;
+    const typed = normalise(raw);
+    if (!typed) return;
+    const correct = q.eng.some(e => normalise(e) === typed);
+    answered = true;
+    document.getElementById('answerInput').disabled = true;
+    if (correct) {
+      score++;
+      document.getElementById('answerInput').className = 'answer-input correct';
+      document.getElementById('feedback').textContent = '✓ Correct! ' + q.heb + ' = ' + q.eng[0];
+      document.getElementById('feedback').className = 'feedback correct';
+    } else {
+      missed.push(q);
+      document.getElementById('answerInput').className = 'answer-input wrong';
+      document.getElementById('feedback').textContent =
+        '✗  Answer: ' + q.eng[0] + (q.eng.length > 1 ? ' (also: ' + q.eng.slice(1).join(', ') + ')' : '');
+      document.getElementById('feedback').className = 'feedback wrong';
+    }
+    document.getElementById('btnCheck').style.display = 'none';
+    document.getElementById('btnSkip').style.display = 'none';
+    document.getElementById('btnNext').style.display = '';
+    updateProgress();
+  }
+
+  function skipQuestion() {
+    if (answered) return;
+    const q = queue[current];
+    answered = true;
+    missed.push(q);
+    document.getElementById('answerInput').disabled = true;
+    document.getElementById('feedback').textContent =
+      '→ ' + q.heb + ' = ' + q.eng[0];
+    document.getElementById('feedback').className = 'feedback reveal';
+    document.getElementById('btnCheck').style.display = 'none';
+    document.getElementById('btnSkip').style.display = 'none';
+    document.getElementById('btnNext').style.display = '';
+    updateProgress();
+  }
+
+  function nextQuestion() {
+    current++;
+    if (current >= ROUND_SIZE) {
+      endSession();
+    } else {
+      showQuestion();
+    }
+  }
+
+  function endSession() {
+    const streak = saveStreak();
+    renderStreak();
+    document.getElementById('progressBar').style.width = '100%';
+    document.getElementById('progressText').textContent = 'Complete!';
+    document.getElementById('scoreText').textContent = 'Score: ' + score;
+    document.getElementById('quizSection').style.display = 'none';
+    document.getElementById('mainCard').style.display = 'none';
+
+    const pct = score / ROUND_SIZE;
+    let enc = ENCOURAGEMENTS[ENCOURAGEMENTS.length - 1];
+    for (const e of ENCOURAGEMENTS) {
+      if (pct >= parseFloat(e[0]) / 100) { enc = e; break; }
+    }
+
+    document.getElementById('scoreBig').textContent = score + ' / ' + ROUND_SIZE;
+    document.getElementById('scoreLabel').textContent =
+      Math.round(pct * 100) + '% correct';
+    document.getElementById('encouragement').textContent = enc[1] + '  ' + enc[2];
+
+    const ml = document.getElementById('missedList');
+    ml.innerHTML = '';
+    if (missed.length) {
+      const h = document.createElement('h3');
+      h.textContent = 'Review these:';
+      ml.appendChild(h);
+      missed.forEach(q => {
+        const d = document.createElement('div');
+        d.className = 'missed-item';
+        d.innerHTML = '<span class="heb">' + q.heb + '</span>' +
+          ' <span style="color:#90cdf4;font-size:0.8rem">(' + q.pron + ')</span>' +
+          ' <span class="eng">= ' + q.eng[0] + '</span>';
+        ml.appendChild(d);
+      });
+    }
+
+    document.getElementById('scoreSummary').style.display = 'flex';
+    document.getElementById('dailyQuote').style.display = 'none';
+  }
+
+  // --- Event listeners ---
+  document.getElementById('btnCheck').addEventListener('click', checkAnswer);
+  document.getElementById('btnSkip').addEventListener('click', skipQuestion);
+  document.getElementById('btnNext').addEventListener('click', nextQuestion);
+  document.getElementById('answerInput').addEventListener('keydown', e => {
+    if (e.key === 'Enter') {
+      if (!answered) checkAnswer();
+      else nextQuestion();
+    }
+  });
+
+  // --- Boot ---
+  startSession();
+</script>
+</body>
+</html>
