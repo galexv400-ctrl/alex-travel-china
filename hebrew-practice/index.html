@@ -55,6 +55,38 @@
     .streak-count { font-size: 1.3rem; font-weight: 800; color: #d97706; }
     .streak-last { font-size: 0.8rem; font-weight: 400; color: #b45309; margin-left: 6px; }
 
+    /* Tabs */
+    .tab-bar {
+      display: flex;
+      gap: 8px;
+      margin-bottom: 24px;
+      background: #fff8ed;
+      border: 2px solid #fcd34d;
+      border-radius: 16px;
+      padding: 6px;
+    }
+    .tab-btn {
+      flex: 1;
+      padding: 10px 22px;
+      border: none;
+      border-radius: 11px;
+      font-size: 0.9rem;
+      font-weight: 700;
+      font-family: inherit;
+      cursor: pointer;
+      background: transparent;
+      color: #92400e;
+      transition: background 0.2s, color 0.2s, box-shadow 0.2s;
+      white-space: nowrap;
+    }
+    .tab-btn:hover { background: #fef3c7; }
+    .tab-btn.active {
+      background: linear-gradient(135deg, #d97706, #b45309);
+      color: #fff;
+      box-shadow: 0 2px 8px rgba(180,83,9,0.2);
+      transform: none;
+    }
+
     /* Layout: two-column on desktop */
     .main-layout {
       width: 100%;
@@ -317,6 +349,11 @@
   <span class="streak-last" id="lastPracticed"></span>
 </div>
 
+<div class="tab-bar">
+  <button class="tab-btn active" onclick="switchTab('all', this)">All Words</button>
+  <button class="tab-btn" onclick="switchTab('daily', this)">Israeli Daily Life</button>
+</div>
+
 <div class="main-layout" id="mainLayout">
 
   <!-- Progress bar -->
@@ -474,8 +511,71 @@
     "Every word you learn is a door that opens.",
   ];
 
+  const VOCAB_DAILY = [
+    // Greetings & everyday phrases
+    { heb: "בֹּקֶר טוֹב",   pron: "BO-ker tov",     eng: ["good morning"],                            cat: "Phrase" },
+    { heb: "עֶרֶב טוֹב",    pron: "E-rev tov",      eng: ["good evening"],                            cat: "Phrase" },
+    { heb: "לַיְלָה טוֹב",  pron: "LAY-la tov",     eng: ["good night"],                              cat: "Phrase" },
+    { heb: "מַה נִּשְׁמָע", pron: "ma nish-MA",     eng: ["what's up","how's it going"],              cat: "Phrase" },
+    { heb: "מַה קוֹרֶה",    pron: "ma ko-RE",       eng: ["what's happening","what's going on"],      cat: "Phrase" },
+    { heb: "בְּסֵדֶר",      pron: "be-SE-der",      eng: ["okay","fine","alright"],                   cat: "Phrase" },
+    { heb: "יַאלַּה",       pron: "YA-la",          eng: ["let's go","come on","bye"],                cat: "Slang" },
+    { heb: "סַבָּבָה",      pron: "sa-BA-ba",       eng: ["cool","fine","great"],                     cat: "Slang" },
+    { heb: "וַואלָּה",      pron: "WA-la",          eng: ["really","wow","seriously"],                cat: "Slang" },
+    { heb: "אַחְלָה",       pron: "akh-LA",         eng: ["awesome","great","excellent"],             cat: "Slang" },
+    { heb: "כֵּיף",         pron: "keyf",           eng: ["fun","cool","enjoyment"],                  cat: "Slang" },
+    { heb: "עֲזֹב",         pron: "a-ZOV",          eng: ["forget it","never mind","leave it"],       cat: "Slang" },
+    { heb: "רֶגַע",         pron: "RE-ga",          eng: ["a moment","wait","one second"],            cat: "Expression" },
+    { heb: "דַּוְקָא",      pron: "dav-KA",         eng: ["actually","on the contrary","specifically"],cat: "Expression" },
+    { heb: "חוּצְפָּה",     pron: "khutz-PA",       eng: ["nerve","audacity","cheek"],                cat: "Expression" },
+    { heb: "נוּ",           pron: "nu",             eng: ["well","so","come on"],                     cat: "Slang" },
+    { heb: "סְתָם",         pron: "stam",           eng: ["just","nothing","for no reason"],          cat: "Slang" },
+    { heb: "חֲבָל",         pron: "kha-VAL",        eng: ["what a pity","shame","too bad"],           cat: "Expression" },
+    { heb: "בְּקֶצֶר",      pron: "be-KE-tser",    eng: ["in short","briefly","to sum up"],          cat: "Expression" },
+    { heb: "בְּכָל אוֹפֶן", pron: "be-khol O-fen", eng: ["anyway","in any case"],                    cat: "Expression" },
+    // Getting around
+    { heb: "אוֹטוֹבּוּס",   pron: "o-to-BUS",      eng: ["bus"],                                     cat: "Transport" },
+    { heb: "רַכֶּבֶת",      pron: "ra-KE-vet",     eng: ["train"],                                   cat: "Transport" },
+    { heb: "מוֹנִית",       pron: "mo-NIT",         eng: ["taxi"],                                    cat: "Transport" },
+    { heb: "תַּחֲנָה",      pron: "ta-kha-NA",      eng: ["station","stop"],                          cat: "Transport" },
+    { heb: "כְּרַטִיס",     pron: "kar-TIS",        eng: ["ticket","card"],                           cat: "Transport" },
+    { heb: "כְּבִישׁ",      pron: "k'VISH",         eng: ["road","highway"],                          cat: "Transport" },
+    // Shopping & money
+    { heb: "חֲנוּת",        pron: "kha-NUT",        eng: ["shop","store"],                            cat: "Shopping" },
+    { heb: "שׁוּק",         pron: "shuk",           eng: ["market"],                                  cat: "Shopping" },
+    { heb: "סוּפֶּרְמַרְקֶט", pron: "su-per-MAR-ket", eng: ["supermarket"],                          cat: "Shopping" },
+    { heb: "מְחִיר",        pron: "me-KHIR",        eng: ["price"],                                   cat: "Shopping" },
+    { heb: "זוֹל",          pron: "zol",            eng: ["cheap","inexpensive"],                     cat: "Shopping" },
+    { heb: "יָקָר",         pron: "ya-KAR",         eng: ["expensive"],                               cat: "Shopping" },
+    { heb: "תּוֹר",         pron: "tor",            eng: ["queue","turn","appointment"],              cat: "Shopping" },
+    { heb: "קַבָּלָה",      pron: "ka-ba-LA",       eng: ["receipt","reception"],                     cat: "Shopping" },
+    // Food & cafés
+    { heb: "מִסְעָדָה",     pron: "mis-a-DA",       eng: ["restaurant"],                              cat: "Food" },
+    { heb: "קָפֶה",         pron: "ka-FE",          eng: ["café","coffee"],                           cat: "Food" },
+    { heb: "פִּיתָה",       pron: "PI-ta",          eng: ["pita bread"],                              cat: "Food" },
+    { heb: "חוּמוּס",       pron: "KHU-mus",        eng: ["hummus"],                                  cat: "Food" },
+    { heb: "פָּלָאפֶל",     pron: "pa-LA-fel",      eng: ["falafel"],                                 cat: "Food" },
+    { heb: "שַׁקְשׁוּקָה",  pron: "shak-SHU-ka",   eng: ["shakshuka"],                               cat: "Food" },
+    { heb: "בּוֹרֶקַס",     pron: "bo-RE-kas",      eng: ["bourekas","pastry"],                       cat: "Food" },
+    { heb: "מַיִם מוּגָזִים", pron: "MA-yim mu-ga-ZIM", eng: ["sparkling water","fizzy water"],       cat: "Food" },
+    // Tech & modern life
+    { heb: "טֶלֶפוֹן",      pron: "te-le-FON",      eng: ["phone","telephone"],                       cat: "Modern" },
+    { heb: "אִינְטֶרְנֶט",  pron: "in-ter-NET",     eng: ["internet"],                                cat: "Modern" },
+    { heb: "סִיסְמָה",      pron: "sis-MA",         eng: ["password"],                                cat: "Modern" },
+    { heb: "הוֹדָעָה",      pron: "ho-da-A",        eng: ["message","notification"],                  cat: "Modern" },
+    { heb: "עִדְכּוּן",     pron: "id-KUN",         eng: ["update"],                                  cat: "Modern" },
+  ];
+
+  let activeTab = 'all';
   let queue = [], current = 0, score = 0, missed = [], answered = false;
   const ROUND_SIZE = 10;
+
+  function switchTab(tab, btn) {
+    activeTab = tab;
+    document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+    startSession();
+  }
 
   function loadStreak() {
     return JSON.parse(localStorage.getItem('heb_streak') || '{"count":0,"lastDate":null}');
@@ -509,7 +609,8 @@
   }
 
   function startSession() {
-    queue = shuffle(VOCAB).slice(0, ROUND_SIZE);
+    const pool = activeTab === 'daily' ? VOCAB_DAILY : VOCAB;
+    queue = shuffle(pool).slice(0, ROUND_SIZE);
     current = 0; score = 0; missed = [];
     document.getElementById('scoreSummary').style.display = 'none';
     document.getElementById('quizSection').style.display = 'flex';
