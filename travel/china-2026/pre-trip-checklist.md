@@ -4,7 +4,7 @@
 
 ## Flights to Book — Do These First
 
-- [ ] El Al TLV → Bangkok (17 Oct)
+- [ ] El Al TLV → Bangkok (16 Oct)
 - [ ] Bangkok → Hong Kong connecting flight (18 Oct) — any carrier
 - [ ] Beijing → Tokyo flight (4 Nov, afternoon ~13:00 departure) — any carrier
 - [ ] El Al LY92 Tokyo NRT → Tel Aviv (8 Nov, departs 18:35) — book early

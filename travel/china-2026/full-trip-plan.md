@@ -1,7 +1,7 @@
 # Full Trip Plan — China & Japan 2026
 
 **Traveller:** Alexandra Segall
-**Total duration:** 23 days (17 Oct – 9 Nov 2026)
+**Total duration:** 24 days (16 Oct – 9 Nov 2026)
 **Status:** CONFIRMED ✓
 
 ---
@@ -10,29 +10,30 @@
 
 | Date | Day | Location | Detail | Flight Times |
 |------|-----|----------|--------|--------------|
-| Fri 17 Oct | 1 | Depart Tel Aviv | El Al TLV → Bangkok | Depart TLV (check El Al schedule) |
-| Sat 18 Oct | 2 | Bangkok → Hong Kong | Connecting flight any carrier | Short hop ~2.5hrs |
-| Sun 19 Oct | 3 | Hong Kong | Welcome meeting 6pm — mandatory | — |
-| Mon 20 Oct | 4 | → Chongqing | Bullet train ~9hrs | — |
-| Tue 21 Oct | 5 | Chongqing | City tour, hot pot lunch in WWII shelter | — |
-| Wed 22 Oct | 6 | → Zhangjiajie | Bullet train ~4–5hrs | — |
-| Thu 23 Oct | 7 | Tianmen Mountain | Heaven's Gate, cliff walkways | — |
-| Fri 24 Oct | 8 | Zhangjiajie National Park | Avatar mountains, 4hr hike, Bailong Elevator | — |
-| Sat 25 Oct | 9 | → Changsha | Nvshu script workshop, night market | — |
-| Sun 26 Oct | 10 | → Shanghai | Bullet train ~5hrs, Bund walking tour | — |
-| Mon 27 Oct | 11 | Shanghai | French Concession walk. Breakfast included. | — |
-| Tue 28 Oct | 12 | Shanghai | Free day. New group leg begins 4pm. | — |
-| Wed 29 Oct | 13 | Wuxi day trip | Huishan Ancient Town, Jichang Garden. Breakfast included. | — |
-| Thu 30 Oct | 14 | → Xi'an | Bullet train ~7hrs, Muslim Quarter. Breakfast included. | — |
-| Fri 31 Oct | 15 | Xi'an | Terracotta Warriors | — |
-| Sat 1 Nov | 16 | → Great Wall | Train to Beijing + transfer ~9hrs. Sunset on the Wall. | — |
-| Sun 2 Nov | 17 | → Beijing | Jinshanling Wall hike ~2hrs. Breakfast included. | — |
-| Mon 3 Nov | 18 | Beijing | Tiananmen Square, Forbidden City. Farewell dinner — Beijing duck! | — |
-| Tue 4 Nov | 19 | Beijing → Tokyo | Tour ends. Fly afternoon. | Depart Beijing ~13:00 → Arrive Tokyo ~17:30 (~3.5hrs) |
-| Wed 5 Nov | 20 | Tokyo | Sleep in. Wander solo. Shiatsu massage afternoon. | — |
-| Thu 6 Nov | 21 | Nikko day trip | Depart Tokyo 07:30 → Nikko 09:30. Tosho-gu Shrine, Kegon Falls, autumn foliage. Return 16:30 → Tokyo 18:30. | Tobu Nikko Line ~2hrs each way |
-| Fri 7 Nov | 22 | Tokyo | Free day. No agenda. Morning market, wander, nice solo dinner. | — |
-| Sat 8 Nov | 23 | Tokyo → Tel Aviv | Leave hotel 14:30. Airport by 15:30. El Al LY92 departs 18:35 → Arrives Tel Aviv 00:55 (+1). | ~13hrs |
+| Thu 16 Oct | 1 | Depart Tel Aviv | El Al TLV → Bangkok | Depart TLV (check El Al schedule) |
+| Fri 17 Oct | 2 | Bangkok → Hong Kong | Connecting flight any carrier | Short hop ~2.5hrs |
+| Sat 18 Oct | 3 | Hong Kong | Arrive, settle in, recover from jetlag | — |
+| Sun 19 Oct | 4 | Hong Kong | Welcome meeting 6pm — mandatory | — |
+| Mon 20 Oct | 5 | → Chongqing | Bullet train ~9hrs | — |
+| Tue 21 Oct | 6 | Chongqing | City tour, hot pot lunch in WWII shelter | — |
+| Wed 22 Oct | 7 | → Zhangjiajie | Bullet train ~4–5hrs | — |
+| Thu 23 Oct | 8 | Tianmen Mountain | Heaven's Gate, cliff walkways | — |
+| Fri 24 Oct | 9 | Zhangjiajie National Park | Avatar mountains, 4hr hike, Bailong Elevator | — |
+| Sat 25 Oct | 10 | → Changsha | Nvshu script workshop, night market | — |
+| Sun 26 Oct | 11 | → Shanghai | Bullet train ~5hrs, Bund walking tour | — |
+| Mon 27 Oct | 12 | Shanghai | French Concession walk. Breakfast included. | — |
+| Tue 28 Oct | 13 | Shanghai | Free day. New group leg begins 4pm. | — |
+| Wed 29 Oct | 14 | Wuxi day trip | Huishan Ancient Town, Jichang Garden. Breakfast included. | — |
+| Thu 30 Oct | 15 | → Xi'an | Bullet train ~7hrs, Muslim Quarter. Breakfast included. | — |
+| Fri 31 Oct | 16 | Xi'an | Terracotta Warriors | — |
+| Sat 1 Nov | 17 | → Great Wall | Train to Beijing + transfer ~9hrs. Sunset on the Wall. | — |
+| Sun 2 Nov | 18 | → Beijing | Jinshanling Wall hike ~2hrs. Breakfast included. | — |
+| Mon 3 Nov | 19 | Beijing | Tiananmen Square, Forbidden City. Farewell dinner — Beijing duck! | — |
+| Tue 4 Nov | 20 | Beijing → Tokyo | Tour ends. Fly afternoon. | Depart Beijing ~13:00 → Arrive Tokyo ~17:30 (~3.5hrs) |
+| Wed 5 Nov | 21 | Tokyo | Sleep in. Wander solo. Shiatsu massage afternoon. | — |
+| Thu 6 Nov | 22 | Nikko day trip | Depart Tokyo 07:30 → Nikko 09:30. Tosho-gu Shrine, Kegon Falls, autumn foliage. Return 16:30 → Tokyo 18:30. | Tobu Nikko Line ~2hrs each way |
+| Fri 7 Nov | 23 | Tokyo | Free day. No agenda. Morning market, wander, nice solo dinner. | — |
+| Sat 8 Nov | 24 | Tokyo → Tel Aviv | Leave hotel 14:30. Airport by 15:30. El Al LY92 departs 18:35 → Arrives Tel Aviv 00:55 (+1). | ~13hrs |
 | Sun 9 Nov | — | Home | Arrive Tel Aviv 00:55 | — |
 
 ---
