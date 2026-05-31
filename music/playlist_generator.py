@@ -126,12 +126,21 @@ def build_playlist(seed_artists, label, mix_in_seeds=True):
 
 
 def save_playlist(playlist, filename, label):
+    from collections import defaultdict
+    by_artist = defaultdict(list)
+    for track, artist, tag in playlist:
+        by_artist[artist].append((track, tag))
+
     with open(filename, "w", encoding="utf-8") as f:
         f.write(f"# {label}\n")
-        f.write(f"# {len(playlist)} tracks\n")
-        f.write("# Copy each song title into Apple Music search to add to your playlist\n\n")
-        for i, (track, artist, tag) in enumerate(playlist, 1):
-            f.write(f"{i}. {track} - {artist}  [{tag}]\n")
+        f.write(f"# {len(playlist)} tracks — grouped by artist to make adding easier\n")
+        f.write("# Go to music.apple.com, create a new playlist, search each song and click +\n\n")
+        i = 1
+        for artist, tracks in sorted(by_artist.items()):
+            f.write(f"\n--- {artist} ---\n")
+            for track, tag in tracks:
+                f.write(f"  {i}. {track}  [{tag}]\n")
+                i += 1
     print(f"  Saved {len(playlist)} tracks to {filename}")
 
 
