@@ -6,14 +6,16 @@ API_KEY = "bf96d38ca8507198dc34add4caf049e4"
 BASE_URL = "http://ws.audioscrobbler.com/2.0/"
 
 BROADWAY_ARTISTS = [
-    "Hadestown", "Waitress Musical", "Into the Woods", "Wicked",
-    "Hamilton Musical", "Jesus Christ Superstar", "Oklahoma",
-    "Cabaret Musical", "Les Miserables", "South Pacific",
-    "The Great Comet", "Company Musical", "Stephen Sondheim"
+    "Hadestown", "Waitress Musical", "Wicked", "Hamilton Musical",
+    "Six the Musical", "Beetlejuice Musical", "Mean Girls Musical",
+    "Legally Blonde Musical", "Mamma Mia", "Chicago Musical",
+    "Kinky Boots Musical", "Anybody Can Dance", "Be More Chill Musical",
+    "Fun Home Musical", "Come From Away"
 ]
 
 POP_ARTISTS = [
-    "Taylor Swift", "Lily Allen", "Lorde", "Shawn Mendes", "Blur"
+    "Taylor Swift", "Lily Allen", "Lorde", "Dua Lipa", "Charli XCX",
+    "Carly Rae Jepsen", "Katy Perry", "Robyn", "Chappell Roan", "Sabrina Carpenter"
 ]
 
 RNB_ARTISTS = [
@@ -30,6 +32,13 @@ KNOWN_TRACKS = set([
     "cruel summer", "not shy", "solar power", "bad guy",
     "smile", "the fear", "god save our young blood"
 ])
+
+SAD_KEYWORDS = [
+    "funeral", "death", "die", "dying", "goodbye forever", "farewell",
+    "tragedy", "grief", "mourning", "weeping", "tears in", "broken heart",
+    "i dreamed a dream", "on my own", "empty chairs", "bring him home",
+    "who will love me as i am", "the last night of the world"
+]
 
 
 def get_similar_artists(artist_name):
@@ -69,7 +78,12 @@ def get_top_tracks(artist_name, limit=5):
 
 
 def is_new_track(track_name):
-    return track_name.lower() not in KNOWN_TRACKS
+    name = track_name.lower()
+    if name in KNOWN_TRACKS:
+        return False
+    if any(sad in name for sad in SAD_KEYWORDS):
+        return False
+    return True
 
 
 def build_playlist(seed_artists, label, mix_in_seeds=True):
