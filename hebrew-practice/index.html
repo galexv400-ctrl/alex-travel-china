@@ -1126,18 +1126,17 @@
       document.getElementById('answerInput').className = 'answer-input correct';
       document.getElementById('feedback').textContent = '✓ Correct! ' + q.heb + ' = ' + q.eng[0];
       document.getElementById('feedback').className = 'feedback correct';
-      setTimeout(nextQuestion, 1200);
     } else {
       missed.push(q);
       document.getElementById('answerInput').className = 'answer-input wrong';
       document.getElementById('feedback').textContent =
         '✗ Answer: ' + q.eng[0] + (q.eng.length > 1 ? ' (also: ' + q.eng.slice(1).join(', ') + ')' : '');
       document.getElementById('feedback').className = 'feedback wrong';
-      document.getElementById('btnCheck').style.display = 'none';
-      document.getElementById('btnSkip').style.display = 'none';
-      document.getElementById('btnNext').style.display = '';
-      document.getElementById('btnNext').focus();
     }
+    document.getElementById('btnCheck').style.display = 'none';
+    document.getElementById('btnSkip').style.display = 'none';
+    document.getElementById('btnNext').style.display = '';
+    document.getElementById('btnNext').focus();
     updateProgress();
   }
 
