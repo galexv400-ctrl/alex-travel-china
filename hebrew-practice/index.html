@@ -1206,8 +1206,12 @@
   document.getElementById('btnCheck').addEventListener('click', checkAnswer);
   document.getElementById('btnSkip').addEventListener('click', skipQuestion);
   document.getElementById('btnNext').addEventListener('click', nextQuestion);
-  document.getElementById('answerInput').addEventListener('keydown', e => {
-    if (e.key === 'Enter') checkAnswer();
+  document.addEventListener('keydown', function(e) {
+    if (e.key !== 'Enter') return;
+    if (activeTab === 'daily') return;
+    e.preventDefault();
+    if (!answered) checkAnswer();
+    else nextQuestion();
   });
 
   startSession();
