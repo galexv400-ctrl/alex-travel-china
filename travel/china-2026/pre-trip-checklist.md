@@ -2,19 +2,20 @@
 
 ---
 
-## Flights to Book — Do These First
+## Flights — Status
 
-- [ ] El Al TLV → Bangkok (16 Oct)
-- [ ] Bangkok → Hong Kong connecting flight (18 Oct) — any carrier
-- [ ] Post-tour extension flight from Beijing (4 Nov) — TBD
-- [ ] Return flight to Tel Aviv — TBD
+- [x] El Al TLV → BKK (15 Oct) — BOOKED $651.77
+- [x] El Al BKK → TLV (8 Nov) — BOOKED $577.20
+- [ ] BKK → HKG connecting flight (16 Oct, morning/daytime) — any carrier, ~$100–150
+- [ ] Beijing → BKK post-tour flight (4 Nov) — any carrier, ~$200–300
 
 ---
 
 ## Hotels to Book
 
-- [ ] Hong Kong — 1 night (18 Oct)
-- [ ] Post-tour extension accommodation — TBD
+- [ ] Bangkok airport hotel — 1 night (15 Oct, near Suvarnabhumi) — ~$80
+- [ ] Hong Kong — 2 nights (16–18 Oct)
+- [ ] Bangkok — 3 nights (4–7 Nov) — pool, central location
 
 ---
 
@@ -23,11 +24,11 @@
 - [ ] UK passport valid past May 2027
 - [ ] No visa needed — mainland China on UK passport (visa-free 30 days from Feb 2026)
 - [ ] No visa needed — Hong Kong (either passport)
-- [ ] Check visa requirements for post-tour destination (TBD)
+- [ ] No visa needed — Thailand (either passport)
 - [ ] Complete China Customs digital health declaration (mini-app) before boarding
 - [ ] Save all hotel confirmations offline on phone
-- [ ] Save return flight details offline
-- [ ] Travel insurance — covers China, Japan, hiking activities
+- [ ] Save all flight details offline
+- [ ] Travel insurance — covers China, Thailand, hiking activities
 
 ---
 
@@ -45,9 +46,9 @@
 
 ## Money
 
-- [ ] Notify bank of travel dates (China + Japan)
+- [ ] Notify bank of travel dates (China + Thailand)
 - [ ] Get Chinese Yuan (CNY) cash as backup
-- [ ] Get Japanese Yen (JPY) cash — smaller places in Japan are cash only
+- [ ] Get Thai Baht (THB) cash for Bangkok
 - [ ] Check card works on UnionPay network
 
 ---
@@ -60,9 +61,10 @@
 - Supportive walking shoes — 4hr Zhangjiajie hike + 2hr Great Wall hike
 - Waterproof layer
 
-**Japan — early November:**
-- Tokyo ~15°C, comfortable
-- Comfortable shoes for Nikko temple walking
+**Bangkok — early November:**
+- Swimwear for pool day
+- Light clothes — Bangkok ~30°C in November
+- Smart casual for shopping/dinner
 
 ---
 
@@ -81,4 +83,4 @@
 - Welcome meeting Hong Kong 6pm sharp 19 Oct — do not be late
 - New group starts Shanghai 28 Oct 4pm
 - Great Wall guesthouse (1 Nov) is basic — manage expectations
-- Post-tour extension and return flight TBD
+- El Al return: BKK → TLV, departs Sun 8 Nov
