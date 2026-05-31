@@ -6,16 +6,15 @@
 
 - [ ] El Al TLV → Bangkok (16 Oct)
 - [ ] Bangkok → Hong Kong connecting flight (18 Oct) — any carrier
-- [ ] Beijing → Tokyo flight (4 Nov, afternoon ~13:00 departure) — any carrier
-- [ ] El Al LY92 Tokyo NRT → Tel Aviv (8 Nov, departs 18:35) — book early
+- [ ] Post-tour extension flight from Beijing (4 Nov) — TBD
+- [ ] Return flight to Tel Aviv — TBD
 
 ---
 
 ## Hotels to Book
 
 - [ ] Hong Kong — 1 night (18 Oct)
-- [ ] Tokyo — 4 nights (4–8 Nov) — book soon, November is peak season
-- [ ] Research and book shiatsu massage in Tokyo for 5 Nov afternoon
+- [ ] Post-tour extension accommodation — TBD
 
 ---
 
@@ -24,7 +23,7 @@
 - [ ] UK passport valid past May 2027
 - [ ] No visa needed — mainland China on UK passport (visa-free 30 days from Feb 2026)
 - [ ] No visa needed — Hong Kong (either passport)
-- [ ] No visa needed — Japan (either passport)
+- [ ] Check visa requirements for post-tour destination (TBD)
 - [ ] Complete China Customs digital health declaration (mini-app) before boarding
 - [ ] Save all hotel confirmations offline on phone
 - [ ] Save return flight details offline
@@ -82,6 +81,4 @@
 - Welcome meeting Hong Kong 6pm sharp 19 Oct — do not be late
 - New group starts Shanghai 28 Oct 4pm
 - Great Wall guesthouse (1 Nov) is basic — manage expectations
-- Leave Tokyo hotel by 14:30 on 8 Nov
-- At Tokyo Narita by 15:30 — El Al needs 3 hours for security
-- El Al LY92: departs 18:35, arrives TLV 00:55 next morning
+- Post-tour extension and return flight TBD
