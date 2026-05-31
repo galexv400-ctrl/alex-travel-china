@@ -1136,6 +1136,7 @@
       document.getElementById('btnCheck').style.display = 'none';
       document.getElementById('btnSkip').style.display = 'none';
       document.getElementById('btnNext').style.display = '';
+      document.getElementById('btnNext').focus();
     }
     updateProgress();
   }
@@ -1151,6 +1152,7 @@
     document.getElementById('btnCheck').style.display = 'none';
     document.getElementById('btnSkip').style.display = 'none';
     document.getElementById('btnNext').style.display = '';
+    document.getElementById('btnNext').focus();
     updateProgress();
   }
 
@@ -1207,9 +1209,6 @@
   document.getElementById('btnNext').addEventListener('click', nextQuestion);
   document.getElementById('answerInput').addEventListener('keydown', e => {
     if (e.key === 'Enter') checkAnswer();
-  });
-  document.getElementById('btnNext').addEventListener('keydown', e => {
-    if (e.key === 'Enter') nextQuestion();
   });
 
   startSession();
