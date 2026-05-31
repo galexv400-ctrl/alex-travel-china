@@ -1039,11 +1039,11 @@
   document.getElementById('btnCheck').addEventListener('click', checkAnswer);
   document.getElementById('btnSkip').addEventListener('click', skipQuestion);
   document.getElementById('btnNext').addEventListener('click', nextQuestion);
-  document.getElementById('answerInput').addEventListener('keydown', e => {
-    if (e.key === 'Enter') {
-      if (!answered) checkAnswer();
-      else nextQuestion();
-    }
+  document.addEventListener('keydown', e => {
+    if (e.key !== 'Enter') return;
+    if (activeTab === 'daily') return;
+    if (!answered) checkAnswer();
+    else nextQuestion();
   });
 
   startSession();
