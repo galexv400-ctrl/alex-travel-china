@@ -333,6 +333,111 @@
       border-radius: 16px;
       flex: none;
     }
+
+    /* Glossary */
+    .glossary-layout {
+      width: 100%;
+      max-width: 860px;
+      display: none;
+      flex-direction: column;
+      gap: 28px;
+    }
+    .glossary-search-wrap {
+      position: relative;
+    }
+    .glossary-search {
+      width: 100%;
+      padding: 14px 20px 14px 46px;
+      border-radius: 14px;
+      border: 2px solid #fcd34d;
+      background: #fff;
+      color: #3d2c1e;
+      font-size: 1rem;
+      font-family: inherit;
+      font-weight: 600;
+      outline: none;
+      transition: border-color 0.2s, box-shadow 0.2s;
+    }
+    .glossary-search:focus {
+      border-color: #d97706;
+      box-shadow: 0 0 0 3px rgba(217,119,6,0.15);
+    }
+    .glossary-search-icon {
+      position: absolute;
+      left: 16px;
+      top: 50%;
+      transform: translateY(-50%);
+      color: #b45309;
+      font-size: 1.1rem;
+      pointer-events: none;
+    }
+    .glossary-group { display: flex; flex-direction: column; gap: 10px; }
+    .glossary-group-title {
+      font-size: 0.75rem;
+      font-weight: 800;
+      text-transform: uppercase;
+      letter-spacing: 2px;
+      color: #92400e;
+      padding-bottom: 4px;
+      border-bottom: 2px solid #fde68a;
+    }
+    .glossary-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+      gap: 10px;
+    }
+    .glossary-card {
+      background: #fff;
+      border: 2px solid #fef3c7;
+      border-radius: 16px;
+      padding: 16px 18px;
+      display: flex;
+      flex-direction: column;
+      gap: 4px;
+      transition: border-color 0.15s, box-shadow 0.15s;
+    }
+    .glossary-card:hover {
+      border-color: #fcd34d;
+      box-shadow: 0 4px 12px rgba(180,83,9,0.08);
+    }
+    .glossary-heb {
+      font-size: 1.8rem;
+      font-weight: 800;
+      direction: rtl;
+      color: #7c3d12;
+      line-height: 1.1;
+    }
+    .glossary-pron {
+      font-size: 0.82rem;
+      font-style: italic;
+      color: #b45309;
+      font-weight: 600;
+    }
+    .glossary-eng {
+      font-size: 0.95rem;
+      color: #3d2c1e;
+      font-weight: 700;
+      margin-top: 2px;
+    }
+    .glossary-tag {
+      display: inline-block;
+      background: #fef3c7;
+      border-radius: 99px;
+      padding: 2px 10px;
+      font-size: 0.7rem;
+      font-weight: 700;
+      color: #92400e;
+      text-transform: uppercase;
+      letter-spacing: 1px;
+      margin-top: 4px;
+      align-self: flex-start;
+    }
+    .glossary-empty {
+      text-align: center;
+      color: #b45309;
+      font-style: italic;
+      padding: 32px;
+    }
   </style>
 </head>
 <body>
@@ -398,6 +503,15 @@
   <!-- Quote -->
   <div class="daily-quote" id="dailyQuote"></div>
 
+</div>
+
+<!-- Glossary view -->
+<div class="glossary-layout" id="glossaryLayout">
+  <div class="glossary-search-wrap">
+    <span class="glossary-search-icon">🔍</span>
+    <input class="glossary-search" id="glossarySearch" type="text" placeholder="Search words..." autocomplete="off" />
+  </div>
+  <div id="glossaryContent"></div>
 </div>
 
 <script>
@@ -574,7 +688,55 @@
     activeTab = tab;
     document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
     btn.classList.add('active');
-    startSession();
+    if (tab === 'daily') {
+      document.getElementById('mainLayout').style.display = 'none';
+      document.getElementById('glossaryLayout').style.display = 'flex';
+      renderGlossary('');
+      document.getElementById('glossarySearch').value = '';
+      document.getElementById('glossarySearch').focus();
+    } else {
+      document.getElementById('glossaryLayout').style.display = 'none';
+      document.getElementById('mainLayout').style.display = 'grid';
+      startSession();
+    }
+  }
+
+  function renderGlossary(filter) {
+    const q = filter.trim().toLowerCase();
+    const words = q
+      ? VOCAB_DAILY.filter(w =>
+          w.heb.includes(filter) ||
+          w.pron.toLowerCase().includes(q) ||
+          w.eng.some(e => e.toLowerCase().includes(q)) ||
+          w.cat.toLowerCase().includes(q)
+        )
+      : VOCAB_DAILY;
+
+    const groups = {};
+    words.forEach(w => {
+      if (!groups[w.cat]) groups[w.cat] = [];
+      groups[w.cat].push(w);
+    });
+
+    const container = document.getElementById('glossaryContent');
+    if (words.length === 0) {
+      container.innerHTML = '<div class="glossary-empty">No words match "' + filter + '"</div>';
+      return;
+    }
+    container.innerHTML = Object.entries(groups).map(([cat, items]) => `
+      <div class="glossary-group">
+        <div class="glossary-group-title">${cat}</div>
+        <div class="glossary-grid">
+          ${items.map(w => `
+            <div class="glossary-card">
+              <div class="glossary-heb">${w.heb}</div>
+              <div class="glossary-pron">${w.pron}</div>
+              <div class="glossary-eng">${w.eng[0]}${w.eng.length > 1 ? ' <span style="color:#b45309;font-weight:400;font-size:0.85rem">/ ' + w.eng.slice(1).join(', ') + '</span>' : ''}</div>
+            </div>
+          `).join('')}
+        </div>
+      </div>
+    `).join('');
   }
 
   function loadStreak() {
@@ -733,6 +895,10 @@
     const ss = document.getElementById('scoreSummary');
     ss.style.display = 'flex';
   }
+
+  document.getElementById('glossarySearch').addEventListener('input', e => {
+    renderGlossary(e.target.value);
+  });
 
   document.getElementById('btnCheck').addEventListener('click', checkAnswer);
   document.getElementById('btnSkip').addEventListener('click', skipQuestion);
