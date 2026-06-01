@@ -32,10 +32,10 @@
 | Mon 2 Nov | 19 | → Beijing | Jinshanling Wall hike ~2hrs. Breakfast included. | — |
 | Tue 3 Nov | 20 | Beijing | Tiananmen Square, Forbidden City. Farewell dinner — Beijing duck! | — |
 | Wed 4 Nov | 21 | Beijing | Tour ends. Fly to Bangkok. | Beijing → BKK (book separately, any carrier) |
-| Thu 5 Nov | 22 | Bangkok | Pool day + massage at hotel | — |
+| Thu 5 Nov | 22 | Bangkok | Pool day + massage at hotel — Sindhorn Midtown, check in from 15:00 | — |
 | Fri 6 Nov | 23 | Bangkok | Shopping (Siam Paragon / ICONSIAM / Chatuchak) | — |
 | Sat 7 Nov | 24 | Bangkok | Free day / flex | — |
-| Sun 8 Nov | 25 | Bangkok → Tel Aviv | El Al BKK → TLV | Departs BKK (Classic), arrives TLV |
+| Sun 8 Nov | 25 | Bangkok → Tel Aviv | Check out by 12:00. El Al BKK → TLV. | Departs BKK (Classic), arrives TLV |
 
 ---
 
@@ -78,3 +78,10 @@
 - Tour finishing point: Beijing Dongfang Hotel, 11 Wanming Road, Xicheng District, Beijing
 - El Al outbound: LY85, departs TLV ~00:05, arrives BKK 15:45
 - El Al return: BKK → TLV, departs Sun 8 Nov (Classic fare)
+- Bangkok hotel: Sindhorn Midtown Hotel Bangkok, Vignette Collection by IHG
+- Address: 68 Langsuan Rd, Soi Langsuan, Lumphini, Pathumwan, Bangkok 10330
+- Phone: +66 2 796 8888
+- Booking.com confirmation: 6761.193.363 | PIN: 6989
+- Check-in: Wed 4 Nov from 15:00 | Check-out: Sun 8 Nov by 12:00
+- Room: King Studio, breakfast included, free cancellation before 4 Oct 2026
+- Total: ₪2,020 (THB 23,388.17) — pay at property
