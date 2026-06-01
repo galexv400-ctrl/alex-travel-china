@@ -11,7 +11,7 @@
 | Date | Day | Location | Detail | Flight Times |
 |------|-----|----------|--------|--------------|
 | Thu 15 Oct | 1 | Depart Tel Aviv | El Al LY85 TLV → Bangkok | Departs TLV ~00:05 |
-| Thu 15 Oct | — | Bangkok | Overnight airport hotel near Suvarnabhumi | Arrives BKK 15:45 |
+| Thu 15 Oct | — | Bangkok | Canalis Suvarnabhumi Airport Hotel — check in from 14:00 | Arrives BKK 15:45 |
 | Fri 16 Oct | 2 | Bangkok → Hong Kong | Morning/daytime flight any carrier | BKK → HKG (book separately) |
 | Sat 17 Oct | 3 | Hong Kong | Arrive, settle in, recover from jetlag | — |
 | Sun 18 Oct | 4 | Hong Kong | Free day, explore | — |
@@ -78,6 +78,13 @@
 - Tour finishing point: Beijing Dongfang Hotel, 11 Wanming Road, Xicheng District, Beijing
 - El Al outbound: LY85, departs TLV ~00:05, arrives BKK 15:45
 - El Al return: BKK → TLV, departs Sun 8 Nov (Classic fare)
+- Bangkok airport hotel: Canalis Suvarnabhumi Airport Hotel
+- Address: 1599/1 Lat Krabang Soi 13, Lat Krabang, Bangkok 10520
+- Phone: +66 2 332 1555
+- Booking.com confirmation: 6637.638.401 | PIN: 4470
+- Check-in: Thu 15 Oct 14:00–00:00 | Check-out: Fri 16 Oct by 12:00
+- Room: Deluxe Double, no breakfast, free shuttle to airport. Cancel free before 11 Oct.
+- Total: ₪158 (THB 1,834.30) — **Note: confirm shuttle times with hotel directly**
 - Bangkok hotel: Sindhorn Midtown Hotel Bangkok, Vignette Collection by IHG
 - Address: 68 Langsuan Rd, Soi Langsuan, Lumphini, Pathumwan, Bangkok 10330
 - Phone: +66 2 796 8888

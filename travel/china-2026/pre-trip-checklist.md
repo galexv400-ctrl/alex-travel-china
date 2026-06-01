@@ -13,7 +13,7 @@
 
 ## Hotels to Book
 
-- [ ] Bangkok airport hotel — 1 night (15 Oct, near Suvarnabhumi) — ~$80
+- [x] Bangkok airport hotel — 1 night (15 Oct) — Canalis Suvarnabhumi. Conf: 6637.638.401
 - [ ] Hong Kong — 2 nights (16–18 Oct)
 - [x] Bangkok — 4 nights (4–8 Nov) — Sindhorn Midtown Hotel, King Studio, breakfast included. Conf: 6761.193.363
 
