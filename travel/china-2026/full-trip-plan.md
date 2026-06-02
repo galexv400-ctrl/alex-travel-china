@@ -12,10 +12,10 @@
 |------|-----|----------|--------|--------------|
 | Thu 15 Oct | 1 | Depart Tel Aviv | El Al LY85 TLV → Bangkok | Departs TLV ~00:05 |
 | Thu 15 Oct | — | Bangkok | Canalis Suvarnabhumi Airport Hotel — check in from 14:00 | Arrives BKK 15:45 |
-| Fri 16 Oct | 2 | Bangkok → Hong Kong | Morning/daytime flight any carrier | BKK → HKG (book separately) |
-| Sat 17 Oct | 3 | Hong Kong | Arrive, settle in, recover from jetlag | — |
+| Fri 16 Oct | 2 | Bangkok → Hong Kong | Arrive afternoon, check into hotel | BKK → HKG (book separately) |
+| Sat 17 Oct | 3 | Hong Kong | Settle in, recover from jetlag. The Luxe Manor, check in from 14:00 | — |
 | Sun 18 Oct | 4 | Hong Kong | Free day, explore | — |
-| Mon 19 Oct | 5 | Hong Kong | Welcome meeting 6pm — mandatory | — |
+| Mon 19 Oct | 5 | Hong Kong | Welcome meeting 6pm — mandatory. Check out hotel by 12:00 | — |
 | Tue 20 Oct | 6 | → Chongqing | Bullet train ~9hrs | — |
 | Wed 21 Oct | 7 | Chongqing | City tour, hot pot lunch in WWII shelter | — |
 | Thu 22 Oct | 8 | → Zhangjiajie | Bullet train ~4–5hrs | — |
@@ -92,3 +92,11 @@
 - Check-in: Wed 4 Nov from 15:00 | Check-out: Sun 8 Nov by 12:00
 - Room: King Studio, breakfast included, free cancellation before 4 Oct 2026
 - Total: ₪2,020 (THB 23,388.17) — pay at property
+- Hong Kong hotel: The Luxe Manor
+- Address: 39 Kimberley Road, Tsim Sha Tsui, Hong Kong
+- Check-in: Fri 16 Oct from 14:00 | Check-out: Mon 19 Oct by 12:00
+- Room: Superior Double or Twin Room
+- Breakfast: Very good breakfast included
+- Total: ₪1,397 for 3 nights
+- Free cancellation before September 16, 2026
+- Genius discount applied

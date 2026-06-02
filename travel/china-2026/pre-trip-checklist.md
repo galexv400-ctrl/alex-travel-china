@@ -14,7 +14,7 @@
 ## Hotels to Book
 
 - [x] Bangkok airport hotel — 1 night (15 Oct) — Canalis Suvarnabhumi. Conf: 6637.638.401
-- [ ] Hong Kong — 2 nights (16–18 Oct)
+- [x] Hong Kong — 3 nights (16–18 Oct) — The Luxe Manor, Superior Double. ₪1,397
 - [x] Bangkok — 4 nights (4–8 Nov) — Sindhorn Midtown Hotel, King Studio, breakfast included. Conf: 6761.193.363
 
 ---
