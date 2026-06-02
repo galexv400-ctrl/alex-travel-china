@@ -394,6 +394,87 @@
   .cost-box .amount { font-size: 1.5rem; font-weight: 700; color: var(--gold); }
   .cost-box .desc { font-size: 0.75rem; color: var(--muted); margin-top: 4px; }
 
+  /* ITINERARY */
+  .day-card {
+    background: var(--card);
+    border-radius: 12px;
+    margin-bottom: 10px;
+    overflow: hidden;
+    border-left: 4px solid var(--accent);
+  }
+
+  .day-card.travel { border-left-color: #3498db; }
+  .day-card.free { border-left-color: var(--gold); }
+  .day-card.highlight { border-left-color: #a855f7; }
+
+  .day-header {
+    display: flex;
+    align-items: center;
+    gap: 14px;
+    padding: 14px 16px;
+    cursor: pointer;
+    user-select: none;
+  }
+
+  .day-header:hover { background: rgba(255,255,255,0.03); }
+
+  .day-num {
+    background: var(--accent);
+    color: white;
+    font-weight: 700;
+    font-size: 0.75rem;
+    border-radius: 6px;
+    padding: 3px 8px;
+    flex-shrink: 0;
+  }
+
+  .day-card.travel .day-num { background: #3498db; }
+  .day-card.free .day-num { background: #5a7a3a; }
+  .day-card.highlight .day-num { background: #7c3aed; }
+
+  .day-header-text { flex: 1; }
+  .day-header-title { font-weight: 600; font-size: 0.95rem; }
+  .day-header-meta { font-size: 0.78rem; color: var(--muted); margin-top: 2px; }
+
+  .day-chevron { color: var(--muted); font-size: 0.8rem; transition: transform 0.2s; }
+  .day-card.open .day-chevron { transform: rotate(180deg); }
+
+  .day-body {
+    display: none;
+    padding: 0 16px 14px;
+    border-top: 1px solid rgba(255,255,255,0.06);
+  }
+
+  .day-card.open .day-body { display: block; }
+
+  .day-desc { font-size: 0.84rem; color: var(--muted); line-height: 1.7; margin: 12px 0; }
+
+  .day-pills { display: flex; flex-wrap: wrap; gap: 6px; margin: 10px 0; }
+
+  .pill {
+    font-size: 0.72rem;
+    padding: 3px 10px;
+    border-radius: 12px;
+    font-weight: 500;
+  }
+
+  .pill-included { background: #1a3a2a; color: #55efc4; }
+  .pill-meal { background: #2a2a1a; color: #f9ca24; }
+  .pill-optional { background: #2a1a3a; color: #a29bfe; }
+  .pill-warn { background: #3a1a1a; color: #ff7675; }
+
+  .day-notes {
+    font-size: 0.8rem;
+    color: var(--muted);
+    background: rgba(255,255,255,0.04);
+    border-radius: 6px;
+    padding: 8px 10px;
+    margin-top: 8px;
+    line-height: 1.6;
+  }
+
+  .day-notes strong { color: var(--text); }
+
   @media (max-width: 600px) {
     header h1 { font-size: 1.4rem; }
     .count-unit .num { font-size: 1.4rem; }
@@ -424,6 +505,7 @@
   <button onclick="show('costs', this)">Costs</button>
   <button onclick="show('checklist', this)">Checklist</button>
   <button onclick="show('quickref', this)">Quick Ref</button>
+  <button onclick="show('itinerary', this)">Itinerary</button>
   <button onclick="show('activities', this)">Activities</button>
   <button onclick="show('moneytips', this)">Money & Tips</button>
   <button onclick="show('safety', this)">Safety</button>
@@ -782,6 +864,335 @@
     </div>
   </section>
 
+  <!-- ITINERARY -->
+  <section id="itinerary">
+    <h2>Day-by-Day Itinerary</h2>
+
+    <div class="day-card" onclick="toggleDay(this)">
+      <div class="day-header">
+        <div class="day-num">Day 1</div>
+        <div class="day-header-text">
+          <div class="day-header-title">Hong Kong</div>
+          <div class="day-header-meta">Mon 19 Oct · Welcome meeting 6pm</div>
+        </div>
+        <div class="day-chevron">▼</div>
+      </div>
+      <div class="day-body">
+        <div class="day-pills">
+          <span class="pill pill-included">Temple Street Night Market</span>
+          <span class="pill pill-warn">Welcome meeting 6pm — MANDATORY</span>
+        </div>
+        <div class="day-desc">Welcome to Hong Kong! Meet your trip leader and fellow travellers at 6pm. If you arrive early, ride the Peak Tram for panoramic views, visit Tian Tan Buddha or stroll along Victoria Harbour. Tonight your group explores the lively Temple Street Night Market — try dim sum or roast goose for dinner.</div>
+        <div class="day-notes"><strong>⚠ Important:</strong> Harbour Plaza North Point is on HK Island — NOT Kowloon. Take MTR from Tsim Sha Tsui → Quarry Bay Exit C (~20 min). Leave hotel by 5:30pm. Bring insurance details and next of kin info.</div>
+      </div>
+    </div>
+
+    <div class="day-card travel" onclick="toggleDay(this)">
+      <div class="day-header">
+        <div class="day-num">Day 2</div>
+        <div class="day-header-text">
+          <div class="day-header-title">→ Chongqing</div>
+          <div class="day-header-meta">Tue 20 Oct · Bullet train ~9 hrs · up to 300 km/h</div>
+        </div>
+        <div class="day-chevron">▼</div>
+      </div>
+      <div class="day-body">
+        <div class="day-desc">Relaxed morning, then your first bullet train journey across China. Arrive Chongqing early evening — settle in or join your leader for an orientation walk.</div>
+        <div class="day-notes"><strong>Travel:</strong> ~9 hours. You can order takeaway food from train station to your seat (leader can help).</div>
+      </div>
+    </div>
+
+    <div class="day-card" onclick="toggleDay(this)">
+      <div class="day-header">
+        <div class="day-num">Day 3</div>
+        <div class="day-header-text">
+          <div class="day-header-title">Chongqing</div>
+          <div class="day-header-meta">Wed 21 Oct · Guided city tour + hot pot lunch</div>
+        </div>
+        <div class="day-chevron">▼</div>
+      </div>
+      <div class="day-body">
+        <div class="day-pills">
+          <span class="pill pill-included">Guided city walking tour</span>
+          <span class="pill pill-included">Hot pot lunch in WWII air raid shelter</span>
+          <span class="pill pill-meal">Lunch included</span>
+        </div>
+        <div class="day-desc">Walk Longmenhao Old Street, stroll Nanbing Road skyscrapers, visit Hongya Cave, cross the Yangtze River by public cable car and ferry. Lunch is a traditional Chongqing hot pot served in a former WWII air raid shelter. Afternoon free — find the spot where the train goes through a building, or the street on the 22nd floor!</div>
+      </div>
+    </div>
+
+    <div class="day-card travel" onclick="toggleDay(this)">
+      <div class="day-header">
+        <div class="day-num">Day 4</div>
+        <div class="day-header-text">
+          <div class="day-header-title">→ Zhangjiajie</div>
+          <div class="day-header-meta">Thu 22 Oct · Bullet train ~4–5 hrs</div>
+        </div>
+        <div class="day-chevron">▼</div>
+      </div>
+      <div class="day-body">
+        <div class="day-pills">
+          <span class="pill pill-included">Orientation walk</span>
+        </div>
+        <div class="day-desc">Travel to Zhangjiajie in Hunan Province. Arrive mid-afternoon for a short orientation walk. Free evening — explore night markets, watch tai chi in the parks, try Hunan-style spicy food.</div>
+        <div class="day-notes"><strong>Travel:</strong> ~4–5 hours.</div>
+      </div>
+    </div>
+
+    <div class="day-card highlight" onclick="toggleDay(this)">
+      <div class="day-header">
+        <div class="day-num">Day 5</div>
+        <div class="day-header-text">
+          <div class="day-header-title">Tianmen Mountain</div>
+          <div class="day-header-meta">Fri 23 Oct · Heaven's Gate · cliff walkways</div>
+        </div>
+        <div class="day-chevron">▼</div>
+      </div>
+      <div class="day-body">
+        <div class="day-pills">
+          <span class="pill pill-included">Tianmen Mountain visit</span>
+        </div>
+        <div class="day-desc">Visit iconic Tianmen Mountain with its cliff-hanging walkways, scenic cableway and Tianmen Cave (Heaven's Gate) — a massive natural archway. Spend a few hours exploring. Skip the 999 steps by taking an escalator to the top. Afternoon free in Zhangjiajie city.</div>
+        <div class="day-notes"><strong>Travel:</strong> ~1 hour each way.</div>
+      </div>
+    </div>
+
+    <div class="day-card highlight" onclick="toggleDay(this)">
+      <div class="day-header">
+        <div class="day-num">Day 6</div>
+        <div class="day-header-text">
+          <div class="day-header-title">Zhangjiajie National Park</div>
+          <div class="day-header-meta">Sat 24 Oct · Avatar mountains · 4hr hike · Bailong Elevator</div>
+        </div>
+        <div class="day-chevron">▼</div>
+      </div>
+      <div class="day-body">
+        <div class="day-pills">
+          <span class="pill pill-included">National Park hike (~4 hrs)</span>
+          <span class="pill pill-included">Bailong Elevator (glass cliff lift)</span>
+          <span class="pill pill-included">Cable car</span>
+        </div>
+        <div class="day-desc">The towering sandstone pillars here inspired the floating mountains in Avatar. Hike through dramatic cliffs and forested valleys, then ride the Bailong Elevator — a glass lift built into the side of a cliff. UNESCO World Heritage site. Bring your camera.</div>
+        <div class="day-notes"><strong>Fitness:</strong> ~4 hours of hiking. Sturdy shoes essential.</div>
+      </div>
+    </div>
+
+    <div class="day-card travel" onclick="toggleDay(this)">
+      <div class="day-header">
+        <div class="day-num">Day 7</div>
+        <div class="day-header-text">
+          <div class="day-header-title">→ Changsha</div>
+          <div class="day-header-meta">Sun 25 Oct · Nvshu script workshop · night market</div>
+        </div>
+        <div class="day-chevron">▼</div>
+      </div>
+      <div class="day-body">
+        <div class="day-pills">
+          <span class="pill pill-included">Nvshu script writing with local master</span>
+          <span class="pill pill-included">Night market visit</span>
+        </div>
+        <div class="day-desc">Bullet train to Changsha. Visit a cultural heritage centre to learn about Nvshu — the world's only writing system created exclusively by women, now a National Intangible Cultural Heritage. Try writing your own message. Evening at Changsha's night market — try sticky tofu, pig's feet or crayfish if you're brave!</div>
+      </div>
+    </div>
+
+    <div class="day-card travel" onclick="toggleDay(this)">
+      <div class="day-header">
+        <div class="day-num">Day 8</div>
+        <div class="day-header-text">
+          <div class="day-header-title">→ Shanghai</div>
+          <div class="day-header-meta">Mon 26 Oct · Bullet train ~5 hrs · Bund walking tour</div>
+        </div>
+        <div class="day-chevron">▼</div>
+      </div>
+      <div class="day-body">
+        <div class="day-pills">
+          <span class="pill pill-included">Leader-led night Bund walking tour</span>
+        </div>
+        <div class="day-desc">Morning bullet train to Shanghai (~5 hrs). Check in, free afternoon. Evening: leader takes you to the Bund — historic mansions on one side, modern skyline of Pudong across the Huangpu River on the other. Striking contrast of old and new Shanghai.</div>
+        <div class="day-notes"><strong>Travel:</strong> ~5 hours.</div>
+      </div>
+    </div>
+
+    <div class="day-card" onclick="toggleDay(this)">
+      <div class="day-header">
+        <div class="day-num">Day 9</div>
+        <div class="day-header-text">
+          <div class="day-header-title">Shanghai</div>
+          <div class="day-header-meta">Tue 27 Oct · French Concession walk · breakfast included</div>
+        </div>
+        <div class="day-chevron">▼</div>
+      </div>
+      <div class="day-body">
+        <div class="day-pills">
+          <span class="pill pill-included">French Concession walking tour</span>
+          <span class="pill pill-meal">Breakfast included</span>
+        </div>
+        <div class="day-desc">Morning walking tour of Shanghai's French Concession — tree-lined streets, European-style architecture, vibrant cafés. Free afternoon: consider Shanghai Museum (free), Yuyuan Garden & Old Bazaar, or the Shanghai Tower observation deck. Evening farewell dinner with the group.</div>
+        <div class="day-notes">Optional: Shanghai Museum (free), Yuyuan Garden (CNY40), Shanghai Propaganda Poster Art Centre (CNY25).</div>
+      </div>
+    </div>
+
+    <div class="day-card free" onclick="toggleDay(this)">
+      <div class="day-header">
+        <div class="day-num">Day 10</div>
+        <div class="day-header-text">
+          <div class="day-header-title">Shanghai — Free Day</div>
+          <div class="day-header-meta">Wed 28 Oct · Second welcome meeting 4pm</div>
+        </div>
+        <div class="day-chevron">▼</div>
+      </div>
+      <div class="day-body">
+        <div class="day-pills">
+          <span class="pill pill-warn">Second welcome meeting 4pm</span>
+          <span class="pill pill-optional">Shanghai Museum — Free</span>
+          <span class="pill pill-optional">Yuyuan Garden — CNY40</span>
+          <span class="pill pill-optional">Propaganda Poster Centre — CNY25</span>
+        </div>
+        <div class="day-desc">Free day — wander Yu Garden, shop Nanjing Road or visit the Jade Buddha Temple. At 4pm, second welcome meeting to meet new travellers joining the next leg. Group and leader likely change today.</div>
+        <div class="day-notes"><strong>Note:</strong> New group joins today. Leader likely changes.</div>
+      </div>
+    </div>
+
+    <div class="day-card" onclick="toggleDay(this)">
+      <div class="day-header">
+        <div class="day-num">Day 11</div>
+        <div class="day-header-text">
+          <div class="day-header-title">Wuxi Day Trip</div>
+          <div class="day-header-meta">Thu 29 Oct · Huishan Ancient Town · Jichang Garden · breakfast included</div>
+        </div>
+        <div class="day-chevron">▼</div>
+      </div>
+      <div class="day-body">
+        <div class="day-pills">
+          <span class="pill pill-included">Huishan Ancient Town</span>
+          <span class="pill pill-included">Jichang Garden</span>
+          <span class="pill pill-meal">Breakfast included</span>
+        </div>
+        <div class="day-desc">Half-hour bullet train to Wuxi. Walking tour through Huishan Ancient Town — cultural relics, historic sites, gorgeous gardens. Visit Jichang Garden, one of China's finest traditional gardens (national heritage site since 1998). Back to Shanghai in the afternoon — evening free, try a rooftop bar over the Bund.</div>
+        <div class="day-notes"><strong>Note:</strong> Jichang Garden may be closed for renovation — Huishan Temple and No.2 Spring Garden visited instead.</div>
+      </div>
+    </div>
+
+    <div class="day-card travel" onclick="toggleDay(this)">
+      <div class="day-header">
+        <div class="day-num">Day 12</div>
+        <div class="day-header-text">
+          <div class="day-header-title">→ Xi'an</div>
+          <div class="day-header-meta">Fri 30 Oct · Bullet train ~7 hrs · Muslim Quarter · breakfast included</div>
+        </div>
+        <div class="day-chevron">▼</div>
+      </div>
+      <div class="day-body">
+        <div class="day-pills">
+          <span class="pill pill-included">Muslim Quarter walking tour + snack sampling</span>
+          <span class="pill pill-meal">Breakfast included</span>
+          <span class="pill pill-optional">Great Mosque — CNY25</span>
+          <span class="pill pill-optional">Bell & Drum Towers — CNY50</span>
+          <span class="pill pill-optional">City Wall bike hire — CNY45</span>
+        </div>
+        <div class="day-desc">Bullet train to Xi'an (~7 hrs), once the imperial capital and start of the Silk Road. Afternoon walking tour: Bell and Drum Towers, Muslim Quarter, Great Mosque. Sample street snacks from local carts. For dinner: pao mo (lamb broth with flat bread), hand-pulled noodles, meat skewers.</div>
+        <div class="day-notes"><strong>Travel:</strong> ~7 hours.</div>
+      </div>
+    </div>
+
+    <div class="day-card highlight" onclick="toggleDay(this)">
+      <div class="day-header">
+        <div class="day-num">Day 13</div>
+        <div class="day-header-text">
+          <div class="day-header-title">Terracotta Warriors</div>
+          <div class="day-header-meta">Sat 31 Oct · One of the wonders of the world</div>
+        </div>
+        <div class="day-chevron">▼</div>
+      </div>
+      <div class="day-body">
+        <div class="day-pills">
+          <span class="pill pill-included">Terracotta Warriors — leader led</span>
+          <span class="pill pill-optional">Tang Dynasty Show — CNY290</span>
+          <span class="pill pill-optional">Big Wild Goose Pagoda — CNY80</span>
+          <span class="pill pill-optional">Little Wild Goose Pagoda — CNY50</span>
+        </div>
+        <div class="day-desc">Journey outside Xi'an to the Terracotta Warriors — discovered after being buried for 2,000 years. Over 1,000 individually sculpted soldiers, each with a unique costume, height and facial expression. Commissioned by Emperor Qin Shi Huangdi in 264 BC. Free evening — Tang Paradise walking street near the Big Wild Goose Pagoda for local nightlife.</div>
+        <div class="day-notes"><strong>Travel:</strong> ~2 hours each way.</div>
+      </div>
+    </div>
+
+    <div class="day-card highlight" onclick="toggleDay(this)">
+      <div class="day-header">
+        <div class="day-num">Day 14</div>
+        <div class="day-header-text">
+          <div class="day-header-title">→ Great Wall</div>
+          <div class="day-header-meta">Sun 1 Nov · Train to Beijing + transfer · sunset on the Wall</div>
+        </div>
+        <div class="day-chevron">▼</div>
+      </div>
+      <div class="day-body">
+        <div class="day-pills">
+          <span class="pill pill-included">Sunset on the Great Wall</span>
+        </div>
+        <div class="day-desc">Long travel day — grab snacks and a book. High-speed train to Beijing, then private vehicle to a family-run guesthouse inside the scenic area near the Great Wall. Tonight: highly recommended short hike to the Wall for an unforgettable sunset. One of the Seven Wonders of the World!</div>
+        <div class="day-notes"><strong>Travel:</strong> ~9 hours total (train + transfer). <strong>Guesthouse:</strong> basic but private facilities and Wi-Fi. In November, may be an alternate guesthouse with better heating — sunset hike may not be possible in this case.</div>
+      </div>
+    </div>
+
+    <div class="day-card highlight" onclick="toggleDay(this)">
+      <div class="day-header">
+        <div class="day-num">Day 15</div>
+        <div class="day-header-text">
+          <div class="day-header-title">→ Beijing · Great Wall Hike</div>
+          <div class="day-header-meta">Mon 2 Nov · Jinshanling section · ~2hr hike · breakfast included</div>
+        </div>
+        <div class="day-chevron">▼</div>
+      </div>
+      <div class="day-body">
+        <div class="day-pills">
+          <span class="pill pill-included">Jinshanling Great Wall hike (~2 hrs)</span>
+          <span class="pill pill-meal">Breakfast included</span>
+        </div>
+        <div class="day-desc">Hike the Jinshanling section — one of the least touristy and most original stretches of the Wall. Watch it snake through the hills endlessly into the distance. Then head into Beijing for the final stop of the tour.</div>
+        <div class="day-notes"><strong>Travel:</strong> ~2 hours to Beijing. <strong>Fitness:</strong> Many steps and slopes — good grip shoes essential. Chairlift option available at own expense but closes in winter (Nov–Mar).</div>
+      </div>
+    </div>
+
+    <div class="day-card highlight" onclick="toggleDay(this)">
+      <div class="day-header">
+        <div class="day-num">Day 16</div>
+        <div class="day-header-text">
+          <div class="day-header-title">Beijing · Tiananmen · Forbidden City</div>
+          <div class="day-header-meta">Tue 3 Nov · Farewell dinner — Beijing duck 🦆</div>
+        </div>
+        <div class="day-chevron">▼</div>
+      </div>
+      <div class="day-body">
+        <div class="day-pills">
+          <span class="pill pill-included">Tiananmen Square</span>
+          <span class="pill pill-included">Forbidden City</span>
+          <span class="pill pill-optional">Temple of Heaven — CNY40</span>
+          <span class="pill pill-optional">Hutong family visit — CNY150</span>
+          <span class="pill pill-optional">Lama Temple — CNY25</span>
+          <span class="pill pill-optional">Acrobat show — CNY290</span>
+        </div>
+        <div class="day-desc">Explore Tiananmen Square — the symbolic centre of Chinese power, framed by the Gate of Heavenly Peace, Mao's Mausoleum and the Great Hall of the People. Then enter the Forbidden City, built 500+ years ago, closed to commoners until recently. Explore halls and courtyards of the Ming and Qing dynasties. Free afternoon. Farewell dinner: Beijing duck!</div>
+        <div class="day-notes"><strong>Note:</strong> Forbidden City limited to 30,000 visitors/day — tickets may sell out. If unavailable, Temple of Heaven visited instead. Tiananmen occasionally closes without notice (especially March).</div>
+      </div>
+    </div>
+
+    <div class="day-card free" onclick="toggleDay(this)">
+      <div class="day-header">
+        <div class="day-num">Day 17</div>
+        <div class="day-header-text">
+          <div class="day-header-title">Beijing — Tour Ends</div>
+          <div class="day-header-meta">Wed 4 Nov · Fly Beijing → Bangkok · CA959 14:00 PEK T3</div>
+        </div>
+        <div class="day-chevron">▼</div>
+      </div>
+      <div class="day-body">
+        <div class="day-desc">No activities planned — the China adventure ends here. Stay extra days in Beijing if you wish (arrange with your booking agent). Your Air China CA959 departs PEK Terminal 3 at 14:00 — leave hotel by 11:00am.</div>
+        <div class="day-notes"><strong>Airport:</strong> PEK (Capital), Terminal 3. Taxi ~45–60 min, ~CNY120. Or Airport Express from Dongzhimen (CNY25). Leave hotel by 11:00am.</div>
+      </div>
+    </div>
+
+  </section>
+
   <!-- OPTIONAL ACTIVITIES -->
   <section id="activities">
     <h2>Optional Activities</h2>
@@ -794,6 +1205,8 @@
         <div class="card-row" style="padding:10px 14px"><span class="label">Bell & Drum Towers</span><span class="val">CNY 50</span></div>
         <div class="card-row" style="padding:10px 14px"><span class="label">City Wall bike hire</span><span class="val">CNY 45</span></div>
         <div class="card-row" style="padding:10px 14px"><span class="label">Tang Dynasty Show</span><span class="val">CNY 290</span></div>
+        <div class="card-row" style="padding:10px 14px"><span class="label">Big Wild Goose Pagoda</span><span class="val">CNY 80</span></div>
+        <div class="card-row" style="padding:10px 14px"><span class="label">Little Wild Goose Pagoda</span><span class="val">CNY 50</span></div>
       </div>
     </div>
 
@@ -922,6 +1335,11 @@
 </main>
 
 <script>
+  // Itinerary accordion
+  function toggleDay(card) {
+    card.classList.toggle('open');
+  }
+
   // Nav
   function show(id, btn) {
     document.querySelectorAll('section').forEach(s => s.classList.remove('active'));
