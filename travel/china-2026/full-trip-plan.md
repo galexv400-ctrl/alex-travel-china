@@ -78,9 +78,9 @@
 | Bangkok — Sindhorn Midtown (4–8 Nov) | ₪2,020 | ✅ Booked |
 | **Other** | | |
 | Travel insurance (Passportcard estimate) | ~$270 | ❌ To book |
-| Intrepid tour #6886724 | TBC | ❌ Add when known |
-| **Confirmed total** | **~$2,390** | — |
-| **Estimated grand total** | **~$2,910** | — |
+| Intrepid tour #6886724 | ~$4,000 | ✅ Booked |
+| **Confirmed total** | **~$6,390** | — |
+| **Estimated grand total** | **~$6,910** | — |
 
 ---
 
