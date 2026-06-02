@@ -61,6 +61,27 @@
 
 ---
 
+---
+
+## Trip Cost Tracker
+
+| Item | Cost | Status |
+|---|---|---|
+| **Flights** | | |
+| El Al TLV → BKK (15 Oct) | $651.77 | ✅ Booked |
+| El Al BKK → TLV (8 Nov) | $577.20 | ✅ Booked |
+| BKK → HKG (16 Oct) | ~$100–150 | ❌ To book |
+| Beijing → BKK (4 Nov) | ~$200–300 | ❌ To book |
+| **Hotels** | | |
+| Bangkok airport — Canalis (15 Oct) | ₪158 | ✅ Booked |
+| Hong Kong — The Luxe Manor (16–18 Oct) | ₪1,397 | ✅ Booked |
+| Bangkok — Sindhorn Midtown (4–8 Nov) | ₪2,020 | ✅ Booked |
+| **Other** | | |
+| Travel insurance (Passportcard estimate) | ~₪800–1,200 | ❌ To book |
+| **Running Total** | **$1,228.97 + ₪3,575** | — |
+
+---
+
 ## Visa & Entry
 
 - UK passport for ALL mainland China immigration — not Israeli passport
