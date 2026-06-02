@@ -94,6 +94,7 @@
 - Total: ₪2,020 (THB 23,388.17) — pay at property
 - Hong Kong hotel: The Luxe Manor
 - Address: 39 Kimberley Road, Tsim Sha Tsui, Hong Kong
+- Booking.com confirmation: 5515516445
 - Check-in: Fri 16 Oct from 14:00 | Check-out: Mon 19 Oct by 12:00
 - Room: Superior Double or Twin Room
 - Breakfast: Very good breakfast included
