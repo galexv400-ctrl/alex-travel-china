@@ -9,13 +9,13 @@
 
   :root {
     --red: #c0392b;
-    --gold: #d4a017;
-    --dark: #1a1a2e;
-    --mid: #16213e;
-    --card: #0f3460;
-    --accent: #e94560;
+    --gold: #7eb8f7;
+    --dark: #0f0a1e;
+    --mid: #1a1035;
+    --card: #1e1545;
+    --accent: #a855f7;
     --text: #eaeaea;
-    --muted: #a0a8b8;
+    --muted: #a0a8c8;
     --green: #27ae60;
     --orange: #e67e22;
   }
@@ -28,8 +28,8 @@
   }
 
   header {
-    background: linear-gradient(135deg, var(--mid) 0%, var(--dark) 100%);
-    border-bottom: 2px solid var(--gold);
+    background: linear-gradient(135deg, #2d1b69 0%, var(--dark) 100%);
+    border-bottom: 2px solid var(--accent);
     padding: 28px 32px 20px;
     text-align: center;
   }
@@ -89,7 +89,7 @@
 
   nav button:hover, nav button.active {
     background: var(--card);
-    border-color: var(--gold);
+    border-color: var(--accent);
     color: var(--gold);
   }
 
@@ -119,7 +119,7 @@
     position: absolute;
     left: 6px; top: 0; bottom: 0;
     width: 2px;
-    background: linear-gradient(to bottom, var(--gold), var(--accent));
+    background: linear-gradient(to bottom, var(--accent), var(--gold));
   }
 
   .tl-item {
