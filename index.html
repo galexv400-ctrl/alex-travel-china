@@ -486,7 +486,40 @@
     header h1 { font-size: 1.4rem; }
     .count-unit .num { font-size: 1.4rem; }
     nav { padding: 10px 12px; }
+    .cards { grid-template-columns: 1fr; }
+    .ref-grid { grid-template-columns: 1fr; }
+    .cost-summary { flex-direction: column; }
+    .cost-box { min-width: unset; }
+    main { padding: 16px 12px; }
   }
+
+  /* PWA / safe area insets for iPhone notch */
+  body {
+    padding-top: env(safe-area-inset-top);
+    padding-bottom: env(safe-area-inset-bottom);
+    padding-left: env(safe-area-inset-left);
+    padding-right: env(safe-area-inset-right);
+  }
+
+  /* Sticky nav for mobile */
+  nav {
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    overflow-x: auto;
+    flex-wrap: nowrap;
+    -webkit-overflow-scrolling: touch;
+    scrollbar-width: none;
+  }
+
+  nav::-webkit-scrollbar { display: none; }
+
+  nav button { flex-shrink: 0; }
+
+  /* Full height app feel */
+  html, body { height: 100%; }
+
+  main { padding-bottom: 40px; }
 </style>
 </head>
 <body>
