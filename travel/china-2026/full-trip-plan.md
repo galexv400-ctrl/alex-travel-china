@@ -12,7 +12,7 @@
 |------|-----|----------|--------|--------------|
 | Thu 15 Oct | 1 | Depart Tel Aviv | El Al LY85 TLV → Bangkok | Departs TLV ~00:05 |
 | Thu 15 Oct | — | Bangkok | Canalis Suvarnabhumi Airport Hotel — check in from 14:00 | Arrives BKK 15:45 |
-| Fri 16 Oct | 2 | Bangkok → Hong Kong | Arrive afternoon, check into hotel | BKK → HKG (book separately) |
+| Fri 16 Oct | 2 | Bangkok → Hong Kong | Check out Canalis, fly to HK. Thai Airways TG628 departs 10:30, arrives 14:20 | BKK 10:30 → HKG 14:20 |
 | Sat 17 Oct | 3 | Hong Kong | Settle in, recover from jetlag. The Luxe Manor, check in from 14:00 | — |
 | Sun 18 Oct | 4 | Hong Kong | Free day, explore | — |
 | Mon 19 Oct | 5 | Hong Kong | Welcome meeting 6pm — mandatory. Check out hotel by 12:00 | — |
@@ -70,7 +70,7 @@
 | **Flights** | | |
 | El Al TLV → BKK (15 Oct) | $651.77 | ✅ Booked |
 | El Al BKK → TLV (8 Nov) | $577.20 | ✅ Booked |
-| BKK → HKG (16 Oct) | ~$100–150 | ❌ To book |
+| BKK → HKG — Thai Airways TG628 (16 Oct) | $193.78 | ✅ Booked |
 | Beijing → BKK (4 Nov) | ~$200–300 | ❌ To book |
 | **Hotels** | | |
 | Bangkok airport — Canalis (15 Oct) | ₪158 | ✅ Booked |
@@ -113,6 +113,9 @@
 - Check-in: Wed 4 Nov from 15:00 | Check-out: Sun 8 Nov by 12:00
 - Room: King Studio, breakfast included, free cancellation before 4 Oct 2026
 - Total: ₪2,020 (THB 23,388.17) — pay at property
+- BKK → HKG: Thai Airways TG628, departs 10:30, arrives 14:20, Fri 16 Oct
+- Booking ref: EASDQZ | E-Ticket: 2172348955256
+- Baggage: 1pc 23kg checked + 7kg carry-on | Seat: 44H
 - Hong Kong hotel: The Luxe Manor
 - Address: 39 Kimberley Road, Tsim Sha Tsui, Hong Kong
 - Booking.com confirmation: 5515516445
