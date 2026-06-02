@@ -55,7 +55,7 @@
 | Flight | Route | Airline | Date | Price | Status |
 |--------|-------|---------|------|-------|--------|
 | Outbound | TLV → BKK | El Al LY85 | Thu 15 Oct | $651.77 | ✅ BOOKED |
-| Connecting | BKK → HKG | Any carrier | Fri 16 Oct | ~$100–150 | ❌ Still to book |
+| Connecting | BKK → HKG | Thai Airways TG628 | Fri 16 Oct | $193.78 | ✅ BOOKED |
 | Post-tour | Beijing → BKK | Any carrier | Wed 4 Nov | ~$200–300 | ❌ Still to book |
 | Return | BKK → TLV | El Al | Sun 8 Nov | $577.20 | ✅ BOOKED |
 
@@ -77,8 +77,10 @@
 | Hong Kong — The Luxe Manor (16–18 Oct) | ₪1,397 | ✅ Booked |
 | Bangkok — Sindhorn Midtown (4–8 Nov) | ₪2,020 | ✅ Booked |
 | **Other** | | |
-| Travel insurance (Passportcard estimate) | ~₪800–1,200 | ❌ To book |
-| **Running Total** | **$1,228.97 + ₪3,575** | — |
+| Travel insurance (Passportcard estimate) | ~$270 | ❌ To book |
+| Intrepid tour #6886724 | TBC | ❌ Add when known |
+| **Confirmed total** | **~$2,390** | — |
+| **Estimated grand total** | **~$2,910** | — |
 
 ---
 
