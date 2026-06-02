@@ -505,6 +505,7 @@
   <button onclick="show('costs', this)">Costs</button>
   <button onclick="show('checklist', this)">Checklist</button>
   <button onclick="show('quickref', this)">Quick Ref</button>
+  <button onclick="show('packing', this)">Packing</button>
   <button onclick="show('itinerary', this)">Itinerary</button>
   <button onclick="show('activities', this)">Activities</button>
   <button onclick="show('moneytips', this)">Money & Tips</button>
@@ -862,6 +863,82 @@
       </div>
 
     </div>
+  </section>
+
+  <!-- PACKING -->
+  <section id="packing">
+    <h2>Packing List</h2>
+
+    <div class="cost-summary">
+      <div class="cost-box" style="border-top:3px solid var(--green)"><div class="amount" style="font-size:1.1rem">✅ Have</div><div class="desc">Thermal, puffer, swimwear, modest tops, Bangkok clothes, day pack, crossbody bag</div></div>
+      <div class="cost-box" style="border-top:3px solid var(--accent)"><div class="amount" style="font-size:1.1rem">🛒 To Buy</div><div class="desc">Hiking shoes, waterproof layer, power bank, VPN, sun hat, scarf/hat/gloves, packing cubes</div></div>
+    </div>
+
+    <div style="margin-bottom:20px">
+      <h3 style="color:var(--accent);font-size:0.85rem;text-transform:uppercase;letter-spacing:1px;margin-bottom:10px">⚠ Buy Properly — Don't Cheap Out</h3>
+      <div style="background:var(--card);border-radius:10px;overflow:hidden">
+        <div class="card-row" style="padding:12px 14px;flex-direction:column;gap:4px;align-items:flex-start">
+          <span style="font-weight:600">Hiking shoes</span>
+          <span style="color:var(--muted);font-size:0.8rem">Asics road runners not suitable for Great Wall — wet, uneven stone, November frost. Decathlon Quechua MH100/MH500 (~$40–60). Break in before October.</span>
+        </div>
+        <div class="card-row" style="padding:12px 14px;flex-direction:column;gap:4px;align-items:flex-start">
+          <span style="font-weight:600">Waterproof / rain layer</span>
+          <span style="color:var(--muted);font-size:0.8rem">Decathlon ~$25. Northern China can be damp, hiking outdoors.</span>
+        </div>
+        <div class="card-row" style="padding:12px 14px;flex-direction:column;gap:4px;align-items:flex-start">
+          <span style="font-weight:600">Power bank — CCC/3-C certified</span>
+          <span style="color:var(--muted);font-size:0.8rem">Anker brand. CCC certification must be printed on the device or it gets confiscated at Chinese airports.</span>
+        </div>
+        <div class="card-row" style="padding:12px 14px;flex-direction:column;gap:4px;align-items:flex-start">
+          <span style="font-weight:600">VPN</span>
+          <span style="color:var(--muted);font-size:0.8rem">Paid service only — ExpressVPN or NordVPN (~$4–6/month). Free VPNs don't work in China. Google, WhatsApp, Instagram all blocked. Install and TEST before leaving Israel.</span>
+        </div>
+      </div>
+    </div>
+
+    <div style="margin-bottom:20px">
+      <h3 style="color:var(--gold);font-size:0.85rem;text-transform:uppercase;letter-spacing:1px;margin-bottom:10px">✓ Fine from Shein / Temu</h3>
+      <div style="background:var(--card);border-radius:10px;overflow:hidden">
+        <div class="card-row" style="padding:10px 14px"><span class="label">Sun hat</span><span class="val">For HK and Bangkok</span></div>
+        <div class="card-row" style="padding:10px 14px"><span class="label">Scarf, hat, gloves</span><span class="val">Great Wall 1 Nov — can be 3°C and windy</span></div>
+        <div class="card-row" style="padding:10px 14px"><span class="label">Packing cubes</span><span class="val">Any will do</span></div>
+      </div>
+    </div>
+
+    <div style="margin-bottom:20px">
+      <h3 style="color:var(--gold);font-size:0.85rem;text-transform:uppercase;letter-spacing:1px;margin-bottom:10px">💊 Pharmacy</h3>
+      <div style="background:var(--card);border-radius:10px;overflow:hidden">
+        <div class="card-row" style="padding:10px 14px"><span class="label">Roll-on or cream sunscreen</span><span class="val" style="color:var(--accent)">NO aerosol — confiscated on trains</span></div>
+        <div class="card-row" style="padding:10px 14px"><span class="label">Roll-on insect repellent</span><span class="val" style="color:var(--accent)">NO aerosol spray — confiscated on trains</span></div>
+      </div>
+    </div>
+
+    <div style="margin-bottom:20px">
+      <h3 style="color:var(--gold);font-size:0.85rem;text-transform:uppercase;letter-spacing:1px;margin-bottom:10px">🌡 Temperatures by Location</h3>
+      <div style="background:var(--card);border-radius:10px;overflow:hidden">
+        <div class="card-row" style="padding:10px 14px"><span class="label">Hong Kong — 16–19 Oct</span><span class="val">24–28°C · warm, humid</span></div>
+        <div class="card-row" style="padding:10px 14px"><span class="label">Chongqing — 20–21 Oct</span><span class="val">16–22°C · mild</span></div>
+        <div class="card-row" style="padding:10px 14px"><span class="label">Zhangjiajie — 22–24 Oct</span><span class="val">12–18°C · cool, misty</span></div>
+        <div class="card-row" style="padding:10px 14px"><span class="label">Changsha — 25 Oct</span><span class="val">14–20°C · mild</span></div>
+        <div class="card-row" style="padding:10px 14px"><span class="label">Shanghai — 26–29 Oct</span><span class="val">14–20°C · mild to cool</span></div>
+        <div class="card-row" style="padding:10px 14px"><span class="label">Xi'an — 30–31 Oct</span><span class="val">8–15°C · cool, dry</span></div>
+        <div class="card-row" style="padding:10px 14px;border-left:3px solid var(--accent)"><span class="label">Great Wall night — 1 Nov</span><span class="val" style="color:var(--accent)">3–10°C · cold + windy</span></div>
+        <div class="card-row" style="padding:10px 14px"><span class="label">Beijing — 2–3 Nov</span><span class="val">6–12°C · cold, dry</span></div>
+        <div class="card-row" style="padding:10px 14px"><span class="label">Bangkok — 4–8 Nov</span><span class="val">28–32°C · hot, humid</span></div>
+      </div>
+    </div>
+
+    <div>
+      <h3 style="color:var(--accent);font-size:0.85rem;text-transform:uppercase;letter-spacing:1px;margin-bottom:10px">🚄 Intrepid Packing Rules</h3>
+      <div style="background:var(--card);border-radius:10px;overflow:hidden">
+        <div class="card-row" style="padding:10px 14px"><span class="label">Aerosols on trains</span><span class="val" style="color:var(--accent)">Banned — confiscated</span></div>
+        <div class="card-row" style="padding:10px 14px"><span class="label">Knives / scissors</span><span class="val" style="color:var(--accent)">Not permitted in any luggage on trains</span></div>
+        <div class="card-row" style="padding:10px 14px"><span class="label">Power bank</span><span class="val" style="color:var(--accent)">Must be CCC/3-C certified for flights</span></div>
+        <div class="card-row" style="padding:10px 14px"><span class="label">Luggage weight</span><span class="val">Under 15kg</span></div>
+        <div class="card-row" style="padding:10px 14px"><span class="label">Temple clothing</span><span class="val">Cover shoulders + knees</span></div>
+      </div>
+    </div>
+
   </section>
 
   <!-- ITINERARY -->
