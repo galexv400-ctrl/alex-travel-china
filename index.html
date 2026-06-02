@@ -9,13 +9,13 @@
 
   :root {
     --red: #c0392b;
-    --gold: #d4a017;
-    --dark: #1a1a2e;
-    --mid: #16213e;
-    --card: #0f3460;
-    --accent: #e94560;
+    --gold: #7eb8f7;
+    --dark: #0f0a1e;
+    --mid: #1a1035;
+    --card: #1e1545;
+    --accent: #a855f7;
     --text: #eaeaea;
-    --muted: #a0a8b8;
+    --muted: #a0a8c8;
     --green: #27ae60;
     --orange: #e67e22;
   }
@@ -28,8 +28,8 @@
   }
 
   header {
-    background: linear-gradient(135deg, var(--mid) 0%, var(--dark) 100%);
-    border-bottom: 2px solid var(--gold);
+    background: linear-gradient(135deg, #2d1b69 0%, var(--dark) 100%);
+    border-bottom: 2px solid var(--accent);
     padding: 28px 32px 20px;
     text-align: center;
   }
@@ -89,7 +89,7 @@
 
   nav button:hover, nav button.active {
     background: var(--card);
-    border-color: var(--gold);
+    border-color: var(--accent);
     color: var(--gold);
   }
 
@@ -119,7 +119,7 @@
     position: absolute;
     left: 6px; top: 0; bottom: 0;
     width: 2px;
-    background: linear-gradient(to bottom, var(--gold), var(--accent));
+    background: linear-gradient(to bottom, var(--accent), var(--gold));
   }
 
   .tl-item {
@@ -394,6 +394,87 @@
   .cost-box .amount { font-size: 1.5rem; font-weight: 700; color: var(--gold); }
   .cost-box .desc { font-size: 0.75rem; color: var(--muted); margin-top: 4px; }
 
+  /* ITINERARY */
+  .day-card {
+    background: var(--card);
+    border-radius: 12px;
+    margin-bottom: 10px;
+    overflow: hidden;
+    border-left: 4px solid var(--accent);
+  }
+
+  .day-card.travel { border-left-color: #3498db; }
+  .day-card.free { border-left-color: var(--gold); }
+  .day-card.highlight { border-left-color: #a855f7; }
+
+  .day-header {
+    display: flex;
+    align-items: center;
+    gap: 14px;
+    padding: 14px 16px;
+    cursor: pointer;
+    user-select: none;
+  }
+
+  .day-header:hover { background: rgba(255,255,255,0.03); }
+
+  .day-num {
+    background: var(--accent);
+    color: white;
+    font-weight: 700;
+    font-size: 0.75rem;
+    border-radius: 6px;
+    padding: 3px 8px;
+    flex-shrink: 0;
+  }
+
+  .day-card.travel .day-num { background: #3498db; }
+  .day-card.free .day-num { background: #5a7a3a; }
+  .day-card.highlight .day-num { background: #7c3aed; }
+
+  .day-header-text { flex: 1; }
+  .day-header-title { font-weight: 600; font-size: 0.95rem; }
+  .day-header-meta { font-size: 0.78rem; color: var(--muted); margin-top: 2px; }
+
+  .day-chevron { color: var(--muted); font-size: 0.8rem; transition: transform 0.2s; }
+  .day-card.open .day-chevron { transform: rotate(180deg); }
+
+  .day-body {
+    display: none;
+    padding: 0 16px 14px;
+    border-top: 1px solid rgba(255,255,255,0.06);
+  }
+
+  .day-card.open .day-body { display: block; }
+
+  .day-desc { font-size: 0.84rem; color: var(--muted); line-height: 1.7; margin: 12px 0; }
+
+  .day-pills { display: flex; flex-wrap: wrap; gap: 6px; margin: 10px 0; }
+
+  .pill {
+    font-size: 0.72rem;
+    padding: 3px 10px;
+    border-radius: 12px;
+    font-weight: 500;
+  }
+
+  .pill-included { background: #1a3a2a; color: #55efc4; }
+  .pill-meal { background: #2a2a1a; color: #f9ca24; }
+  .pill-optional { background: #2a1a3a; color: #a29bfe; }
+  .pill-warn { background: #3a1a1a; color: #ff7675; }
+
+  .day-notes {
+    font-size: 0.8rem;
+    color: var(--muted);
+    background: rgba(255,255,255,0.04);
+    border-radius: 6px;
+    padding: 8px 10px;
+    margin-top: 8px;
+    line-height: 1.6;
+  }
+
+  .day-notes strong { color: var(--text); }
+
   @media (max-width: 600px) {
     header h1 { font-size: 1.4rem; }
     .count-unit .num { font-size: 1.4rem; }
@@ -424,6 +505,11 @@
   <button onclick="show('costs', this)">Costs</button>
   <button onclick="show('checklist', this)">Checklist</button>
   <button onclick="show('quickref', this)">Quick Ref</button>
+  <button onclick="show('packing', this)">Packing</button>
+  <button onclick="show('itinerary', this)">Itinerary</button>
+  <button onclick="show('activities', this)">Activities</button>
+  <button onclick="show('moneytips', this)">Money & Tips</button>
+  <button onclick="show('safety', this)">Safety</button>
   <button onclick="show('notes', this)">Notes</button>
 </nav>
 
@@ -779,6 +865,627 @@
     </div>
   </section>
 
+  <!-- PACKING -->
+  <section id="packing">
+    <h2>Complete Packing List</h2>
+
+    <div class="cost-summary" style="margin-bottom:20px">
+      <div class="cost-box" style="border-top:3px solid var(--green)"><div class="amount" style="font-size:1rem">✅ Have</div><div class="desc">Thermals, puffer, swimwear, modest tops, Bangkok clothes, day pack, crossbody bag, NordVPN</div></div>
+      <div class="cost-box" style="border-top:3px solid var(--accent)"><div class="amount" style="font-size:1rem">🛒 Buy Properly</div><div class="desc">Hiking shoes, waterproof layer, CCC power bank, travel insurance, adapter</div></div>
+      <div class="cost-box" style="border-top:3px solid #a29bfe"><div class="amount" style="font-size:1rem">🛍 Shein/Temu</div><div class="desc">Hat, gloves, scarf, sun hat, flip flops, packing cubes, hand warmers, door lock, eye mask, earplugs</div></div>
+    </div>
+
+    <!-- CLOTHING -->
+    <div style="margin-bottom:20px">
+      <h3 style="color:var(--gold);font-size:0.85rem;text-transform:uppercase;letter-spacing:1px;margin-bottom:10px">👕 Clothing — Tops</h3>
+      <div style="background:var(--card);border-radius:10px;overflow:hidden">
+        <div class="card-row" style="padding:9px 14px"><span class="label">Modest tops (cover shoulders)</span><span class="val">3–4 · ✅ Have · temples + general China</span></div>
+        <div class="card-row" style="padding:9px 14px"><span class="label">Light t-shirts</span><span class="val">2–3 · ✅ Have · Bangkok + warm early days</span></div>
+        <div class="card-row" style="padding:9px 14px"><span class="label">Thermal base layer top</span><span class="val">1–2 · ✅ Have · under layers for Xi'an/Beijing/Wall</span></div>
+        <div class="card-row" style="padding:9px 14px"><span class="label">Fleece or puffer jacket</span><span class="val">1 · ✅ Have · main warm layer</span></div>
+        <div class="card-row" style="padding:9px 14px"><span class="label">Waterproof/windproof jacket</span><span class="val" style="color:var(--accent)">1 · 🛒 Buy · Decathlon ~$25 · essential for Wall + Zhangjiajie</span></div>
+      </div>
+    </div>
+
+    <div style="margin-bottom:20px">
+      <h3 style="color:var(--gold);font-size:0.85rem;text-transform:uppercase;letter-spacing:1px;margin-bottom:10px">👖 Clothing — Bottoms</h3>
+      <div style="background:var(--card);border-radius:10px;overflow:hidden">
+        <div class="card-row" style="padding:9px 14px"><span class="label">Comfortable walking trousers</span><span class="val">2 · 🛍 Temu · lightweight, quick dry</span></div>
+        <div class="card-row" style="padding:9px 14px"><span class="label">Leggings / thermal base layer</span><span class="val">1 · ✅ Have · under trousers for cold days</span></div>
+        <div class="card-row" style="padding:9px 14px"><span class="label">Light shorts or casual trousers</span><span class="val">1 · ✅ Have · Bangkok</span></div>
+        <div class="card-row" style="padding:9px 14px"><span class="label">Swimwear</span><span class="val">1 · ✅ Have · Sindhorn pool day</span></div>
+      </div>
+    </div>
+
+    <div style="margin-bottom:20px">
+      <h3 style="color:var(--gold);font-size:0.85rem;text-transform:uppercase;letter-spacing:1px;margin-bottom:10px">👟 Footwear</h3>
+      <div style="background:var(--card);border-radius:10px;overflow:hidden">
+        <div class="card-row" style="padding:9px 14px"><span class="label">Hiking shoes</span><span class="val" style="color:var(--accent)">🛒 Buy · Decathlon Quechua MH100/MH500 · break in before Oct</span></div>
+        <div class="card-row" style="padding:9px 14px"><span class="label">Comfortable walking trainers</span><span class="val">✅ Have · city days, temples, markets</span></div>
+        <div class="card-row" style="padding:9px 14px"><span class="label">Flip flops / sandals</span><span class="val">🛍 Temu · hotel showers, Bangkok</span></div>
+      </div>
+    </div>
+
+    <div style="margin-bottom:20px">
+      <h3 style="color:var(--gold);font-size:0.85rem;text-transform:uppercase;letter-spacing:1px;margin-bottom:10px">🧣 Accessories</h3>
+      <div style="background:var(--card);border-radius:10px;overflow:hidden">
+        <div class="card-row" style="padding:9px 14px"><span class="label">Scarf</span><span class="val">🛍 Temu · cold days + doubles as temple cover</span></div>
+        <div class="card-row" style="padding:9px 14px"><span class="label">Warm hat</span><span class="val">🛍 Temu · Great Wall night — 3°C</span></div>
+        <div class="card-row" style="padding:9px 14px"><span class="label">Gloves</span><span class="val">🛍 Temu · Great Wall night</span></div>
+        <div class="card-row" style="padding:9px 14px"><span class="label">Sun hat</span><span class="val">🛍 Temu · HK and Bangkok</span></div>
+        <div class="card-row" style="padding:9px 14px"><span class="label">Underwear</span><span class="val">5–6 · ✅ Have</span></div>
+        <div class="card-row" style="padding:9px 14px"><span class="label">Regular socks</span><span class="val">4–5 pairs · ✅ Have</span></div>
+        <div class="card-row" style="padding:9px 14px"><span class="label">Thick/thermal socks</span><span class="val">2 pairs · 🛍 Temu · cold days + hikes</span></div>
+      </div>
+    </div>
+
+    <!-- BAGS -->
+    <div style="margin-bottom:20px">
+      <h3 style="color:var(--gold);font-size:0.85rem;text-transform:uppercase;letter-spacing:1px;margin-bottom:10px">🎒 Bags</h3>
+      <div style="background:var(--card);border-radius:10px;overflow:hidden">
+        <div class="card-row" style="padding:9px 14px"><span class="label">Main luggage (under 15kg)</span><span class="val">✅ Have</span></div>
+        <div class="card-row" style="padding:9px 14px"><span class="label">Day pack</span><span class="val">✅ Have · Intrepid requirement for daily excursions</span></div>
+        <div class="card-row" style="padding:9px 14px"><span class="label">Small crossbody bag</span><span class="val">✅ Have · tourist sites, markets</span></div>
+        <div class="card-row" style="padding:9px 14px"><span class="label">Reusable tote bag</span><span class="val">🛍 Temu · Bangkok shopping</span></div>
+        <div class="card-row" style="padding:9px 14px"><span class="label">Packing cubes</span><span class="val">🛍 Temu</span></div>
+        <div class="card-row" style="padding:9px 14px"><span class="label">Small padlock</span><span class="val">🛍 Temu · zip bags at crowded tourist sites</span></div>
+      </div>
+    </div>
+
+    <!-- TECH -->
+    <div style="margin-bottom:20px">
+      <h3 style="color:var(--gold);font-size:0.85rem;text-transform:uppercase;letter-spacing:1px;margin-bottom:10px">📱 Tech</h3>
+      <div style="background:var(--card);border-radius:10px;overflow:hidden">
+        <div class="card-row" style="padding:9px 14px"><span class="label">Phone</span><span class="val">✅ Have · primary everything</span></div>
+        <div class="card-row" style="padding:9px 14px"><span class="label">iPad</span><span class="val">✅ Have · download content before China, great for train days</span></div>
+        <div class="card-row" style="padding:9px 14px"><span class="label">CCC/3-C certified power bank</span><span class="val" style="color:var(--accent)">🛒 Buy · Anker brand · CCC printed on device or confiscated</span></div>
+        <div class="card-row" style="padding:9px 14px"><span class="label">Universal travel adapter</span><span class="val">🛒 Buy if needed · China uses Type A/I sockets</span></div>
+        <div class="card-row" style="padding:9px 14px"><span class="label">Charging cables + spares</span><span class="val">✅ Have</span></div>
+        <div class="card-row" style="padding:9px 14px"><span class="label">Earphones / AirPods</span><span class="val">✅ Have · long train days</span></div>
+        <div class="card-row" style="padding:9px 14px"><span class="label">Head torch</span><span class="val">🛍 Temu · Great Wall guesthouse poorly lit at night</span></div>
+      </div>
+    </div>
+
+    <!-- DOCUMENTS -->
+    <div style="margin-bottom:20px">
+      <h3 style="color:var(--gold);font-size:0.85rem;text-transform:uppercase;letter-spacing:1px;margin-bottom:10px">📄 Documents & Money</h3>
+      <div style="background:var(--card);border-radius:10px;overflow:hidden">
+        <div class="card-row" style="padding:9px 14px"><span class="label">UK passport</span><span class="val">✅ · ALL mainland China entry</span></div>
+        <div class="card-row" style="padding:9px 14px"><span class="label">Israeli passport</span><span class="val">✅ · HK and Thailand fine</span></div>
+        <div class="card-row" style="padding:9px 14px"><span class="label">Travel insurance docs</span><span class="val" style="color:var(--accent)">🛒 Book · compulsory · must show at welcome meeting Day 1</span></div>
+        <div class="card-row" style="padding:9px 14px"><span class="label">Hotel + flight confirmations</span><span class="val">📱 Save offline on phone</span></div>
+        <div class="card-row" style="padding:9px 14px"><span class="label">CNY 500–750 cash</span><span class="val">🛒 Get · for first 1–2 days in China</span></div>
+        <div class="card-row" style="padding:9px 14px"><span class="label">Thai Baht cash</span><span class="val">🛒 Get · Bangkok</span></div>
+        <div class="card-row" style="padding:9px 14px"><span class="label">$500 USD emergency fund</span><span class="val">🛒 Get · keep separate and hidden</span></div>
+      </div>
+    </div>
+
+    <!-- APPS -->
+    <div style="margin-bottom:20px">
+      <h3 style="color:var(--gold);font-size:0.85rem;text-transform:uppercase;letter-spacing:1px;margin-bottom:10px">📲 Apps — Set Up Before Leaving Israel</h3>
+      <div style="background:var(--card);border-radius:10px;overflow:hidden">
+        <div class="card-row" style="padding:9px 14px"><span class="label">NordVPN</span><span class="val">✅ Have · enable Obfuscated Servers · switch on before Day 2 train</span></div>
+        <div class="card-row" style="padding:9px 14px"><span class="label">WeChat</span><span class="val" style="color:var(--accent)">🛒 Set up · link foreign bank card · message trip leader</span></div>
+        <div class="card-row" style="padding:9px 14px"><span class="label">Alipay</span><span class="val" style="color:var(--accent)">🛒 Set up · link foreign bank card · primary payment</span></div>
+        <div class="card-row" style="padding:9px 14px"><span class="label">DiDi</span><span class="val" style="color:var(--accent)">🛒 Set up · Chinese Uber · use instead of street taxis</span></div>
+        <div class="card-row" style="padding:9px 14px"><span class="label">Baidu Maps</span><span class="val" style="color:var(--accent)">🛒 Download · offline maps for all cities</span></div>
+        <div class="card-row" style="padding:9px 14px"><span class="label">Google Translate</span><span class="val" style="color:var(--accent)">🛒 Download · Chinese offline language pack</span></div>
+        <div class="card-row" style="padding:9px 14px"><span class="label">China Customs mini-app</span><span class="val" style="color:var(--accent)">🛒 Set up · digital health declaration before boarding</span></div>
+        <div class="card-row" style="padding:9px 14px"><span class="label">Netflix + Spotify</span><span class="val">📱 Download content offline before entering China</span></div>
+        <div class="card-row" style="padding:9px 14px"><span class="label">Hotel addresses in Chinese</span><span class="val">📱 Screenshot each one — show taxi drivers</span></div>
+      </div>
+    </div>
+
+    <!-- TOILETRIES -->
+    <div style="margin-bottom:20px">
+      <h3 style="color:var(--gold);font-size:0.85rem;text-transform:uppercase;letter-spacing:1px;margin-bottom:10px">🧴 Toiletries</h3>
+      <div style="background:var(--card);border-radius:10px;overflow:hidden">
+        <div class="card-row" style="padding:9px 14px"><span class="label">Roll-on / cream sunscreen</span><span class="val" style="color:var(--accent)">💊 NO aerosol — confiscated on trains</span></div>
+        <div class="card-row" style="padding:9px 14px"><span class="label">Roll-on insect repellent</span><span class="val" style="color:var(--accent)">💊 NO aerosol spray</span></div>
+        <div class="card-row" style="padding:9px 14px"><span class="label">Deodorant — roll-on or stick</span><span class="val">✅ · NO aerosol</span></div>
+        <div class="card-row" style="padding:9px 14px"><span class="label">Shampoo / conditioner</span><span class="val">✅ · travel size</span></div>
+        <div class="card-row" style="padding:9px 14px"><span class="label">Body wash</span><span class="val">✅ · travel size</span></div>
+        <div class="card-row" style="padding:9px 14px"><span class="label">Toothbrush + toothpaste</span><span class="val">✅</span></div>
+        <div class="card-row" style="padding:9px 14px"><span class="label">Moisturiser</span><span class="val">✅ · northern China very dry in November</span></div>
+        <div class="card-row" style="padding:9px 14px"><span class="label">Lip balm</span><span class="val">💊 · Beijing + Great Wall very cold and dry</span></div>
+        <div class="card-row" style="padding:9px 14px"><span class="label">First aid basics</span><span class="val">💊 · plasters, ibuprofen, antihistamine, imodium</span></div>
+        <div class="card-row" style="padding:9px 14px"><span class="label">Hand sanitiser</span><span class="val">✅</span></div>
+        <div class="card-row" style="padding:9px 14px"><span class="label">Feminine hygiene products</span><span class="val">✅ · stock up — harder to find familiar brands in China</span></div>
+        <div class="card-row" style="padding:9px 14px"><span class="label">Microfibre towel</span><span class="val">🛍 Temu · Great Wall guesthouse may not provide good towels</span></div>
+      </div>
+    </div>
+
+    <!-- EXTRAS -->
+    <div style="margin-bottom:20px">
+      <h3 style="color:var(--gold);font-size:0.85rem;text-transform:uppercase;letter-spacing:1px;margin-bottom:10px">✨ Comfort & Extras</h3>
+      <div style="background:var(--card);border-radius:10px;overflow:hidden">
+        <div class="card-row" style="padding:9px 14px"><span class="label">Portable door lock</span><span class="val">🛍 Temu · Great Wall guesthouse with strangers nearby</span></div>
+        <div class="card-row" style="padding:9px 14px"><span class="label">Earplugs</span><span class="val">🛍 Temu · long trains + twin-share room</span></div>
+        <div class="card-row" style="padding:9px 14px"><span class="label">Eye mask</span><span class="val">🛍 Temu · long train journeys</span></div>
+        <div class="card-row" style="padding:9px 14px"><span class="label">Disposable hand warmers</span><span class="val">🛍 Temu · Great Wall 1 Nov at 3°C — transformative</span></div>
+        <div class="card-row" style="padding:9px 14px"><span class="label">Travel washing line + pegs</span><span class="val">🛍 Temu · 17 days on tour, wash and hang overnight</span></div>
+        <div class="card-row" style="padding:9px 14px"><span class="label">Small coin/bills pouch</span><span class="val">🛍 Temu · CNY cash for markets and street food</span></div>
+        <div class="card-row" style="padding:9px 14px"><span class="label">Portable umbrella</span><span class="val">🛍 Temu · Zhangjiajie misty, sudden rain</span></div>
+        <div class="card-row" style="padding:9px 14px"><span class="label">Reusable water bottle</span><span class="val">✅ · refill at hotels</span></div>
+        <div class="card-row" style="padding:9px 14px"><span class="label">Snacks for train days</span><span class="val">🛒 Buy at airport · 9hr train days are long</span></div>
+      </div>
+    </div>
+
+    <!-- TEMPERATURES -->
+    <div style="margin-bottom:20px">
+      <h3 style="color:var(--gold);font-size:0.85rem;text-transform:uppercase;letter-spacing:1px;margin-bottom:10px">🌡 Temperatures by Location</h3>
+      <div style="background:var(--card);border-radius:10px;overflow:hidden">
+        <div class="card-row" style="padding:9px 14px"><span class="label">Hong Kong — 16–19 Oct</span><span class="val">24–28°C · warm, humid</span></div>
+        <div class="card-row" style="padding:9px 14px"><span class="label">Chongqing — 20–21 Oct</span><span class="val">16–22°C · mild</span></div>
+        <div class="card-row" style="padding:9px 14px"><span class="label">Zhangjiajie — 22–24 Oct</span><span class="val">12–18°C · cool, misty</span></div>
+        <div class="card-row" style="padding:9px 14px"><span class="label">Changsha — 25 Oct</span><span class="val">14–20°C · mild</span></div>
+        <div class="card-row" style="padding:9px 14px"><span class="label">Shanghai — 26–29 Oct</span><span class="val">14–20°C · mild to cool</span></div>
+        <div class="card-row" style="padding:9px 14px"><span class="label">Xi'an — 30–31 Oct</span><span class="val">8–15°C · cool, dry</span></div>
+        <div class="card-row" style="padding:9px 14px;border-left:3px solid var(--accent)"><span class="label">⚠ Great Wall night — 1 Nov</span><span class="val" style="color:var(--accent)">3–10°C · cold + windy</span></div>
+        <div class="card-row" style="padding:9px 14px"><span class="label">Beijing — 2–3 Nov</span><span class="val">6–12°C · cold, dry</span></div>
+        <div class="card-row" style="padding:9px 14px"><span class="label">Bangkok — 4–8 Nov</span><span class="val">28–32°C · hot, humid</span></div>
+      </div>
+    </div>
+
+    <!-- RULES -->
+    <div>
+      <h3 style="color:var(--accent);font-size:0.85rem;text-transform:uppercase;letter-spacing:1px;margin-bottom:10px">🚄 Intrepid Packing Rules</h3>
+      <div style="background:var(--card);border-radius:10px;overflow:hidden">
+        <div class="card-row" style="padding:9px 14px"><span class="label">Aerosols on trains</span><span class="val" style="color:var(--accent)">BANNED — confiscated</span></div>
+        <div class="card-row" style="padding:9px 14px"><span class="label">Knives / scissors</span><span class="val" style="color:var(--accent)">Not permitted in any luggage on trains</span></div>
+        <div class="card-row" style="padding:9px 14px"><span class="label">Power bank</span><span class="val" style="color:var(--accent)">Must be CCC/3-C certified for China flights</span></div>
+        <div class="card-row" style="padding:9px 14px"><span class="label">Luggage weight</span><span class="val">Under 15kg recommended</span></div>
+        <div class="card-row" style="padding:9px 14px"><span class="label">Temple clothing</span><span class="val">Cover shoulders + knees</span></div>
+      </div>
+    </div>
+
+  </section>
+
+  <!-- ITINERARY -->
+  <section id="itinerary">
+    <h2>Day-by-Day Itinerary</h2>
+
+    <div class="day-card" onclick="toggleDay(this)">
+      <div class="day-header">
+        <div class="day-num">Day 1</div>
+        <div class="day-header-text">
+          <div class="day-header-title">Hong Kong</div>
+          <div class="day-header-meta">Mon 19 Oct · Welcome meeting 6pm</div>
+        </div>
+        <div class="day-chevron">▼</div>
+      </div>
+      <div class="day-body">
+        <div class="day-pills">
+          <span class="pill pill-included">Temple Street Night Market</span>
+          <span class="pill pill-warn">Welcome meeting 6pm — MANDATORY</span>
+        </div>
+        <div class="day-desc">Welcome to Hong Kong! Meet your trip leader and fellow travellers at 6pm. If you arrive early, ride the Peak Tram for panoramic views, visit Tian Tan Buddha or stroll along Victoria Harbour. Tonight your group explores the lively Temple Street Night Market — try dim sum or roast goose for dinner.</div>
+        <div class="day-notes"><strong>⚠ Important:</strong> Harbour Plaza North Point is on HK Island — NOT Kowloon. Take MTR from Tsim Sha Tsui → Quarry Bay Exit C (~20 min). Leave hotel by 5:30pm. Bring insurance details and next of kin info.</div>
+      </div>
+    </div>
+
+    <div class="day-card travel" onclick="toggleDay(this)">
+      <div class="day-header">
+        <div class="day-num">Day 2</div>
+        <div class="day-header-text">
+          <div class="day-header-title">→ Chongqing</div>
+          <div class="day-header-meta">Tue 20 Oct · Bullet train ~9 hrs · up to 300 km/h</div>
+        </div>
+        <div class="day-chevron">▼</div>
+      </div>
+      <div class="day-body">
+        <div class="day-desc">Relaxed morning, then your first bullet train journey across China. Arrive Chongqing early evening — settle in or join your leader for an orientation walk.</div>
+        <div class="day-notes"><strong>Travel:</strong> ~9 hours. You can order takeaway food from train station to your seat (leader can help).</div>
+      </div>
+    </div>
+
+    <div class="day-card" onclick="toggleDay(this)">
+      <div class="day-header">
+        <div class="day-num">Day 3</div>
+        <div class="day-header-text">
+          <div class="day-header-title">Chongqing</div>
+          <div class="day-header-meta">Wed 21 Oct · Guided city tour + hot pot lunch</div>
+        </div>
+        <div class="day-chevron">▼</div>
+      </div>
+      <div class="day-body">
+        <div class="day-pills">
+          <span class="pill pill-included">Guided city walking tour</span>
+          <span class="pill pill-included">Hot pot lunch in WWII air raid shelter</span>
+          <span class="pill pill-meal">Lunch included</span>
+        </div>
+        <div class="day-desc">Walk Longmenhao Old Street, stroll Nanbing Road skyscrapers, visit Hongya Cave, cross the Yangtze River by public cable car and ferry. Lunch is a traditional Chongqing hot pot served in a former WWII air raid shelter. Afternoon free — find the spot where the train goes through a building, or the street on the 22nd floor!</div>
+      </div>
+    </div>
+
+    <div class="day-card travel" onclick="toggleDay(this)">
+      <div class="day-header">
+        <div class="day-num">Day 4</div>
+        <div class="day-header-text">
+          <div class="day-header-title">→ Zhangjiajie</div>
+          <div class="day-header-meta">Thu 22 Oct · Bullet train ~4–5 hrs</div>
+        </div>
+        <div class="day-chevron">▼</div>
+      </div>
+      <div class="day-body">
+        <div class="day-pills">
+          <span class="pill pill-included">Orientation walk</span>
+        </div>
+        <div class="day-desc">Travel to Zhangjiajie in Hunan Province. Arrive mid-afternoon for a short orientation walk. Free evening — explore night markets, watch tai chi in the parks, try Hunan-style spicy food.</div>
+        <div class="day-notes"><strong>Travel:</strong> ~4–5 hours.</div>
+      </div>
+    </div>
+
+    <div class="day-card highlight" onclick="toggleDay(this)">
+      <div class="day-header">
+        <div class="day-num">Day 5</div>
+        <div class="day-header-text">
+          <div class="day-header-title">Tianmen Mountain</div>
+          <div class="day-header-meta">Fri 23 Oct · Heaven's Gate · cliff walkways</div>
+        </div>
+        <div class="day-chevron">▼</div>
+      </div>
+      <div class="day-body">
+        <div class="day-pills">
+          <span class="pill pill-included">Tianmen Mountain visit</span>
+        </div>
+        <div class="day-desc">Visit iconic Tianmen Mountain with its cliff-hanging walkways, scenic cableway and Tianmen Cave (Heaven's Gate) — a massive natural archway. Spend a few hours exploring. Skip the 999 steps by taking an escalator to the top. Afternoon free in Zhangjiajie city.</div>
+        <div class="day-notes"><strong>Travel:</strong> ~1 hour each way.</div>
+      </div>
+    </div>
+
+    <div class="day-card highlight" onclick="toggleDay(this)">
+      <div class="day-header">
+        <div class="day-num">Day 6</div>
+        <div class="day-header-text">
+          <div class="day-header-title">Zhangjiajie National Park</div>
+          <div class="day-header-meta">Sat 24 Oct · Avatar mountains · 4hr hike · Bailong Elevator</div>
+        </div>
+        <div class="day-chevron">▼</div>
+      </div>
+      <div class="day-body">
+        <div class="day-pills">
+          <span class="pill pill-included">National Park hike (~4 hrs)</span>
+          <span class="pill pill-included">Bailong Elevator (glass cliff lift)</span>
+          <span class="pill pill-included">Cable car</span>
+        </div>
+        <div class="day-desc">The towering sandstone pillars here inspired the floating mountains in Avatar. Hike through dramatic cliffs and forested valleys, then ride the Bailong Elevator — a glass lift built into the side of a cliff. UNESCO World Heritage site. Bring your camera.</div>
+        <div class="day-notes"><strong>Fitness:</strong> ~4 hours of hiking. Sturdy shoes essential.</div>
+      </div>
+    </div>
+
+    <div class="day-card travel" onclick="toggleDay(this)">
+      <div class="day-header">
+        <div class="day-num">Day 7</div>
+        <div class="day-header-text">
+          <div class="day-header-title">→ Changsha</div>
+          <div class="day-header-meta">Sun 25 Oct · Nvshu script workshop · night market</div>
+        </div>
+        <div class="day-chevron">▼</div>
+      </div>
+      <div class="day-body">
+        <div class="day-pills">
+          <span class="pill pill-included">Nvshu script writing with local master</span>
+          <span class="pill pill-included">Night market visit</span>
+        </div>
+        <div class="day-desc">Bullet train to Changsha. Visit a cultural heritage centre to learn about Nvshu — the world's only writing system created exclusively by women, now a National Intangible Cultural Heritage. Try writing your own message. Evening at Changsha's night market — try sticky tofu, pig's feet or crayfish if you're brave!</div>
+      </div>
+    </div>
+
+    <div class="day-card travel" onclick="toggleDay(this)">
+      <div class="day-header">
+        <div class="day-num">Day 8</div>
+        <div class="day-header-text">
+          <div class="day-header-title">→ Shanghai</div>
+          <div class="day-header-meta">Mon 26 Oct · Bullet train ~5 hrs · Bund walking tour</div>
+        </div>
+        <div class="day-chevron">▼</div>
+      </div>
+      <div class="day-body">
+        <div class="day-pills">
+          <span class="pill pill-included">Leader-led night Bund walking tour</span>
+        </div>
+        <div class="day-desc">Morning bullet train to Shanghai (~5 hrs). Check in, free afternoon. Evening: leader takes you to the Bund — historic mansions on one side, modern skyline of Pudong across the Huangpu River on the other. Striking contrast of old and new Shanghai.</div>
+        <div class="day-notes"><strong>Travel:</strong> ~5 hours.</div>
+      </div>
+    </div>
+
+    <div class="day-card" onclick="toggleDay(this)">
+      <div class="day-header">
+        <div class="day-num">Day 9</div>
+        <div class="day-header-text">
+          <div class="day-header-title">Shanghai</div>
+          <div class="day-header-meta">Tue 27 Oct · French Concession walk · breakfast included</div>
+        </div>
+        <div class="day-chevron">▼</div>
+      </div>
+      <div class="day-body">
+        <div class="day-pills">
+          <span class="pill pill-included">French Concession walking tour</span>
+          <span class="pill pill-meal">Breakfast included</span>
+        </div>
+        <div class="day-desc">Morning walking tour of Shanghai's French Concession — tree-lined streets, European-style architecture, vibrant cafés. Free afternoon: consider Shanghai Museum (free), Yuyuan Garden & Old Bazaar, or the Shanghai Tower observation deck. Evening farewell dinner with the group.</div>
+        <div class="day-notes">Optional: Shanghai Museum (free), Yuyuan Garden (CNY40), Shanghai Propaganda Poster Art Centre (CNY25).</div>
+      </div>
+    </div>
+
+    <div class="day-card free" onclick="toggleDay(this)">
+      <div class="day-header">
+        <div class="day-num">Day 10</div>
+        <div class="day-header-text">
+          <div class="day-header-title">Shanghai — Free Day</div>
+          <div class="day-header-meta">Wed 28 Oct · Second welcome meeting 4pm</div>
+        </div>
+        <div class="day-chevron">▼</div>
+      </div>
+      <div class="day-body">
+        <div class="day-pills">
+          <span class="pill pill-warn">Second welcome meeting 4pm</span>
+          <span class="pill pill-optional">Shanghai Museum — Free</span>
+          <span class="pill pill-optional">Yuyuan Garden — CNY40</span>
+          <span class="pill pill-optional">Propaganda Poster Centre — CNY25</span>
+        </div>
+        <div class="day-desc">Free day — wander Yu Garden, shop Nanjing Road or visit the Jade Buddha Temple. At 4pm, second welcome meeting to meet new travellers joining the next leg. Group and leader likely change today.</div>
+        <div class="day-notes"><strong>Note:</strong> New group joins today. Leader likely changes.</div>
+      </div>
+    </div>
+
+    <div class="day-card" onclick="toggleDay(this)">
+      <div class="day-header">
+        <div class="day-num">Day 11</div>
+        <div class="day-header-text">
+          <div class="day-header-title">Wuxi Day Trip</div>
+          <div class="day-header-meta">Thu 29 Oct · Huishan Ancient Town · Jichang Garden · breakfast included</div>
+        </div>
+        <div class="day-chevron">▼</div>
+      </div>
+      <div class="day-body">
+        <div class="day-pills">
+          <span class="pill pill-included">Huishan Ancient Town</span>
+          <span class="pill pill-included">Jichang Garden</span>
+          <span class="pill pill-meal">Breakfast included</span>
+        </div>
+        <div class="day-desc">Half-hour bullet train to Wuxi. Walking tour through Huishan Ancient Town — cultural relics, historic sites, gorgeous gardens. Visit Jichang Garden, one of China's finest traditional gardens (national heritage site since 1998). Back to Shanghai in the afternoon — evening free, try a rooftop bar over the Bund.</div>
+        <div class="day-notes"><strong>Note:</strong> Jichang Garden may be closed for renovation — Huishan Temple and No.2 Spring Garden visited instead.</div>
+      </div>
+    </div>
+
+    <div class="day-card travel" onclick="toggleDay(this)">
+      <div class="day-header">
+        <div class="day-num">Day 12</div>
+        <div class="day-header-text">
+          <div class="day-header-title">→ Xi'an</div>
+          <div class="day-header-meta">Fri 30 Oct · Bullet train ~7 hrs · Muslim Quarter · breakfast included</div>
+        </div>
+        <div class="day-chevron">▼</div>
+      </div>
+      <div class="day-body">
+        <div class="day-pills">
+          <span class="pill pill-included">Muslim Quarter walking tour + snack sampling</span>
+          <span class="pill pill-meal">Breakfast included</span>
+          <span class="pill pill-optional">Great Mosque — CNY25</span>
+          <span class="pill pill-optional">Bell & Drum Towers — CNY50</span>
+          <span class="pill pill-optional">City Wall bike hire — CNY45</span>
+        </div>
+        <div class="day-desc">Bullet train to Xi'an (~7 hrs), once the imperial capital and start of the Silk Road. Afternoon walking tour: Bell and Drum Towers, Muslim Quarter, Great Mosque. Sample street snacks from local carts. For dinner: pao mo (lamb broth with flat bread), hand-pulled noodles, meat skewers.</div>
+        <div class="day-notes"><strong>Travel:</strong> ~7 hours.</div>
+      </div>
+    </div>
+
+    <div class="day-card highlight" onclick="toggleDay(this)">
+      <div class="day-header">
+        <div class="day-num">Day 13</div>
+        <div class="day-header-text">
+          <div class="day-header-title">Terracotta Warriors</div>
+          <div class="day-header-meta">Sat 31 Oct · One of the wonders of the world</div>
+        </div>
+        <div class="day-chevron">▼</div>
+      </div>
+      <div class="day-body">
+        <div class="day-pills">
+          <span class="pill pill-included">Terracotta Warriors — leader led</span>
+          <span class="pill pill-optional">Tang Dynasty Show — CNY290</span>
+          <span class="pill pill-optional">Big Wild Goose Pagoda — CNY80</span>
+          <span class="pill pill-optional">Little Wild Goose Pagoda — CNY50</span>
+        </div>
+        <div class="day-desc">Journey outside Xi'an to the Terracotta Warriors — discovered after being buried for 2,000 years. Over 1,000 individually sculpted soldiers, each with a unique costume, height and facial expression. Commissioned by Emperor Qin Shi Huangdi in 264 BC. Free evening — Tang Paradise walking street near the Big Wild Goose Pagoda for local nightlife.</div>
+        <div class="day-notes"><strong>Travel:</strong> ~2 hours each way.</div>
+      </div>
+    </div>
+
+    <div class="day-card highlight" onclick="toggleDay(this)">
+      <div class="day-header">
+        <div class="day-num">Day 14</div>
+        <div class="day-header-text">
+          <div class="day-header-title">→ Great Wall</div>
+          <div class="day-header-meta">Sun 1 Nov · Train to Beijing + transfer · sunset on the Wall</div>
+        </div>
+        <div class="day-chevron">▼</div>
+      </div>
+      <div class="day-body">
+        <div class="day-pills">
+          <span class="pill pill-included">Sunset on the Great Wall</span>
+        </div>
+        <div class="day-desc">Long travel day — grab snacks and a book. High-speed train to Beijing, then private vehicle to a family-run guesthouse inside the scenic area near the Great Wall. Tonight: highly recommended short hike to the Wall for an unforgettable sunset. One of the Seven Wonders of the World!</div>
+        <div class="day-notes"><strong>Travel:</strong> ~9 hours total (train + transfer). <strong>Guesthouse:</strong> basic but private facilities and Wi-Fi. In November, may be an alternate guesthouse with better heating — sunset hike may not be possible in this case.</div>
+      </div>
+    </div>
+
+    <div class="day-card highlight" onclick="toggleDay(this)">
+      <div class="day-header">
+        <div class="day-num">Day 15</div>
+        <div class="day-header-text">
+          <div class="day-header-title">→ Beijing · Great Wall Hike</div>
+          <div class="day-header-meta">Mon 2 Nov · Jinshanling section · ~2hr hike · breakfast included</div>
+        </div>
+        <div class="day-chevron">▼</div>
+      </div>
+      <div class="day-body">
+        <div class="day-pills">
+          <span class="pill pill-included">Jinshanling Great Wall hike (~2 hrs)</span>
+          <span class="pill pill-meal">Breakfast included</span>
+        </div>
+        <div class="day-desc">Hike the Jinshanling section — one of the least touristy and most original stretches of the Wall. Watch it snake through the hills endlessly into the distance. Then head into Beijing for the final stop of the tour.</div>
+        <div class="day-notes"><strong>Travel:</strong> ~2 hours to Beijing. <strong>Fitness:</strong> Many steps and slopes — good grip shoes essential. Chairlift option available at own expense but closes in winter (Nov–Mar).</div>
+      </div>
+    </div>
+
+    <div class="day-card highlight" onclick="toggleDay(this)">
+      <div class="day-header">
+        <div class="day-num">Day 16</div>
+        <div class="day-header-text">
+          <div class="day-header-title">Beijing · Tiananmen · Forbidden City</div>
+          <div class="day-header-meta">Tue 3 Nov · Farewell dinner — Beijing duck 🦆</div>
+        </div>
+        <div class="day-chevron">▼</div>
+      </div>
+      <div class="day-body">
+        <div class="day-pills">
+          <span class="pill pill-included">Tiananmen Square</span>
+          <span class="pill pill-included">Forbidden City</span>
+          <span class="pill pill-optional">Temple of Heaven — CNY40</span>
+          <span class="pill pill-optional">Hutong family visit — CNY150</span>
+          <span class="pill pill-optional">Lama Temple — CNY25</span>
+          <span class="pill pill-optional">Acrobat show — CNY290</span>
+        </div>
+        <div class="day-desc">Explore Tiananmen Square — the symbolic centre of Chinese power, framed by the Gate of Heavenly Peace, Mao's Mausoleum and the Great Hall of the People. Then enter the Forbidden City, built 500+ years ago, closed to commoners until recently. Explore halls and courtyards of the Ming and Qing dynasties. Free afternoon. Farewell dinner: Beijing duck!</div>
+        <div class="day-notes"><strong>Note:</strong> Forbidden City limited to 30,000 visitors/day — tickets may sell out. If unavailable, Temple of Heaven visited instead. Tiananmen occasionally closes without notice (especially March).</div>
+      </div>
+    </div>
+
+    <div class="day-card free" onclick="toggleDay(this)">
+      <div class="day-header">
+        <div class="day-num">Day 17</div>
+        <div class="day-header-text">
+          <div class="day-header-title">Beijing — Tour Ends</div>
+          <div class="day-header-meta">Wed 4 Nov · Fly Beijing → Bangkok · CA959 14:00 PEK T3</div>
+        </div>
+        <div class="day-chevron">▼</div>
+      </div>
+      <div class="day-body">
+        <div class="day-desc">No activities planned — the China adventure ends here. Stay extra days in Beijing if you wish (arrange with your booking agent). Your Air China CA959 departs PEK Terminal 3 at 14:00 — leave hotel by 11:00am.</div>
+        <div class="day-notes"><strong>Airport:</strong> PEK (Capital), Terminal 3. Taxi ~45–60 min, ~CNY120. Or Airport Express from Dongzhimen (CNY25). Leave hotel by 11:00am.</div>
+      </div>
+    </div>
+
+  </section>
+
+  <!-- OPTIONAL ACTIVITIES -->
+  <section id="activities">
+    <h2>Optional Activities</h2>
+    <p style="color:var(--muted);font-size:0.85rem;margin-bottom:16px">All prices in CNY. Not included in tour cost — pay on the day.</p>
+
+    <div style="margin-bottom:20px">
+      <h3 style="color:var(--gold);font-size:0.85rem;text-transform:uppercase;letter-spacing:1px;margin-bottom:10px">Xi'an</h3>
+      <div style="background:var(--card);border-radius:10px;overflow:hidden">
+        <div class="card-row" style="padding:10px 14px"><span class="label">Great Mosque</span><span class="val">CNY 25</span></div>
+        <div class="card-row" style="padding:10px 14px"><span class="label">Bell & Drum Towers</span><span class="val">CNY 50</span></div>
+        <div class="card-row" style="padding:10px 14px"><span class="label">City Wall bike hire</span><span class="val">CNY 45</span></div>
+        <div class="card-row" style="padding:10px 14px"><span class="label">Tang Dynasty Show</span><span class="val">CNY 290</span></div>
+        <div class="card-row" style="padding:10px 14px"><span class="label">Big Wild Goose Pagoda</span><span class="val">CNY 80</span></div>
+        <div class="card-row" style="padding:10px 14px"><span class="label">Little Wild Goose Pagoda</span><span class="val">CNY 50</span></div>
+      </div>
+    </div>
+
+    <div style="margin-bottom:20px">
+      <h3 style="color:var(--gold);font-size:0.85rem;text-transform:uppercase;letter-spacing:1px;margin-bottom:10px">Shanghai</h3>
+      <div style="background:var(--card);border-radius:10px;overflow:hidden">
+        <div class="card-row" style="padding:10px 14px"><span class="label">Propaganda Poster Art Centre</span><span class="val">CNY 25</span></div>
+        <div class="card-row" style="padding:10px 14px"><span class="label">Yuyuan Garden</span><span class="val">CNY 40</span></div>
+        <div class="card-row" style="padding:10px 14px"><span class="label">Shanghai Museum</span><span class="val" style="color:var(--green)">Free</span></div>
+      </div>
+    </div>
+
+    <div>
+      <h3 style="color:var(--gold);font-size:0.85rem;text-transform:uppercase;letter-spacing:1px;margin-bottom:10px">Beijing</h3>
+      <div style="background:var(--card);border-radius:10px;overflow:hidden">
+        <div class="card-row" style="padding:10px 14px"><span class="label">Temple of Heaven</span><span class="val">CNY 40</span></div>
+        <div class="card-row" style="padding:10px 14px"><span class="label">Hutong family visit</span><span class="val">CNY 150</span></div>
+        <div class="card-row" style="padding:10px 14px"><span class="label">Lama Temple</span><span class="val">CNY 25</span></div>
+        <div class="card-row" style="padding:10px 14px"><span class="label">Acrobat show</span><span class="val">CNY 290</span></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- MONEY & TIPS -->
+  <section id="moneytips">
+    <h2>Money & Tips</h2>
+    <div class="ref-grid">
+
+      <div class="ref-card">
+        <h3>Cash to Carry</h3>
+        <div class="ref-row"><span class="lbl">Arrive China with</span><span class="val">CNY 500–750</span></div>
+        <div class="ref-row"><span class="lbl">Then switch to</span><span class="val">WeChat / Alipay</span></div>
+        <div class="ref-row"><span class="lbl">Emergency fund</span><span class="val">$500 USD (separate)</span></div>
+        <div class="ref-row"><span class="lbl">HK currency</span><span class="val">HKD — cards fine</span></div>
+        <div class="ref-row"><span class="lbl">Bangkok currency</span><span class="val">THB — cards fine</span></div>
+      </div>
+
+      <div class="ref-card">
+        <h3>Tipping</h3>
+        <div class="ref-row"><span class="lbl">Group kitty</span><span class="val">Proposed Day 1 — optional but recommended</span></div>
+        <div class="ref-row"><span class="lbl">Tour leader tip</span><span class="val">$4–7 USD per day (~$70–120 total)</span></div>
+      </div>
+
+      <div class="ref-card">
+        <h3>Payments in China</h3>
+        <div class="ref-row"><span class="lbl">Primary method</span><span class="val">WeChat Pay / Alipay</span></div>
+        <div class="ref-row"><span class="lbl">Credit cards</span><span class="val">Not widely accepted</span></div>
+        <div class="ref-row"><span class="lbl">Data needed</span><span class="val">Must have roaming / e-SIM</span></div>
+        <div class="ref-row"><span class="lbl">WeChat also used to</span><span class="val">Message your trip leader</span></div>
+      </div>
+
+      <div class="ref-card">
+        <h3>Passport & Entry</h3>
+        <div class="ref-row"><span class="lbl">Use for China</span><span class="val">UK passport only</span></div>
+        <div class="ref-row"><span class="lbl">Scanned at</span><span class="val">Every tourism site + train station</span></div>
+        <div class="ref-row"><span class="lbl">Allow for group entry</span><span class="val">20–30 mins extra</span></div>
+        <div class="ref-row"><span class="lbl">Send scan to Intrepid by</span><span class="val">5 Sep 2026</span></div>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- HEALTH & SAFETY -->
+  <section id="safety">
+    <h2>Health & Safety</h2>
+    <div class="ref-grid">
+
+      <div class="ref-card" style="border-left:3px solid var(--accent)">
+        <h3>Scams to Avoid</h3>
+        <div class="ref-row"><span class="lbl">Tea tasting scam</span><span class="val" style="color:var(--accent)">Don't accept café invites from strangers</span></div>
+        <div class="ref-row"><span class="lbl">Counterfeit CNY100</span><span class="val" style="color:var(--accent)">Check notes carefully before accepting</span></div>
+        <div class="ref-row"><span class="lbl">Unmarked taxis</span><span class="val" style="color:var(--accent)">Use DiDi only</span></div>
+        <div class="ref-row"><span class="lbl">Pickpockets</span><span class="val" style="color:var(--accent)">Watch at busy tourist sites</span></div>
+      </div>
+
+      <div class="ref-card">
+        <h3>Health</h3>
+        <div class="ref-row"><span class="lbl">Air pollution</span><span class="val">Significant in Beijing — Intrepid provides PM masks</span></div>
+        <div class="ref-row"><span class="lbl">General safety</span><span class="val">China is safe for tourists</span></div>
+        <div class="ref-row"><span class="lbl">Valuables</span><span class="val">Use hotel safety deposit boxes</span></div>
+        <div class="ref-row"><span class="lbl">Insurance</span><span class="val">Compulsory — bring docs to Day 1 meeting</span></div>
+      </div>
+
+      <div class="ref-card">
+        <h3>Transport Safety</h3>
+        <div class="ref-row"><span class="lbl">Taxis</span><span class="val">DiDi app only — not street taxis</span></div>
+        <div class="ref-row"><span class="lbl">No aerosols on trains</span><span class="val">Confiscated — use roll-on only</span></div>
+        <div class="ref-row"><span class="lbl">No knives/scissors</span><span class="val">In any luggage on trains</span></div>
+        <div class="ref-row"><span class="lbl">Power banks</span><span class="val">Must be CCC/3-C certified for flights</span></div>
+      </div>
+
+      <div class="ref-card">
+        <h3>Emergency Contacts</h3>
+        <div class="ref-row"><span class="lbl">Intrepid emergency</span><span class="val">+86 17200311621</span></div>
+        <div class="ref-row"><span class="lbl">Harbour Plaza NP</span><span class="val">+852 21878888</span></div>
+        <div class="ref-row"><span class="lbl">Beijing Dongfang</span><span class="val">+86 1063014466</span></div>
+        <div class="ref-row"><span class="lbl">China emergency</span><span class="val">110 (police) / 120 (ambulance)</span></div>
+      </div>
+
+    </div>
+  </section>
+
   <!-- NOTES -->
   <section id="notes">
     <h2>Notes</h2>
@@ -805,6 +1512,11 @@
 </main>
 
 <script>
+  // Itinerary accordion
+  function toggleDay(card) {
+    card.classList.toggle('open');
+  }
+
   // Nav
   function show(id, btn) {
     document.querySelectorAll('section').forEach(s => s.classList.remove('active'));
