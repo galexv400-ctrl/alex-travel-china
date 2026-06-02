@@ -1,0 +1,867 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>China & Bangkok 2026 — Trip Dashboard</title>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+
+  :root {
+    --red: #c0392b;
+    --gold: #d4a017;
+    --dark: #1a1a2e;
+    --mid: #16213e;
+    --card: #0f3460;
+    --accent: #e94560;
+    --text: #eaeaea;
+    --muted: #a0a8b8;
+    --green: #27ae60;
+    --orange: #e67e22;
+  }
+
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    background: var(--dark);
+    color: var(--text);
+    min-height: 100vh;
+  }
+
+  header {
+    background: linear-gradient(135deg, var(--mid) 0%, var(--dark) 100%);
+    border-bottom: 2px solid var(--gold);
+    padding: 28px 32px 20px;
+    text-align: center;
+  }
+
+  header h1 {
+    font-size: 2rem;
+    font-weight: 700;
+    color: var(--gold);
+    letter-spacing: 1px;
+  }
+
+  header p {
+    color: var(--muted);
+    margin-top: 4px;
+    font-size: 0.9rem;
+  }
+
+  #countdown-bar {
+    background: var(--mid);
+    text-align: center;
+    padding: 14px;
+    border-bottom: 1px solid #2a3555;
+  }
+
+  #countdown-bar .label { color: var(--muted); font-size: 0.8rem; text-transform: uppercase; letter-spacing: 1px; }
+
+  #countdown-bar .numbers {
+    display: flex;
+    justify-content: center;
+    gap: 24px;
+    margin-top: 8px;
+  }
+
+  .count-unit { text-align: center; }
+  .count-unit .num { font-size: 2rem; font-weight: 700; color: var(--gold); line-height: 1; }
+  .count-unit .unit { font-size: 0.7rem; color: var(--muted); text-transform: uppercase; letter-spacing: 1px; }
+
+  nav {
+    display: flex;
+    gap: 4px;
+    padding: 16px 24px;
+    background: var(--mid);
+    flex-wrap: wrap;
+    border-bottom: 1px solid #2a3555;
+  }
+
+  nav button {
+    background: transparent;
+    border: 1px solid #2a3555;
+    color: var(--muted);
+    padding: 7px 16px;
+    border-radius: 20px;
+    cursor: pointer;
+    font-size: 0.85rem;
+    transition: all 0.15s;
+  }
+
+  nav button:hover, nav button.active {
+    background: var(--card);
+    border-color: var(--gold);
+    color: var(--gold);
+  }
+
+  main {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 24px 16px;
+  }
+
+  section { display: none; }
+  section.active { display: block; }
+
+  h2 {
+    font-size: 1.2rem;
+    color: var(--gold);
+    margin-bottom: 16px;
+    padding-bottom: 8px;
+    border-bottom: 1px solid #2a3555;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+  }
+
+  /* TIMELINE */
+  .timeline { position: relative; padding-left: 24px; }
+  .timeline::before {
+    content: '';
+    position: absolute;
+    left: 6px; top: 0; bottom: 0;
+    width: 2px;
+    background: linear-gradient(to bottom, var(--gold), var(--accent));
+  }
+
+  .tl-item {
+    position: relative;
+    margin-bottom: 12px;
+    background: var(--card);
+    border-radius: 10px;
+    padding: 14px 16px;
+    border-left: 3px solid transparent;
+  }
+
+  .tl-item::before {
+    content: '';
+    position: absolute;
+    left: -21px;
+    top: 18px;
+    width: 10px; height: 10px;
+    border-radius: 50%;
+    background: var(--gold);
+    border: 2px solid var(--dark);
+  }
+
+  .tl-item.flight { border-left-color: #3498db; }
+  .tl-item.hotel { border-left-color: var(--green); }
+  .tl-item.tour { border-left-color: var(--gold); }
+  .tl-item.milestone { border-left-color: var(--accent); }
+
+  .tl-date { font-size: 0.75rem; color: var(--muted); text-transform: uppercase; letter-spacing: 0.5px; }
+  .tl-title { font-weight: 600; margin: 2px 0 4px; font-size: 0.95rem; }
+  .tl-detail { font-size: 0.82rem; color: var(--muted); }
+
+  .badge {
+    display: inline-block;
+    padding: 2px 8px;
+    border-radius: 10px;
+    font-size: 0.7rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    margin-right: 6px;
+  }
+  .badge-flight { background: #1a4a7a; color: #74b9ff; }
+  .badge-hotel { background: #1a4a2a; color: #55efc4; }
+  .badge-tour { background: #4a3a00; color: var(--gold); }
+
+  /* CARDS */
+  .cards { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 16px; }
+
+  .card {
+    background: var(--card);
+    border-radius: 12px;
+    padding: 20px;
+    border-top: 3px solid var(--gold);
+    position: relative;
+  }
+
+  .card.flight { border-top-color: #3498db; }
+  .card.hotel { border-top-color: var(--green); }
+
+  .card-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-bottom: 12px;
+  }
+
+  .card-title { font-weight: 700; font-size: 1rem; }
+  .card-sub { font-size: 0.78rem; color: var(--muted); margin-top: 2px; }
+
+  .status-dot {
+    width: 10px; height: 10px;
+    border-radius: 50%;
+    background: var(--green);
+    margin-top: 4px;
+    flex-shrink: 0;
+  }
+  .status-dot.pending { background: var(--orange); }
+
+  .card-row {
+    display: flex;
+    justify-content: space-between;
+    padding: 5px 0;
+    border-bottom: 1px solid #1a2a4a;
+    font-size: 0.83rem;
+  }
+
+  .card-row:last-child { border-bottom: none; }
+  .card-row .label { color: var(--muted); }
+  .card-row .val { font-weight: 500; text-align: right; }
+
+  .route-display {
+    text-align: center;
+    padding: 12px 0;
+    margin-bottom: 12px;
+  }
+
+  .route-display .airports {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 12px;
+    font-size: 1.6rem;
+    font-weight: 700;
+    color: var(--text);
+  }
+
+  .route-display .arrow { font-size: 1rem; color: var(--muted); }
+
+  .route-display .times {
+    display: flex;
+    justify-content: space-between;
+    font-size: 0.78rem;
+    color: var(--muted);
+    margin-top: 4px;
+    padding: 0 8px;
+  }
+
+  /* NOTES */
+  .notes-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; }
+  @media (max-width: 600px) { .notes-grid { grid-template-columns: 1fr; } }
+
+  .note-card {
+    background: var(--card);
+    border-radius: 12px;
+    overflow: hidden;
+  }
+
+  .note-card-header {
+    background: rgba(255,255,255,0.05);
+    padding: 10px 14px;
+    font-size: 0.8rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    color: var(--gold);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .note-card-header span { color: var(--muted); font-weight: 400; font-size: 0.7rem; text-transform: none; letter-spacing: 0; }
+
+  textarea {
+    width: 100%;
+    background: transparent;
+    border: none;
+    color: var(--text);
+    font-family: inherit;
+    font-size: 0.85rem;
+    padding: 12px 14px;
+    resize: vertical;
+    min-height: 140px;
+    outline: none;
+    line-height: 1.6;
+  }
+
+  textarea::placeholder { color: #3a4a6a; }
+
+  /* QUICK REF */
+  .ref-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 12px; }
+
+  .ref-card {
+    background: var(--card);
+    border-radius: 10px;
+    padding: 16px;
+  }
+
+  .ref-card h3 {
+    font-size: 0.78rem;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    color: var(--gold);
+    margin-bottom: 10px;
+  }
+
+  .ref-row {
+    display: flex;
+    justify-content: space-between;
+    padding: 4px 0;
+    font-size: 0.82rem;
+    border-bottom: 1px solid #1a2a4a;
+  }
+
+  .ref-row:last-child { border-bottom: none; }
+  .ref-row .lbl { color: var(--muted); }
+  .ref-row .val { font-weight: 500; font-family: monospace; font-size: 0.82rem; }
+
+  .copy-btn {
+    background: transparent;
+    border: none;
+    color: var(--muted);
+    cursor: pointer;
+    font-size: 0.7rem;
+    padding: 0 4px;
+    transition: color 0.1s;
+  }
+  .copy-btn:hover { color: var(--gold); }
+
+  /* CHECKLIST */
+  .checklist { list-style: none; }
+  .checklist li {
+    display: flex;
+    align-items: flex-start;
+    gap: 10px;
+    padding: 10px 14px;
+    background: var(--card);
+    border-radius: 8px;
+    margin-bottom: 8px;
+    font-size: 0.87rem;
+    cursor: pointer;
+    transition: opacity 0.15s;
+    user-select: none;
+  }
+
+  .checklist li.done { opacity: 0.45; text-decoration: line-through; color: var(--muted); }
+
+  .check-box {
+    width: 18px; height: 18px;
+    border: 2px solid var(--muted);
+    border-radius: 4px;
+    flex-shrink: 0;
+    margin-top: 1px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all 0.15s;
+  }
+
+  .checklist li.done .check-box {
+    background: var(--green);
+    border-color: var(--green);
+    color: white;
+  }
+
+  .check-cat { font-size: 0.7rem; color: var(--muted); text-transform: uppercase; letter-spacing: 0.5px; margin: 16px 0 6px; }
+  .check-cat:first-child { margin-top: 0; }
+
+  /* COST */
+  .cost-table { width: 100%; border-collapse: collapse; font-size: 0.87rem; }
+  .cost-table th {
+    text-align: left;
+    padding: 8px 12px;
+    background: rgba(255,255,255,0.05);
+    color: var(--muted);
+    font-size: 0.75rem;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+  }
+  .cost-table td { padding: 9px 12px; border-bottom: 1px solid #1a2a4a; }
+  .cost-table tr:last-child td { border-bottom: none; }
+  .cost-table .cat-row td { background: rgba(255,255,255,0.03); color: var(--gold); font-weight: 600; font-size: 0.8rem; padding: 6px 12px; }
+  .cost-table .total-row td { border-top: 2px solid var(--gold); font-weight: 700; color: var(--gold); }
+  .booked { color: var(--green); }
+  .pending-cost { color: var(--orange); }
+
+  .cost-summary {
+    display: flex;
+    gap: 12px;
+    margin-bottom: 20px;
+    flex-wrap: wrap;
+  }
+
+  .cost-box {
+    background: var(--card);
+    border-radius: 10px;
+    padding: 16px 20px;
+    flex: 1;
+    min-width: 140px;
+    text-align: center;
+  }
+
+  .cost-box .amount { font-size: 1.5rem; font-weight: 700; color: var(--gold); }
+  .cost-box .desc { font-size: 0.75rem; color: var(--muted); margin-top: 4px; }
+
+  @media (max-width: 600px) {
+    header h1 { font-size: 1.4rem; }
+    .count-unit .num { font-size: 1.4rem; }
+    nav { padding: 10px 12px; }
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <h1>China &amp; Bangkok 2026</h1>
+  <p>Alexandra Segall &nbsp;·&nbsp; 15 Oct – 8 Nov 2026 &nbsp;·&nbsp; 25 days</p>
+</header>
+
+<div id="countdown-bar">
+  <div class="label">Departure in</div>
+  <div class="numbers">
+    <div class="count-unit"><div class="num" id="cd-days">—</div><div class="unit">Days</div></div>
+    <div class="count-unit"><div class="num" id="cd-hours">—</div><div class="unit">Hours</div></div>
+    <div class="count-unit"><div class="num" id="cd-mins">—</div><div class="unit">Mins</div></div>
+  </div>
+</div>
+
+<nav>
+  <button class="active" onclick="show('timeline', this)">Timeline</button>
+  <button onclick="show('flights', this)">Flights</button>
+  <button onclick="show('hotels', this)">Hotels</button>
+  <button onclick="show('costs', this)">Costs</button>
+  <button onclick="show('checklist', this)">Checklist</button>
+  <button onclick="show('quickref', this)">Quick Ref</button>
+  <button onclick="show('notes', this)">Notes</button>
+</nav>
+
+<main>
+
+  <!-- TIMELINE -->
+  <section id="timeline" class="active">
+    <h2>Full Trip Timeline</h2>
+    <div class="timeline">
+
+      <div class="tl-item flight">
+        <div class="tl-date">Thu 15 Oct</div>
+        <div class="tl-title"><span class="badge badge-flight">Flight</span> TLV → Bangkok</div>
+        <div class="tl-detail">El Al LY85 · Departs ~00:05 · Arrives BKK 15:45</div>
+      </div>
+
+      <div class="tl-item hotel">
+        <div class="tl-date">Thu 15 Oct</div>
+        <div class="tl-title"><span class="badge badge-hotel">Hotel</span> Check in — Canalis Airport Hotel</div>
+        <div class="tl-detail">Bangkok Suvarnabhumi · 1 night · Check-in from 14:00</div>
+      </div>
+
+      <div class="tl-item flight">
+        <div class="tl-date">Fri 16 Oct</div>
+        <div class="tl-title"><span class="badge badge-flight">Flight</span> Bangkok → Hong Kong</div>
+        <div class="tl-detail">Thai Airways TG628 · 10:30 → 14:20 · Seat 44H</div>
+      </div>
+
+      <div class="tl-item hotel">
+        <div class="tl-date">Fri 16 Oct</div>
+        <div class="tl-title"><span class="badge badge-hotel">Hotel</span> Check in — The Luxe Manor</div>
+        <div class="tl-detail">Tsim Sha Tsui, Kowloon · 3 nights · Breakfast included</div>
+      </div>
+
+      <div class="tl-item milestone">
+        <div class="tl-date">Mon 19 Oct — 6:00 PM ⚠️</div>
+        <div class="tl-title">Intrepid Welcome Meeting — MANDATORY</div>
+        <div class="tl-detail">Harbour Plaza North Point, 665 King's Road, North Point, HK Island (NOT Kowloon) · Bring insurance docs · MTR: TST → Quarry Bay Exit C (~20 min) · Leave hotel by 5:30pm</div>
+      </div>
+
+      <div class="tl-item tour">
+        <div class="tl-date">Mon 19 Oct → Tue 3 Nov</div>
+        <div class="tl-title"><span class="badge badge-tour">Tour</span> Intrepid China Adventure #6886724</div>
+        <div class="tl-detail">HK → Chongqing → Zhangjiajie → Shanghai → Xi'an → Great Wall → Beijing</div>
+      </div>
+
+      <div class="tl-item milestone">
+        <div class="tl-date">Wed 28 Oct — 4:00 PM</div>
+        <div class="tl-title">Second Welcome Meeting — Shanghai</div>
+        <div class="tl-detail">New group joins, leader likely changes</div>
+      </div>
+
+      <div class="tl-item milestone">
+        <div class="tl-date">Sat 1 Nov</div>
+        <div class="tl-title">Great Wall Night — Guesthouse</div>
+        <div class="tl-detail">Basic but private facilities. Sunset hike highly recommended. Chairlift likely closed Nov–Mar.</div>
+      </div>
+
+      <div class="tl-item milestone">
+        <div class="tl-date">Tue 3 Nov</div>
+        <div class="tl-title">Farewell Dinner — Beijing Duck 🦆</div>
+        <div class="tl-detail">Tiananmen Square, Forbidden City. Tour ends.</div>
+      </div>
+
+      <div class="tl-item flight">
+        <div class="tl-date">Wed 4 Nov</div>
+        <div class="tl-title"><span class="badge badge-flight">Flight</span> Beijing → Bangkok</div>
+        <div class="tl-detail">Air China CA959 · PEK T3 14:00 → BKK 18:05 · Seat 46D · Leave hotel by 11:00am</div>
+      </div>
+
+      <div class="tl-item hotel">
+        <div class="tl-date">Wed 4 Nov</div>
+        <div class="tl-title"><span class="badge badge-hotel">Hotel</span> Check in — Sindhorn Midtown Bangkok</div>
+        <div class="tl-detail">Lumphini · 4 nights · Breakfast included · Check-in from 15:00</div>
+      </div>
+
+      <div class="tl-item flight">
+        <div class="tl-date">Sun 8 Nov</div>
+        <div class="tl-title"><span class="badge badge-flight">Flight</span> Bangkok → Tel Aviv</div>
+        <div class="tl-detail">El Al BKK → TLV · Classic fare · Check out Sindhorn by 12:00</div>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- FLIGHTS -->
+  <section id="flights">
+    <h2>Flights</h2>
+    <div class="cards">
+
+      <div class="card flight">
+        <div class="card-header">
+          <div><div class="card-title">El Al LY85</div><div class="card-sub">Thu 15 Oct 2026</div></div>
+          <div class="status-dot"></div>
+        </div>
+        <div class="route-display">
+          <div class="airports"><span>TLV</span><span class="arrow">✈ ──────</span><span>BKK</span></div>
+          <div class="times"><span>~00:05</span><span>15:45</span></div>
+        </div>
+        <div class="card-row"><span class="label">Airline</span><span class="val">El Al</span></div>
+        <div class="card-row"><span class="label">Price</span><span class="val">$651.77</span></div>
+        <div class="card-row"><span class="label">Status</span><span class="val booked">✓ Booked</span></div>
+      </div>
+
+      <div class="card flight">
+        <div class="card-header">
+          <div><div class="card-title">Thai Airways TG628</div><div class="card-sub">Fri 16 Oct 2026</div></div>
+          <div class="status-dot"></div>
+        </div>
+        <div class="route-display">
+          <div class="airports"><span>BKK</span><span class="arrow">✈ ──────</span><span>HKG</span></div>
+          <div class="times"><span>10:30</span><span>14:20</span></div>
+        </div>
+        <div class="card-row"><span class="label">Booking ref</span><span class="val">EASDQZ</span></div>
+        <div class="card-row"><span class="label">E-Ticket</span><span class="val">2172348955256</span></div>
+        <div class="card-row"><span class="label">Seat</span><span class="val">44H</span></div>
+        <div class="card-row"><span class="label">Baggage</span><span class="val">1 × 23kg + 7kg carry-on</span></div>
+        <div class="card-row"><span class="label">Price</span><span class="val">$193.78</span></div>
+        <div class="card-row"><span class="label">Status</span><span class="val booked">✓ Booked</span></div>
+      </div>
+
+      <div class="card flight">
+        <div class="card-header">
+          <div><div class="card-title">Air China CA959</div><div class="card-sub">Wed 4 Nov 2026</div></div>
+          <div class="status-dot"></div>
+        </div>
+        <div class="route-display">
+          <div class="airports"><span>PEK</span><span class="arrow">✈ ──────</span><span>BKK</span></div>
+          <div class="times"><span>14:00</span><span>18:05</span></div>
+        </div>
+        <div class="card-row"><span class="label">Booking ref</span><span class="val">ECFV7Q</span></div>
+        <div class="card-row"><span class="label">Air China ref</span><span class="val">MESQ54</span></div>
+        <div class="card-row"><span class="label">E-Ticket</span><span class="val">999-2425129533</span></div>
+        <div class="card-row"><span class="label">Seat</span><span class="val">46D</span></div>
+        <div class="card-row"><span class="label">Terminal</span><span class="val">PEK Terminal 3</span></div>
+        <div class="card-row"><span class="label">Baggage</span><span class="val">1 × 23kg included</span></div>
+        <div class="card-row"><span class="label">Price</span><span class="val">£190 (~$240)</span></div>
+        <div class="card-row"><span class="label">Status</span><span class="val booked">✓ Booked</span></div>
+      </div>
+
+      <div class="card flight">
+        <div class="card-header">
+          <div><div class="card-title">El Al (Classic)</div><div class="card-sub">Sun 8 Nov 2026</div></div>
+          <div class="status-dot"></div>
+        </div>
+        <div class="route-display">
+          <div class="airports"><span>BKK</span><span class="arrow">✈ ──────</span><span>TLV</span></div>
+          <div class="times"><span>TBC</span><span>TBC</span></div>
+        </div>
+        <div class="card-row"><span class="label">Fare</span><span class="val">Classic</span></div>
+        <div class="card-row"><span class="label">Price</span><span class="val">$577.20</span></div>
+        <div class="card-row"><span class="label">Status</span><span class="val booked">✓ Booked</span></div>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- HOTELS -->
+  <section id="hotels">
+    <h2>Hotels</h2>
+    <div class="cards">
+
+      <div class="card hotel">
+        <div class="card-header">
+          <div><div class="card-title">Canalis Airport Hotel</div><div class="card-sub">Bangkok · 1 night</div></div>
+          <div class="status-dot"></div>
+        </div>
+        <div class="card-row"><span class="label">Check-in</span><span class="val">Thu 15 Oct, from 14:00</span></div>
+        <div class="card-row"><span class="label">Check-out</span><span class="val">Fri 16 Oct, by 12:00</span></div>
+        <div class="card-row"><span class="label">Room</span><span class="val">Deluxe Double</span></div>
+        <div class="card-row"><span class="label">Breakfast</span><span class="val">Not included</span></div>
+        <div class="card-row"><span class="label">Conf #</span><span class="val">6637.638.401</span></div>
+        <div class="card-row"><span class="label">PIN</span><span class="val">4470</span></div>
+        <div class="card-row"><span class="label">Phone</span><span class="val">+66 2 332 1555</span></div>
+        <div class="card-row"><span class="label">Price</span><span class="val">₪158</span></div>
+        <div class="card-row"><span class="label">Shuttle</span><span class="val">Free — confirm times direct</span></div>
+        <div class="card-row"><span class="label">Cancel by</span><span class="val">11 Oct 2026</span></div>
+      </div>
+
+      <div class="card hotel">
+        <div class="card-header">
+          <div><div class="card-title">The Luxe Manor</div><div class="card-sub">Hong Kong · 3 nights</div></div>
+          <div class="status-dot"></div>
+        </div>
+        <div class="card-row"><span class="label">Address</span><span class="val">39 Kimberley Rd, TST</span></div>
+        <div class="card-row"><span class="label">Check-in</span><span class="val">Fri 16 Oct, from 14:00</span></div>
+        <div class="card-row"><span class="label">Check-out</span><span class="val">Mon 19 Oct, by 12:00 ⚠️</span></div>
+        <div class="card-row"><span class="label">Room</span><span class="val">Superior Double or Twin</span></div>
+        <div class="card-row"><span class="label">Breakfast</span><span class="val">Included ✓</span></div>
+        <div class="card-row"><span class="label">Conf #</span><span class="val">5515516445</span></div>
+        <div class="card-row"><span class="label">Price</span><span class="val">₪1,397</span></div>
+        <div class="card-row"><span class="label">Cancel by</span><span class="val">16 Sep 2026</span></div>
+        <div class="card-row"><span class="label">Note</span><span class="val">Check out → MTR to welcome meeting</span></div>
+      </div>
+
+      <div class="card hotel">
+        <div class="card-header">
+          <div><div class="card-title">Sindhorn Midtown Bangkok</div><div class="card-sub">Bangkok · 4 nights</div></div>
+          <div class="status-dot"></div>
+        </div>
+        <div class="card-row"><span class="label">Address</span><span class="val">68 Langsuan Rd, Lumphini</span></div>
+        <div class="card-row"><span class="label">Check-in</span><span class="val">Wed 4 Nov, from 15:00</span></div>
+        <div class="card-row"><span class="label">Check-out</span><span class="val">Sun 8 Nov, by 12:00</span></div>
+        <div class="card-row"><span class="label">Room</span><span class="val">King Studio</span></div>
+        <div class="card-row"><span class="label">Breakfast</span><span class="val">Included ✓</span></div>
+        <div class="card-row"><span class="label">Conf #</span><span class="val">6761.193.363</span></div>
+        <div class="card-row"><span class="label">PIN</span><span class="val">6989</span></div>
+        <div class="card-row"><span class="label">Phone</span><span class="val">+66 2 796 8888</span></div>
+        <div class="card-row"><span class="label">Price</span><span class="val">₪2,020 (pay at property)</span></div>
+        <div class="card-row"><span class="label">Cancel by</span><span class="val">4 Oct 2026</span></div>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- COSTS -->
+  <section id="costs">
+    <h2>Cost Tracker</h2>
+    <div class="cost-summary">
+      <div class="cost-box"><div class="amount">~$6,630</div><div class="desc">Confirmed spend</div></div>
+      <div class="cost-box"><div class="amount">~$6,900</div><div class="desc">Estimated total</div></div>
+      <div class="cost-box"><div class="amount">~$276</div><div class="desc">Per day (25 days)</div></div>
+    </div>
+    <table class="cost-table">
+      <thead><tr><th>Item</th><th>Cost</th><th>Status</th></tr></thead>
+      <tbody>
+        <tr class="cat-row"><td colspan="3">Flights</td></tr>
+        <tr><td>El Al TLV → BKK (15 Oct)</td><td>$651.77</td><td class="booked">✓ Booked</td></tr>
+        <tr><td>Thai Airways BKK → HKG (16 Oct)</td><td>$193.78</td><td class="booked">✓ Booked</td></tr>
+        <tr><td>Air China PEK → BKK (4 Nov)</td><td>£190 (~$240)</td><td class="booked">✓ Booked</td></tr>
+        <tr><td>El Al BKK → TLV (8 Nov)</td><td>$577.20</td><td class="booked">✓ Booked</td></tr>
+        <tr class="cat-row"><td colspan="3">Hotels</td></tr>
+        <tr><td>Canalis Bangkok Airport (15 Oct, 1 night)</td><td>₪158</td><td class="booked">✓ Booked</td></tr>
+        <tr><td>The Luxe Manor HK (16–18 Oct, 3 nights)</td><td>₪1,397</td><td class="booked">✓ Booked</td></tr>
+        <tr><td>Sindhorn Midtown Bangkok (4–8 Nov, 4 nights)</td><td>₪2,020</td><td class="booked">✓ Booked</td></tr>
+        <tr class="cat-row"><td colspan="3">Tour & Other</td></tr>
+        <tr><td>Intrepid China Adventure #6886724</td><td>~$4,000</td><td class="booked">✓ Booked</td></tr>
+        <tr><td>Travel insurance</td><td>~$270</td><td class="pending-cost">⏳ To book</td></tr>
+        <tr class="total-row"><td><strong>Estimated Grand Total</strong></td><td colspan="2"><strong>~$6,900</strong></td></tr>
+      </tbody>
+    </table>
+  </section>
+
+  <!-- CHECKLIST -->
+  <section id="checklist">
+    <h2>Pre-Trip Checklist</h2>
+    <p class="check-cat">Flights & Bookings</p>
+    <ul class="checklist" id="cl">
+      <li onclick="toggleCheck(this)" data-id="c1"><div class="check-box">✓</div>El Al TLV → BKK booked (LY85, 15 Oct)</li>
+      <li onclick="toggleCheck(this)" data-id="c2"><div class="check-box">✓</div>Thai Airways BKK → HKG booked (TG628, 16 Oct)</li>
+      <li onclick="toggleCheck(this)" data-id="c3"><div class="check-box">✓</div>Air China PEK → BKK booked (CA959, 4 Nov)</li>
+      <li onclick="toggleCheck(this)" data-id="c4"><div class="check-box">✓</div>El Al BKK → TLV booked (8 Nov)</li>
+    </ul>
+    <p class="check-cat">Hotels</p>
+    <ul class="checklist">
+      <li onclick="toggleCheck(this)" data-id="h1"><div class="check-box">✓</div>Canalis Airport Hotel booked (15 Oct)</li>
+      <li onclick="toggleCheck(this)" data-id="h2"><div class="check-box">✓</div>The Luxe Manor HK booked (16–18 Oct)</li>
+      <li onclick="toggleCheck(this)" data-id="h3"><div class="check-box">✓</div>Sindhorn Midtown Bangkok booked (4–8 Nov)</li>
+    </ul>
+    <p class="check-cat">Documents & Admin</p>
+    <ul class="checklist">
+      <li onclick="toggleCheck(this)" data-id="d1"><div class="check-box"></div>Book travel insurance (compulsory — needed at welcome meeting)</li>
+      <li onclick="toggleCheck(this)" data-id="d2"><div class="check-box"></div>Send passport scan to Intrepid by 5 September 2026</li>
+      <li onclick="toggleCheck(this)" data-id="d3"><div class="check-box"></div>UK passport valid past May 2027</li>
+      <li onclick="toggleCheck(this)" data-id="d4"><div class="check-box"></div>Complete China Customs digital health declaration (before boarding)</li>
+      <li onclick="toggleCheck(this)" data-id="d5"><div class="check-box"></div>Save all confirmations offline on phone</li>
+      <li onclick="toggleCheck(this)" data-id="d6"><div class="check-box"></div>Decide on single supplement (currently twin-share with stranger)</li>
+    </ul>
+    <p class="check-cat">Apps — Set Up Before Leaving Israel</p>
+    <ul class="checklist">
+      <li onclick="toggleCheck(this)" data-id="a1"><div class="check-box"></div>VPN — install and test (Google/WhatsApp/Instagram blocked in China)</li>
+      <li onclick="toggleCheck(this)" data-id="a2"><div class="check-box"></div>WeChat — create account, link foreign bank card</li>
+      <li onclick="toggleCheck(this)" data-id="a3"><div class="check-box"></div>Alipay — create account, link foreign bank card</li>
+      <li onclick="toggleCheck(this)" data-id="a4"><div class="check-box"></div>DiDi — set up with foreign card</li>
+      <li onclick="toggleCheck(this)" data-id="a5"><div class="check-box"></div>Baidu Maps — download offline maps</li>
+      <li onclick="toggleCheck(this)" data-id="a6"><div class="check-box"></div>Google Translate — download Chinese offline pack</li>
+    </ul>
+    <p class="check-cat">Money</p>
+    <ul class="checklist">
+      <li onclick="toggleCheck(this)" data-id="m1"><div class="check-box"></div>Notify bank of travel dates</li>
+      <li onclick="toggleCheck(this)" data-id="m2"><div class="check-box"></div>Get CNY 500–750 cash for first days in China</li>
+      <li onclick="toggleCheck(this)" data-id="m3"><div class="check-box"></div>Get Thai Baht cash for Bangkok</li>
+      <li onclick="toggleCheck(this)" data-id="m4"><div class="check-box"></div>Carry $500 USD emergency contingency (separate from CNY)</li>
+    </ul>
+    <p class="check-cat">Packing</p>
+    <ul class="checklist">
+      <li onclick="toggleCheck(this)" data-id="p1"><div class="check-box"></div>CCC/3-C certified power bank (others confiscated on China flights)</li>
+      <li onclick="toggleCheck(this)" data-id="p2"><div class="check-box"></div>Roll-on/cream sunscreen — NO aerosol sprays (confiscated on trains)</li>
+      <li onclick="toggleCheck(this)" data-id="p3"><div class="check-box"></div>Roll-on insect repellent — NO spray</li>
+      <li onclick="toggleCheck(this)" data-id="p4"><div class="check-box"></div>No pocket knives or scissors in any luggage on trains</li>
+      <li onclick="toggleCheck(this)" data-id="p5"><div class="check-box"></div>Warm layers + jacket for Great Wall (1 Nov, northern China ~5°C)</li>
+      <li onclick="toggleCheck(this)" data-id="p6"><div class="check-box"></div>Modest clothing for religious sites (cover shoulders + knees)</li>
+      <li onclick="toggleCheck(this)" data-id="p7"><div class="check-box"></div>Sturdy walking shoes (4hr Zhangjiajie hike + 2hr Great Wall hike)</li>
+      <li onclick="toggleCheck(this)" data-id="p8"><div class="check-box"></div>Day pack for daily excursions</li>
+      <li onclick="toggleCheck(this)" data-id="p9"><div class="check-box"></div>Luggage under 15kg</li>
+    </ul>
+  </section>
+
+  <!-- QUICK REF -->
+  <section id="quickref">
+    <h2>Quick Reference</h2>
+    <div class="ref-grid">
+
+      <div class="ref-card">
+        <h3>Intrepid Tour</h3>
+        <div class="ref-row"><span class="lbl">Booking #</span><span class="val">6886724</span></div>
+        <div class="ref-row"><span class="lbl">Trip code</span><span class="val">CBSHC</span></div>
+        <div class="ref-row"><span class="lbl">Emergency</span><span class="val">+86 17200311621</span></div>
+        <div class="ref-row"><span class="lbl">Start hotel</span><span class="val">Harbour Plaza North Point, HK Island</span></div>
+        <div class="ref-row"><span class="lbl">End hotel</span><span class="val">Beijing Dongfang Hotel</span></div>
+      </div>
+
+      <div class="ref-card">
+        <h3>Flight Refs</h3>
+        <div class="ref-row"><span class="lbl">Thai TG628</span><span class="val">EASDQZ</span></div>
+        <div class="ref-row"><span class="lbl">Air China CA959</span><span class="val">ECFV7Q / MESQ54</span></div>
+        <div class="ref-row"><span class="lbl">CA959 e-ticket</span><span class="val">999-2425129533</span></div>
+        <div class="ref-row"><span class="lbl">TG628 e-ticket</span><span class="val">2172348955256</span></div>
+      </div>
+
+      <div class="ref-card">
+        <h3>Hotel Refs</h3>
+        <div class="ref-row"><span class="lbl">Canalis BKK</span><span class="val">6637.638.401 / PIN 4470</span></div>
+        <div class="ref-row"><span class="lbl">Luxe Manor HK</span><span class="val">5515516445</span></div>
+        <div class="ref-row"><span class="lbl">Sindhorn BKK</span><span class="val">6761.193.363 / PIN 6989</span></div>
+      </div>
+
+      <div class="ref-card">
+        <h3>Hotel Phones</h3>
+        <div class="ref-row"><span class="lbl">Canalis</span><span class="val">+66 2 332 1555</span></div>
+        <div class="ref-row"><span class="lbl">Harbour Plaza NP</span><span class="val">+852 21878888</span></div>
+        <div class="ref-row"><span class="lbl">Beijing Dongfang</span><span class="val">+86 1063014466</span></div>
+        <div class="ref-row"><span class="lbl">Sindhorn</span><span class="val">+66 2 796 8888</span></div>
+      </div>
+
+      <div class="ref-card">
+        <h3>Beijing Airport (4 Nov)</h3>
+        <div class="ref-row"><span class="lbl">Airport</span><span class="val">PEK — Terminal 3</span></div>
+        <div class="ref-row"><span class="lbl">Flight</span><span class="val">CA959 departs 14:00</span></div>
+        <div class="ref-row"><span class="lbl">Leave hotel by</span><span class="val">11:00am</span></div>
+        <div class="ref-row"><span class="lbl">Taxi time</span><span class="val">~45–60 min, ~CNY120</span></div>
+        <div class="ref-row"><span class="lbl">Metro option</span><span class="val">Airport Express from Dongzhimen</span></div>
+      </div>
+
+      <div class="ref-card">
+        <h3>Critical Dates</h3>
+        <div class="ref-row"><span class="lbl">Cancel Luxe Manor by</span><span class="val">16 Sep 2026</span></div>
+        <div class="ref-row"><span class="lbl">Cancel Sindhorn by</span><span class="val">4 Oct 2026</span></div>
+        <div class="ref-row"><span class="lbl">Cancel Canalis by</span><span class="val">11 Oct 2026</span></div>
+        <div class="ref-row"><span class="lbl">Passport scan → Intrepid</span><span class="val">By 5 Sep 2026</span></div>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- NOTES -->
+  <section id="notes">
+    <h2>Notes</h2>
+    <div class="notes-grid">
+      <div class="note-card">
+        <div class="note-card-header">General <span>Auto-saved</span></div>
+        <textarea id="note-general" placeholder="General trip notes..." oninput="saveNote('general', this.value)"></textarea>
+      </div>
+      <div class="note-card">
+        <div class="note-card-header">Packing <span>Auto-saved</span></div>
+        <textarea id="note-packing" placeholder="Packing reminders..." oninput="saveNote('packing', this.value)"></textarea>
+      </div>
+      <div class="note-card">
+        <div class="note-card-header">China Tips <span>Auto-saved</span></div>
+        <textarea id="note-china" placeholder="Tips, recommendations, places to try..." oninput="saveNote('china', this.value)"></textarea>
+      </div>
+      <div class="note-card">
+        <div class="note-card-header">Bangkok <span>Auto-saved</span></div>
+        <textarea id="note-bkk" placeholder="Bangkok plans, restaurants, shopping..." oninput="saveNote('bkk', this.value)"></textarea>
+      </div>
+    </div>
+  </section>
+
+</main>
+
+<script>
+  // Nav
+  function show(id, btn) {
+    document.querySelectorAll('section').forEach(s => s.classList.remove('active'));
+    document.querySelectorAll('nav button').forEach(b => b.classList.remove('active'));
+    document.getElementById(id).classList.add('active');
+    btn.classList.add('active');
+  }
+
+  // Countdown to 15 Oct 2026 00:05 Israel time (UTC+3)
+  function updateCountdown() {
+    const departure = new Date('2026-10-14T21:05:00Z'); // 00:05 IST = 21:05 UTC prev day
+    const now = new Date();
+    const diff = departure - now;
+    if (diff <= 0) {
+      document.getElementById('countdown-bar').innerHTML = '<div style="color:var(--gold);font-weight:700;font-size:1.1rem">✈ Trip in progress!</div>';
+      return;
+    }
+    const days = Math.floor(diff / 86400000);
+    const hours = Math.floor((diff % 86400000) / 3600000);
+    const mins = Math.floor((diff % 3600000) / 60000);
+    document.getElementById('cd-days').textContent = days;
+    document.getElementById('cd-hours').textContent = String(hours).padStart(2,'0');
+    document.getElementById('cd-mins').textContent = String(mins).padStart(2,'0');
+  }
+  updateCountdown();
+  setInterval(updateCountdown, 30000);
+
+  // Checklist — persist in localStorage
+  function toggleCheck(el) {
+    el.classList.toggle('done');
+    const id = el.dataset.id;
+    const done = JSON.parse(localStorage.getItem('checklist') || '{}');
+    done[id] = el.classList.contains('done');
+    localStorage.setItem('checklist', JSON.stringify(done));
+  }
+
+  function loadChecklist() {
+    const done = JSON.parse(localStorage.getItem('checklist') || '{}');
+    document.querySelectorAll('[data-id]').forEach(el => {
+      if (done[el.dataset.id]) el.classList.add('done');
+    });
+  }
+  loadChecklist();
+
+  // Notes — persist in localStorage
+  function saveNote(key, val) {
+    localStorage.setItem('note-' + key, val);
+  }
+
+  function loadNotes() {
+    ['general','packing','china','bkk'].forEach(key => {
+      const val = localStorage.getItem('note-' + key);
+      if (val) document.getElementById('note-' + key).value = val;
+    });
+  }
+  loadNotes();
+</script>
+
+</body>
+</html>
