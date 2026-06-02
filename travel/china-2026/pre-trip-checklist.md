@@ -7,7 +7,7 @@
 - [x] El Al TLV → BKK (15 Oct) — BOOKED $651.77
 - [x] El Al BKK → TLV (8 Nov) — BOOKED $577.20
 - [x] BKK → HKG (16 Oct) — Thai Airways TG628 10:30→14:20. Ref: EASDQZ, ~$100–150
-- [ ] Beijing → BKK post-tour flight (4 Nov) — any carrier, ~$200–300
+- [x] Beijing → BKK (4 Nov) — Air China CA959, PEK 14:00→BKK 18:05. Ref: ECFV7Q, £190
 
 ---
 

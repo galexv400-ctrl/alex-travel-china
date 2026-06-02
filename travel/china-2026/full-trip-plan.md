@@ -56,7 +56,7 @@
 |--------|-------|---------|------|-------|--------|
 | Outbound | TLV → BKK | El Al LY85 | Thu 15 Oct | $651.77 | ✅ BOOKED |
 | Connecting | BKK → HKG | Thai Airways TG628 | Fri 16 Oct | $193.78 | ✅ BOOKED |
-| Post-tour | Beijing → BKK | Any carrier | Wed 4 Nov | ~$200–300 | ❌ Still to book |
+| Post-tour | Beijing → BKK | Air China CA959 | Wed 4 Nov | £190 (~$240) | ✅ BOOKED |
 | Return | BKK → TLV | El Al | Sun 8 Nov | $577.20 | ✅ BOOKED |
 
 ---
@@ -71,7 +71,7 @@
 | El Al TLV → BKK (15 Oct) | $651.77 | ✅ Booked |
 | El Al BKK → TLV (8 Nov) | $577.20 | ✅ Booked |
 | BKK → HKG — Thai Airways TG628 (16 Oct) | $193.78 | ✅ Booked |
-| Beijing → BKK (4 Nov) | ~$200–300 | ❌ To book |
+| Beijing → BKK — Air China CA959 (4 Nov) | £190 (~$240) | ✅ Booked |
 | **Hotels** | | |
 | Bangkok airport — Canalis (15 Oct) | ₪158 | ✅ Booked |
 | Hong Kong — The Luxe Manor (16–18 Oct) | ₪1,397 | ✅ Booked |
@@ -79,8 +79,8 @@
 | **Other** | | |
 | Travel insurance (Passportcard estimate) | ~$270 | ❌ To book |
 | Intrepid tour #6886724 | ~$4,000 | ✅ Booked |
-| **Confirmed total** | **~$6,390** | — |
-| **Estimated grand total** | **~$6,910** | — |
+| **Confirmed total** | **~$6,630** | — |
+| **Estimated grand total** | **~$6,900** | — |
 
 ---
 
@@ -101,6 +101,9 @@
 - Tour finishing point: Beijing Dongfang Hotel, 11 Wanming Road, Xicheng District, Beijing
 - El Al outbound: LY85, departs TLV ~00:05, arrives BKK 15:45
 - El Al return: BKK → TLV, departs Sun 8 Nov (Classic fare)
+- Beijing → BKK: Air China CA959, departs PEK 14:00, arrives BKK 18:05, Wed 4 Nov
+- Booking ref: ECFV7Q | Air China confirmation: MESQ54 | E-ticket: 999-2425129533
+- Seat: 46D | Terminal 3 PEK | Economy Standard | 1 bag 23kg included
 - Bangkok airport hotel: Canalis Suvarnabhumi Airport Hotel
 - Address: 1599/1 Lat Krabang Soi 13, Lat Krabang, Bangkok 10520
 - Phone: +66 2 332 1555
