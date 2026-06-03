@@ -520,6 +520,25 @@
   html, body { height: 100%; }
 
   main { padding-bottom: 40px; }
+
+  .phrase-row {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    gap: 8px;
+    padding: 9px 14px;
+    border-bottom: 1px solid #1a2a4a;
+    font-size: 0.82rem;
+    align-items: center;
+  }
+  .phrase-row:last-child { border-bottom: none; }
+  .ph-en { color: var(--text); }
+  .ph-zh { color: var(--gold); font-size: 1rem; }
+  .ph-py { color: #a29bfe; }
+  .ph-tip { color: var(--muted); font-style: italic; font-size: 0.75rem; }
+  @media (max-width: 600px) {
+    .phrase-row { grid-template-columns: 1fr 1fr; gap: 4px; }
+    .ph-py, .ph-tip { font-size: 0.72rem; }
+  }
 </style>
 </head>
 <body>
@@ -550,6 +569,7 @@
   <button onclick="show('activities', this)">Activities</button>
   <button onclick="show('moneytips', this)">Money & Tips</button>
   <button onclick="show('safety', this)">Safety</button>
+  <button onclick="show('phrases', this)">Phrases</button>
   <button onclick="show('notes', this)">Notes</button>
 </nav>
 
@@ -1524,6 +1544,101 @@
       </div>
 
     </div>
+  </section>
+
+  <!-- PHRASES -->
+  <section id="phrases">
+    <h2>Mandarin Phrasebook</h2>
+    <p style="color:var(--muted);font-size:0.83rem;margin-bottom:16px">Pinyin pronunciation guide: <strong style="color:var(--text)">ā á ǎ à</strong> = flat · rising · dip-rise · falling tone. When unsure, speak slowly and show the Chinese characters.</p>
+
+    <div style="margin-bottom:20px">
+      <h3 style="color:var(--gold);font-size:0.85rem;text-transform:uppercase;letter-spacing:1px;margin-bottom:10px">👋 Basics</h3>
+      <div style="background:var(--card);border-radius:10px;overflow:hidden">
+        <div class="phrase-row"><div class="ph-en">Hello</div><div class="ph-zh">你好</div><div class="ph-py">Nǐ hǎo</div><div class="ph-tip">nee how</div></div>
+        <div class="phrase-row"><div class="ph-en">Thank you</div><div class="ph-zh">谢谢</div><div class="ph-py">Xiè xie</div><div class="ph-tip">shyeh shyeh</div></div>
+        <div class="phrase-row"><div class="ph-en">You're welcome</div><div class="ph-zh">不客气</div><div class="ph-py">Bù kè qi</div><div class="ph-tip">boo kuh chee</div></div>
+        <div class="phrase-row"><div class="ph-en">Sorry / Excuse me</div><div class="ph-zh">对不起</div><div class="ph-py">Duì bu qǐ</div><div class="ph-tip">dway boo chee</div></div>
+        <div class="phrase-row"><div class="ph-en">Yes</div><div class="ph-zh">是的</div><div class="ph-py">Shì de</div><div class="ph-tip">shir duh</div></div>
+        <div class="phrase-row"><div class="ph-en">No</div><div class="ph-zh">不是</div><div class="ph-py">Bù shì</div><div class="ph-tip">boo shir</div></div>
+        <div class="phrase-row"><div class="ph-en">I don't understand</div><div class="ph-zh">我不懂</div><div class="ph-py">Wǒ bù dǒng</div><div class="ph-tip">wor boo dong</div></div>
+        <div class="phrase-row"><div class="ph-en">Do you speak English?</div><div class="ph-zh">你会说英语吗？</div><div class="ph-py">Nǐ huì shuō Yīngyǔ ma?</div><div class="ph-tip">nee hway shwor ying-yoo ma</div></div>
+        <div class="phrase-row"><div class="ph-en">Please speak slowly</div><div class="ph-zh">请说慢一点</div><div class="ph-py">Qǐng shuō màn yīdiǎn</div><div class="ph-tip">ching shwor man ee-dyen</div></div>
+        <div class="phrase-row"><div class="ph-en">Goodbye</div><div class="ph-zh">再见</div><div class="ph-py">Zài jiàn</div><div class="ph-tip">dzye jyen</div></div>
+      </div>
+    </div>
+
+    <div style="margin-bottom:20px">
+      <h3 style="color:var(--gold);font-size:0.85rem;text-transform:uppercase;letter-spacing:1px;margin-bottom:10px">🍜 Food & Eating</h3>
+      <div style="background:var(--card);border-radius:10px;overflow:hidden">
+        <div class="phrase-row"><div class="ph-en">I'm vegetarian</div><div class="ph-zh">我吃素</div><div class="ph-py">Wǒ chī sù</div><div class="ph-tip">wor chir soo</div></div>
+        <div class="phrase-row"><div class="ph-en">No meat please</div><div class="ph-zh">不要肉</div><div class="ph-py">Bù yào ròu</div><div class="ph-tip">boo yow roh</div></div>
+        <div class="phrase-row"><div class="ph-en">Not too spicy</div><div class="ph-zh">不要太辣</div><div class="ph-py">Bù yào tài là</div><div class="ph-tip">boo yow tie lah</div></div>
+        <div class="phrase-row"><div class="ph-en">Delicious!</div><div class="ph-zh">很好吃！</div><div class="ph-py">Hěn hǎo chī!</div><div class="ph-tip">hun how chir</div></div>
+        <div class="phrase-row"><div class="ph-en">The bill please</div><div class="ph-zh">买单</div><div class="ph-py">Mǎi dān</div><div class="ph-tip">my dan</div></div>
+        <div class="phrase-row"><div class="ph-en">I want this one</div><div class="ph-zh">我要这个</div><div class="ph-py">Wǒ yào zhège</div><div class="ph-tip">wor yow juh-guh</div></div>
+        <div class="phrase-row"><div class="ph-en">Water please</div><div class="ph-zh">请给我水</div><div class="ph-py">Qǐng gěi wǒ shuǐ</div><div class="ph-tip">ching gay wor shway</div></div>
+        <div class="phrase-row"><div class="ph-en">Menu please</div><div class="ph-zh">菜单</div><div class="ph-py">Càidān</div><div class="ph-tip">tsye-dan</div></div>
+      </div>
+    </div>
+
+    <div style="margin-bottom:20px">
+      <h3 style="color:var(--gold);font-size:0.85rem;text-transform:uppercase;letter-spacing:1px;margin-bottom:10px">🚕 Transport & Navigation</h3>
+      <div style="background:var(--card);border-radius:10px;overflow:hidden">
+        <div class="phrase-row"><div class="ph-en">Where is...?</div><div class="ph-zh">...在哪里？</div><div class="ph-py">...zài nǎlǐ?</div><div class="ph-tip">...dzye na-lee</div></div>
+        <div class="phrase-row"><div class="ph-en">Take me to this address</div><div class="ph-zh">请送我去这个地址</div><div class="ph-py">Qǐng sòng wǒ qù zhège dìzhǐ</div><div class="ph-tip">show driver the screen</div></div>
+        <div class="phrase-row"><div class="ph-en">Stop here please</div><div class="ph-zh">请在这里停</div><div class="ph-py">Qǐng zài zhèlǐ tíng</div><div class="ph-tip">ching dzye juh-lee ting</div></div>
+        <div class="phrase-row"><div class="ph-en">How much?</div><div class="ph-zh">多少钱？</div><div class="ph-py">Duōshao qián?</div><div class="ph-tip">dwor-show chyen</div></div>
+        <div class="phrase-row"><div class="ph-en">Train station</div><div class="ph-zh">火车站</div><div class="ph-py">Huǒchē zhàn</div><div class="ph-tip">hwor-chuh jan</div></div>
+        <div class="phrase-row"><div class="ph-en">Metro / Subway</div><div class="ph-zh">地铁</div><div class="ph-py">Dìtiě</div><div class="ph-tip">dee-tyeh</div></div>
+        <div class="phrase-row"><div class="ph-en">Airport</div><div class="ph-zh">机场</div><div class="ph-py">Jīchǎng</div><div class="ph-tip">jee-chang</div></div>
+        <div class="phrase-row"><div class="ph-en">Left / Right / Straight</div><div class="ph-zh">左 / 右 / 直走</div><div class="ph-py">Zuǒ / Yòu / Zhí zǒu</div><div class="ph-tip">dzwor / yo / jir dzoh</div></div>
+      </div>
+    </div>
+
+    <div style="margin-bottom:20px">
+      <h3 style="color:var(--gold);font-size:0.85rem;text-transform:uppercase;letter-spacing:1px;margin-bottom:10px">🏨 Hotel & Accommodation</h3>
+      <div style="background:var(--card);border-radius:10px;overflow:hidden">
+        <div class="phrase-row"><div class="ph-en">I have a reservation</div><div class="ph-zh">我有预订</div><div class="ph-py">Wǒ yǒu yùdìng</div><div class="ph-tip">wor yo yoo-ding</div></div>
+        <div class="phrase-row"><div class="ph-en">Where is my room?</div><div class="ph-zh">我的房间在哪里？</div><div class="ph-py">Wǒ de fángjiān zài nǎlǐ?</div><div class="ph-tip">wor duh fang-jyen dzye na-lee</div></div>
+        <div class="phrase-row"><div class="ph-en">Wi-Fi password please</div><div class="ph-zh">请给我WiFi密码</div><div class="ph-py">Qǐng gěi wǒ WiFi mìmǎ</div><div class="ph-tip">ching gay wor wifi mee-ma</div></div>
+        <div class="phrase-row"><div class="ph-en">I need help</div><div class="ph-zh">我需要帮助</div><div class="ph-py">Wǒ xūyào bāngzhù</div><div class="ph-tip">wor shyoo-yow bang-joo</div></div>
+      </div>
+    </div>
+
+    <div style="margin-bottom:20px">
+      <h3 style="color:var(--gold);font-size:0.85rem;text-transform:uppercase;letter-spacing:1px;margin-bottom:10px">🛍 Shopping & Money</h3>
+      <div style="background:var(--card);border-radius:10px;overflow:hidden">
+        <div class="phrase-row"><div class="ph-en">How much is this?</div><div class="ph-zh">这个多少钱？</div><div class="ph-py">Zhège duōshao qián?</div><div class="ph-tip">juh-guh dwor-show chyen</div></div>
+        <div class="phrase-row"><div class="ph-en">Too expensive</div><div class="ph-zh">太贵了</div><div class="ph-py">Tài guì le</div><div class="ph-tip">tie gway luh</div></div>
+        <div class="phrase-row"><div class="ph-en">Can you lower the price?</div><div class="ph-zh">可以便宜一点吗？</div><div class="ph-py">Kěyǐ piányí yīdiǎn ma?</div><div class="ph-tip">kuh-ee pyen-ee ee-dyen ma</div></div>
+        <div class="phrase-row"><div class="ph-en">I'll take it</div><div class="ph-zh">我买了</div><div class="ph-py">Wǒ mǎi le</div><div class="ph-tip">wor my luh</div></div>
+        <div class="phrase-row"><div class="ph-en">Can I pay by phone?</div><div class="ph-zh">可以手机支付吗？</div><div class="ph-py">Kěyǐ shǒujī zhīfù ma?</div><div class="ph-tip">kuh-ee show-jee jir-foo ma</div></div>
+        <div class="phrase-row"><div class="ph-en">Receipt please</div><div class="ph-zh">请给我收据</div><div class="ph-py">Qǐng gěi wǒ shōujù</div><div class="ph-tip">ching gay wor show-joo</div></div>
+      </div>
+    </div>
+
+    <div style="margin-bottom:20px">
+      <h3 style="color:var(--gold);font-size:0.85rem;text-transform:uppercase;letter-spacing:1px;margin-bottom:10px">🚨 Emergencies</h3>
+      <div style="background:var(--card);border-radius:10px;overflow:hidden">
+        <div class="phrase-row"><div class="ph-en">Help!</div><div class="ph-zh">救命！</div><div class="ph-py">Jiù mìng!</div><div class="ph-tip">jyo ming</div></div>
+        <div class="phrase-row"><div class="ph-en">Call the police</div><div class="ph-zh">叫警察</div><div class="ph-py">Jiào jǐngchá</div><div class="ph-tip">jyow jing-cha</div></div>
+        <div class="phrase-row"><div class="ph-en">I need a doctor</div><div class="ph-zh">我需要医生</div><div class="ph-py">Wǒ xūyào yīshēng</div><div class="ph-tip">wor shyoo-yow ee-shung</div></div>
+        <div class="phrase-row"><div class="ph-en">Hospital</div><div class="ph-zh">医院</div><div class="ph-py">Yīyuàn</div><div class="ph-tip">ee-ywen</div></div>
+        <div class="phrase-row"><div class="ph-en">I've lost my passport</div><div class="ph-zh">我的护照丢了</div><div class="ph-py">Wǒ de hùzhào diū le</div><div class="ph-tip">wor duh hoo-jow dyo luh</div></div>
+        <div class="phrase-row"><div class="ph-en">I've been robbed</div><div class="ph-zh">我被抢了</div><div class="ph-py">Wǒ bèi qiǎng le</div><div class="ph-tip">wor bay chyang luh</div></div>
+      </div>
+    </div>
+
+    <div style="margin-bottom:20px">
+      <h3 style="color:var(--gold);font-size:0.85rem;text-transform:uppercase;letter-spacing:1px;margin-bottom:10px">🔢 Numbers</h3>
+      <div style="background:var(--card);border-radius:10px;overflow:hidden">
+        <div class="phrase-row"><div class="ph-en">1 / 2 / 3</div><div class="ph-zh">一 / 二 / 三</div><div class="ph-py">Yī / Èr / Sān</div><div class="ph-tip">ee / ar / san</div></div>
+        <div class="phrase-row"><div class="ph-en">4 / 5 / 6</div><div class="ph-zh">四 / 五 / 六</div><div class="ph-py">Sì / Wǔ / Liù</div><div class="ph-tip">suh / woo / lyo</div></div>
+        <div class="phrase-row"><div class="ph-en">7 / 8 / 9 / 10</div><div class="ph-zh">七 / 八 / 九 / 十</div><div class="ph-py">Qī / Bā / Jiǔ / Shí</div><div class="ph-tip">chee / ba / jyo / shir</div></div>
+        <div class="phrase-row"><div class="ph-en">100 / 1000</div><div class="ph-zh">百 / 千</div><div class="ph-py">Bǎi / Qiān</div><div class="ph-tip">bye / chyen</div></div>
+      </div>
+    </div>
+
   </section>
 
   <!-- NOTES -->
