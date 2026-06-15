@@ -50,7 +50,9 @@
 |---|---|---|
 | Main luggage (aim under 15kg) | ✅ Have | |
 | Day pack | ✅ Have | For daily excursions — Intrepid requirement |
-| Small crossbody bag | ✅ Have | Tourist sites, markets — pickpocket aware |
+| Small crossbody / side bag | ✅ Have | Tourist sites, markets — pickpocket aware |
+| Toiletry bag | 🛒 Buy | Keep all toiletries organised and accessible |
+| Cable / tech organiser bag | 🛒 Buy | Cables, power bank, adapters — essential for 25 days |
 | Reusable tote bag | 🛍 Temu fine | Bangkok shopping, markets |
 | Small padlock | 🛍 Temu fine | For bag zips at crowded sites |
 | Packing cubes | 🛍 Temu fine | Organise main bag |
@@ -64,7 +66,7 @@
 | Phone | ✅ Have | Primary everything |
 | iPad (optional) | ✅ Have | Worth bringing for 9hr train days — download content before China |
 | CCC/3-C certified power bank | 🛒 Buy | Anker brand. CCC must be printed on device or confiscated at Chinese airports |
-| Universal travel adapter | 🛒 Buy if needed | China uses Type A/I sockets |
+| Universal travel adapter + international plugs | 🛒 Buy | China Type A/I, Thailand Type A/B/C, HK Type G — get a universal adapter covering all |
 | Charging cables | ✅ Have | Bring spares |
 | Earphones / AirPods | ✅ Have | Long train days |
 | Head torch | 🛍 Temu fine | Great Wall guesthouse area poorly lit at night |
