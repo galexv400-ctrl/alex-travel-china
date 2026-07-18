@@ -19,7 +19,7 @@
 ### Bottoms
 | Item | Qty | Status | Notes |
 |---|---|---|---|
-| Comfortable walking trousers | 2 | 🛍 Temu fine | Lightweight, dry fast |
+| Comfortable walking trousers (leggings) | 2 | ✅ Have | Lightweight, dry fast |
 | Leggings / thermal base layer | 1 | ✅ Have | Under trousers for cold days |
 | Light shorts or casual trousers | 1 | ✅ Have | Bangkok |
 | Swimwear | 1 | ✅ Have | Sindhorn pool day |
@@ -52,7 +52,7 @@
 | Day pack | ✅ Have | For daily excursions — Intrepid requirement |
 | Small crossbody bag | ✅ Have | Tourist sites, markets — pickpocket aware |
 | Reusable tote bag | 🛍 Temu fine | Bangkok shopping, markets |
-| Small padlock | 🛍 Temu fine | For bag zips at crowded sites |
+| Small padlock | ✅ Have | Purchased. For bag zips at crowded sites |
 | Packing cubes | ✅ Have | Purchased. Organise main bag |
 
 ---
@@ -120,7 +120,7 @@
 | Hand sanitiser | ✅ | |
 | Antibacterial wipes | ✅ Have | Purchased. Trains, hands, surfaces, squat toilets |
 | Feminine hygiene products | ✅ | Stock up — harder to find familiar brands in China |
-| Microfibre towel | 🛍 Temu fine | Great Wall guesthouse may not provide good towels |
+| Microfibre towel | ✅ Have | Purchased. Great Wall guesthouse may not provide good towels |
 
 ---
 
@@ -132,7 +132,7 @@
 | Earplugs | 🛍 Temu fine | Long train journeys + twin-share room |
 | Eye mask | 🛍 Temu fine | Overnight train journeys |
 | Disposable hand warmers | 🛍 Temu fine | Great Wall 1 Nov — 3°C, transformative for sunset hike |
-| Travel washing line + pegs | 🛍 Temu fine | 17 days on tour — wash and hang overnight |
+| Travel washing line + pegs | ✅ Have | Purchased. 17 days on tour — wash and hang overnight |
 | Small coin/bills pouch | 🛍 Temu fine | CNY cash for markets and street food |
 | Portable umbrella | 🛍 Temu fine | Zhangjiajie is famously misty, sudden rain |
 | Reusable water bottle | ✅ | Refill at hotels |
@@ -157,7 +157,7 @@
 5. **Netflix/Spotify** — download offline content
 
 ### Shein / Temu
-Scarf, hat, gloves, sun hat, flip flops, thick socks, head torch, portable door lock, earplugs, eye mask, hand warmers, travel washing line, coin pouch, umbrella, microfibre towel, reusable tote
+Scarf, hat, gloves, sun hat, flip flops, thick socks, head torch, portable door lock, earplugs, eye mask, hand warmers, coin pouch, umbrella, reusable tote
 
 ### Pharmacy
 Roll-on sunscreen, roll-on insect repellent, lip balm, first aid basics
