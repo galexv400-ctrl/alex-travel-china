@@ -29,7 +29,7 @@
 |---|---|---|---|
 | Hiking shoes | 1 pair | 🛒 Buy | Decathlon Quechua MH100/MH500. Asics road runners not suitable for Great Wall. Break in before October. |
 | Comfortable walking shoes / trainers | 1 pair | ✅ Have | City days, temples, markets |
-| Flip flops / sandals | 1 pair | 🛍 Temu fine | Hotel showers, Bangkok |
+| Flip flops / sandals | 1 pair | ✅ Have | Hotel showers, Bangkok |
 
 ### Accessories
 | Item | Qty | Status | Notes |
@@ -37,10 +37,10 @@
 | Scarf | 1 | 🛍 Temu fine | Cold days + doubles as temple cover |
 | Warm hat | 1 | 🛍 Temu fine | Great Wall night — 3°C |
 | Gloves | 1 pair | 🛍 Temu fine | Great Wall night |
-| Sun hat | 1 | 🛍 Temu fine | HK and Bangkok |
+| Sun hat | 1 | ✅ Have | HK and Bangkok |
 | Underwear | 5–6 | ✅ Have | Enough to wash and rotate |
 | Socks — regular | 4–5 pairs | ✅ Have | |
-| Socks — thick/thermal | 2 pairs | 🛍 Temu fine | Cold days and Wall hike |
+| Socks — thick/thermal | 2 pairs | ✅ Have | Cold days and Wall hike |
 
 ---
 
@@ -51,7 +51,7 @@
 | Main luggage (aim under 15kg) | ✅ Have | |
 | Day pack | ✅ Have | For daily excursions — Intrepid requirement |
 | Small crossbody bag | ✅ Have | Tourist sites, markets — pickpocket aware |
-| Reusable tote bag | 🛍 Temu fine | Bangkok shopping, markets |
+| Reusable tote bag | ✅ Have | Bangkok shopping, markets |
 | Small padlock | ✅ Have | Purchased. For bag zips at crowded sites |
 | Packing cubes | ✅ Have | Purchased. Organise main bag |
 
@@ -64,7 +64,7 @@
 | Phone | ✅ Have | Primary everything |
 | iPad (optional) | ✅ Have | Worth bringing for 9hr train days — download content before China |
 | CCC/3-C certified power bank | 🛒 Buy | Anker brand. CCC must be printed on device or confiscated at Chinese airports |
-| Universal travel adapter | 🛒 Buy if needed | China uses Type A/I sockets |
+| Universal travel adapter | ✅ Have | China uses Type A/I sockets |
 | Charging cables | ✅ Have | Bring spares |
 | Earphones / AirPods | ✅ Have | Long train days |
 | Head torch | 🛍 Temu fine | Great Wall guesthouse area poorly lit at night |
@@ -108,7 +108,7 @@
 
 | Item | Status | Notes |
 |---|---|---|
-| Roll-on or cream sunscreen | 💊 Pharmacy | NO aerosol — confiscated on high-speed trains |
+| Roll-on or cream sunscreen | ✅ Have | NO aerosol — confiscated on high-speed trains |
 | Roll-on insect repellent | 💊 Pharmacy | NO aerosol spray |
 | Shampoo / conditioner | ✅ | Travel size |
 | Body wash | ✅ | Travel size |
@@ -129,9 +129,9 @@
 | Item | Status | Notes |
 |---|---|---|
 | Portable door lock | 🛍 Temu fine | Great Wall guesthouse — basic accommodation with strangers nearby |
-| Earplugs | 🛍 Temu fine | Long train journeys + twin-share room |
-| Eye mask | 🛍 Temu fine | Overnight train journeys |
-| Disposable hand warmers | 🛍 Temu fine | Great Wall 1 Nov — 3°C, transformative for sunset hike |
+| Earplugs | ✅ Have | Long train journeys + twin-share room |
+| Eye mask | ✅ Have | Overnight train journeys |
+| Disposable hand warmers | ✅ Have | Great Wall 1 Nov — 3°C, transformative for sunset hike |
 | Travel washing line + pegs | ✅ Have | Purchased. 17 days on tour — wash and hang overnight |
 | Small coin/bills pouch | 🛍 Temu fine | CNY cash for markets and street food |
 | Portable umbrella | 🛍 Temu fine | Zhangjiajie is famously misty, sudden rain |
@@ -147,7 +147,7 @@
 2. ~~**Waterproof jacket** — Decathlon ~$25~~ ✅ Purchased
 3. **CCC/3-C certified power bank** — Anker brand
 4. **Travel insurance** — compulsory, needed at welcome meeting
-5. **Universal adapter** if you don't have one
+5. ~~**Universal adapter** if you don't have one~~ ✅ Purchased
 
 ### Set Up Before Leaving Israel
 1. **NordVPN** — enable Obfuscated Servers, test it works
@@ -157,7 +157,7 @@
 5. **Netflix/Spotify** — download offline content
 
 ### Shein / Temu
-Scarf, hat, gloves, sun hat, flip flops, thick socks, head torch, portable door lock, earplugs, eye mask, hand warmers, coin pouch, umbrella, reusable tote
+Scarf, hat, gloves, head torch, portable door lock, coin pouch, umbrella
 
 ### Pharmacy
-Roll-on sunscreen, roll-on insect repellent, lip balm, first aid basics
+Roll-on insect repellent, lip balm, first aid basics
