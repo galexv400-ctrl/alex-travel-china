@@ -14,7 +14,7 @@
 | Light t-shirts | 2–3 | ✅ Have | Bangkok + warm early days |
 | Thermal base layer top | 1–2 | ✅ Have | Under layers for Xi'an/Beijing/Wall |
 | Fleece or puffer jacket | 1 | ✅ Have | Main warm layer |
-| Waterproof/windproof jacket | 1 | 🛒 Buy | Decathlon ~$25, essential for Wall + Zhangjiajie |
+| Waterproof/windproof jacket | 1 | ✅ Have | Purchased. Essential for Wall + Zhangjiajie |
 
 ### Bottoms
 | Item | Qty | Status | Notes |
@@ -53,7 +53,7 @@
 | Small crossbody bag | ✅ Have | Tourist sites, markets — pickpocket aware |
 | Reusable tote bag | 🛍 Temu fine | Bangkok shopping, markets |
 | Small padlock | 🛍 Temu fine | For bag zips at crowded sites |
-| Packing cubes | 🛍 Temu fine | Organise main bag |
+| Packing cubes | ✅ Have | Purchased. Organise main bag |
 
 ---
 
@@ -118,6 +118,7 @@
 | Lip balm | 💊 Pharmacy | Beijing and Wall are very dry and cold |
 | Basic first aid | 💊 Pharmacy | Plasters, ibuprofen, antihistamine, imodium |
 | Hand sanitiser | ✅ | |
+| Antibacterial wipes | ✅ Have | Purchased. Trains, hands, surfaces, squat toilets |
 | Feminine hygiene products | ✅ | Stock up — harder to find familiar brands in China |
 | Microfibre towel | 🛍 Temu fine | Great Wall guesthouse may not provide good towels |
 
@@ -143,7 +144,7 @@
 
 ### Buy Properly
 1. **Hiking shoes** — Decathlon Quechua MH100/MH500. Break in before October.
-2. **Waterproof jacket** — Decathlon ~$25
+2. ~~**Waterproof jacket** — Decathlon ~$25~~ ✅ Purchased
 3. **CCC/3-C certified power bank** — Anker brand
 4. **Travel insurance** — compulsory, needed at welcome meeting
 5. **Universal adapter** if you don't have one
@@ -156,7 +157,7 @@
 5. **Netflix/Spotify** — download offline content
 
 ### Shein / Temu
-Scarf, hat, gloves, sun hat, flip flops, thick socks, packing cubes, head torch, portable door lock, earplugs, eye mask, hand warmers, travel washing line, coin pouch, umbrella, microfibre towel, reusable tote
+Scarf, hat, gloves, sun hat, flip flops, thick socks, head torch, portable door lock, earplugs, eye mask, hand warmers, travel washing line, coin pouch, umbrella, microfibre towel, reusable tote
 
 ### Pharmacy
 Roll-on sunscreen, roll-on insect repellent, lip balm, first aid basics
