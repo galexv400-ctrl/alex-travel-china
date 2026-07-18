@@ -27,8 +27,8 @@
 ### Footwear
 | Item | Qty | Status | Notes |
 |---|---|---|---|
-| Hiking shoes | 1 pair | 🛒 Buy | Decathlon Quechua MH100/MH500. Asics road runners not suitable for Great Wall. Break in before October. |
-| Comfortable walking shoes / trainers | 1 pair | ✅ Have | City days, temples, markets |
+| ~~Hiking shoes~~ | — | ❌ Skip | Decided against — too heavy to carry for one day of hiking. Using trainers instead. |
+| Comfortable walking shoes / trainers | 1 pair | ✅ Have | City days, temples, markets — also doing the Zhangjiajie + Great Wall hikes in these |
 | Flip flops / sandals | 1 pair | ✅ Have | Hotel showers, Bangkok |
 
 ### Accessories
@@ -143,7 +143,7 @@
 ## Summary — What to Buy Before You Go
 
 ### Buy Properly
-1. **Hiking shoes** — Decathlon Quechua MH100/MH500. Break in before October.
+1. ~~**Hiking shoes**~~ ❌ Not bringing — using trainers instead
 2. ~~**Waterproof jacket** — Decathlon ~$25~~ ✅ Purchased
 3. **CCC/3-C certified power bank** — Anker brand
 4. **Travel insurance** — compulsory, needed at welcome meeting
