@@ -65,7 +65,7 @@
 |---|---|---|
 | Phone | ✅ Have | Primary everything |
 | iPad (optional) | ✅ Have | Worth bringing for 9hr train days — download content before China |
-| CCC/3-C certified power bank | 🛒 Buy | Anker brand. CCC must be printed on device or confiscated at Chinese airports |
+| CCC/3-C certified power bank | 📦 Ordered | Anker brand, 10000mAh. CCC must be printed on device. Arriving August 2026 |
 | Universal travel adapter + international plugs | 🛒 Buy | China Type A/I, Thailand Type A/B/C, HK Type G — get a universal adapter covering all |
 | Charging cables | ✅ Have | Bring spares |
 | Earphones / AirPods | ✅ Have | Long train days |
