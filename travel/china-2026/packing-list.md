@@ -5,6 +5,182 @@
 
 ---
 
+## PERSONALIZED PACKING LIST — FINAL
+
+### Plane Outfit (WEAR — do not pack)
+- Green thin jumpsuit (plane outfit)
+- Waterproof pink jacket (layer)
+- Skechers black (shoes)
+
+### Day Bag / Plane Bag (bulky items)
+- Uniqlo pink puffer (packable)
+- Makeup (light)
+- Neck warmer (if space)
+
+### Main Luggage — by Trip Phase
+
+#### WARM PHASE (Bangkok, Hong Kong, first days in China)
+**Tops:**
+- Uniqlo bra top (black) x1
+- Uniqlo sports bra top x2
+- Stradivarius bra top x1 (keep 1, drop duplicate)
+- Mango vest x1 (keep 1, drop duplicate)
+- Shein white top x1
+
+**Bottoms:**
+- Girlfriend Collective bike shorts x2
+- Shein loose black and white shorts x1
+- Green playsuit x1
+- Red playsuit x1
+
+**Footwear:**
+- Tevas black (wear on plane days or pack light)
+- Pink Crocs x1
+
+**Accessories:**
+- Sun hat x1
+
+**Sleepwear:**
+- Pyjama top x1
+
+#### COOL PHASE (Chongqing, Changsha, Shanghai, early Xi'an — 14–22°C)
+**Tops:**
+- Shein striped shirts x2 (temple coverage)
+- Black shirt x1
+- Asics long-sleeve black sports top x1
+
+**Bottoms:**
+- Uniqlo long black trousers x1 (thin, versatile)
+- Wolven flared leggings x1
+- Black flared trousers x2 (for evening)
+- Green playsuit x1 (can also wear in cool)
+
+**Layers:**
+- Uniqlo thermal black (base layer)
+- Girlfriend Collective float leggings (thin, under trousers)
+
+**Sleepwear:**
+- Pyjama top x1
+- Sleep shorts x1
+
+#### COLD PHASE (Late Xi'an, Great Wall, Beijing — 1–15°C, nights 1–3°C)
+**Essential Layers:**
+- Uniqlo thermal black (long-sleeve, base layer)
+- Girlfriend Collective black leggings (warm, under trousers)
+- Uniqlo long black trousers x1
+- Black flared trousers x1 (evening)
+- Uniqlo pink puffer (ESSENTIAL from day bag)
+- Waterproof pink jacket (ESSENTIAL, wearing)
+
+**Accessories:**
+- Warm hat x1
+- Gloves x1
+- Neck warmer x1
+- Scarf (if bringing from Temu)
+
+**Sleepwear:**
+- Pyjama top x1
+- Long pyjama bottoms x1
+
+#### BACK TO WARM PHASE (Bangkok — 25–32°C)
+**Switch back to:**
+- Summer tops (2–3 per day rotation)
+- Shorts x1–2
+- Tevas + Crocs for casual
+- Sun hat
+
+### Footwear Summary
+- Hiking shoes (Decathlon, ordered) — wear on plane days or pack in main luggage
+- Skechers black — wear on plane
+- Tevas black x1 — lightweight sandal
+- Pink Crocs x1 — hotel/casual
+- (Main luggage = only hiking shoes need space; others are worn or ultralight)
+
+### Underwear & Basics
+- Knickers x15
+- Bras x3 (1 normal comfy, 2 sports)
+- Regular socks x6–8 (included in 10–12 total)
+- Thermal socks x2–3 (included in 10–12 total)
+- Hair ties x3
+- Hair brush x1
+
+### Toiletries Bag
+- 2-in-1 shampoo (small)
+- Roll-on men's deodorant x1
+- Body wash (to buy from Bath & Body Works, small)
+- Sunscreen lotion (small, body)
+- Sunscreen stick (face, portable)
+- Lip balm x1
+- Small moisturiser x1
+- Face wipes x1
+- Toothbrush + toothpaste
+- Pads x7 (first few days, then buy locally)
+- Ibuprofen, back pain meds, imodium, blister plasters, iron pills, SSRI, thyroid pill, magnesium (sleep)
+- Hand sanitiser wipes x1 (have)
+- Small hand sanitiser (to buy from Bath & Body Works)
+
+### Tech & Essentials
+- Phone + charging cables x2
+- CCC/3-C certified power bank (10000mAh, arriving August, ordered)
+- Universal adapter + international plugs
+- Earphones/AirPods
+- Octopus card (on iPhone, set up ✅)
+- Cable organiser bag (to buy)
+- Toiletry bag (to buy)
+
+### Bags
+- Main luggage (15kg limit)
+- Day pack (Intrepid requirement) ✅ Have
+- Day bag / plane bag (for bulk items)
+- Uniqlo bum bag (quick errands, markets, pickpocket-safe) ✅ Have
+- Packing cubes (to buy Temu)
+
+### Documents
+- UK passport (use for mainland China)
+- Israeli passport (HK, Thailand)
+- Travel insurance (Passport Card, ✅ ordered)
+- Flight confirmations (print + save offline)
+- Hotel confirmations (print + save offline)
+- Intrepid booking #6886724
+
+### Money
+- Monzo card (£1,084 in China 2026 pot)
+- Israeli credit card (insurance, Luxe Manor)
+- UK credit card (Sindhorn)
+- CNY 500–750 cash (first days in China, get before trip)
+- Thai Baht cash (Bangkok, get before trip)
+- $500 USD emergency fund (keep hidden, get before trip)
+
+### Apps (Install before leaving Israel)
+- ✅ NordVPN (Obfuscated Servers enabled)
+- ✅ Octopus for Tourists (set up on Apple Wallet)
+- ✅ Alipay (set up, linked card)
+- ✅ DiDi (set up)
+- 🛒 WeChat (set up in HK with hotel staff verification)
+- 🛒 Google Translate (download Chinese offline pack)
+- 🛒 Baidu Maps (download offline maps for all cities)
+- 🛒 China Customs app (set up, fill declaration 24–48hrs before China entry)
+- 📱 Netflix (download content offline)
+- 📱 Spotify (download playlists offline)
+- 📱 Hotel addresses in Chinese (screenshot each hotel's address in Chinese characters)
+
+### NOT Bringing
+- iPad (won't use, saves weight)
+- Head torch (Great Wall guesthouse has basic lighting)
+- Side bag / crossbody bag (day pack covers it)
+- Flip flops from Temu (Crocs + Tevas enough)
+- Swimwear (only pool day at Sindhorn, can use sports bra + shorts if needed)
+- Microfibre towel (hotels provide)
+- Reusable tote (Uniqlo bum bag + day pack sufficient)
+- Portable door lock (Great Wall guesthouse has locks)
+- Earplugs (packing space trade-off)
+- Eye mask (packing space trade-off)
+- Hand warmers (nice to have but not essential)
+- Portable umbrella (Zhangjiajie risk but packing tight)
+- Insect repellent (limited need October/November)
+
+---
+
 ## Clothing
 
 ### Tops
@@ -14,7 +190,7 @@
 | Light t-shirts | 2–3 | ✅ Have | Bangkok + warm early days |
 | Thermal base layer top | 1–2 | ✅ Have | Under layers for Xi'an/Beijing/Wall |
 | Fleece or puffer jacket | 1 | ✅ Have | Main warm layer |
-| Waterproof/windproof jacket | 1 | 🛒 Buy | Decathlon ~$25, essential for Wall + Zhangjiajie |
+| Waterproof/windproof jacket | 1 | ✅ Have | Pink. Essential for Wall + Zhangjiajie |
 
 ### Bottoms
 | Item | Qty | Status | Notes |
@@ -64,12 +240,12 @@
 | Item | Status | Notes |
 |---|---|---|
 | Phone | ✅ Have | Primary everything |
-| iPad (optional) | ✅ Have | Worth bringing for 9hr train days — download content before China |
+| iPad (optional) | ❌ Not bringing | Saves weight; won't use on this trip |
 | CCC/3-C certified power bank | 📦 Ordered | Anker brand, 10000mAh. CCC must be printed on device. Arriving August 2026 |
 | Universal travel adapter + international plugs | 🛒 Buy | China Type A/I, Thailand Type A/B/C, HK Type G — get a universal adapter covering all |
 | Charging cables | ✅ Have | Bring spares |
 | Earphones / AirPods | ✅ Have | Long train days |
-| Head torch | 🛍 Temu fine | Great Wall guesthouse area poorly lit at night |
+| Head torch | ❌ Not bringing | Great Wall guesthouse has basic lighting |
 
 ---
 
@@ -79,7 +255,7 @@
 |---|---|---|
 | UK passport | ✅ | Use for ALL mainland China entry |
 | Israeli passport | ✅ | HK and Thailand — either passport fine |
-| Travel insurance documents | 🛒 Book | Compulsory — must show at welcome meeting Day 1 |
+| Travel insurance documents | ✅ Ordered | Passport Card policy. Print + save offline. Must show at welcome meeting Day 1 |
 | Printed hotel confirmations | 📱 Print | Save offline too |
 | Printed flight confirmations | 📱 Print | Save offline too |
 | CNY 500–750 cash | 🛒 Get | For first 1–2 days in China |
@@ -144,21 +320,37 @@
 ## Summary — What to Buy Before You Go
 
 ### Buy Properly
-1. **Hiking shoes** — Decathlon Quechua MH100/MH500. Break in before October.
-2. **Waterproof jacket** — Decathlon ~$25
-3. **CCC/3-C certified power bank** — Anker brand
-4. **Travel insurance** — compulsory, needed at welcome meeting
-5. **Universal adapter** if you don't have one
+1. **Hiking shoes** — Decathlon Quechua MH100/MH500. Break in before October. (URGENT — order soon)
+2. **Universal adapter** — China Type A/I, Thailand Type A/B/C, HK Type G
+3. **CCC/3-C certified power bank** — Anker 10000mAh (ordered, arriving August)
+4. **Travel insurance** — ✅ Ordered via Passport Card
+
+### Buy from Bath & Body Works (Travel Sizes)
+1. Body wash (small)
+2. Hand sanitiser (small)
 
 ### Set Up Before Leaving Israel
-1. **NordVPN** — enable Obfuscated Servers, test it works
-2. **WeChat** — account + foreign bank card linked
-3. **Alipay** — account + foreign bank card linked
-4. **DiDi, Baidu Maps, Google Translate** — download and set up
-5. **Netflix/Spotify** — download offline content
+1. **NordVPN** — enable Obfuscated Servers, test it works ✅
+2. **Octopus for Tourists** — set up on iPhone Apple Wallet ✅
+3. **Alipay** — account + foreign bank card linked ✅
+4. **DiDi** — download and set up ✅
+5. **WeChat** — will set up in Hong Kong with hotel staff (verification needed)
+6. **Baidu Maps** — download offline maps for all cities
+7. **Google Translate** — download Chinese offline language pack
+8. **China Customs app** — create account, fill declaration 24–48hrs before mainland China entry
+9. **Netflix/Spotify** — download offline content
+10. **Hotel addresses in Chinese** — screenshot each hotel's address for taxi drivers
 
-### Shein / Temu
-Scarf, hat, gloves, sun hat, flip flops, thick socks, packing cubes, head torch, portable door lock, earplugs, eye mask, hand warmers, travel washing line, coin pouch, umbrella, microfibre towel, reusable tote
+### Medications & Pharmacy
+- ✅ Ibuprofen, back pain meds, imodium, blister plasters, iron pills, SSRI, thyroid pill, magnesium
+- Roll-on sunscreen (if needed), roll-on insect repellent, lip balm
 
-### Pharmacy
-Roll-on sunscreen, roll-on insect repellent, lip balm, first aid basics
+### Temu / Shein (Optional — Low Priority)
+Scarf, hat, gloves, packing cubes, portable door lock, earplugs, eye mask, hand warmers, travel washing line, coin pouch, umbrella
+
+### NOT Buying
+- iPad (won't use)
+- Head torch (hotel has lighting)
+- Flip flops (Crocs + Tevas enough)
+- Microfibre towel (hotels provide)
+- Reusable tote (day pack + bum bag sufficient)
