@@ -62,7 +62,6 @@
 
 **Sleepwear:**
 - Pyjama top x1
-- Sleep shorts x1
 
 #### COLD PHASE (Late Xi'an, Great Wall, Beijing — 1–15°C, nights 1–3°C)
 **Essential Layers:**
