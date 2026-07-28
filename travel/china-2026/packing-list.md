@@ -43,7 +43,7 @@
 
 #### COOL PHASE (Chongqing, Changsha, Shanghai, early Xi'an — 14–22°C)
 **Tops:**
-- Uniqlo long-sleeve mid-warm tops x4 (main mid-layer — the workhorse for 12–22°C days)
+- Uniqlo long-sleeve mid-warm tops x4 (includes the black thermal — main mid-layer, workhorse for 12–22°C days)
 - Amazon plain black long-sleeve (thin) x1 (light layer, layers under anything)
 - Shein striped shirts x2 (temple coverage)
 - Black shirt x1
@@ -56,7 +56,6 @@
 - Green playsuit x1 (can also wear in cool)
 
 **Layers:**
-- Uniqlo thermal black (base layer)
 - Girlfriend Collective float leggings (thin, under trousers)
 - Denim jacket x1 (casual layer for mild days + evenings)
 
@@ -66,7 +65,7 @@
 
 #### COLD PHASE (Late Xi'an, Great Wall, Beijing — 1–15°C, nights 1–3°C)
 **Essential Layers:**
-- Uniqlo thermal black (long-sleeve, base layer)
+- Uniqlo thermal black (from the x4 above — base layer)
 - Girlfriend Collective black leggings (warm, under trousers)
 - Uniqlo long black trousers x1
 - Black flared trousers x1 (evening)
