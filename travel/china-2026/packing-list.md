@@ -24,8 +24,6 @@
 - Uniqlo bra top (black) x1
 - Uniqlo sports bra top x2
 - Stradivarius bra top x1 (keep 1, drop duplicate)
-- Mango vest x1 (keep 1, drop duplicate)
-- Shein white top x1
 
 **Bottoms:**
 - Girlfriend Collective bike shorts x1
