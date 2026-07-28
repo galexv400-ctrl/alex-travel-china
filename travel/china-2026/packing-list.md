@@ -21,7 +21,6 @@
 
 #### WARM PHASE (Bangkok, Hong Kong, first days in China)
 **Tops:**
-- Uniqlo bra top (black) x1
 - Uniqlo sports bra top x2
 - Stradivarius bra top x2
 
