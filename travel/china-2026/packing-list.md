@@ -23,7 +23,7 @@
 **Tops:**
 - Uniqlo bra top (black) x1
 - Uniqlo sports bra top x2
-- Stradivarius bra top x1 (keep 1, drop duplicate)
+- Stradivarius bra top x2
 
 **Bottoms:**
 - Girlfriend Collective bike shorts x1
