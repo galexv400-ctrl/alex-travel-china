@@ -28,7 +28,7 @@
 - Shein white top x1
 
 **Bottoms:**
-- Girlfriend Collective bike shorts x2
+- Girlfriend Collective bike shorts x1
 - Shein loose black and white shorts x1
 - Green playsuit x1
 - Red playsuit x1
@@ -45,6 +45,8 @@
 
 #### COOL PHASE (Chongqing, Changsha, Shanghai, early Xi'an — 14–22°C)
 **Tops:**
+- Uniqlo long-sleeve mid-warm tops x4 (main mid-layer — the workhorse for 12–22°C days)
+- Amazon plain black long-sleeve (thin) x1 (light layer, layers under anything)
 - Shein striped shirts x2 (temple coverage)
 - Black shirt x1
 - Asics long-sleeve black sports top x1
