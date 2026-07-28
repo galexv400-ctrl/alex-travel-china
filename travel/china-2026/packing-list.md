@@ -57,7 +57,8 @@
 - Green playsuit x1 (can also wear in cool)
 
 **Layers:**
-- Girlfriend Collective float leggings (thin, under trousers)
+- Girlfriend Collective leggings — float x1 (thin, worn UNDER trousers)
+- Girlfriend Collective leggings — regular x1 (worn UNDER trousers)
 - Denim jacket x1 (casual layer for mild days + evenings)
 
 **Sleepwear:**
@@ -67,7 +68,7 @@
 #### COLD PHASE (Late Xi'an, Great Wall, Beijing — 1–15°C, nights 1–3°C)
 **Essential Layers:**
 - Uniqlo thermal black (from the x4 above — base layer)
-- Girlfriend Collective black leggings (warm, under trousers)
+- Girlfriend Collective leggings — regular (worn UNDER trousers)
 - Uniqlo long black trousers x1
 - Manners London flared x1 (thick — best for cold evenings)
 - Uniqlo pink puffer (ESSENTIAL from day bag)
