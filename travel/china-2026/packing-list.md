@@ -133,6 +133,7 @@
 - Day pack (Intrepid requirement) ✅ Have
 - Day bag / plane bag (for bulk items)
 - Uniqlo bum bag (quick errands, markets, pickpocket-safe) ✅ Have
+- Uniqlo brown bag (side bag, tourist sites, markets) ✅ Have
 - Packing cubes (to buy Temu)
 
 ### Documents
@@ -167,7 +168,6 @@
 ### NOT Bringing
 - iPad (won't use, saves weight)
 - Head torch (Great Wall guesthouse has basic lighting)
-- Side bag / crossbody bag (day pack covers it)
 - Flip flops from Temu (Crocs + Tevas enough)
 - Swimwear (only pool day at Sindhorn, can use sports bra + shorts if needed)
 - Microfibre towel (hotels provide)
@@ -242,7 +242,7 @@
 | Phone | ✅ Have | Primary everything |
 | iPad (optional) | ❌ Not bringing | Saves weight; won't use on this trip |
 | CCC/3-C certified power bank | 📦 Ordered | Anker brand, 10000mAh. CCC must be printed on device. Arriving August 2026 |
-| Universal travel adapter + international plugs | 🛒 Buy | China Type A/I, Thailand Type A/B/C, HK Type G — get a universal adapter covering all |
+| Universal travel adapter + international plugs | ✅ Have | China Type A/I, Thailand Type A/B/C, HK Type G |
 | Charging cables | ✅ Have | Bring spares |
 | Earphones / AirPods | ✅ Have | Long train days |
 | Head torch | ❌ Not bringing | Great Wall guesthouse has basic lighting |
