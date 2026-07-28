@@ -45,7 +45,7 @@
 - Uniqlo long-sleeve mid-warm tops x4 (includes the black thermal — main mid-layer, workhorse for 12–22°C days)
 - Amazon plain black long-sleeve (thin) x1 (light layer, layers under anything)
 - Shein striped shirts x2 (temple coverage)
-- Black shirt x1
+- Black fleece x1 (proper mid-layer — Zhangjiajie damp cold, Shanghai, Xi'an)
 - Asics long-sleeve black sports top x1
 
 **Bottoms:**
