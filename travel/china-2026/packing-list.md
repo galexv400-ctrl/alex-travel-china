@@ -58,6 +58,7 @@
 **Layers:**
 - Uniqlo thermal black (base layer)
 - Girlfriend Collective float leggings (thin, under trousers)
+- Denim jacket x1 (casual layer for mild days + evenings)
 
 **Sleepwear:**
 - Pyjama top x1
