@@ -51,8 +51,9 @@
 
 **Bottoms:**
 - Uniqlo long black trousers x1 (thin, versatile)
-- Wolven flared leggings x1
-- Black flared trousers x2 (for evening)
+- Wolven flared x1
+- Tala flared x1
+- Manners London flared x1 (thick — warmest of the three, good for cold evenings)
 - Green playsuit x1 (can also wear in cool)
 
 **Layers:**
@@ -68,7 +69,7 @@
 - Uniqlo thermal black (from the x4 above — base layer)
 - Girlfriend Collective black leggings (warm, under trousers)
 - Uniqlo long black trousers x1
-- Black flared trousers x1 (evening)
+- Manners London flared x1 (thick — best for cold evenings)
 - Uniqlo pink puffer (ESSENTIAL from day bag)
 - Waterproof pink jacket (ESSENTIAL, wearing)
 
