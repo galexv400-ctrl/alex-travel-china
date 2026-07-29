@@ -45,7 +45,7 @@
 - Uniqlo long-sleeve mid-warm tops x4 (includes the black thermal — main mid-layer, workhorse for 12–22°C days)
 - Amazon plain black long-sleeve (thin) x2 — BRING BOTH, these are the base layer under everything
 - Shein striped shirts x2 (temple coverage)
-- Black fleece x1 (proper mid-layer — Zhangjiajie damp cold, Shanghai, Xi'an)
+- Black fleece, sweater style x1 (standalone mid-layer — Zhangjiajie damp cold, Shanghai, Xi'an)
 - Black fleece (Gillet brand) x1 — the zip-in liner of the waterproof shell. Wear over Uniqlo tops on its own, or zip into the jacket for max warmth (Great Wall).
 - Asics long-sleeve black sports top x1
 
