@@ -43,7 +43,7 @@
 #### COOL PHASE (Chongqing, Changsha, Shanghai, early Xi'an — 14–22°C)
 **Tops:**
 - Uniqlo long-sleeve mid-warm tops x4 (includes the black thermal — main mid-layer, workhorse for 12–22°C days)
-- Amazon plain black long-sleeve (thin) x1 (light layer, layers under anything)
+- Amazon plain black long-sleeve (thin) x2 — BRING BOTH, these are the base layer under everything
 - Shein striped shirts x2 (temple coverage)
 - Black fleece x1 (proper mid-layer — Zhangjiajie damp cold, Shanghai, Xi'an)
 - Asics long-sleeve black sports top x1
@@ -92,6 +92,7 @@
 ### Footwear Summary
 - Hiking shoes (Decathlon, ordered) — wear on plane days or pack in main luggage
 - Skechers black — wear on plane
+- Second pair trainers x1 — backup for wet days (Zhangjiajie misty/rainy) + 25 days of walking
 - Tevas black x1 — lightweight sandal
 - Pink Crocs x1 — hotel/casual
 - (Main luggage = only hiking shoes need space; others are worn or ultralight)
