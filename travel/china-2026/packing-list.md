@@ -46,7 +46,7 @@
 - Amazon plain black long-sleeve (thin) x2 — BRING BOTH, these are the base layer under everything
 - Shein striped shirts x2 (temple coverage)
 - Black fleece x1 (proper mid-layer — Zhangjiajie damp cold, Shanghai, Xi'an)
-- Black fleece gillet x1 — wear OVER the Uniqlo tops (core warmth, arms free)
+- Black fleece (Gillet brand) x1 — the zip-in liner of the waterproof shell. Wear over Uniqlo tops on its own, or zip into the jacket for max warmth (Great Wall).
 - Asics long-sleeve black sports top x1
 
 **Bottoms:**
