@@ -43,7 +43,8 @@
 #### COOL PHASE (Chongqing, Changsha, Shanghai, early Xi'an — 14–22°C)
 **Tops:**
 - Uniqlo long-sleeve mid-warm tops x4 (includes the black thermal — main mid-layer, workhorse for 12–22°C days)
-- Amazon plain black long-sleeve (thin) x2 — BRING BOTH, these are the base layer under everything
+- Amazon plain black long-sleeve (thin) x2 — BRING BOTH, base layer under everything. CHECK FABRIC — if cotton they hold sweat and go cold; synthetic/merino only for cold days.
+- Decathlon thermal base layers x2 — 🛒 BUY. Synthetic or merino. Sweat a lot = need a dry base layer every day.
 - Shein striped shirts x2 (temple coverage)
 - Black fleece, sweater style x1 (standalone mid-layer — Zhangjiajie damp cold, Shanghai, Xi'an)
 - Black fleece (Gillet brand) x1 — the zip-in liner of the waterproof shell. Wear over Uniqlo tops on its own, or zip into the jacket for max warmth (Great Wall).
@@ -78,6 +79,12 @@
 - Gloves x1
 - Neck warmer x1
 - Scarf (if bringing from Temu)
+
+**⚠ Sweat management — Great Wall:**
+- Carry a SPARE base layer in the day pack. Hike up, change into a dry one before sunset.
+- A damp base layer in 3°C wind cools you faster than no layer at all.
+- Vent early — remove a layer BEFORE you sweat, not after.
+- No cotton against the skin on cold days. Synthetic or merino only.
 
 **Sleepwear:**
 - Pyjama top x1
