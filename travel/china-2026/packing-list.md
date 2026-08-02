@@ -63,7 +63,7 @@
 |---|---|---|
 | Phone | ✅ Have | Primary everything |
 | iPad (optional) | ✅ Have | Worth bringing for 9hr train days — download content before China |
-| CCC/3-C certified power bank | 🛒 Buy | Anker brand. CCC must be printed on device or confiscated at Chinese airports |
+| CCC/3-C certified power bank | ✅ Have | Purchased (Anker). CCC must be printed on device or confiscated at Chinese airports |
 | Universal travel adapter | ✅ Have | China uses Type A/I sockets |
 | Charging cables | ✅ Have | Bring spares |
 | Earphones / AirPods | ✅ Have | Long train days |
@@ -145,7 +145,7 @@
 ### Buy Properly
 1. ~~**Hiking shoes**~~ ❌ Not bringing — using trainers instead
 2. ~~**Waterproof jacket** — Decathlon ~$25~~ ✅ Purchased
-3. **CCC/3-C certified power bank** — Anker brand
+3. ~~**CCC/3-C certified power bank** — Anker brand~~ ✅ Purchased
 4. **Travel insurance** — compulsory, needed at welcome meeting
 5. ~~**Universal adapter** if you don't have one~~ ✅ Purchased
 
