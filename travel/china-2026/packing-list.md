@@ -13,6 +13,8 @@
 | Modest tops (cover shoulders) | 3–4 | ✅ Have | For temples and general China |
 | Light t-shirts | 2–3 | ✅ Have | Bangkok + warm early days |
 | Thermal base layer top | 1–2 | ✅ Have | Under layers for Xi'an/Beijing/Wall |
+| Merino long-sleeve top — Decathlon TRAVEL 100 | 2 | 🛒 Buy | ~₪54 each. 70% merino — layer or standalone, odour-resistant for long tour |
+| Thermal base layer — Decathlon Wedze BL 500 | 1 | 🛒 Buy | ~₪69. Extra warmth for Great Wall night (3°C) + Beijing |
 | Fleece or puffer jacket | 1 | ✅ Have | Main warm layer |
 | Waterproof/windproof jacket | 1 | ✅ Have | Purchased. Essential for Wall + Zhangjiajie |
 
@@ -148,6 +150,7 @@
 3. ~~**CCC/3-C certified power bank** — Anker brand~~ ✅ Purchased
 4. **Travel insurance** — compulsory, needed at welcome meeting
 5. ~~**Universal adapter** if you don't have one~~ ✅ Purchased
+6. **Decathlon thermal tops** — 2× TRAVEL 100 merino long-sleeve (~₪54 each) + 1× Wedze BL 500 base layer (~₪69)
 
 ### Set Up Before Leaving Israel
 1. **NordVPN** — enable Obfuscated Servers, test it works
