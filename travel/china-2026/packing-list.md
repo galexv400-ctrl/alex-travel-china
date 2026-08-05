@@ -29,7 +29,7 @@
 
 ### Long sleeves & base layers
 - Uniqlo long-sleeve mid-warm tops x3 — black, pink, green `[Cool] [Cold]` — main mid-layer, workhorse for 12–22°C days
-- Amazon plain black long-sleeve (thin) x2 `[Cool]` — BRING BOTH, base layer under everything. Fabric checked — they are synthetic ✅
+- Amazon plain black long-sleeve (thin) x2 `[Warm] [Cool]` — 95% modal / 5% spandex. ⚠ **NOT a cold base layer.** Modal is wood-pulp cellulose — it absorbs more water than cotton and dries slowly, so it goes cold and clammy once you sweat. Fine as a light top for Bangkok/HK and mild days. Do **not** wear against the skin on the Great Wall or the Zhangjiajie hike — use a Decathlon thermal there instead.
 - Decathlon thermal base layers x3 ✅ — bought:
   - **TRAVEL 100 merino long-sleeve — black** `[Cool] [Cold]` — 70% merino, odour-resistant. Best for long train days + multi-day wear without washing. ⚠ Hand wash max 30°C, lay flat to dry — no tumble dryer.
   - **Wedze BL500 thermal, collared — blue** `[Cold]` — warmest of the three. Save this for the Great Wall night (3°C) and Beijing; the collar seals the draught.
@@ -48,7 +48,7 @@
 - Wolven flared x1 `[Cool]`
 - Tala flared x1 `[Cool]`
 - Manners London flared x1 `[Cool] [Cold]` — thick, warmest of the flares, best for cold evenings
-- Amazon flared x1 — 🆕 new `[Cool]`
+- Amazon flared x1 ✅ `[Cool]`
 
 ### Shorts
 - Girlfriend Collective bike shorts x1 `[Warm]`
@@ -86,7 +86,7 @@
 
 ## ACCESSORIES
 - Sun hat x1 ✅ `[Warm]`
-- Sunglasses x1 — 🆕 new `[Warm]`
+- Sunglasses x1 ✅ `[Warm]`
 - Warm hat x1 `[Cold]`
 - Gloves x1 `[Cold]`
 - Neck warmer x1 `[Cold]`
@@ -96,8 +96,8 @@
 
 ## UNDERWEAR & BASICS
 - Knickers x15
-- Sports bras x3
-- Normal comfy bra x1
+- Sports bras x3 ✅
+- Normal comfy bra x1 ✅
 - Regular socks x6–8 (of 10–12 total)
 - Thermal socks x2 `[Cold]` — spare pair for the Great Wall night; damp socks in 3°C are worse than none
 - Hair ties x3
@@ -111,12 +111,20 @@
 
 ---
 
+## COMFORT & EXTRAS
+- Earplugs ✅ — long train journeys + twin-share room
+- Eye mask ✅ — overnight and 9hr train days
+- Disposable hand warmers ✅ `[Cold]` — Great Wall 1 Nov at 3°C
+
+---
+
 ## ⚠ Sweat management — Great Wall
 - Carry a SPARE base layer in the day pack. Hike up, change into a dry one before sunset.
 - Suggested pairing: hike in the **BL100** (quick-drying), carry the **BL500 collared** as the dry one to change into for sunset and the night.
 - A damp base layer in 3°C wind cools you faster than no layer at all.
 - Vent early — remove a layer BEFORE you sweat, not after.
 - No cotton against the skin on cold days. Synthetic or merino only.
+- ⚠ This rules out the Amazon modal long-sleeves — modal behaves like cotton when wet. Cold-day base layers = the three Decathlon thermals only.
 
 ---
 
@@ -144,7 +152,7 @@
 - Earphones / AirPods
 - Octopus card (on iPhone, set up ✅)
 - Cable organiser bag — 🛒 to buy
-- Toiletry bag — 🛒 to buy
+- Toiletry bag ✅
 
 ---
 
@@ -155,6 +163,7 @@
 - Uniqlo bum bag ✅ — quick errands, markets, pickpocket-safe
 - Uniqlo brown bag ✅ — side bag, tourist sites, markets
 - Packing cubes ✅
+- Reusable tote ✅ — Bangkok shopping, markets
 
 ---
 
@@ -201,11 +210,7 @@
 - Flip flops from Temu (Crocs + Tevas enough)
 - Swimwear (only pool day at Sindhorn, can use sports bra + shorts if needed)
 - Microfibre towel (hotels provide)
-- Reusable tote (Uniqlo bum bag + day pack sufficient)
 - Portable door lock (Great Wall guesthouse has locks)
-- Earplugs (packing space trade-off)
-- Eye mask (packing space trade-off)
-- Hand warmers (nice to have but not essential)
 - Portable umbrella (Zhangjiajie risk but packing tight)
 - Insect repellent (limited need October/November)
 
@@ -214,14 +219,17 @@
 ## Summary — What to Buy Before You Go
 
 ### Buy Properly
-1. **New shoes** — replacing Skechers black, for plane days + general walking
-2. **Sunglasses**
-3. **Amazon flared trousers** — 🆕 new
-4. Decathlon thermal base layers x3 ✅ Purchased
-5. Hiking shoes ❌ Not bringing — using trainers instead
-6. Universal adapter ✅ Purchased
-7. CCC/3-C certified power bank — Anker 10000mAh ✅ Purchased
-8. Travel insurance ✅ Ordered via Passport Card
+1. **New shoes** — replacing Skechers black, for plane days + general walking. Doing both hikes in these — look for a grippy lugged sole, and break them in before October.
+2. **Cable organiser bag**
+3. Sunglasses ✅ Have
+4. Amazon flared trousers ✅ Have
+5. Sports bras x3 ✅ Have
+6. Toiletry bag ✅ Have
+7. Decathlon thermal base layers x3 ✅ Purchased
+8. Hiking shoes ❌ Not bringing — using trainers instead
+9. Universal adapter ✅ Purchased
+10. CCC/3-C certified power bank — Anker 10000mAh ✅ Purchased
+11. Travel insurance ✅ Ordered via Passport Card
 
 ### Buy from Bath & Body Works (Travel Sizes)
 1. Body wash (small)
@@ -247,4 +255,3 @@
 - Head torch (hotel has lighting)
 - Flip flops (Crocs + Tevas enough)
 - Microfibre towel (hotels provide)
-- Reusable tote (day pack + bum bag sufficient)
