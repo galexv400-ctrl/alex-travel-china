@@ -130,8 +130,8 @@
 
 ### Tech & Essentials
 - Phone + charging cables x2
-- CCC/3-C certified power bank (10000mAh, arriving August, ordered)
-- Universal adapter + international plugs
+- CCC/3-C certified power bank (10000mAh, Anker) ✅ Have (purchased)
+- Universal adapter + international plugs ✅ Have (purchased)
 - Earphones/AirPods
 - Octopus card (on iPhone, set up ✅)
 - Cable organiser bag (to buy)
@@ -143,7 +143,7 @@
 - Day bag / plane bag (for bulk items)
 - Uniqlo bum bag (quick errands, markets, pickpocket-safe) ✅ Have
 - Uniqlo brown bag (side bag, tourist sites, markets) ✅ Have
-- Packing cubes (to buy Temu)
+- Packing cubes ✅ Have (purchased)
 
 ### Documents
 - UK passport (use for mainland China)
@@ -190,148 +190,12 @@
 
 ---
 
-## Clothing
-
-### Tops
-| Item | Qty | Status | Notes |
-|---|---|---|---|
-| Modest tops (cover shoulders) | 3–4 | ✅ Have | For temples and general China |
-| Light t-shirts | 2–3 | ✅ Have | Bangkok + warm early days |
-| Thermal base layer top | 1–2 | ✅ Have | Under layers for Xi'an/Beijing/Wall |
-| Fleece or puffer jacket | 1 | ✅ Have | Main warm layer |
-| Waterproof/windproof jacket | 1 | ✅ Have | Pink. Essential for Wall + Zhangjiajie |
-
-### Bottoms
-| Item | Qty | Status | Notes |
-|---|---|---|---|
-| Comfortable walking trousers | 2 | 🛍 Temu fine | Lightweight, dry fast |
-| Leggings / thermal base layer | 1 | ✅ Have | Under trousers for cold days |
-| Light shorts or casual trousers | 1 | ✅ Have | Bangkok |
-| Swimwear | 1 | ✅ Have | Sindhorn pool day |
-
-### Footwear
-| Item | Qty | Status | Notes |
-|---|---|---|---|
-| ~~Hiking shoes~~ | — | ❌ Skip | Decided against — too heavy to carry for one day of hiking. Using trainers instead. |
-| Comfortable walking shoes / trainers | 1 pair | ✅ Have | City days, temples, markets — also the Zhangjiajie + Great Wall hikes |
-| Flip flops / sandals | 1 pair | 🛍 Temu fine | Hotel showers, Bangkok |
-
-### Accessories
-| Item | Qty | Status | Notes |
-|---|---|---|---|
-| Scarf | 1 | 🛍 Temu fine | Cold days + doubles as temple cover |
-| Warm hat | 1 | 🛍 Temu fine | Great Wall night — 3°C |
-| Gloves | 1 pair | 🛍 Temu fine | Great Wall night |
-| Sun hat | 1 | 🛍 Temu fine | HK and Bangkok |
-| Underwear | 5–6 | ✅ Have | Enough to wash and rotate |
-| Socks — regular | 4–5 pairs | ✅ Have | |
-| Socks — thick/thermal | 2 pairs | 🛍 Temu fine | Cold days and Wall hike |
-
----
-
-## Bags
-
-| Item | Status | Notes |
-|---|---|---|
-| Main luggage (aim under 15kg) | ✅ Have | |
-| Day pack | ✅ Have | For daily excursions — Intrepid requirement |
-| Small crossbody / side bag | ✅ Have | Tourist sites, markets — pickpocket aware |
-| Toiletry bag | 🛒 Buy | Keep all toiletries organised and accessible |
-| Cable / tech organiser bag | 🛒 Buy | Cables, power bank, adapters — essential for 25 days |
-| Reusable tote bag | 🛍 Temu fine | Bangkok shopping, markets |
-| Small padlock | 🛍 Temu fine | For bag zips at crowded sites |
-| Packing cubes | 🛍 Temu fine | Organise main bag |
-
----
-
-## Tech
-
-| Item | Status | Notes |
-|---|---|---|
-| Phone | ✅ Have | Primary everything |
-| iPad (optional) | ❌ Not bringing | Saves weight; won't use on this trip |
-| CCC/3-C certified power bank | 📦 Ordered | Anker brand, 10000mAh. CCC must be printed on device. Arriving August 2026 |
-| Universal travel adapter + international plugs | ✅ Have | China Type A/I, Thailand Type A/B/C, HK Type G |
-| Charging cables | ✅ Have | Bring spares |
-| Earphones / AirPods | ✅ Have | Long train days |
-| Head torch | ❌ Not bringing | Great Wall guesthouse has basic lighting |
-
----
-
-## Documents & Money
-
-| Item | Status | Notes |
-|---|---|---|
-| UK passport | ✅ | Use for ALL mainland China entry |
-| Israeli passport | ✅ | HK and Thailand — either passport fine |
-| Travel insurance documents | ✅ Ordered | Passport Card policy. Print + save offline. Must show at welcome meeting Day 1 |
-| Printed hotel confirmations | 📱 Print | Save offline too |
-| Printed flight confirmations | 📱 Print | Save offline too |
-| CNY 500–750 cash | 🛒 Get | For first 1–2 days in China |
-| Thai Baht cash | 🛒 Get | Bangkok |
-| $500 USD emergency fund | 🛒 Get | Separate from CNY — keep hidden |
-| Credit/debit card (notify bank) | ✅ | For WeChat/Alipay top-up |
-
----
-
-## Apps & Digital
-
-| Item | Status | Notes |
-|---|---|---|
-| NordVPN | ✅ Have | Enable Obfuscated Servers before leaving Israel. Switch on before Day 2 train to Chongqing. |
-| WeChat | 🛒 Set up | Link foreign bank card. Also used to message trip leader. |
-| Alipay | 🛒 Set up | Link foreign bank card. Primary payment method in China. |
-| DiDi | 🛒 Set up | Chinese Uber — use instead of street taxis |
-| Baidu Maps | 🛒 Download | Download offline maps for all cities |
-| Google Translate | 🛒 Download | Download Chinese offline language pack |
-| China Customs mini-app | 🛒 Set up | Digital health declaration — complete before boarding |
-| Netflix | 📱 Download | Download shows/films before entering China |
-| Spotify | 📱 Download | Download playlists offline — Spotify blocked in China |
-| Hotel addresses in Chinese | 📱 Screenshot | Screenshot each hotel's address in Chinese characters — show taxi drivers |
-
----
-
-## Toiletries
-
-| Item | Status | Notes |
-|---|---|---|
-| Roll-on or cream sunscreen | 💊 Pharmacy | NO aerosol — confiscated on high-speed trains |
-| Roll-on insect repellent | 💊 Pharmacy | NO aerosol spray |
-| Shampoo / conditioner | ✅ | Travel size |
-| Body wash | ✅ | Travel size |
-| Deodorant — roll-on or stick | ✅ | NO aerosol |
-| Toothbrush + toothpaste | ✅ | |
-| Moisturiser | ✅ | Northern China is very dry in November |
-| Lip balm | 💊 Pharmacy | Beijing and Wall are very dry and cold |
-| Basic first aid | 💊 Pharmacy | Plasters, ibuprofen, antihistamine, imodium |
-| Hand sanitiser | ✅ | |
-| Feminine hygiene products | ✅ | Stock up — harder to find familiar brands in China |
-| Microfibre towel | 🛍 Temu fine | Great Wall guesthouse may not provide good towels |
-
----
-
-## Comfort & Extras
-
-| Item | Status | Notes |
-|---|---|---|
-| Portable door lock | 🛍 Temu fine | Great Wall guesthouse — basic accommodation with strangers nearby |
-| Earplugs | 🛍 Temu fine | Long train journeys + twin-share room |
-| Eye mask | 🛍 Temu fine | Overnight train journeys |
-| Disposable hand warmers | 🛍 Temu fine | Great Wall 1 Nov — 3°C, transformative for sunset hike |
-| Travel washing line + pegs | 🛍 Temu fine | 17 days on tour — wash and hang overnight |
-| Small coin/bills pouch | 🛍 Temu fine | CNY cash for markets and street food |
-| Portable umbrella | 🛍 Temu fine | Zhangjiajie is famously misty, sudden rain |
-| Reusable water bottle | ✅ | Refill at hotels |
-| Snacks for train days | 🛒 Buy at airport | 9hr train days — stock up before boarding |
-
----
-
 ## Summary — What to Buy Before You Go
 
 ### Buy Properly
 1. ~~**Hiking shoes**~~ ❌ Not bringing — using trainers instead
-2. **Universal adapter** — China Type A/I, Thailand Type A/B/C, HK Type G
-3. **CCC/3-C certified power bank** — Anker 10000mAh (ordered, arriving August)
+2. ~~**Universal adapter** — China Type A/I, Thailand Type A/B/C, HK Type G~~ ✅ Purchased
+3. ~~**CCC/3-C certified power bank** — Anker 10000mAh~~ ✅ Purchased
 4. **Travel insurance** — ✅ Ordered via Passport Card
 
 ### Buy from Bath & Body Works (Travel Sizes)
