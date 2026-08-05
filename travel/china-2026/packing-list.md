@@ -29,7 +29,7 @@
 
 ### Long sleeves & base layers
 - Uniqlo long-sleeve mid-warm tops x3 — black, pink, green `[Cool] [Cold]` — main mid-layer, workhorse for 12–22°C days
-- Amazon plain black long-sleeve (thin) x2 `[Cool]` — BRING BOTH, base layer under everything. Fabric checked — they are synthetic ✅
+- Amazon plain black long-sleeve (thin) x2 `[Warm] [Cool]` — 95% modal / 5% spandex. ⚠ **NOT a cold base layer.** Modal is wood-pulp cellulose — it absorbs more water than cotton and dries slowly, so it goes cold and clammy once you sweat. Fine as a light top for Bangkok/HK and mild days. Do **not** wear against the skin on the Great Wall or the Zhangjiajie hike — use a Decathlon thermal there instead.
 - Decathlon thermal base layers x3 ✅ — bought:
   - **TRAVEL 100 merino long-sleeve — black** `[Cool] [Cold]` — 70% merino, odour-resistant. Best for long train days + multi-day wear without washing. ⚠ Hand wash max 30°C, lay flat to dry — no tumble dryer.
   - **Wedze BL500 thermal, collared — blue** `[Cold]` — warmest of the three. Save this for the Great Wall night (3°C) and Beijing; the collar seals the draught.
@@ -124,6 +124,7 @@
 - A damp base layer in 3°C wind cools you faster than no layer at all.
 - Vent early — remove a layer BEFORE you sweat, not after.
 - No cotton against the skin on cold days. Synthetic or merino only.
+- ⚠ This rules out the Amazon modal long-sleeves — modal behaves like cotton when wet. Cold-day base layers = the three Decathlon thermals only.
 
 ---
 
