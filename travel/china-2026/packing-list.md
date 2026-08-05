@@ -48,7 +48,7 @@
 - Wolven flared x1 `[Cool]`
 - Tala flared x1 `[Cool]`
 - Manners London flared x1 `[Cool] [Cold]` — thick, warmest of the flares, best for cold evenings
-- Amazon flared x1 — 🆕 new `[Cool]`
+- Amazon flared x1 ✅ `[Cool]`
 
 ### Shorts
 - Girlfriend Collective bike shorts x1 `[Warm]`
@@ -86,7 +86,7 @@
 
 ## ACCESSORIES
 - Sun hat x1 ✅ `[Warm]`
-- Sunglasses x1 — 🆕 new `[Warm]`
+- Sunglasses x1 ✅ `[Warm]`
 - Warm hat x1 `[Cold]`
 - Gloves x1 `[Cold]`
 - Neck warmer x1 `[Cold]`
@@ -96,8 +96,8 @@
 
 ## UNDERWEAR & BASICS
 - Knickers x15
-- Sports bras x3
-- Normal comfy bra x1
+- Sports bras x3 ✅
+- Normal comfy bra x1 ✅
 - Regular socks x6–8 (of 10–12 total)
 - Thermal socks x2 `[Cold]` — spare pair for the Great Wall night; damp socks in 3°C are worse than none
 - Hair ties x3
@@ -108,6 +108,13 @@
 ## SLEEPWEAR
 - Pyjama top x2
 - Long pyjama bottoms x1 `[Cold]`
+
+---
+
+## COMFORT & EXTRAS
+- Earplugs ✅ — long train journeys + twin-share room
+- Eye mask ✅ — overnight and 9hr train days
+- Disposable hand warmers ✅ `[Cold]` — Great Wall 1 Nov at 3°C
 
 ---
 
@@ -144,7 +151,7 @@
 - Earphones / AirPods
 - Octopus card (on iPhone, set up ✅)
 - Cable organiser bag — 🛒 to buy
-- Toiletry bag — 🛒 to buy
+- Toiletry bag ✅
 
 ---
 
@@ -155,6 +162,7 @@
 - Uniqlo bum bag ✅ — quick errands, markets, pickpocket-safe
 - Uniqlo brown bag ✅ — side bag, tourist sites, markets
 - Packing cubes ✅
+- Reusable tote ✅ — Bangkok shopping, markets
 
 ---
 
@@ -201,11 +209,7 @@
 - Flip flops from Temu (Crocs + Tevas enough)
 - Swimwear (only pool day at Sindhorn, can use sports bra + shorts if needed)
 - Microfibre towel (hotels provide)
-- Reusable tote (Uniqlo bum bag + day pack sufficient)
 - Portable door lock (Great Wall guesthouse has locks)
-- Earplugs (packing space trade-off)
-- Eye mask (packing space trade-off)
-- Hand warmers (nice to have but not essential)
 - Portable umbrella (Zhangjiajie risk but packing tight)
 - Insect repellent (limited need October/November)
 
@@ -214,14 +218,17 @@
 ## Summary — What to Buy Before You Go
 
 ### Buy Properly
-1. **New shoes** — replacing Skechers black, for plane days + general walking
-2. **Sunglasses**
-3. **Amazon flared trousers** — 🆕 new
-4. Decathlon thermal base layers x3 ✅ Purchased
-5. Hiking shoes ❌ Not bringing — using trainers instead
-6. Universal adapter ✅ Purchased
-7. CCC/3-C certified power bank — Anker 10000mAh ✅ Purchased
-8. Travel insurance ✅ Ordered via Passport Card
+1. **New shoes** — replacing Skechers black, for plane days + general walking. Doing both hikes in these — look for a grippy lugged sole, and break them in before October.
+2. **Cable organiser bag**
+3. Sunglasses ✅ Have
+4. Amazon flared trousers ✅ Have
+5. Sports bras x3 ✅ Have
+6. Toiletry bag ✅ Have
+7. Decathlon thermal base layers x3 ✅ Purchased
+8. Hiking shoes ❌ Not bringing — using trainers instead
+9. Universal adapter ✅ Purchased
+10. CCC/3-C certified power bank — Anker 10000mAh ✅ Purchased
+11. Travel insurance ✅ Ordered via Passport Card
 
 ### Buy from Bath & Body Works (Travel Sizes)
 1. Body wash (small)
@@ -247,4 +254,3 @@
 - Head torch (hotel has lighting)
 - Flip flops (Crocs + Tevas enough)
 - Microfibre towel (hotels provide)
-- Reusable tote (day pack + bum bag sufficient)
