@@ -146,7 +146,8 @@
 - Day bag / plane bag (for bulk items)
 - Uniqlo bum bag (quick errands, markets, pickpocket-safe) ✅ Have
 - Uniqlo brown bag (side bag, tourist sites, markets) ✅ Have
-- Packing cubes (to buy Temu)
+- Packing cubes ✅ Have
+- Dry bag ✅ Have — damp base layers, wet swimwear, keeps sweat off clean clothes
 
 ### Documents
 - UK passport (use for mainland China)
