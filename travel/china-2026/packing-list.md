@@ -36,6 +36,7 @@
 
 **Accessories:**
 - Sun hat x1
+- Sunglasses x1
 
 **Sleepwear:**
 - Pyjama top x1
@@ -126,6 +127,8 @@
 - Pads x7 (first few days, then buy locally)
 - Ibuprofen, back pain meds, imodium, blister plasters, iron pills, SSRI, thyroid pill, magnesium (sleep)
 - Hand sanitiser wipes x1 (have)
+- Pocket tissues — several packs (have). Carry one in EVERY bag: Chinese public toilets often have no paper.
+- Anti-chafe balm (have) — 25 days walking + Bangkok humidity
 - Small hand sanitiser (to buy from Bath & Body Works)
 
 ### Tech & Essentials
