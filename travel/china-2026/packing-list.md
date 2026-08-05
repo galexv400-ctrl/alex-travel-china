@@ -30,7 +30,10 @@
 ### Long sleeves & base layers
 - Uniqlo long-sleeve mid-warm tops x3 — black, pink, green `[Cool] [Cold]` — main mid-layer, workhorse for 12–22°C days
 - Amazon plain black long-sleeve (thin) x2 `[Cool]` — BRING BOTH, base layer under everything. Fabric checked — they are synthetic ✅
-- Decathlon thermal base layers x3 ✅ — bought
+- Decathlon thermal base layers x3 ✅ — bought:
+  - **TRAVEL 100 merino long-sleeve — black** `[Cool] [Cold]` — 70% merino, odour-resistant. Best for long train days + multi-day wear without washing. ⚠ Hand wash max 30°C, lay flat to dry — no tumble dryer.
+  - **Wedze BL500 thermal, collared — blue** `[Cold]` — warmest of the three. Save this for the Great Wall night (3°C) and Beijing; the collar seals the draught.
+  - **Wedze BL100 thermal — black** `[Cool]` — lightest synthetic. Everyday base layer for cool days; quick-drying, so good as the spare in the day pack.
 - Asics long-sleeve black sports top x1 `[Cool]`
 
 ### Shirts
@@ -108,6 +111,7 @@
 
 ## ⚠ Sweat management — Great Wall
 - Carry a SPARE base layer in the day pack. Hike up, change into a dry one before sunset.
+- Suggested pairing: hike in the **BL100** (quick-drying), carry the **BL500 collared** as the dry one to change into for sunset and the night.
 - A damp base layer in 3°C wind cools you faster than no layer at all.
 - Vent early — remove a layer BEFORE you sweat, not after.
 - No cotton against the skin on cold days. Synthetic or merino only.
