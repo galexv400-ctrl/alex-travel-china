@@ -61,6 +61,8 @@
 ### Leggings
 - Girlfriend Collective leggings — float x1 `[Cool]` — thin
 - Girlfriend Collective leggings — regular x1 `[Cool] [Cold]`
+- Girlfriend Collective leggings — green x1 `[Cold]` — very warm, warmest of the three
+- ☔ All GF leggings are fast-drying — wear these in the rain (Zhangjiajie mist, sudden showers) rather than the flares
 
 ---
 
