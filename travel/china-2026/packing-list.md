@@ -94,7 +94,7 @@
 - Sports bras x3
 - Normal comfy bra x1
 - Regular socks x6–8 (of 10–12 total)
-- Thermal socks x1
+- Thermal socks x2 `[Cold]` — spare pair for the Great Wall night; damp socks in 3°C are worse than none
 - Hair ties x3
 - Hair brush x1
 
