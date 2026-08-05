@@ -45,6 +45,8 @@
 - Uniqlo long-sleeve mid-warm tops x4 (includes the black thermal — main mid-layer, workhorse for 12–22°C days)
 - Amazon plain black long-sleeve (thin) x2 — BRING BOTH, base layer under everything. CHECK FABRIC — if cotton they hold sweat and go cold; synthetic/merino only for cold days.
 - Decathlon thermal base layers x2 — 🛒 BUY. Synthetic or merino. Sweat a lot = need a dry base layer every day.
+  - Recommended: **TRAVEL 100 merino long-sleeve** ~₪54 each (70% merino, odour-resistant — ideal for the long tour)
+  - Optional extra warmth: **Wedze BL 500** ~₪69 (Great Wall night at 3°C + Beijing)
 - Shein striped shirts x2 (temple coverage)
 - Black fleece, sweater style x1 (standalone mid-layer — Zhangjiajie damp cold, Shanghai, Xi'an)
 - Black fleece (Gillet brand) x1 — the zip-in liner of the waterproof shell. Wear over Uniqlo tops on its own, or zip into the jacket for max warmth (Great Wall).
