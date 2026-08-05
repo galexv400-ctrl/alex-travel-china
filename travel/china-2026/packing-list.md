@@ -24,16 +24,13 @@
 ## TOPS
 
 ### Bra tops / summer tops
-- Uniqlo sports bra top x2 `[Warm]`
+- Uniqlo sports bra top x2 — blue and black `[Warm]`
 - Stradivarius bra top x2 `[Warm]`
 
 ### Long sleeves & base layers
-- Uniqlo long-sleeve mid-warm tops x4 `[Cool] [Cold]` — includes the black thermal; main mid-layer, workhorse for 12–22°C days
-- Uniqlo thermal black — from the x4 above, the base layer for `[Cold]`
-- Amazon plain black long-sleeve (thin) x2 `[Cool]` — BRING BOTH, base layer under everything. CHECK FABRIC — if cotton they hold sweat and go cold; synthetic/merino only for cold days.
-- Decathlon thermal base layers x2 — 🛒 **BUY** `[Cool] [Cold]`. Synthetic or merino. Sweat a lot = need a dry base layer every day.
-  - Recommended: **TRAVEL 100 merino long-sleeve** ~₪54 each (70% merino, odour-resistant — ideal for the long tour)
-  - Optional extra warmth: **Wedze BL 500** ~₪69 (Great Wall night at 3°C + Beijing)
+- Uniqlo long-sleeve mid-warm tops x3 — black, pink, green `[Cool] [Cold]` — main mid-layer, workhorse for 12–22°C days
+- Amazon plain black long-sleeve (thin) x2 `[Cool]` — BRING BOTH, base layer under everything. Fabric checked — they are synthetic ✅
+- Decathlon thermal base layers x3 ✅ — bought
 - Asics long-sleeve black sports top x1 `[Cool]`
 
 ### Shirts
@@ -44,7 +41,7 @@
 ## BOTTOMS
 
 ### Trousers
-- Uniqlo long black trousers x1 `[Cool] [Cold]` — thin, versatile
+- Uniqlo long black trousers x1 `[Warm]` — thin, versatile
 - Wolven flared x1 `[Cool]`
 - Tala flared x1 `[Cool]`
 - Manners London flared x1 `[Cool] [Cold]` — thick, warmest of the flares, best for cold evenings
@@ -58,7 +55,7 @@
 - Green playsuit x1 `[Warm] [Cool]`
 - Red playsuit x1 `[Warm]`
 
-### Leggings (worn UNDER trousers)
+### Leggings
 - Girlfriend Collective leggings — float x1 `[Cool]` — thin
 - Girlfriend Collective leggings — regular x1 `[Cool] [Cold]`
 
@@ -77,7 +74,7 @@
 - Second pair trainers x1 ✅ — backup for wet days (Zhangjiajie misty/rainy) + 25 days of walking. Also doing the Zhangjiajie + Great Wall hikes in trainers.
 - Tevas black x1 ✅ `[Warm]` — lightweight sandal
 - Pink Crocs x1 ✅ `[Warm]` — hotel/casual
-- ~~Hiking shoes~~ ❌ NOT bringing — too heavy to carry for one day of hiking. Using trainers instead.
+- Hiking shoes ❌ NOT bringing — too heavy to carry for one day of hiking. Using trainers instead.
 - (All footwear is worn or ultralight — no boots taking up main luggage space)
 
 ---
@@ -97,14 +94,14 @@
 - Sports bras x3
 - Normal comfy bra x1
 - Regular socks x6–8 (of 10–12 total)
-- Thermal socks x2–3 ✅ (of 10–12 total) `[Cold]`
+- Thermal socks x1
 - Hair ties x3
 - Hair brush x1
 
 ---
 
 ## SLEEPWEAR
-- Pyjama top x1
+- Pyjama top x2
 - Long pyjama bottoms x1 `[Cold]`
 
 ---
@@ -128,7 +125,7 @@
 - Face wipes x1
 - Toothbrush + toothpaste
 - Pads x7 (first few days, then buy locally)
-- Ibuprofen, back pain meds, imodium, blister plasters, iron pills, SSRI, thyroid pill, magnesium (sleep)
+- Ibuprofen, back pain meds, Imodium, blister plasters, iron pills, SSRI, thyroid pill, magnesium (sleep)
 - Hand sanitiser wipes x1 ✅
 - Small hand sanitiser — 🛒 buy from Bath & Body Works
 
@@ -191,7 +188,7 @@
 ---
 
 ## NOT BRINGING
-- ~~Skechers black~~ — replaced with new shoes
+- Skechers black — replaced with new shoes
 - Denim jacket — removed
 - iPad (won't use, saves weight)
 - Head torch (Great Wall guesthouse has basic lighting)
@@ -212,41 +209,32 @@
 
 ### Buy Properly
 1. **New shoes** — replacing Skechers black, for plane days + general walking
-2. **Decathlon thermal base layers x2** — TRAVEL 100 merino ~₪54 each (+ optional Wedze BL 500 ~₪69)
-3. **Sunglasses**
-4. **Amazon flared trousers** — 🆕 new
-5. ~~**Hiking shoes**~~ ❌ Not bringing — using trainers instead
-6. ~~**Universal adapter**~~ ✅ Purchased
-7. ~~**CCC/3-C certified power bank** — Anker 10000mAh~~ ✅ Purchased
-8. **Travel insurance** — ✅ Ordered via Passport Card
-
-### Also to buy
-- Sports bras — need 3 total
-- Cable organiser bag, toiletry bag
-- Mascara (if needed)
+2. **Sunglasses**
+3. **Amazon flared trousers** — 🆕 new
+4. Decathlon thermal base layers x3 ✅ Purchased
+5. Hiking shoes ❌ Not bringing — using trainers instead
+6. Universal adapter ✅ Purchased
+7. CCC/3-C certified power bank — Anker 10000mAh ✅ Purchased
+8. Travel insurance ✅ Ordered via Passport Card
 
 ### Buy from Bath & Body Works (Travel Sizes)
 1. Body wash (small)
 2. Hand sanitiser (small)
 
 ### Set Up Before Leaving Israel
-1. **NordVPN** — enable Obfuscated Servers, test it works ✅
-2. **Octopus for Tourists** — set up on iPhone Apple Wallet ✅
-3. **Alipay** — account + foreign bank card linked ✅
-4. **DiDi** — download and set up ✅
-5. **WeChat** — will set up in Hong Kong with hotel staff (verification needed)
-6. **Baidu Maps** — download offline maps for all cities
-7. **Google Translate** — download Chinese offline language pack
-8. **China Customs app** — create account, fill declaration 24–48hrs before mainland China entry
-9. **Netflix/Spotify** — download offline content
-10. **Hotel addresses in Chinese** — screenshot each hotel's address for taxi drivers
+1. NordVPN — enable Obfuscated Servers, test it works ✅
+2. Octopus for Tourists — set up on iPhone Apple Wallet ✅
+3. Alipay — account + foreign bank card linked ✅
+4. DiDi — download and set up ✅
+5. WeChat — will set up in Hong Kong with hotel staff (verification needed)
+6. Baidu Maps — download offline maps for all cities
+7. Google Translate — download Chinese offline language pack
+8. China Customs app — create account, fill declaration 24–48hrs before mainland China entry
+9. Netflix/Spotify — download offline content
 
 ### Medications & Pharmacy
-- ✅ Ibuprofen, back pain meds, imodium, blister plasters, iron pills, SSRI, thyroid pill, magnesium
+- ✅ Ibuprofen, back pain meds, Imodium, blister plasters, iron pills, SSRI, thyroid pill, magnesium
 - Roll-on sunscreen (if needed), roll-on insect repellent, lip balm
-
-### Temu / Shein (Optional — Low Priority)
-Scarf, hat, gloves, coin pouch, umbrella
 
 ### NOT Buying
 - iPad (won't use)
