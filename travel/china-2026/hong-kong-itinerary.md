@@ -43,6 +43,7 @@
 - **17:30** Optional: Apliu Street flea market wander
 - **18:00** Back to hotel, freshen up
 - **19:30** 🍽 Dinner: **Seoul Bros**, Soho, Central · Korean bowls, bibimbap, salad bowls · Casual walk-in · MTR to Central then Mid-Levels escalator
+  - *Alternative (no harbour crossing):* **Golden Phoenix** — 102 Lai Chi Kok Road, Prince Edward · HKD146–182 · Foodie Forks 2026 Best Steakhouse, open since 1969 · one MTR stop from Sham Shui Po · Walk-in · Ask them to leave off the fried egg and chips
 
 ---
 
