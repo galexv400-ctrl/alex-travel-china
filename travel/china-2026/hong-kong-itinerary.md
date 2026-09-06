@@ -26,7 +26,8 @@
 - **13:00** Taxi back to Tai Po Market · Return to TST via East Rail
 - **14:30** **West Kowloon Cultural District waterfront promenade** · Art Park, harbour walk · 1–1.5 hrs
 - **16:30** Back to hotel, rest
-- **19:30** 🍽 Dinner: **Lamees** (Jordanian) — 145 Pak Tai Street, To Kwa Wan · Mezze, grilled meats, stuffed grape leaves · Taxi ~15 min · Book: +852 9181 9600
+- **19:30** 🍽 Dinner: **Flat Iron Steak** — Lower Lobby, The Langham, 8 Peking Road, TST · **8 min walk from hotel** (down Nathan Rd, right onto Peking Rd) · HKD238 dinner · Australian Black Angus, casual, walk-in only · Open till 22:00 Sun–Thu, 23:30 Fri–Sat · ☎ +852 6551 0667 · Ask for salad instead of the chips
+  - *Alternative:* **Lamees** (Jordanian) — 145 Pak Tai Street, To Kwa Wan · Mezze, grilled meats · Taxi ~15 min · Book: +852 9181 9600
 
 ---
 
@@ -78,5 +79,5 @@
 |---|---|---|
 | Tsz Shan Monastery | tszshan.org | **17 September** (opens exactly 1 month before) |
 | M+ Museum | mplus.org.hk | 1–2 weeks before |
-| Lamees dinner | +852 9181 9600 | 1 week before |
+| Lamees dinner (only if choosing it over Flat Iron) | +852 9181 9600 | 1 week before |
 | Apgujeong arrival night | +852 3579 2992 | Optional — walk-in usually fine |
