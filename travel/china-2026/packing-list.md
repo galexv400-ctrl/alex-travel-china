@@ -45,7 +45,7 @@
 **Tops:**
 - Uniqlo long-sleeve mid-warm tops x4 (includes the black thermal — main mid-layer, workhorse for 12–22°C days)
 - Amazon plain black long-sleeve (thin) x2 — BRING BOTH, base layer under everything. CHECK FABRIC — if cotton they hold sweat and go cold; synthetic/merino only for cold days.
-- Decathlon thermal base layers x2 — 🛒 BUY. Synthetic or merino. Sweat a lot = need a dry base layer every day.
+- Decathlon thermal base layers x2 ✅ Have — a dry base layer every day on the cold stretch.
 - Shein striped shirts x2 (temple coverage)
 - Black fleece, sweater style x1 (standalone mid-layer — Zhangjiajie damp cold, Shanghai, Xi'an)
 - Black fleece (Gillet brand) x1 — the zip-in liner of the waterproof shell. Wear over Uniqlo tops on its own, or zip into the jacket for max warmth (Great Wall).
@@ -330,7 +330,7 @@
 ## Summary — What to Buy Before You Go
 
 ### Buy Properly
-1. **Decathlon thermal base layers ×2 + thermal leggings** — synthetic or merino
+1. **Thermal leggings** — Decathlon, to pair with the thermal tops you already have
 2. **Universal adapter** — China Type A/I, Thailand Type A/B/C, HK Type G
 3. **CCC/3-C certified power bank** — Anker 10000mAh (ordered, arriving August)
 4. **Travel insurance** — ✅ Ordered via Passport Card
