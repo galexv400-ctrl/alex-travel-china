@@ -62,6 +62,7 @@
 **Layers:**
 - Girlfriend Collective leggings — float x1 (thin, worn UNDER trousers)
 - Girlfriend Collective leggings — regular x1 (worn UNDER trousers)
+- Thermal leggings x1 ✅ Have (worn UNDER trousers — Great Wall night, Beijing mornings)
 
 **Sleepwear:**
 - Pyjama top x1
@@ -70,6 +71,7 @@
 **Essential Layers:**
 - Uniqlo thermal black (from the x4 above — base layer)
 - Girlfriend Collective leggings — regular (worn UNDER trousers)
+- Thermal leggings x1 (the warmest base — use these for Great Wall night)
 - Uniqlo long black trousers x1
 - Manners London flared x1 (thick — best for cold evenings)
 - Uniqlo pink puffer (ESSENTIAL from day bag)
@@ -136,8 +138,8 @@
 - Universal adapter + international plugs
 - Earphones/AirPods
 - Octopus card (on iPhone, set up ✅)
-- Cable organiser bag (to buy)
-- Toiletry bag (to buy)
+- Cable organiser bag ✅ Have
+- Toiletry bag ✅ Have
 
 ### Bags
 - Main luggage (15kg limit)
@@ -237,8 +239,8 @@
 | Main luggage (aim under 15kg) | ✅ Have | |
 | Day pack | ✅ Have | For daily excursions — Intrepid requirement |
 | Small crossbody / side bag | ✅ Have | Tourist sites, markets — pickpocket aware |
-| Toiletry bag | 🛒 Buy | Keep all toiletries organised and accessible |
-| Cable / tech organiser bag | 🛒 Buy | Cables, power bank, adapters — essential for 25 days |
+| Toiletry bag | ✅ Have | Keep all toiletries organised and accessible |
+| Cable / tech organiser bag | ✅ Have | Cables, power bank, adapters — essential for 25 days |
 | Reusable tote bag | 🛍 Temu fine | Bangkok shopping, markets |
 | Small padlock | 🛍 Temu fine | For bag zips at crowded sites |
 | Packing cubes | 🛍 Temu fine | Organise main bag |
@@ -330,7 +332,6 @@
 ## Summary — What to Buy Before You Go
 
 ### Buy Properly
-1. **Thermal leggings** — Decathlon, to pair with the thermal tops you already have
 2. **Universal adapter** — China Type A/I, Thailand Type A/B/C, HK Type G
 3. **CCC/3-C certified power bank** — Anker 10000mAh (ordered, arriving August)
 4. **Travel insurance** — ✅ Ordered via Passport Card
