@@ -82,3 +82,17 @@
 | M+ Museum | mplus.org.hk | 1–2 weeks before |
 | Lamees dinner (only if choosing it over Flat Iron) | +852 9181 9600 | 1 week before |
 | Apgujeong arrival night | +852 3579 2992 | Optional — walk-in usually fine |
+
+---
+
+## Before You Fly — Check What's On
+
+**Sassy Hong Kong — https://www.sassyhongkong.com/**
+
+The best local listings site for Hong Kong. Check it in **early October** for what's happening 16–19 October: exhibitions, pop-ups, markets, food festivals, gigs, neighbourhood events. Sections worth checking:
+
+- **What's On** — events by date
+- **Eat & Drink** — new openings and pop-ups
+- **Things To Do** — weekend guides
+
+Mid-October is a good time for this — the weather has turned and HK's autumn events season is starting.
