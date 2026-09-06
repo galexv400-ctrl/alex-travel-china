@@ -130,7 +130,7 @@
 - Hand sanitiser wipes x1 (have)
 - Pocket tissues — several packs (have). Carry one in EVERY bag: Chinese public toilets often have no paper.
 - Anti-chafe balm (have) — 25 days walking + Bangkok humidity
-- Small hand sanitiser (to buy from Bath & Body Works)
+- Small hand sanitiser — buy in Hong Kong (Watsons or Mannings, on every block)
 
 ### Tech & Essentials
 - Phone + charging cables x2
