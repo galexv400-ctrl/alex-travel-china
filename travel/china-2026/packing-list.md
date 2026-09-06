@@ -134,7 +134,7 @@
 
 ### Tech & Essentials
 - Phone + charging cables x2
-- CCC/3-C certified power bank (10000mAh, arriving August, ordered)
+- CCC/3-C certified power bank (Anker 10000mAh) ✅ ARRIVED — check the CCC mark is printed on the casing
 - Universal adapter + international plugs
 - Earphones/AirPods
 - Octopus card (on iPhone, set up ✅)
@@ -253,7 +253,7 @@
 |---|---|---|
 | Phone | ✅ Have | Primary everything |
 | iPad (optional) | ❌ Not bringing | Saves weight; won't use on this trip |
-| CCC/3-C certified power bank | 📦 Ordered | Anker brand, 10000mAh. CCC must be printed on device. Arriving August 2026 |
+| CCC/3-C certified power bank | ✅ Arrived | Anker 10000mAh. CHECK the CCC mark is printed on the casing — no mark means confiscated. |
 | Universal travel adapter + international plugs | ✅ Have | China Type A/I, Thailand Type A/B/C, HK Type G |
 | Charging cables | ✅ Have | Bring spares |
 | Earphones / AirPods | ✅ Have | Long train days |
@@ -333,7 +333,7 @@
 
 ### Buy Properly
 2. **Universal adapter** — China Type A/I, Thailand Type A/B/C, HK Type G
-3. **CCC/3-C certified power bank** — Anker 10000mAh (ordered, arriving August)
+3. **CCC/3-C certified power bank** — ✅ Anker 10000mAh arrived. Verify the CCC mark on the casing.
 4. **Travel insurance** — ✅ Ordered via Passport Card
 
 ### Buy from Bath & Body Works (Travel Sizes)
