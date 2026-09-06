@@ -55,13 +55,13 @@
 - Uniqlo long black trousers x1 (thin, versatile)
 - Wolven flared x1
 - Tala flared x1
+- IUGA bootcut yoga pants x1 (flare, high waist, POCKETS — useful for markets + train days)
 - Manners London flared x1 (thick — warmest of the three, good for cold evenings)
 - Green playsuit x1 (can also wear in cool)
 
 **Layers:**
 - Girlfriend Collective leggings — float x1 (thin, worn UNDER trousers)
 - Girlfriend Collective leggings — regular x1 (worn UNDER trousers)
-- Denim jacket x1 (casual layer for mild days + evenings)
 
 **Sleepwear:**
 - Pyjama top x1
@@ -99,12 +99,11 @@
 - Sun hat
 
 ### Footwear Summary
-- Hiking shoes (Decathlon, ordered) — wear on plane days or pack in main luggage
 - Skechers black — wear on plane
 - Second pair trainers x1 — backup for wet days (Zhangjiajie misty/rainy) + 25 days of walking
 - Tevas black x1 — lightweight sandal
 - Pink Crocs x1 — hotel/casual
-- (Main luggage = only hiking shoes need space; others are worn or ultralight)
+- (Skechers worn on plane; Tevas and Crocs are ultralight)
 
 ### Underwear & Basics
 - Knickers x15
@@ -144,7 +143,6 @@
 - Main luggage (15kg limit)
 - Day pack (Intrepid requirement) ✅ Have
 - Day bag / plane bag (for bulk items)
-- Uniqlo bum bag (quick errands, markets, pickpocket-safe) ✅ Have
 - Uniqlo brown bag (side bag, tourist sites, markets) ✅ Have
 - Packing cubes ✅ Have
 - Dry bag ✅ Have — damp base layers, wet swimwear, keeps sweat off clean clothes
@@ -184,7 +182,7 @@
 - Flip flops from Temu (Crocs + Tevas enough)
 - Swimwear (only pool day at Sindhorn, can use sports bra + shorts if needed)
 - Microfibre towel (hotels provide)
-- Reusable tote (Uniqlo bum bag + day pack sufficient)
+- Reusable tote (day pack + brown bag sufficient)
 - Portable door lock (Great Wall guesthouse has locks)
 - Earplugs (packing space trade-off)
 - Eye mask (packing space trade-off)
@@ -216,7 +214,6 @@
 ### Footwear
 | Item | Qty | Status | Notes |
 |---|---|---|---|
-| Hiking shoes | 1 pair | 🛒 Buy | Decathlon Quechua MH100/MH500. Asics road runners not suitable for Great Wall. Break in before October. |
 | Comfortable walking shoes / trainers | 1 pair | ✅ Have | City days, temples, markets |
 | Flip flops / sandals | 1 pair | 🛍 Temu fine | Hotel showers, Bangkok |
 
@@ -333,7 +330,7 @@
 ## Summary — What to Buy Before You Go
 
 ### Buy Properly
-1. **Hiking shoes** — Decathlon Quechua MH100/MH500. Break in before October. (URGENT — order soon)
+1. **Decathlon thermal base layers ×2 + thermal leggings** — synthetic or merino
 2. **Universal adapter** — China Type A/I, Thailand Type A/B/C, HK Type G
 3. **CCC/3-C certified power bank** — Anker 10000mAh (ordered, arriving August)
 4. **Travel insurance** — ✅ Ordered via Passport Card
@@ -366,4 +363,4 @@ Scarf, hat, gloves, packing cubes, portable door lock, earplugs, eye mask, hand 
 - Head torch (hotel has lighting)
 - Flip flops (Crocs + Tevas enough)
 - Microfibre towel (hotels provide)
-- Reusable tote (day pack + bum bag sufficient)
+- Reusable tote (day pack + brown bag sufficient)
