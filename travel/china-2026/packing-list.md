@@ -143,7 +143,9 @@
 - Pads x7 (first few days, then buy locally)
 - Ibuprofen, back pain meds, Imodium, blister plasters, iron pills, SSRI, thyroid pill, magnesium (sleep)
 - Hand sanitiser wipes x1 ✅
-- Small hand sanitiser — 🛒 buy from Bath & Body Works
+- Pocket tissues — several packs ✅ Carry one in EVERY bag: Chinese public toilets often have no paper.
+- Anti-chafe balm ✅ — 25 days walking + Bangkok humidity
+- Small hand sanitiser — 🛒 buy in Hong Kong (Watsons or Mannings, on every block)
 
 ---
 
@@ -165,6 +167,7 @@
 - Uniqlo bum bag ✅ — quick errands, markets, pickpocket-safe
 - Uniqlo brown bag ✅ — side bag, tourist sites, markets
 - Packing cubes ✅
+- Dry bag ✅ — damp base layers, wet swimwear, keeps sweat off clean clothes
 - Reusable tote ✅ — Bangkok shopping, markets
 
 ---
@@ -235,7 +238,7 @@
 
 ### Buy from Bath & Body Works (Travel Sizes)
 1. Body wash (small)
-2. Hand sanitiser (small)
+2. Hand sanitiser (small) — buy in Hong Kong
 
 ### Set Up Before Leaving Israel
 1. NordVPN — enable Obfuscated Servers, test it works ✅

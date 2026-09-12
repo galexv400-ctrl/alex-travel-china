@@ -13,20 +13,28 @@
 - **14:20** Land at HKIA · UK passport · Top up Octopus card at Airport Express machines
 - **~15:00** Airport Express to Kowloon Station (24 min) · Taxi to The Luxe Manor
 - **~16:00** Check in, freshen up, short walk to orientate
-- **19:00** 🍽 Dinner: **Apgujeong Tent Bar** — 1/F Koon Fook Centre, 9 Knutsford Terrace, TST (5 min walk) · Korean, relaxed · Call ahead: +852 3579 2992
+- **19:00** 🍽 Dinner: **Flat Iron Steak — Wan Chai** · G/F Johnston Court, 14–16 Johnston Road, Wan Chai · HKD238 · Casual, walk-in only · MTR: TST → Admiralty (Tsuen Wan Line) → Wan Chai (Island Line), ~20 min door to door · Ask for salad instead of the chips
+  - *Alternative if too tired to cross the harbour:* **Apgujeong Tent Bar** — 1/F Koon Fook Centre, 9 Knutsford Terrace, TST (5 min walk) · Korean, relaxed, open late · ☎ +852 3579 2992
+
+**✨ If you still have energy:**
+- **20:00 Symphony of Lights** — TST waterfront promenade, 10 min walk. Free, 10 min, nightly. Zero commitment.
+- **K11 MUSEA**, 18 Salisbury Road — open till 22:00. Design-led waterfront complex, opened 2019, new since you lived here.
+- **Temple Street Night Market** — Jordan, 1 MTR stop or 15 min walk. Runs from early evening.
 
 ---
 
 ## Day 2 — Saturday 17 October: Tsz Shan Monastery + West Kowloon
 *⚠ Book monastery from 17 September at tszshan.org — fills fast on weekends*
 
-- **08:30** Optional hotel gym
 - **09:15** MTR East Rail to Tai Po Market (~45 min) · Taxi to monastery (show driver: 慈山寺)
 - **10:00** **Tsz Shan Monastery**, Tung Tsz Road, Tai Po · Free, pre-booked only · Peaceful Buddhist monastery, giant Guanyin statue, wooded grounds · Allow 2.5–3 hrs · Covered shoulders required · Open Thu–Tue 09:30–17:00
-- **13:00** Taxi back to Tai Po Market · Return to TST via East Rail
-- **14:30** **West Kowloon Cultural District waterfront promenade** · Art Park, harbour walk · 1–1.5 hrs
-- **16:30** Back to hotel, rest
-- **19:30** 🍽 Dinner: **Lamees** (Jordanian) — 145 Pak Tai Street, To Kwa Wan · Mezze, grilled meats, stuffed grape leaves · Taxi ~15 min · Book: +852 9181 9600
+- **12:45** Taxi to Tai Po Market station
+- **13:00** **East Rail Line direct to Admiralty** (~40 min, no changes — the line runs cross-harbour since 2022)
+- **14:00** 🍵 **Lunch: LockCha Tea House** — G/F, The K.S. Lo Gallery, 10 Cotton Tree Drive, Hong Kong Park, Admiralty · 100+ teas, all-vegetarian dim sum made fresh daily · Sat 10:00–21:00 · Book online at book.bistrochat.com/lockcha-admiralty · Stick to the steamed dumplings
+- **15:30** **Hong Kong Park** — you're already in it. Aviary, conservatory, tai chi garden. Free, green, unexpectedly quiet for the middle of Admiralty.
+- **17:00** MTR Admiralty → TST (2 stops, ~10 min) · Back to hotel, rest
+- **19:30** 🍽 Dinner: **Apgujeong Tent Bar** — 1/F Koon Fook Centre, 9 Knutsford Terrace, TST · **5 min walk from hotel** · Korean, relaxed, open late · Best Korean at Foodie Forks 2025 · ☎ +852 3579 2992
+  - *Alternative:* **Lamees** (Jordanian) — 145 Pak Tai Street, To Kwa Wan · Mezze, grilled meats · Taxi ~15 min · Book: +852 9181 9600
 
 ---
 
@@ -42,6 +50,7 @@
 - **17:30** Optional: Apliu Street flea market wander
 - **18:00** Back to hotel, freshen up
 - **19:30** 🍽 Dinner: **Seoul Bros**, Soho, Central · Korean bowls, bibimbap, salad bowls · Casual walk-in · MTR to Central then Mid-Levels escalator
+  - *Alternative (no harbour crossing):* **Golden Phoenix** — 102 Lai Chi Kok Road, Prince Edward · HKD146–182 · Foodie Forks 2026 Best Steakhouse, open since 1969 · one MTR stop from Sham Shui Po · Walk-in · Ask them to leave off the fried egg and chips
 
 ---
 
@@ -78,5 +87,20 @@
 |---|---|---|
 | Tsz Shan Monastery | tszshan.org | **17 September** (opens exactly 1 month before) |
 | M+ Museum | mplus.org.hk | 1–2 weeks before |
-| Lamees dinner | +852 9181 9600 | 1 week before |
+| Lamees dinner (only if choosing it over Flat Iron) | +852 9181 9600 | 1 week before |
 | Apgujeong arrival night | +852 3579 2992 | Optional — walk-in usually fine |
+| LockCha Tea House (Sat lunch) | book.bistrochat.com/lockcha-admiralty | A few days before |
+
+---
+
+## Before You Fly — Check What's On
+
+**Sassy Hong Kong — https://www.sassyhongkong.com/**
+
+The best local listings site for Hong Kong. Check it in **early October** for what's happening 16–19 October: exhibitions, pop-ups, markets, food festivals, gigs, neighbourhood events. Sections worth checking:
+
+- **What's On** — events by date
+- **Eat & Drink** — new openings and pop-ups
+- **Things To Do** — weekend guides
+
+Mid-October is a good time for this — the weather has turned and HK's autumn events season is starting.
