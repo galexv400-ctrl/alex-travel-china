@@ -49,8 +49,9 @@
 - **16:30** **Mei Ho House Heritage Museum**, 70 Berwick Street · Restored 1950s public housing · Free entry · 45 mins
 - **17:30** Optional: Apliu Street flea market wander
 - **18:00** Back to hotel, freshen up
-- **19:30** 🍽 Dinner: **Seoul Bros**, Soho, Central · Korean bowls, bibimbap, salad bowls · Casual walk-in · MTR to Central then Mid-Levels escalator
-  - *Alternative (no harbour crossing):* **Golden Phoenix** — 102 Lai Chi Kok Road, Prince Edward · HKD146–182 · Foodie Forks 2026 Best Steakhouse, open since 1969 · one MTR stop from Sham Shui Po · Walk-in · Ask them to leave off the fried egg and chips
+- **19:30** 🍽 Dinner: **Born Ga**, Tsim Sha Tsui · Hot stone pot bibimbap + soft tofu stew · Single-serving stone pots, ideal for solo · Walk-in
+  - Sham Shui Po → TST is **6 stops on the Tsuen Wan Line, ~12 min, no change** — come home on the line you are already on, drop your bag at the hotel, then walk
+  - *Backup:* **Hansung Co** — 10 Kimberley Street, TST · Bibimbap, **beef stew**, spicy rice cake · Time Out listed · Walk-in, 5 min from hotel
 
 ---
 
