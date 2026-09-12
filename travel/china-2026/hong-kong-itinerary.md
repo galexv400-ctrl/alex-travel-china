@@ -13,7 +13,8 @@
 - **14:20** Land at HKIA · UK passport · Top up Octopus card at Airport Express machines
 - **~15:00** Airport Express to Kowloon Station (24 min) · Taxi to The Luxe Manor
 - **~16:00** Check in, freshen up, short walk to orientate
-- **19:00** 🍽 Dinner: **Apgujeong Tent Bar** — 1/F Koon Fook Centre, 9 Knutsford Terrace, TST (5 min walk) · Korean, relaxed · Call ahead: +852 3579 2992
+- **19:00** 🍽 Dinner: **Flat Iron Steak — Wan Chai** · G/F Johnston Court, 14–16 Johnston Road, Wan Chai · HKD238 · Casual, walk-in only · MTR: TST → Admiralty (Tsuen Wan Line) → Wan Chai (Island Line), ~20 min door to door · Ask for salad instead of the chips
+  - *Alternative if too tired to cross the harbour:* **Apgujeong Tent Bar** — 1/F Koon Fook Centre, 9 Knutsford Terrace, TST (5 min walk) · Korean, relaxed, open late · ☎ +852 3579 2992
 
 ---
 
