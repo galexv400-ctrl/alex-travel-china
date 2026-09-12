@@ -26,7 +26,6 @@
 ## Day 2 — Saturday 17 October: Tsz Shan Monastery + West Kowloon
 *⚠ Book monastery from 17 September at tszshan.org — fills fast on weekends*
 
-- **08:30** Optional hotel gym
 - **09:15** MTR East Rail to Tai Po Market (~45 min) · Taxi to monastery (show driver: 慈山寺)
 - **10:00** **Tsz Shan Monastery**, Tung Tsz Road, Tai Po · Free, pre-booked only · Peaceful Buddhist monastery, giant Guanyin statue, wooded grounds · Allow 2.5–3 hrs · Covered shoulders required · Open Thu–Tue 09:30–17:00
 - **12:45** Taxi to Tai Po Market station
