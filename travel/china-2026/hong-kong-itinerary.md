@@ -16,6 +16,11 @@
 - **19:00** 🍽 Dinner: **Flat Iron Steak — Wan Chai** · G/F Johnston Court, 14–16 Johnston Road, Wan Chai · HKD238 · Casual, walk-in only · MTR: TST → Admiralty (Tsuen Wan Line) → Wan Chai (Island Line), ~20 min door to door · Ask for salad instead of the chips
   - *Alternative if too tired to cross the harbour:* **Apgujeong Tent Bar** — 1/F Koon Fook Centre, 9 Knutsford Terrace, TST (5 min walk) · Korean, relaxed, open late · ☎ +852 3579 2992
 
+**✨ If you still have energy:**
+- **20:00 Symphony of Lights** — TST waterfront promenade, 10 min walk. Free, 10 min, nightly. Zero commitment.
+- **K11 MUSEA**, 18 Salisbury Road — open till 22:00. Design-led waterfront complex, opened 2019, new since you lived here.
+- **Temple Street Night Market** — Jordan, 1 MTR stop or 15 min walk. Runs from early evening.
+
 ---
 
 ## Day 2 — Saturday 17 October: Tsz Shan Monastery + West Kowloon
@@ -27,7 +32,7 @@
 - **13:00** Taxi back to Tai Po Market · Return to TST via East Rail
 - **14:30** **West Kowloon Cultural District waterfront promenade** · Art Park, harbour walk · 1–1.5 hrs
 - **16:30** Back to hotel, rest
-- **19:30** 🍽 Dinner: **Flat Iron Steak** — Lower Lobby, The Langham, 8 Peking Road, TST · **8 min walk from hotel** (down Nathan Rd, right onto Peking Rd) · HKD238 dinner · Australian Black Angus, casual, walk-in only · Open till 22:00 Sun–Thu, 23:30 Fri–Sat · ☎ +852 6551 0667 · Ask for salad instead of the chips
+- **19:30** 🍽 Dinner: **Apgujeong Tent Bar** — 1/F Koon Fook Centre, 9 Knutsford Terrace, TST · **5 min walk from hotel** · Korean, relaxed, open late · Best Korean at Foodie Forks 2025 · ☎ +852 3579 2992
   - *Alternative:* **Lamees** (Jordanian) — 145 Pak Tai Street, To Kwa Wan · Mezze, grilled meats · Taxi ~15 min · Book: +852 9181 9600
 
 ---
