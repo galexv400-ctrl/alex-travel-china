@@ -29,9 +29,11 @@
 - **08:30** Optional hotel gym
 - **09:15** MTR East Rail to Tai Po Market (~45 min) · Taxi to monastery (show driver: 慈山寺)
 - **10:00** **Tsz Shan Monastery**, Tung Tsz Road, Tai Po · Free, pre-booked only · Peaceful Buddhist monastery, giant Guanyin statue, wooded grounds · Allow 2.5–3 hrs · Covered shoulders required · Open Thu–Tue 09:30–17:00
-- **13:00** Taxi back to Tai Po Market · Return to TST via East Rail
-- **14:30** **West Kowloon Cultural District waterfront promenade** · Art Park, harbour walk · 1–1.5 hrs
-- **16:30** Back to hotel, rest
+- **12:45** Taxi to Tai Po Market station
+- **13:00** **East Rail Line direct to Admiralty** (~40 min, no changes — the line runs cross-harbour since 2022)
+- **14:00** 🍵 **Lunch: LockCha Tea House** — G/F, The K.S. Lo Gallery, 10 Cotton Tree Drive, Hong Kong Park, Admiralty · 100+ teas, all-vegetarian dim sum made fresh daily · Sat 10:00–21:00 · Book online at book.bistrochat.com/lockcha-admiralty · Stick to the steamed dumplings
+- **15:30** **Hong Kong Park** — you're already in it. Aviary, conservatory, tai chi garden. Free, green, unexpectedly quiet for the middle of Admiralty.
+- **17:00** MTR Admiralty → TST (2 stops, ~10 min) · Back to hotel, rest
 - **19:30** 🍽 Dinner: **Apgujeong Tent Bar** — 1/F Koon Fook Centre, 9 Knutsford Terrace, TST · **5 min walk from hotel** · Korean, relaxed, open late · Best Korean at Foodie Forks 2025 · ☎ +852 3579 2992
   - *Alternative:* **Lamees** (Jordanian) — 145 Pak Tai Street, To Kwa Wan · Mezze, grilled meats · Taxi ~15 min · Book: +852 9181 9600
 
@@ -88,6 +90,7 @@
 | M+ Museum | mplus.org.hk | 1–2 weeks before |
 | Lamees dinner (only if choosing it over Flat Iron) | +852 9181 9600 | 1 week before |
 | Apgujeong arrival night | +852 3579 2992 | Optional — walk-in usually fine |
+| LockCha Tea House (Sat lunch) | book.bistrochat.com/lockcha-admiralty | A few days before |
 
 ---
 
