@@ -62,6 +62,9 @@
   - *Backup:* **Hansung Co** — 10 Kimberley Street, TST · Bibimbap, **beef stew**, spicy rice cake · Time Out listed · Walk-in, 5 min from hotel
   - *Or:* **Goobne Chicken** — 2/F, The Hart, 4 Hart Avenue, TST · **5 min walk from hotel** · **Oven-roasted, not fried** — marinated 24hrs+, 8 flavours · Open 12:00 till past midnight · Walk-in
     - 🔗 [OpenRice](https://www.openrice.com/en/hongkong/menu/188593/takeaway) · [Time Out](https://www.timeout.com/hong-kong/restaurants/goobne-chicken)
+  - *If you fancy lemon chicken:* **Jade Garden** — 4/F, Star House, 3 Salisbury Road, TST · ~15 min walk, harbour views · Maxim's Cantonese flagship since 1971 · Mon–Sat 11:00–23:30, Sun 10:00–23:30 · ☎ 2730 6888
+    - ⚠ HK-style lemon chicken is deep-fried — there is no non-fried version of the dish
+    - 🔗 [Website](https://www.jadegarden.com.hk/en/about) · [OpenRice menu](https://www.openrice.com/en/hongkong/r-jade-garden-tsim-sha-tsui-guangdong-dim-sum-r1458/menus)
 
 ---
 
