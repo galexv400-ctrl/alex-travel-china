@@ -44,14 +44,17 @@
 
 ---
 
-## Day 3 — Sunday 18 October: M+ Museum + Sham Shui Po
-*⚠ Buy M+ timed tickets in advance at mplus.org.hk*
+## Day 3 — Sunday 18 October: Self-care morning + Sham Shui Po
+*M+ Museum is now the rain plan only — no advance ticket needed*
 
-- **08:30** Optional hotel gym
-- **10:00** **M+ Museum**, 38 Museum Drive, West Kowloon · Asia's largest contemporary visual culture museum, opened 2021 · Allow 2.5–3 hrs · Café on site · Open Sun 10:00–18:00
-  - 🔗 [Instagram](https://www.instagram.com/mplusmuseum/) · [Facebook](https://www.facebook.com/mplusmuseum/) · [Tickets](https://www.mplus.org.hk/en/)
-- **13:00** Lunch at M+ Café
-- **14:30** **Sham Shui Po** (MTR ~15 min from West Kowloon)
+- **08:30** **Gym** — hotel gym, or Snap Fitness at 27–33 Nathan Road (4 min walk, has racks and barbells)
+- **11:00** 💆 **Massage — Tai Pan Reflexology Parlour**, 83 Nathan Road (basement), TST · **5 min walk from hotel** · Foot, aromatic and body massage · 1940s Shanghai barbershop interior · Open daily 11:00–00:45 · ☎ +852 2301 1990 · Book ahead or via ClassPass
+  - 🔗 [Treatments & booking](https://www.taipanreflexologyparlour.com/experiences) · [Facebook](https://www.facebook.com/taipanreflexologyparlour/)
+- **13:00** Lunch — slow one, your own pace
+
+> ☔ **Rain plan:** if the weather turns, swap the morning for **M+ Museum**, 38 Museum Drive, West Kowloon · Open Sun 10:00–18:00 · Same-day tickets at the door, no need to pre-book · [mplus.org.hk](https://www.mplus.org.hk/en/)
+
+- **14:30** **Sham Shui Po** (MTR from TST, ~15 min)
 - **14:45** **JCCAC** (Jockey Club Creative Arts Centre), 30 Pak Tin Street · Converted factory, 100+ artist studios, free entry · Open Tue–Sun · Allow 1–1.5 hrs
   - 🔗 [Instagram](https://www.instagram.com/jccac_artsvillage/) · [Facebook](https://www.facebook.com/jccacpage/)
 - **16:30** **Mei Ho House Heritage Museum**, 70 Berwick Street · Restored 1950s public housing · Free entry · 45 mins
@@ -99,8 +102,9 @@
 
 | What | How | When |
 |---|---|---|
-| Tsz Shan Monastery | tszshan.org | **17 September** (opens exactly 1 month before) |
-| M+ Museum | mplus.org.hk | 1–2 weeks before |
+| Tsz Shan Monastery | tszshan.org | ✅ **BOOKED** |
+| M+ Museum | mplus.org.hk | Rain plan only — same-day tickets at the door |
+| Tai Pan massage (Sun morning) | taipanreflexologyparlour.com or ClassPass | A few days before |
 | Lamees dinner (only if choosing it over Flat Iron) | +852 9181 9600 | 1 week before |
 | Apgujeong arrival night | +852 3579 2992 | Optional — walk-in usually fine |
 | LockCha Tea House (Sat lunch) | book.bistrochat.com/lockcha-admiralty | A few days before |
