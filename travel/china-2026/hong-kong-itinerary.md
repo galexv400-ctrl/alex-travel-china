@@ -13,12 +13,14 @@
 - **14:20** Land at HKIA · UK passport · Top up Octopus card at Airport Express machines
 - **~15:00** Airport Express to Kowloon Station (24 min) · Taxi to The Luxe Manor
 - **~16:00** Check in, freshen up, short walk to orientate
-- **19:00** 🍽 Dinner: **Flat Iron Steak — Wan Chai** · G/F Johnston Court, 14–16 Johnston Road, Wan Chai · HKD238 · Casual, walk-in only · MTR: TST → Admiralty (Tsuen Wan Line) → Wan Chai (Island Line), ~20 min door to door · Ask for salad instead of the chips
-  - 🔗 [Instagram](https://www.instagram.com/flatiron_hk/) · [Facebook](https://www.facebook.com/Flatironhk/) · [Website](https://flatironhk.com/)
-  - *Alternative if too tired to cross the harbour:* **Apgujeong Tent Bar** — 1/F Koon Fook Centre, 9 Knutsford Terrace, TST (5 min walk) · Korean, relaxed, open late · ☎ +852 3579 2992
+- **19:00** 🚌 **Big Bus night tour** — departs Stop #16, Bruce Lee statue, Avenue of Stars · **10 min walk from hotel** · Open-top Kowloon route: neon skyline, Temple Street, Yau Ma Tei fruit market, Clock Tower · ~1 hr 15
+  - You pass the Symphony of Lights from the bus, so no need to do it separately
+  - 🔗 [Big Bus night tour](https://www.bigbustours.com/en/hong-kong/hong-kong-night-tour-ticket) · [HK City Sightseeing — cheaper local option](https://www.klook.com/en-US/activity/96948-rickshaw-sightseeing-bus-open-top-night-bus-tour/)
+- **~20:30** 🍽 Dinner after — eat close to home: **Goobne Chicken**, 4 Hart Avenue (open till past midnight) or **Apgujeong Tent Bar**, 9 Knutsford Terrace (open late) · both 5 min walk
+  - *If you skip the tour:* **Flat Iron Steak — Wan Chai** · G/F Johnston Court, 14–16 Johnston Road · HKD238 · MTR ~20 min door to door · Ask for salad instead of the chips
+    - 🔗 [Instagram](https://www.instagram.com/flatiron_hk/) · [Facebook](https://www.facebook.com/Flatironhk/) · [Website](https://flatironhk.com/)
 
 **✨ If you still have energy:**
-- **20:00 Symphony of Lights** — TST waterfront promenade, 10 min walk. Free, 10 min, nightly. Zero commitment.
 - **K11 MUSEA**, 18 Salisbury Road — open till 22:00. Design-led waterfront complex, opened 2019, new since you lived here. 🔗 [Instagram](https://www.instagram.com/k11musea/) · [Facebook](https://www.facebook.com/K11MUSEA/)
 - **Temple Street Night Market** — Jordan, 1 MTR stop or 15 min walk. Runs from early evening.
 
@@ -114,6 +116,7 @@
 | Apgujeong arrival night | +852 3579 2992 | Optional — walk-in usually fine |
 | LockCha Tea House (Sat lunch) | book.bistrochat.com/lockcha-admiralty | A few days before |
 | Tinted. gel manicure (Mon) | ☎ 6012 6444 | A few days before — confirm opening time |
+| Big Bus night tour (Fri 19:00) | bigbustours.com or Klook | Book ahead — 19:00 departure |
 
 ---
 
