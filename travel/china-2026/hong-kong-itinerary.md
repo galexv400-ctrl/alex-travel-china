@@ -12,7 +12,6 @@
 
 - **14:20** Land at HKIA · UK passport · Top up Octopus card at Airport Express machines
 - **~15:00** Airport Express to Kowloon Station (24 min) · Taxi to The Luxe Manor
-- **~16:00** Check in, freshen up, short walk to orientate
 - **~16:00** Check in, freshen up, rest properly — no rush tonight
 - **18:45** Walk to the Avenue of Stars (10 min along the waterfront)
 - **19:00** 🚌 **Big Bus night tour** — Stop #16, Bruce Lee statue, Avenue of Stars · Open-top Kowloon route: neon skyline, Temple Street, Yau Ma Tei fruit market, Clock Tower · ~1 hr 15 · Book ahead
