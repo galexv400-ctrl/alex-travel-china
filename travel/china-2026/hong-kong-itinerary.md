@@ -13,16 +13,14 @@
 - **14:20** Land at HKIA · UK passport · Top up Octopus card at Airport Express machines
 - **~15:00** Airport Express to Kowloon Station (24 min) · Taxi to The Luxe Manor
 - **~16:00** Check in, freshen up, short walk to orientate
-- **16:30** Leave hotel for Wan Chai
-- **17:00** 🍽 **Early dinner: Flat Iron Steak — Wan Chai** · G/F Johnston Court, 14–16 Johnston Road · HKD238 · Walk-in, single-dish menu so it is quick · Open 12:00–22:00 · Ask for salad instead of the chips
-  - 🔗 [Instagram](https://www.instagram.com/flatiron_hk/) · [Website](https://flatironhk.com/)
-- **18:15** ⏰ **LEAVE Wan Chai — hard deadline.** Wan Chai → Admiralty → TST is ~20 min, plus a 10 min walk to the pier
+- **~16:00** Check in, freshen up, rest properly — no rush tonight
+- **18:45** Walk to the Avenue of Stars (10 min along the waterfront)
 - **19:00** 🚌 **Big Bus night tour** — Stop #16, Bruce Lee statue, Avenue of Stars · Open-top Kowloon route: neon skyline, Temple Street, Yau Ma Tei fruit market, Clock Tower · ~1 hr 15 · Book ahead
-  - You pass the Symphony of Lights from the bus
+  - The tour is a loop — it ends back at the Avenue of Stars. You pass the Symphony of Lights from the bus
   - 🔗 [Big Bus night tour](https://www.bigbustours.com/en/hong-kong/hong-kong-night-tour-ticket) · [HK City Sightseeing — cheaper](https://www.klook.com/en-US/activity/96948-rickshaw-sightseeing-bus-open-top-night-bus-tour/)
-- **~20:15** Tour ends, 10 min walk home. Still hungry? **Goobne**, 4 Hart Avenue, open past midnight
-
-> ⚠ **If the flight runs late, drop the Wan Chai dinner rather than the tour** — the bus has one departure, dinner does not.
+- **~20:30** 🍽 **Dinner: Flat Iron Steak — TST** · Lower Lobby, The Langham, 8 Peking Road · **5 min walk from where the bus drops you, 8 min from the hotel** · HKD238 · **Open till 23:30 on Fridays** · Walk-in · Ask for salad instead of the chips
+  - 🔗 [Instagram](https://www.instagram.com/flatiron_hk/) · [Website](https://flatironhk.com/) · ☎ +852 6551 0667
+  - *Also open late nearby:* **Goobne Chicken**, 4 Hart Avenue (past midnight) · **Apgujeong**, 9 Knutsford Terrace
 
 **✨ If you still have energy:**
 - **K11 MUSEA**, 18 Salisbury Road — open till 22:00. Design-led waterfront complex, opened 2019, new since you lived here. 🔗 [Instagram](https://www.instagram.com/k11musea/) · [Facebook](https://www.facebook.com/K11MUSEA/)
