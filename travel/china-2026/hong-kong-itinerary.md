@@ -13,12 +13,16 @@
 - **14:20** Land at HKIA · UK passport · Top up Octopus card at Airport Express machines
 - **~15:00** Airport Express to Kowloon Station (24 min) · Taxi to The Luxe Manor
 - **~16:00** Check in, freshen up, short walk to orientate
-- **19:00** 🚌 **Big Bus night tour** — departs Stop #16, Bruce Lee statue, Avenue of Stars · **10 min walk from hotel** · Open-top Kowloon route: neon skyline, Temple Street, Yau Ma Tei fruit market, Clock Tower · ~1 hr 15
-  - You pass the Symphony of Lights from the bus, so no need to do it separately
-  - 🔗 [Big Bus night tour](https://www.bigbustours.com/en/hong-kong/hong-kong-night-tour-ticket) · [HK City Sightseeing — cheaper local option](https://www.klook.com/en-US/activity/96948-rickshaw-sightseeing-bus-open-top-night-bus-tour/)
-- **~20:30** 🍽 Dinner after — eat close to home: **Goobne Chicken**, 4 Hart Avenue (open till past midnight) or **Apgujeong Tent Bar**, 9 Knutsford Terrace (open late) · both 5 min walk
-  - *If you skip the tour:* **Flat Iron Steak — Wan Chai** · G/F Johnston Court, 14–16 Johnston Road · HKD238 · MTR ~20 min door to door · Ask for salad instead of the chips
-    - 🔗 [Instagram](https://www.instagram.com/flatiron_hk/) · [Facebook](https://www.facebook.com/Flatironhk/) · [Website](https://flatironhk.com/)
+- **16:30** Leave hotel for Wan Chai
+- **17:00** 🍽 **Early dinner: Flat Iron Steak — Wan Chai** · G/F Johnston Court, 14–16 Johnston Road · HKD238 · Walk-in, single-dish menu so it is quick · Open 12:00–22:00 · Ask for salad instead of the chips
+  - 🔗 [Instagram](https://www.instagram.com/flatiron_hk/) · [Website](https://flatironhk.com/)
+- **18:15** ⏰ **LEAVE Wan Chai — hard deadline.** Wan Chai → Admiralty → TST is ~20 min, plus a 10 min walk to the pier
+- **19:00** 🚌 **Big Bus night tour** — Stop #16, Bruce Lee statue, Avenue of Stars · Open-top Kowloon route: neon skyline, Temple Street, Yau Ma Tei fruit market, Clock Tower · ~1 hr 15 · Book ahead
+  - You pass the Symphony of Lights from the bus
+  - 🔗 [Big Bus night tour](https://www.bigbustours.com/en/hong-kong/hong-kong-night-tour-ticket) · [HK City Sightseeing — cheaper](https://www.klook.com/en-US/activity/96948-rickshaw-sightseeing-bus-open-top-night-bus-tour/)
+- **~20:15** Tour ends, 10 min walk home. Still hungry? **Goobne**, 4 Hart Avenue, open past midnight
+
+> ⚠ **If the flight runs late, drop the Wan Chai dinner rather than the tour** — the bus has one departure, dinner does not.
 
 **✨ If you still have energy:**
 - **K11 MUSEA**, 18 Salisbury Road — open till 22:00. Design-led waterfront complex, opened 2019, new since you lived here. 🔗 [Instagram](https://www.instagram.com/k11musea/) · [Facebook](https://www.facebook.com/K11MUSEA/)
