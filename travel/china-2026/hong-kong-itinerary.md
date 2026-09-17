@@ -71,17 +71,22 @@
 
 ---
 
-## Day 4 — Monday 19 October: Tai Hang + Check Out
+## Day 4 — Monday 19 October: Tai Hang + Manicure + Check Out
 *⚠ Check out by 12:00 · Welcome meeting 6pm at Harbour Plaza North Point*
 
 - **07:30** Optional hotel gym
 - **09:00** Pack · Check out · Leave luggage with concierge
 - **10:00** MTR to Tin Hau · Walk to **Tai Hang** · Lin Fa Kung Street, Wun Sha Street, Fire Dragon Lane · Independent boutiques, murals, local temple
 - **11:30** Brunch: **Fine Print**, Tung Lo Wan Road, Tai Hang · Light bowls, salmon, avocado
-- **13:00** Gentle walk, Causeway Bay / Victoria Park
-- **15:00** Taxi back · Collect luggage · Direct taxi to Harbour Plaza North Point, 665 King's Road, North Point (~25 min, ~HKD 100)
+- **13:15** MTR back to TST
+- **14:00** 💅 **Gel manicure — Tinted.**, 22A Lokville Commercial Building, 27 Lock Road, TST · **3 min walk from hotel** · Gel, extensions, nail art · Pregnancy-safe and 7-free gels · ☎ 6012 6444
+  - ⚠ Book ahead and confirm the opening time — most HK nail salons open 11:00 or noon, not early morning
+  - 🔗 [Sassy HK review](https://www.sassyhongkong.com/beauty-nail-art-best-salons-manicure-pedicure/)
+- **15:15** Collect luggage from The Luxe Manor · Taxi direct to Harbour Plaza North Point, 665 King's Road (~25 min, ~HKD 100)
 - **16:00** Check in at Harbour Plaza North Point
 - **18:00** ✅ Intrepid welcome meeting
+
+> 💅 **If you would rather have the manicure in the morning:** skip Tai Hang, book Tinted. for 11:00 (3 min from the hotel), have a slow brunch in TST, and collect your luggage at leisure. Tai Hang is the part of this day designed to be dropped.
 
 > ⚠ Harbour Plaza North Point is on HK Island — NOT Kowloon. Take taxi direct with luggage. Bring insurance details and next of kin info.
 
@@ -108,6 +113,7 @@
 | Lamees dinner (only if choosing it over Flat Iron) | +852 9181 9600 | 1 week before |
 | Apgujeong arrival night | +852 3579 2992 | Optional — walk-in usually fine |
 | LockCha Tea House (Sat lunch) | book.bistrochat.com/lockcha-admiralty | A few days before |
+| Tinted. gel manicure (Mon) | ☎ 6012 6444 | A few days before — confirm opening time |
 
 ---
 
