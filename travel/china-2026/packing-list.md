@@ -98,6 +98,7 @@
 
 ## UNDERWEAR & BASICS
 - Knickers x15
+- **Swimming costume** ✅ — Sindhorn infinity pool, 18th floor, open late
 - Sports bras x3 ✅
 - Normal comfy bra x1 ✅
 - Regular socks x6–8 (of 10–12 total)
@@ -216,7 +217,6 @@
 - iPad (won't use, saves weight)
 - Head torch (Great Wall guesthouse has basic lighting)
 - Flip flops from Temu (Crocs + Tevas enough)
-- Swimwear (only pool day at Sindhorn, can use sports bra + shorts if needed)
 - Microfibre towel (hotels provide)
 - Portable door lock (Great Wall guesthouse has locks)
 - Portable umbrella (Zhangjiajie risk but packing tight)
