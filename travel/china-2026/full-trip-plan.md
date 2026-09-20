@@ -10,8 +10,8 @@
 
 | Date | Day | Location | Detail | Flight Times |
 |------|-----|----------|--------|--------------|
-| Thu 15 Oct | 1 | Depart Tel Aviv | El Al LY85 TLV → Bangkok · ⚠ **at Ben Gurion by 22:15 on Tue 14 Oct** | Departs TLV **01:15** |
-| Thu 15 Oct | — | Bangkok | Canalis Suvarnabhumi Airport Hotel — check-in runs to midnight, so a later arrival is fine | Arrives BKK ~16:55 |
+| Thu 15 Oct | 1 | Depart Tel Aviv | El Al LY83 TLV → Bangkok · ⚠ **at Ben Gurion by 22:15 on Tue 14 Oct** | Departs TLV **01:15** |
+| Thu 15 Oct | — | Bangkok | Canalis Suvarnabhumi Airport Hotel — check-in runs to midnight, so a later arrival is fine | Arrives BKK 16:55 |
 | Fri 16 Oct | 2 | Bangkok → Hong Kong | Check out Canalis, fly to HK. Thai Airways TG628 departs 10:30, arrives 14:20 | BKK 10:30 → HKG 14:20 |
 | Sat 17 Oct | 3 | Hong Kong | Settle in, recover from jetlag. The Luxe Manor, check in from 14:00 | — |
 | Sun 18 Oct | 4 | Hong Kong | Free day, explore | — |
@@ -35,7 +35,7 @@
 | Thu 5 Nov | 22 | Bangkok | Morning free (pool). Sushi at Honmono. Siam shopping. **Hot stone massage 16:00**, Let's Relax Ploenchit. Dinner: El Gaucho | — |
 | Fri 6 Nov | 23 | Bangkok | **Charoenkrung creative district** — Warehouse 30, ATT19, Talat Noi, TCDC. Dinner: Maison Saigon | — |
 | Sat 7 Nov | 24 | Bangkok | **Chatuchak** (weekends only), Sections 2–6. Back 15:00, pool. Dinner: Mozza | — |
-| Sun 8 Nov | 25 | Bangkok → Tel Aviv | Check out 12:00. Grab 12:15 — **El Al needs 3 hrs minimum** | El Al LY84, BKK 16:30 → TLV 22:45 |
+| Sun 8 Nov | 25 | Bangkok → Tel Aviv | Check out 12:00. Grab 12:15 — **El Al needs 3 hrs minimum** | El Al LY84, BKK 16:30 → TLV 22:55 |
 
 ---
 
@@ -54,7 +54,7 @@
 
 | Flight | Route | Airline | Date | Price | Status |
 |--------|-------|---------|------|-------|--------|
-| Outbound | TLV → BKK | El Al LY85 | Thu 15 Oct | $651.77 | ✅ BOOKED |
+| Outbound | TLV → BKK | El Al LY83 | Thu 15 Oct | $651.77 | ✅ BOOKED |
 | Connecting | BKK → HKG | Thai Airways TG628 | Fri 16 Oct | $193.78 | ✅ BOOKED |
 | Post-tour | Beijing → BKK | Air China CA959 | Wed 4 Nov | £190 (~$240) | ✅ BOOKED |
 | Return | BKK → TLV | El Al LY84 | Sun 8 Nov | $577.20 | ✅ BOOKED |
@@ -99,9 +99,9 @@
 - Intrepid booking: #6886724
 - Intrepid emergency number: +86 17200311621
 - Tour finishing point: Beijing Dongfang Hotel, 11 Wanming Road, Xicheng District, Beijing
-- El Al outbound: **LY85, departs TLV 01:15** (retimed from 00:05), arrives BKK **~16:55** — *estimated, confirm on elal.com*
+- El Al outbound: **LY83, departs TLV 01:15** (retimed from LY85 00:05), arrives BKK **16:55** · 11h 40m · Dreamliner · Economy Classic (H)
   - ⚠ El Al want you 3 hrs ahead → **be at Ben Gurion by 22:15 on Tue 14 October**. You leave on the evening of the 14th, not the 15th.
-- El Al return: **LY84**, departs BKK 16:30, arrives TLV 22:45, Sun 8 Nov · seat 34D · Economy Classic (N) · 11h 15m · frequent flyer 12956761
+- El Al return: **LY84**, departs BKK 16:30, arrives TLV 22:55, Sun 8 Nov · seat 34D · Economy Classic (N) · 11h 25m · frequent flyer 12956761
 - ⚠ **El Al recommends 4 hrs, hard deadline 3 hrs** — late passengers are not boarded. Leave hotel 12:15.
 - Beijing → BKK: Air China CA959, departs PEK 14:00, arrives BKK 18:05, Wed 4 Nov
 - Booking ref: ECFV7Q | Air China confirmation: MESQ54 | E-ticket: 999-2425129533
