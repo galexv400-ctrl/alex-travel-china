@@ -29,7 +29,7 @@
 ---
 
 ## Day 2 — Saturday 17 October: Monastery + Sheung Wan / Central
-*Monastery ✅ BOOKED · LockCha 13:15*
+*Monastery ✅ BOOKED · LockCha ✅ BOOKED 13:00*
 
 - **08:15** 🍳 **Breakfast at The Luxe Manor** — included in your rate
 - **09:15** MTR East Rail to Tai Po Market (~45 min) · then to the monastery (show driver / ask for: 慈山寺)
@@ -40,9 +40,9 @@
   - *hkbus.app is the best free app for HK bus and minibus live times*
 - **10:00** **Tsz Shan Monastery**, Tung Tsz Road, Tai Po · Free, pre-booked only · Peaceful Buddhist monastery, giant Guanyin statue, wooded grounds · ~2 hrs at your pace · Covered shoulders required · Open Thu–Tue 09:30–17:00
   - 🔗 [Instagram](https://www.instagram.com/tszshanmonastery/) · [Facebook](https://www.facebook.com/tszshanmonastery/) · [Booking](https://www.tszshan.org/home/new/en/visit.php)
-- **12:00** Back to Tai Po Market station · *Getting back is the harder direction — ask monastery reception to call a taxi before you leave the grounds, or walk 10 min down to the Tong Tsz Road junction for the 20B*
-- **12:20** **East Rail Line direct to Admiralty** (~40 min, no changes — the line runs cross-harbour since 2022)
-- **13:15** 🍵 **Lunch: LockCha Tea House** — G/F, The K.S. Lo Gallery, 10 Cotton Tree Drive, Hong Kong Park, Admiralty · 100+ teas, all-vegetarian dim sum made fresh daily · Sat 10:00–21:00 · Book online at book.bistrochat.com/lockcha-admiralty · Stick to the steamed dumplings
+- **11:45** Back to Tai Po Market station · *Getting back is the harder direction — ask monastery reception to call a taxi before you leave the grounds, or walk 10 min down to the Tong Tsz Road junction for the 20B*
+- **12:05** **East Rail Line direct to Admiralty** (~40 min, no changes — the line runs cross-harbour since 2022)
+- **13:00** 🍵 **Lunch: LockCha Tea House — ✅ BOOKED, 1 person** — G/F, The K.S. Lo Gallery, 10 Cotton Tree Drive, Hong Kong Park, Admiralty · 100+ teas, all-vegetarian dim sum made fresh daily · Sat 10:00–21:00 · Stick to the steamed dumplings
   - 🔗 [Instagram](https://www.instagram.com/lockchahk/) · [Website](https://www.lockcha.com/locations/hong-kong-park/)
 - **14:30** Leave — LockCha sits inside Hong Kong Park, so you pass through it without stopping · MTR Admiralty → Sheung Wan, or walk (~15 min)
 
@@ -143,7 +143,7 @@
 | Tai Pan massage (Sun 17:00) | ☎ +852 2301 1990 | ✅ **BOOKED** |
 | Lamees dinner (only if choosing it over Flat Iron) | +852 9181 9600 | 1 week before |
 | Apgujeong arrival night | +852 3579 2992 | Optional — walk-in usually fine |
-| LockCha Tea House (Sat 13:15) | book.bistrochat.com/lockcha-admiralty | Not required for 1, but worth doing — small room, busy Saturday |
+| LockCha Tea House (Sat 13:00) | ✅ **BOOKED** — 1 person | |
 | Nu Nail & Beauty (Mon 12:00) | ☎ +852 5323 3617 | ✅ **BOOKED** |
 | Big Bus night tour (Fri 19:00) | ✅ **BOOKED — ref XF7MVK0Z** | Arrive Stop #16, Avenue of Stars, by 18:45 |
 
