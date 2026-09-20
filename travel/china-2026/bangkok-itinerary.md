@@ -107,10 +107,15 @@
 
 - **Breakfast** at the hotel — last one
 - **Morning free** — pool, or Central Embassy / Central Chidlom on your doorstep
-- **12:00** Check out · leave bags with the concierge
-- **~13:30** 🚕 Grab to Suvarnabhumi · 40–60 min · **~£9–15**
+- **12:00** Check out
+- **12:15** 🚕 **Grab to Suvarnabhumi** · 40–60 min · **~£9–15** · *door to door — you will have more luggage than you arrived with*
+- **~13:15** ✈ **Arrive airport** — 3¼ hrs before departure
 - **16:30** ✈ **El Al LY84** · BKK → TLV · seat 34D · 11h 15m
 - **22:45** Land Tel Aviv
+
+> ⚠ **El Al is stricter than other airlines.** They recommend **4 hours** for international flights because security screening happens BEFORE check-in, and their hard deadline for economy is **3 hours**. They state plainly that late passengers are not boarded. Leaving at 12:15 gets you there with 3¼ hours — do not linger.
+
+> **Why Grab and not the Airport Rail Link:** the train is cheaper (~£2) and immune to traffic, but it means BTS Chit Lom → transfer at Phaya Thai → ARL, with a suitcase plus whatever Chatuchak and Siam produced. The downside is asymmetric — £12 costs £12, a missed connection costs a flight home.
 
 > **Spend down any leftover Thai baht** before you go — airport prices are poor.
 
