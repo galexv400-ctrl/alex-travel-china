@@ -14,7 +14,9 @@
 - **~15:00** Airport Express to Kowloon Station (24 min) · Taxi to The Luxe Manor
 - **~16:00** Check in, freshen up, rest properly — no rush tonight
 - **18:45** Walk to the Avenue of Stars (10 min along the waterfront)
-- **19:00** 🚌 **Big Bus night tour** — Stop #16, Bruce Lee statue, Avenue of Stars · Open-top Kowloon route: neon skyline, Temple Street, Yau Ma Tei fruit market, Clock Tower · ~1 hr 15 · Book ahead
+- **19:00** 🚌 **Big Bus night tour** ← **BOOK THIS ONE** · Stop #16, Bruce Lee statue, Avenue of Stars · **10 min walk from the hotel** · Open-top Kowloon route: neon skyline, Temple Street, Yau Ma Tei fruit market, Clock Tower · ~1 hr 15
+  - 🔗 [Book Big Bus](https://www.bigbustours.com/en/hong-kong/hong-kong-night-tour-ticket)
+  - ⚠ **Do NOT book the Citybus / HK City Sightseeing version.** Cheaper, but you must redeem a paper ticket at **Pier 6, Central** on Hong Kong Island and board there — a harbour crossing each way on arrival day, and it breaks the walk-to-dinner plan
   - The tour is a loop — it ends back at the Avenue of Stars. You pass the Symphony of Lights from the bus
   - 🔗 [Big Bus night tour](https://www.bigbustours.com/en/hong-kong/hong-kong-night-tour-ticket) · [HK City Sightseeing — cheaper](https://www.klook.com/en-US/activity/96948-rickshaw-sightseeing-bus-open-top-night-bus-tour/)
 - **~20:30** 🍽 **Dinner: Flat Iron Steak — TST** · Lower Lobby, The Langham, 8 Peking Road · **5 min walk from where the bus drops you, 8 min from the hotel** · HKD238 · **Open till 23:30 on Fridays** · Walk-in · Ask for salad instead of the chips
@@ -138,7 +140,7 @@
 | Apgujeong arrival night | +852 3579 2992 | Optional — walk-in usually fine |
 | LockCha Tea House (Sat 14:00) | book.bistrochat.com/lockcha-admiralty | Not required for 1, but worth doing — small room, busy Saturday |
 | Nu Nail & Beauty (Mon 12:00) | ☎ +852 5323 3617 | ✅ **BOOKED** |
-| Big Bus night tour (Fri 19:00) | bigbustours.com or Klook | Book ahead — 19:00 departure |
+| Big Bus night tour (Fri 19:00) | bigbustours.com — **not** the Citybus version | Book ahead — 19:00 departure from Avenue of Stars |
 
 ---
 
