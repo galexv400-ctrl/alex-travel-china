@@ -31,11 +31,11 @@
 | Sun 1 Nov | 18 | → Great Wall | Train to Beijing + transfer ~9hrs. Sunset on the Wall. | — |
 | Mon 2 Nov | 19 | → Beijing | Jinshanling Wall hike ~2hrs. Breakfast included. | — |
 | Tue 3 Nov | 20 | Beijing | Tiananmen Square, Forbidden City. Farewell dinner — Beijing duck! | — |
-| Wed 4 Nov | 21 | Beijing | Tour ends. Fly to Bangkok. | Beijing → BKK (book separately, any carrier) |
-| Thu 5 Nov | 22 | Bangkok | Pool day + massage at hotel — Sindhorn Midtown, check in from 15:00 | — |
-| Fri 6 Nov | 23 | Bangkok | Shopping (Siam Paragon / ICONSIAM / Chatuchak) | — |
-| Sat 7 Nov | 24 | Bangkok | Free day / flex | — |
-| Sun 8 Nov | 25 | Bangkok → Tel Aviv | Check out by 12:00. El Al BKK → TLV. | Departs BKK (Classic), arrives TLV |
+| Wed 4 Nov | 21 | Beijing → Bangkok | Tour ends. Air China CA959 dep PEK 14:00, arr BKK 18:05. Grab to hotel. Dinner: August | PEK 14:00 → BKK 18:05 |
+| Thu 5 Nov | 22 | Bangkok | Morning free (pool). Sushi at Honmono. Siam shopping. **Hot stone massage 16:00**, Let's Relax Ploenchit. Dinner: El Gaucho | — |
+| Fri 6 Nov | 23 | Bangkok | **Charoenkrung creative district** — Warehouse 30, ATT19, Talat Noi, TCDC. Dinner: Maison Saigon | — |
+| Sat 7 Nov | 24 | Bangkok | **Chatuchak** (weekends only), Sections 2–6. Back 15:00, pool. Dinner: Mozza | — |
+| Sun 8 Nov | 25 | Bangkok → Tel Aviv | Check out 12:00. Grab 12:15 — **El Al needs 3 hrs minimum** | El Al LY84, BKK 16:30 → TLV 22:45 |
 
 ---
 
@@ -57,7 +57,7 @@
 | Outbound | TLV → BKK | El Al LY85 | Thu 15 Oct | $651.77 | ✅ BOOKED |
 | Connecting | BKK → HKG | Thai Airways TG628 | Fri 16 Oct | $193.78 | ✅ BOOKED |
 | Post-tour | Beijing → BKK | Air China CA959 | Wed 4 Nov | £190 (~$240) | ✅ BOOKED |
-| Return | BKK → TLV | El Al | Sun 8 Nov | $577.20 | ✅ BOOKED |
+| Return | BKK → TLV | El Al LY84 | Sun 8 Nov | $577.20 | ✅ BOOKED |
 
 ---
 
@@ -100,7 +100,8 @@
 - Intrepid emergency number: +86 17200311621
 - Tour finishing point: Beijing Dongfang Hotel, 11 Wanming Road, Xicheng District, Beijing
 - El Al outbound: LY85, departs TLV ~00:05, arrives BKK 15:45
-- El Al return: BKK → TLV, departs Sun 8 Nov (Classic fare)
+- El Al return: **LY84**, departs BKK 16:30, arrives TLV 22:45, Sun 8 Nov · seat 34D · Economy Classic (N) · 11h 15m · frequent flyer 12956761
+- ⚠ **El Al recommends 4 hrs, hard deadline 3 hrs** — late passengers are not boarded. Leave hotel 12:15.
 - Beijing → BKK: Air China CA959, departs PEK 14:00, arrives BKK 18:05, Wed 4 Nov
 - Booking ref: ECFV7Q | Air China confirmation: MESQ54 | E-ticket: 999-2425129533
 - Seat: 46D | Terminal 3 PEK | Economy Standard | 1 bag 23kg included
