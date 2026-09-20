@@ -152,8 +152,9 @@
 
 ## Taxi Apps — download before you go
 
-- **Fly Taxi** — the one that matters for Saturday. Covers **New Territories green taxis**, which serve Tai Po. Urban red taxis do not go out there, and not every app covers green. Supports Octopus and e-payment.
-- **Uber** — English interface, dispatches licensed metered taxis as well as private cars. Covers almost all of Hong Kong except the Outlying Islands.
+- **Uber** — ✅ downloaded. **Confirmed available in Tai Po.** English, card on file, no cash needed. Dispatches licensed metered taxis as well as private cars. **Use this first.**
+- **Fly Taxi** — ✅ downloaded as backup. Covers **New Territories green taxis**, which serve Tai Po. Supports Octopus and e-payment.
+- **hkbus.app** — free, no ads, live bus and minibus times.
 - **Skip HKTaxi** — being discontinued.
 
 ⚠ **Payment reality:** since 1 April 2026 every HK taxi must offer at least one QR and one non-QR electronic payment method, but readers are still reported broken, covered or refused. **Carry small HKD notes and ask before you get in.**
