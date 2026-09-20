@@ -37,22 +37,22 @@
 - **13:00** **East Rail Line direct to Admiralty** (~40 min, no changes — the line runs cross-harbour since 2022)
 - **14:00** 🍵 **Lunch: LockCha Tea House** — G/F, The K.S. Lo Gallery, 10 Cotton Tree Drive, Hong Kong Park, Admiralty · 100+ teas, all-vegetarian dim sum made fresh daily · Sat 10:00–21:00 · Book online at book.bistrochat.com/lockcha-admiralty · Stick to the steamed dumplings
   - 🔗 [Instagram](https://www.instagram.com/lockchahk/) · [Website](https://www.lockcha.com/locations/hong-kong-park/)
-- **15:30** **Hong Kong Park** — you're already in it. Aviary, conservatory, tai chi garden. Free, green, unexpectedly quiet for the middle of Admiralty.
-- **16:45** Leave Hong Kong Park
+- **15:15** Leave — LockCha sits inside Hong Kong Park, so you pass through it without stopping · MTR Admiralty → Sheung Wan, or walk (~15 min)
 
-### 🛍 OPTIONAL — Sheung Wan / Central cluster
-*Two stops west of Admiralty. Decide on the day; drop it if you are tired.*
+### 🛍 Sheung Wan / Central — the whole afternoon
+*Everything below is within a 10-minute walk of everything else.*
 
-- **17:15 Blue Lotus Gallery**, 28 Pound Lane, Sheung Wan · Photography gallery + the mini print vending machine · **⚠ closes 18:00** — go here first or not at all · Tue–Sun 11:00–18:00
+- **15:45 Blue Lotus Gallery**, 28 Pound Lane, Sheung Wan · Photography + the mini print vending machine · Tue–Sun 11:00–18:00 — *now with hours to spare rather than 45 min*
   - 🔗 [Website](https://bluelotus-gallery.com/about) · [Facebook](https://www.facebook.com/bluelotusgalleryhk/)
-- **18:00 Cat Street** (Upper Lascar Row) — antiques and bric-a-brac, 5 min walk · stalls wind down around 18:00
-- **18:15 PMQ**, 35 Aberdeen Street · Design studios · Shops till 19:00, cafes till 23:00
-- **18:30 Bang Bang 70s**, 1/F, 16A Aberdeen Street — *next door to PMQ* · Watches, leather, accessories · Daily 14:00–19:00
-- **18:45 Select 18**, Shop A, 18 Bridges Street · Vintage clothing · **Open till 23:00 on Saturdays** — the one with no time pressure
-- *All five are within a 10-minute walk of each other. Central Market is on the way back to the MTR.*
-- **19:30** MTR to TST · Dinner pushed to ~20:00 — Apgujeong and Goobne are both open late
+- **16:30 Cat Street** (Upper Lascar Row) — antiques, bric-a-brac · 5 min walk · stalls wind down ~18:00
+- **17:00 PMQ**, 35 Aberdeen Street · Design studios · Shops till 19:00, cafes till 23:00
+- **17:30 Bang Bang 70s**, 1/F, 16A Aberdeen Street — *next door to PMQ* · Daily 14:00–19:00
+- **18:00 Select 18**, Shop A, 18 Bridges Street · Vintage · **Open till 23:00 Saturdays**
+- **18:30 Central Market** + Old Town Central streets — Cochrane, Stanley, Graham, Aberdeen
+- *Also here if you fancy it:* traditional **ear cleaning** on Queen's Road Central · **Moonary** and **Soul Coffee** for a sit-down
+- **19:15** MTR to TST · Dinner ~20:00
 
-*If you skip the cluster:* **17:00** MTR Admiralty → TST, back to hotel, rest before a 19:30 dinner
+*Too tired after the monastery?* Skip the lot — 15:30 MTR straight back to TST and rest.
 - **19:30** 🍽 Dinner: **Apgujeong Tent Bar** — 1/F Koon Fook Centre, 9 Knutsford Terrace, TST · **5 min walk from hotel** · Korean, relaxed, open late · Best Korean at Foodie Forks 2025 · ☎ +852 3579 2992
   - 🔗 [OpenRice](https://www.openrice.com/en/hongkong/r-apgujeong-tent-bar-tsim-sha-tsui-korean-wine-r12817)
   - *Alternative:* **Lamees** (Jordanian) — 145 Pak Tai Street, To Kwa Wan · Mezze, grilled meats · Taxi ~15 min · Book: +852 9181 9600
