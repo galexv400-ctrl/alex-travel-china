@@ -30,6 +30,7 @@
 ## Day 2 — Saturday 17 October: Tsz Shan Monastery + West Kowloon
 *⚠ Book monastery from 17 September at tszshan.org — fills fast on weekends*
 
+- **08:15** 🍳 **Breakfast at The Luxe Manor** — included in your rate
 - **09:15** MTR East Rail to Tai Po Market (~45 min) · Taxi to monastery (show driver: 慈山寺)
 - **10:00** **Tsz Shan Monastery**, Tung Tsz Road, Tai Po · Free, pre-booked only · Peaceful Buddhist monastery, giant Guanyin statue, wooded grounds · Allow 2.5–3 hrs · Covered shoulders required · Open Thu–Tue 09:30–17:00
   - 🔗 [Instagram](https://www.instagram.com/tszshanmonastery/) · [Facebook](https://www.facebook.com/tszshanmonastery/) · [Booking](https://www.tszshan.org/home/new/en/visit.php)
@@ -64,7 +65,8 @@
 ## Day 3 — Sunday 18 October: Sham Shui Po day + evening massage
 *Massage booked for 17:00 · Early start, lunch in Sham Shui Po*
 
-- **08:00** **Gym** — hotel gym, or Snap Fitness at 27–33 Nathan Road (4 min walk)
+- **07:30** **Gym** — hotel gym, or Snap Fitness at 27–33 Nathan Road (4 min walk)
+- **08:30** 🍳 **Breakfast at The Luxe Manor** — included
 - **09:00** MTR TST → Sham Shui Po (~15 min, Tsuen Wan Line, no change)
 - **09:30** **Mei Ho House Heritage Museum**, 70 Berwick Street · Restored 1950s public housing · Free · **Opens 09:30 — the earliest thing open, so it goes first** · 45 min
 - **10:15** **JCCAC**, 30 Pak Tin Street · Converted factory, 100+ artist studios · Free · *Opens 10:00 — this is what sets the morning* · ~1.5 hrs
@@ -96,7 +98,8 @@
 *⚠ Check out by 12:00 · Welcome meeting 6pm at Harbour Plaza North Point*
 
 - **07:30** Optional hotel gym
-- **09:00** Pack
+- **08:30** 🍳 **Breakfast at The Luxe Manor** — included · *last one, make it count*
+- **09:30** Pack
 - **10:30** ⚠ **Check out early** — before the manicure, not at 12:00 · Leave luggage with concierge
 - **11:00** Slow brunch nearby in TST
 - **12:00** 💅 **Nu Nail & Beauty** — Flat 10A, 10/F, Lokville Commercial Building, 27 Lock Road, TST · **3 min walk from hotel** · ✅ **BOOKED** · Open daily 10:00–23:00 · ☎ +852 5323 3617
