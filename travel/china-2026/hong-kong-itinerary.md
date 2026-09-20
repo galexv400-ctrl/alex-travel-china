@@ -47,24 +47,23 @@
 
 ---
 
-## Day 3 — Sunday 18 October: Sham Shui Po + evening massage
-*Massage booked for 17:00 — the morning is open*
+## Day 3 — Sunday 18 October: Sham Shui Po day + evening massage
+*Massage booked for 17:00 · Early start, lunch in Sham Shui Po*
 
-- **08:30** **Gym** — hotel gym, or Snap Fitness at 27–33 Nathan Road (4 min walk, racks and barbells)
-- **10:00–13:00** *Morning is open* — the massage moved to the evening, so this slot is free
-- **13:00** Lunch — slow one, your own pace
-
-> ☔ **Rain plan:** M+ Museum, 38 Museum Drive, West Kowloon · Open Sun 10:00–18:00 · Same-day tickets at the door · [mplus.org.hk](https://www.mplus.org.hk/en/)
-
-- **14:00** **Sham Shui Po** (MTR from TST, ~15 min)
-- **14:15** **JCCAC** (Jockey Club Creative Arts Centre), 30 Pak Tin Street · Converted factory, 100+ artist studios, free entry · ~1.5 hrs
+- **08:30** **Gym** — hotel gym, or Snap Fitness at 27–33 Nathan Road (4 min walk)
+- **09:45** MTR TST → Sham Shui Po (~15 min, Tsuen Wan Line, no change)
+- **10:15** **JCCAC**, 30 Pak Tin Street · Converted factory, 100+ artist studios · Free · Opens 10:00 · ~1.5 hrs
   - 🔗 [Instagram](https://www.instagram.com/jccac_artsvillage/) · [Facebook](https://www.facebook.com/jccacpage/)
-- **15:45** **Apliu Street** flea market + the second-hand streets around it · ~45 min
-- **16:30** ⏰ **Leave Sham Shui Po** — 12 min to TST on the Tsuen Wan Line
-- **17:00** 💆 **Massage — Tai Pan Reflexology Parlour**, 83 Nathan Road (basement), TST · **✅ BOOKED — 5:00pm** · 5 min walk from hotel · 1940s Shanghai barbershop interior · ☎ +852 2301 1990
-  - 🔗 [Treatments](https://www.taipanreflexologyparlour.com/experiences) · [Facebook](https://www.facebook.com/taipanreflexologyparlour/)
-  - ⚠ **Mei Ho House dropped** — it does not fit before a 17:00 appointment. Swap it for Apliu Street if you would rather
-- **18:00** Back to hotel, freshen up
+- **11:45** 🍽 **Lunch in Sham Shui Po**
+  - **Heritage Tea House** — ground floor of JCCAC, zero detour · Homemade dumplings, noodle soup, herbal iced tea
+  - **YEARS** — plant-based, salads and pasta, from HKD40 · lightest option
+  - **Lau Sum Kee** — Michelin Bib Gourmand, 60-year-old bamboo-pole noodle shop · stirred noodles with shiitake and shrimp roe (tossed, not fried)
+- **13:00** **Mei Ho House Heritage Museum**, 70 Berwick Street · Restored 1950s public housing · Free · 45 min
+- **13:45** 🛍 **Apliu Street + the second-hand streets** · Proper block, ~2 hrs · Flea market, vintage, fabric stalls
+- **16:00** Leave Sham Shui Po · MTR back to TST (12 min)
+- **16:30** Back at hotel, freshen up
+- **17:00** 💆 **Massage — Tai Pan Reflexology Parlour**, 83 Nathan Road (basement) · **✅ BOOKED — 5:00pm** · 5 min walk · ☎ +852 2301 1990
+  - 🔗 [Treatments](https://www.taipanreflexologyparlour.com/experiences)
 - **19:30** 🍽 Dinner: **Born Ga**, Tsim Sha Tsui · Hot stone pot bibimbap + soft tofu stew · Single-serving stone pots, ideal for solo · Walk-in
   - Sham Shui Po → TST is **6 stops on the Tsuen Wan Line, ~12 min, no change** — come home on the line you are already on, drop your bag at the hotel, then walk
   - *Backup:* **Hansung Co** — 10 Kimberley Street, TST · Bibimbap, **beef stew**, spicy rice cake · Time Out listed · Walk-in, 5 min from hotel
