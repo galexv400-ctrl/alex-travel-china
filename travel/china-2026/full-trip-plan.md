@@ -120,7 +120,8 @@
 - Check-in: Wed 4 Nov from 15:00 | Check-out: Sun 8 Nov by 12:00
 - Room: King Studio, breakfast included, free cancellation before 4 Oct 2026
 - Total: ₪2,020 (THB 23,388.17) — pay at property
-- BKK → HKG: Thai Airways TG628, departs 10:30, arrives 14:20, Fri 16 Oct
+- BKK → HKG: Thai Airways TG628, departs 10:30, arrives 14:20, Fri 16 Oct · 2h 50m · Economy (W) · arrives HKG **Terminal 1**
+  - ⚠ Early start. Canalis shuttle by **07:45**; book it at reception the night before. Check-out is 12:00 so no clash, but settle the bill the evening you arrive.
 - Booking ref: EASDQZ | E-Ticket: 2172348955256
 - Baggage: 1pc 23kg checked + 7kg carry-on | Seat: 44H
 - Hong Kong hotel: The Luxe Manor
