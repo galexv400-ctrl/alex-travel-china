@@ -10,8 +10,8 @@
 
 | Date | Day | Location | Detail | Flight Times |
 |------|-----|----------|--------|--------------|
-| Thu 15 Oct | 1 | Depart Tel Aviv | El Al LY85 TLV → Bangkok | Departs TLV ~00:05 |
-| Thu 15 Oct | — | Bangkok | Canalis Suvarnabhumi Airport Hotel — check in from 14:00 | Arrives BKK 15:45 |
+| Thu 15 Oct | 1 | Depart Tel Aviv | El Al LY85 TLV → Bangkok · ⚠ **at Ben Gurion by 22:15 on Tue 14 Oct** | Departs TLV **01:15** |
+| Thu 15 Oct | — | Bangkok | Canalis Suvarnabhumi Airport Hotel — check-in runs to midnight, so a later arrival is fine | Arrives BKK ~16:55 |
 | Fri 16 Oct | 2 | Bangkok → Hong Kong | Check out Canalis, fly to HK. Thai Airways TG628 departs 10:30, arrives 14:20 | BKK 10:30 → HKG 14:20 |
 | Sat 17 Oct | 3 | Hong Kong | Settle in, recover from jetlag. The Luxe Manor, check in from 14:00 | — |
 | Sun 18 Oct | 4 | Hong Kong | Free day, explore | — |
@@ -99,7 +99,8 @@
 - Intrepid booking: #6886724
 - Intrepid emergency number: +86 17200311621
 - Tour finishing point: Beijing Dongfang Hotel, 11 Wanming Road, Xicheng District, Beijing
-- El Al outbound: LY85, departs TLV ~00:05, arrives BKK 15:45
+- El Al outbound: **LY85, departs TLV 01:15** (retimed from 00:05), arrives BKK **~16:55** — *estimated, confirm on elal.com*
+  - ⚠ El Al want you 3 hrs ahead → **be at Ben Gurion by 22:15 on Tue 14 October**. You leave on the evening of the 14th, not the 15th.
 - El Al return: **LY84**, departs BKK 16:30, arrives TLV 22:45, Sun 8 Nov · seat 34D · Economy Classic (N) · 11h 15m · frequent flyer 12956761
 - ⚠ **El Al recommends 4 hrs, hard deadline 3 hrs** — late passengers are not boarded. Leave hotel 12:15.
 - Beijing → BKK: Air China CA959, departs PEK 14:00, arrives BKK 18:05, Wed 4 Nov

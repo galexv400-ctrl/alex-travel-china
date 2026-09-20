@@ -583,7 +583,7 @@
       <div class="tl-item flight">
         <div class="tl-date">Thu 15 Oct</div>
         <div class="tl-title"><span class="badge badge-flight">Flight</span> TLV → Bangkok</div>
-        <div class="tl-detail">El Al LY85 · Departs ~00:05 · Arrives BKK 15:45</div>
+        <div class="tl-detail">El Al LY85 · <strong>Departs 01:15</strong> · Arrives BKK ~16:55 <em>(estimated — confirm on elal.com)</em> · ⚠ Be at Ben Gurion by <strong>22:15 on Tue 14 Oct</strong></div>
       </div>
 
       <div class="tl-item hotel">
@@ -667,7 +667,7 @@
         </div>
         <div class="route-display">
           <div class="airports"><span>TLV</span><span class="arrow">✈ ──────</span><span>BKK</span></div>
-          <div class="times"><span>~00:05</span><span>15:45</span></div>
+          <div class="times"><span>01:15</span><span>~16:55</span></div>
         </div>
         <div class="card-row"><span class="label">Airline</span><span class="val">El Al</span></div>
         <div class="card-row"><span class="label">Price</span><span class="val">$651.77</span></div>
@@ -2028,9 +2028,9 @@
     btn.classList.add('active');
   }
 
-  // Countdown to 15 Oct 2026 00:05 Israel time (UTC+3)
+  // Countdown to 15 Oct 2026 01:15 Israel time (UTC+3, DST)
   function updateCountdown() {
-    const departure = new Date('2026-10-14T21:05:00Z'); // 00:05 IST = 21:05 UTC prev day
+    const departure = new Date('2026-10-14T22:15:00Z'); // 01:15 IDT = 22:15 UTC prev day
     const now = new Date();
     const diff = departure - now;
     if (diff <= 0) {
