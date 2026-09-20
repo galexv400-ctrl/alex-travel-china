@@ -11,10 +11,11 @@
 *Gentle day — two flights behind you*
 
 - **14:20** Land at HKIA · UK passport · Top up Octopus card at Airport Express machines
-- **~15:00** Airport Express to Kowloon Station (24 min) · Taxi to The Luxe Manor
+- **~15:00** **Airport Express** to Kowloon Station (24 min) · Taxi to The Luxe Manor · Octopus already topped up, so tap and go
+  - *Why the train, not a taxi:* both arrive ~15:45, but a taxi is ~HKD 300–340 vs ~HKD 130, **Friday late afternoon is rush hour into TST**, and HK taxis are often cash-first — you would need to withdraw HKD at the airport first. The train is immune to traffic and already paid for.
 - **~16:00** Check in, freshen up, rest properly — no rush tonight
 - **18:45** Walk to the Avenue of Stars (10 min along the waterfront)
-- **19:00** 🚌 **Big Bus night tour** ← **BOOK THIS ONE** · Stop #16, Bruce Lee statue, Avenue of Stars · **10 min walk from the hotel** · Open-top Kowloon route: neon skyline, Temple Street, Yau Ma Tei fruit market, Clock Tower · ~1 hr 15
+- **19:00** 🚌 **Big Bus night tour** — £33 direct, Fri 16 Oct · Stop #16, Bruce Lee statue, Avenue of Stars · **10 min walk from the hotel** · Open-top Kowloon route: neon skyline, Temple Street, Yau Ma Tei fruit market, Clock Tower · ~1 hr 15
   - 🔗 [Book Big Bus](https://www.bigbustours.com/en/hong-kong/hong-kong-night-tour-ticket)
   - ⚠ **Do NOT book the Citybus / HK City Sightseeing version.** Cheaper, but you must redeem a paper ticket at **Pier 6, Central** on Hong Kong Island and board there — a harbour crossing each way on arrival day, and it breaks the walk-to-dinner plan
   - The tour is a loop — it ends back at the Avenue of Stars. You pass the Symphony of Lights from the bus
