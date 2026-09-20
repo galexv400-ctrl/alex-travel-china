@@ -35,28 +35,28 @@
 
 - **08:15** 🍳 **Breakfast at The Luxe Manor** — included in your rate
 - **09:15** MTR East Rail to Tai Po Market (~45 min) · Taxi to monastery (show driver: 慈山寺)
-- **10:00** **Tsz Shan Monastery**, Tung Tsz Road, Tai Po · Free, pre-booked only · Peaceful Buddhist monastery, giant Guanyin statue, wooded grounds · Allow 2.5–3 hrs · Covered shoulders required · Open Thu–Tue 09:30–17:00
+- **10:00** **Tsz Shan Monastery**, Tung Tsz Road, Tai Po · Free, pre-booked only · Peaceful Buddhist monastery, giant Guanyin statue, wooded grounds · ~2 hrs at your pace · Covered shoulders required · Open Thu–Tue 09:30–17:00
   - 🔗 [Instagram](https://www.instagram.com/tszshanmonastery/) · [Facebook](https://www.facebook.com/tszshanmonastery/) · [Booking](https://www.tszshan.org/home/new/en/visit.php)
-- **12:45** Taxi to Tai Po Market station
-- **13:00** **East Rail Line direct to Admiralty** (~40 min, no changes — the line runs cross-harbour since 2022)
-- **14:00** 🍵 **Lunch: LockCha Tea House** — G/F, The K.S. Lo Gallery, 10 Cotton Tree Drive, Hong Kong Park, Admiralty · 100+ teas, all-vegetarian dim sum made fresh daily · Sat 10:00–21:00 · Book online at book.bistrochat.com/lockcha-admiralty · Stick to the steamed dumplings
+- **12:00** Taxi to Tai Po Market station · *Fly Taxi covers NT green taxis — or ask reception to call one, it is rural out here*
+- **12:20** **East Rail Line direct to Admiralty** (~40 min, no changes — the line runs cross-harbour since 2022)
+- **13:15** 🍵 **Lunch: LockCha Tea House** — G/F, The K.S. Lo Gallery, 10 Cotton Tree Drive, Hong Kong Park, Admiralty · 100+ teas, all-vegetarian dim sum made fresh daily · Sat 10:00–21:00 · Book online at book.bistrochat.com/lockcha-admiralty · Stick to the steamed dumplings
   - 🔗 [Instagram](https://www.instagram.com/lockchahk/) · [Website](https://www.lockcha.com/locations/hong-kong-park/)
-- **15:15** Leave — LockCha sits inside Hong Kong Park, so you pass through it without stopping · MTR Admiralty → Sheung Wan, or walk (~15 min)
+- **14:30** Leave — LockCha sits inside Hong Kong Park, so you pass through it without stopping · MTR Admiralty → Sheung Wan, or walk (~15 min)
 
 ### 🛍 Sheung Wan / Central — the whole afternoon
 *Everything below is within a 10-minute walk of everything else.*
 
-- **15:45 Blue Lotus Gallery**, 28 Pound Lane, Sheung Wan · Photography + the mini print vending machine · Tue–Sun 11:00–18:00 — *now with hours to spare rather than 45 min*
+- **15:00 Blue Lotus Gallery**, 28 Pound Lane, Sheung Wan · Photography + the mini print vending machine · Tue–Sun 11:00–18:00 — *now with hours to spare rather than 45 min*
   - 🔗 [Website](https://bluelotus-gallery.com/about) · [Facebook](https://www.facebook.com/bluelotusgalleryhk/)
-- **16:30 Cat Street** (Upper Lascar Row) — antiques, bric-a-brac · 5 min walk · stalls wind down ~18:00
-- **17:00 PMQ**, 35 Aberdeen Street · Design studios · Shops till 19:00, cafes till 23:00
-- **17:30 Bang Bang 70s**, 1/F, 16A Aberdeen Street — *next door to PMQ* · Daily 14:00–19:00
-- **18:00 Select 18**, Shop A, 18 Bridges Street · Vintage · **Open till 23:00 Saturdays**
-- **18:30 Central Market** + Old Town Central streets — Cochrane, Stanley, Graham, Aberdeen
+- **15:45 Cat Street** (Upper Lascar Row) — antiques, bric-a-brac · 5 min walk · stalls wind down ~18:00
+- **16:15 PMQ**, 35 Aberdeen Street · Design studios · Shops till 19:00, cafes till 23:00
+- **16:45 Bang Bang 70s**, 1/F, 16A Aberdeen Street — *next door to PMQ* · Daily 14:00–19:00
+- **17:15 Select 18**, Shop A, 18 Bridges Street · Vintage · **Open till 23:00 Saturdays**
+- **17:45 Central Market** + Old Town Central streets — Cochrane, Stanley, Graham, Aberdeen
 - *Also here if you fancy it:* traditional **ear cleaning** on Queen's Road Central · **Moonary** and **Soul Coffee** for a sit-down
-- **19:15** MTR to TST · Dinner ~20:00
+- **19:00** MTR to TST · Dinner ~19:45
 
-*Too tired after the monastery?* Skip the lot — 15:30 MTR straight back to TST and rest.
+*Too tired after the monastery?* Skip the lot — 14:45 MTR straight back to TST and rest.
 - **19:30** 🍽 Dinner: **Apgujeong Tent Bar** — 1/F Koon Fook Centre, 9 Knutsford Terrace, TST · **5 min walk from hotel** · Korean, relaxed, open late · Best Korean at Foodie Forks 2025 · ☎ +852 3579 2992
   - 🔗 [OpenRice](https://www.openrice.com/en/hongkong/r-apgujeong-tent-bar-tsim-sha-tsui-korean-wine-r12817)
   - *Alternative:* **Lamees** (Jordanian) — 145 Pak Tai Street, To Kwa Wan · Mezze, grilled meats · Taxi ~15 min · Book: +852 9181 9600
@@ -139,7 +139,7 @@
 | Tai Pan massage (Sun 17:00) | ☎ +852 2301 1990 | ✅ **BOOKED** |
 | Lamees dinner (only if choosing it over Flat Iron) | +852 9181 9600 | 1 week before |
 | Apgujeong arrival night | +852 3579 2992 | Optional — walk-in usually fine |
-| LockCha Tea House (Sat 14:00) | book.bistrochat.com/lockcha-admiralty | Not required for 1, but worth doing — small room, busy Saturday |
+| LockCha Tea House (Sat 13:15) | book.bistrochat.com/lockcha-admiralty | Not required for 1, but worth doing — small room, busy Saturday |
 | Nu Nail & Beauty (Mon 12:00) | ☎ +852 5323 3617 | ✅ **BOOKED** |
 | Big Bus night tour (Fri 19:00) | ✅ **BOOKED — ref XF7MVK0Z** | Arrive Stop #16, Avenue of Stars, by 18:45 |
 
