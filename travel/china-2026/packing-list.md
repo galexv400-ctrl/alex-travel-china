@@ -187,7 +187,7 @@
 - Israeli credit card (insurance, Luxe Manor)
 - UK credit card (Sindhorn)
 - **HKD 1,500–2,000 cash** — buy in Israel before flying. Minibuses, Sham Shui Po market stalls and some taxis are cash-only
-- **Octopus card — top up to HKD 500.** Currently HKD 100, and the Airport Express to Kowloon alone is ~HKD 105
+- **Octopus card ✅ ~HKD 500 loaded.** Covers Airport Express (~105) + all MTR + minibuses + shops. Spend the remainder down on Mon 19th — refunding costs HKD 11 and takes 6–8 weeks
 - CNY 500–750 cash — get before trip, for first days in China
 - **Thai Baht** — ~1,000 for the 15 Oct airport hotel night (hotel prepaid, shuttle free), then **15,000–20,000** for 4–8 Nov (tattoo 2,000–4,000 cash, massages, Chatuchak)
   - ⚠ Thai ATMs charge a **fixed ~220 THB fee per withdrawal** — take out more, less often
