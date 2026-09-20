@@ -1,4 +1,4 @@
-const CACHE = 'china-2026-v67';
+const CACHE = 'china-2026-v68';
 const ASSETS = [
   '/alex-travel-china/',
   '/alex-travel-china/index.html',
