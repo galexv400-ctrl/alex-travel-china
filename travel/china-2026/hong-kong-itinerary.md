@@ -16,10 +16,8 @@
 - **~16:00** Check in, freshen up, rest properly — no rush tonight
 - **18:45** Walk to the Avenue of Stars (10 min along the waterfront)
 - **19:00** 🚌 **Big Bus night tour** — ✅ **BOOKED, ref XF7MVK0Z** · £33 direct, Fri 16 Oct · Stop #16, Bruce Lee statue, Avenue of Stars · **10 min walk from the hotel** · Open-top Kowloon route: neon skyline, Temple Street, Yau Ma Tei fruit market, Clock Tower · ~1 hr 15
-  - 🔗 [Book Big Bus](https://www.bigbustours.com/en/hong-kong/hong-kong-night-tour-ticket)
   - ⚠ **Do NOT book the Citybus / HK City Sightseeing version.** Cheaper, but you must redeem a paper ticket at **Pier 6, Central** on Hong Kong Island and board there — a harbour crossing each way on arrival day, and it breaks the walk-to-dinner plan
   - The tour is a loop — it ends back at the Avenue of Stars. You pass the Symphony of Lights from the bus
-  - 🔗 [Big Bus night tour](https://www.bigbustours.com/en/hong-kong/hong-kong-night-tour-ticket) · [HK City Sightseeing — cheaper](https://www.klook.com/en-US/activity/96948-rickshaw-sightseeing-bus-open-top-night-bus-tour/)
 - **~20:30** 🍽 **Dinner: Flat Iron Steak — TST** · Lower Lobby, The Langham, 8 Peking Road · **5 min walk from where the bus drops you, 8 min from the hotel** · HKD238 · **Open till 23:30 on Fridays** · Walk-in · Ask for salad instead of the chips
   - 🔗 [Instagram](https://www.instagram.com/flatiron_hk/) · [Website](https://flatironhk.com/) · ☎ +852 6551 0667
   - *Also open late nearby:* **Goobne Chicken**, 4 Hart Avenue (past midnight) · **Apgujeong**, 9 Knutsford Terrace
@@ -30,8 +28,8 @@
 
 ---
 
-## Day 2 — Saturday 17 October: Tsz Shan Monastery + West Kowloon
-*⚠ Book monastery from 17 September at tszshan.org — fills fast on weekends*
+## Day 2 — Saturday 17 October: Monastery + Sheung Wan / Central
+*Monastery ✅ BOOKED · LockCha 13:15*
 
 - **08:15** 🍳 **Breakfast at The Luxe Manor** — included in your rate
 - **09:15** MTR East Rail to Tai Po Market (~45 min) · then to the monastery (show driver / ask for: 慈山寺)
@@ -62,7 +60,7 @@
 - **19:00** MTR to TST · Dinner ~19:45
 
 *Too tired after the monastery?* Skip the lot — 14:45 MTR straight back to TST and rest.
-- **19:30** 🍽 Dinner: **Apgujeong Tent Bar** — 1/F Koon Fook Centre, 9 Knutsford Terrace, TST · **5 min walk from hotel** · Korean, relaxed, open late · Best Korean at Foodie Forks 2025 · ☎ +852 3579 2992
+- **~19:45** 🍽 Dinner: **Apgujeong Tent Bar** — 1/F Koon Fook Centre, 9 Knutsford Terrace, TST · **5 min walk from hotel** · Korean, relaxed, open late · Best Korean at Foodie Forks 2025 · ☎ +852 3579 2992
   - 🔗 [OpenRice](https://www.openrice.com/en/hongkong/r-apgujeong-tent-bar-tsim-sha-tsui-korean-wine-r12817)
   - *Alternative:* **Lamees** (Jordanian) — 145 Pak Tai Street, To Kwa Wan · Mezze, grilled meats · Taxi ~15 min · Book: +852 9181 9600
   - *Or:* **Goobne Chicken** — 2/F, The Hart, 4 Hart Avenue, TST · **5 min walk from hotel** · **Oven-roasted, not fried** — marinated 24hrs+, 8 flavours · Open 12:00 till past midnight · Walk-in
