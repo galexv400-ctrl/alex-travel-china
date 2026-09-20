@@ -47,21 +47,23 @@
 
 ---
 
-## Day 3 — Sunday 18 October: Self-care morning + Sham Shui Po
-*M+ Museum is now the rain plan only — no advance ticket needed*
+## Day 3 — Sunday 18 October: Sham Shui Po + evening massage
+*Massage booked for 17:00 — the morning is open*
 
-- **08:30** **Gym** — hotel gym, or Snap Fitness at 27–33 Nathan Road (4 min walk, has racks and barbells)
-- **11:00** 💆 **Massage — Tai Pan Reflexology Parlour**, 83 Nathan Road (basement), TST · **5 min walk from hotel** · Foot, aromatic and body massage · 1940s Shanghai barbershop interior · Open daily 11:00–00:45 · ☎ +852 2301 1990 · Book ahead or via ClassPass
-  - 🔗 [Treatments & booking](https://www.taipanreflexologyparlour.com/experiences) · [Facebook](https://www.facebook.com/taipanreflexologyparlour/)
+- **08:30** **Gym** — hotel gym, or Snap Fitness at 27–33 Nathan Road (4 min walk, racks and barbells)
+- **10:00–13:00** *Morning is open* — the massage moved to the evening, so this slot is free
 - **13:00** Lunch — slow one, your own pace
 
-> ☔ **Rain plan:** if the weather turns, swap the morning for **M+ Museum**, 38 Museum Drive, West Kowloon · Open Sun 10:00–18:00 · Same-day tickets at the door, no need to pre-book · [mplus.org.hk](https://www.mplus.org.hk/en/)
+> ☔ **Rain plan:** M+ Museum, 38 Museum Drive, West Kowloon · Open Sun 10:00–18:00 · Same-day tickets at the door · [mplus.org.hk](https://www.mplus.org.hk/en/)
 
-- **14:30** **Sham Shui Po** (MTR from TST, ~15 min)
-- **14:45** **JCCAC** (Jockey Club Creative Arts Centre), 30 Pak Tin Street · Converted factory, 100+ artist studios, free entry · Open Tue–Sun · Allow 1–1.5 hrs
+- **14:00** **Sham Shui Po** (MTR from TST, ~15 min)
+- **14:15** **JCCAC** (Jockey Club Creative Arts Centre), 30 Pak Tin Street · Converted factory, 100+ artist studios, free entry · ~1.5 hrs
   - 🔗 [Instagram](https://www.instagram.com/jccac_artsvillage/) · [Facebook](https://www.facebook.com/jccacpage/)
-- **16:30** **Mei Ho House Heritage Museum**, 70 Berwick Street · Restored 1950s public housing · Free entry · 45 mins
-- **17:30** Optional: Apliu Street flea market wander
+- **15:45** **Apliu Street** flea market + the second-hand streets around it · ~45 min
+- **16:30** ⏰ **Leave Sham Shui Po** — 12 min to TST on the Tsuen Wan Line
+- **17:00** 💆 **Massage — Tai Pan Reflexology Parlour**, 83 Nathan Road (basement), TST · **✅ BOOKED — 5:00pm** · 5 min walk from hotel · 1940s Shanghai barbershop interior · ☎ +852 2301 1990
+  - 🔗 [Treatments](https://www.taipanreflexologyparlour.com/experiences) · [Facebook](https://www.facebook.com/taipanreflexologyparlour/)
+  - ⚠ **Mei Ho House dropped** — it does not fit before a 17:00 appointment. Swap it for Apliu Street if you would rather
 - **18:00** Back to hotel, freshen up
 - **19:30** 🍽 Dinner: **Born Ga**, Tsim Sha Tsui · Hot stone pot bibimbap + soft tofu stew · Single-serving stone pots, ideal for solo · Walk-in
   - Sham Shui Po → TST is **6 stops on the Tsuen Wan Line, ~12 min, no change** — come home on the line you are already on, drop your bag at the hotel, then walk
@@ -84,6 +86,7 @@
 - **12:00** 💅 **Nu Nail & Beauty** — Flat 10A, 10/F, Lokville Commercial Building, 27 Lock Road, TST · **3 min walk from hotel** · ✅ **BOOKED** · Open daily 10:00–23:00 · ☎ +852 5323 3617
   - 🔗 [Website](https://www.nunailandbeauty.com/) · [Instagram](https://www.instagram.com/nunailandbeauty/) · [Facebook](https://www.facebook.com/nunailandbeauty/)
 - **~13:30** Done · Free afternoon in TST — waterfront, K11 MUSEA, or a slow coffee
+  - 🚿 Need a shower after checkout? **Snap Fitness**, 27–33 Nathan Road (4 min walk) does day passes. Though you check in at Harbour Plaza at 16:00 with two hours before the meeting, so the hotel shower is simpler unless you actually want to train
 - **15:00** Collect luggage from The Luxe Manor · Taxi direct to Harbour Plaza North Point, 665 King's Road (~25 min, ~HKD 100)
 - **16:00** Check in at Harbour Plaza North Point
 - **18:00** ✅ Intrepid welcome meeting
@@ -109,7 +112,7 @@
 |---|---|---|
 | Tsz Shan Monastery | tszshan.org | ✅ **BOOKED** |
 | M+ Museum | mplus.org.hk | Rain plan only — same-day tickets at the door |
-| Tai Pan massage (Sun morning) | taipanreflexologyparlour.com or ClassPass | A few days before |
+| Tai Pan massage (Sun 17:00) | ☎ +852 2301 1990 | ✅ **BOOKED** |
 | Lamees dinner (only if choosing it over Flat Iron) | +852 9181 9600 | 1 week before |
 | Apgujeong arrival night | +852 3579 2992 | Optional — walk-in usually fine |
 | LockCha Tea House (Sat lunch) | book.bistrochat.com/lockcha-admiralty | A few days before |
