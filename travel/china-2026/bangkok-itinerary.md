@@ -11,6 +11,8 @@
 ---
 
 ## ⚠ Before you fly
+- ⚠ **Thailand Digital Arrival Card (TDAC)** — complete online **within 3 days before landing**. Free, but the QR code is **mandatory at immigration**. Needed for **both** Thai entries: 15 Oct and 4 Nov
+- ⚠ Visa-free **30 days** on a British passport (reduced from 60 on 15 Sept 2026). Exemption capped at **two entries per calendar year** — 15 Oct and 4 Nov are exactly two. **Use the same passport both times**
 - **Download Grab** — Thailand's Uber/DiDi. Fixed price, English, card on file. Set it up in Israel.
 - **Thai Baht** — ~1,000 for the 15 Oct airport night, then **15,000–20,000** for this leg
 - ⚠ Thai ATMs charge a **fixed ~220 THB fee per withdrawal** — take out more, less often
@@ -19,7 +21,7 @@
 
 ## Day 1 — Wednesday 4 November: Arrival
 
-- **18:05** Land Suvarnabhumi off CA959 from Beijing · **Israeli passport**, visa-free
+- **18:05** Land Suvarnabhumi off CA959 from Beijing · Visa-free, 30 days · **TDAC QR code ready**
 - **~18:50** Immigration + bags
 - **~19:00** 🚕 **Grab** — four official pick-up points on **Level 1 of arrivals**, clearly signed · ~5 min to match, ~15 min for the car · **~£9–15** inc. 50 THB airport fee and tolls · 40–60 min
 - **~20:00** Check in — Sindhorn Midtown, 68 Langsuan Road
