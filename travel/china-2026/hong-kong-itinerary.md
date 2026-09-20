@@ -150,6 +150,18 @@
 
 ---
 
+## Each Morning — Message Claude
+
+This site is the **offline reference**: booking refs, addresses, opening hours. It does not know what kind of morning you are having.
+
+**On the day, message: "ready for Friday"** (or whichever day) and you get a single-day brief — times, exact walking directions, what to do first, what to drop if you are flagging, and where to eat given how the day has actually gone. One day at a time, nothing about tomorrow.
+
+**Say how you feel.** "Landed, shattered" produces a different Friday from "landed, wired."
+
+⚠ **Hong Kong works normally — no VPN needed.** From **20 October**, once you cross into mainland China, turn **NordVPN on first** or messages will not go through.
+
+---
+
 ## Taxi Apps — download before you go
 
 - **Uber** — ✅ downloaded. **Confirmed available in Tai Po.** English, card on file, no cash needed. Dispatches licensed metered taxis as well as private cars. **Use this first.**
