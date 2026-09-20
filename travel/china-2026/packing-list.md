@@ -12,7 +12,7 @@
 ### Wearing on the Plane (do not pack)
 - Green thin jumpsuit
 - Waterproof pink jacket (layer)
-- New shoes — 🛒 **BUY** (replacing Skechers black)
+- New shoes ✅ — replacing Skechers black · wear on plane days
 
 ### Day Bag / Plane Bag (bulky items)
 - Uniqlo pink puffer (packable)
@@ -77,7 +77,7 @@
 ---
 
 ## FOOTWEAR
-- New shoes — 🛒 **BUY** — replacing Skechers black; wear on plane days
+- New shoes ✅ — replacing Skechers black; wear on plane days
 - Second pair trainers x1 ✅ — backup for wet days (Zhangjiajie misty/rainy) + 25 days of walking. Also doing the Zhangjiajie + Great Wall hikes in trainers.
 - Tevas black x1 ✅ `[Warm]` — lightweight sandal
 - Pink Crocs x1 ✅ `[Warm]` — hotel/casual
@@ -227,7 +227,7 @@
 ## Summary — What to Buy Before You Go
 
 ### Buy Properly
-1. **New shoes** — replacing Skechers black, for plane days + general walking. Doing both hikes in these — look for a grippy lugged sole, and break them in before October.
+1. ✅ **New shoes bought** — replacing Skechers black, for plane days + general walking. Doing both hikes in these — **break them in before October.**
 2. **Cable organiser bag**
 3. Sunglasses ✅ Have
 4. Amazon flared trousers ✅ Have
