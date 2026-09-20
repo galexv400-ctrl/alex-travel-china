@@ -34,10 +34,15 @@
 *⚠ Book monastery from 17 September at tszshan.org — fills fast on weekends*
 
 - **08:15** 🍳 **Breakfast at The Luxe Manor** — included in your rate
-- **09:15** MTR East Rail to Tai Po Market (~45 min) · Taxi to monastery (show driver: 慈山寺)
+- **09:15** MTR East Rail to Tai Po Market (~45 min) · then to the monastery (show driver / ask for: 慈山寺)
+  - ⚠ **The direct 20T minibus runs WEEKDAYS ONLY** — no good on a Saturday. Options:
+    1. **Taxi** — green NT taxi via Fly Taxi, or hail outside the station (~10 min)
+    2. **Minibus 20B** — drops at Tong Tsz Road / Universal Gate Road junction, then **10 min walk uphill**
+    3. **Bus to Tai Mei Tuk**, alight San Tau Kok — then ~30 min uphill walk. Last resort.
+  - *hkbus.app is the best free app for HK bus and minibus live times*
 - **10:00** **Tsz Shan Monastery**, Tung Tsz Road, Tai Po · Free, pre-booked only · Peaceful Buddhist monastery, giant Guanyin statue, wooded grounds · ~2 hrs at your pace · Covered shoulders required · Open Thu–Tue 09:30–17:00
   - 🔗 [Instagram](https://www.instagram.com/tszshanmonastery/) · [Facebook](https://www.facebook.com/tszshanmonastery/) · [Booking](https://www.tszshan.org/home/new/en/visit.php)
-- **12:00** Taxi to Tai Po Market station · *Fly Taxi covers NT green taxis — or ask reception to call one, it is rural out here*
+- **12:00** Back to Tai Po Market station · *Getting back is the harder direction — ask monastery reception to call a taxi before you leave the grounds, or walk 10 min down to the Tong Tsz Road junction for the 20B*
 - **12:20** **East Rail Line direct to Admiralty** (~40 min, no changes — the line runs cross-harbour since 2022)
 - **13:15** 🍵 **Lunch: LockCha Tea House** — G/F, The K.S. Lo Gallery, 10 Cotton Tree Drive, Hong Kong Park, Admiralty · 100+ teas, all-vegetarian dim sum made fresh daily · Sat 10:00–21:00 · Book online at book.bistrochat.com/lockcha-admiralty · Stick to the steamed dumplings
   - 🔗 [Instagram](https://www.instagram.com/lockchahk/) · [Website](https://www.lockcha.com/locations/hong-kong-park/)
