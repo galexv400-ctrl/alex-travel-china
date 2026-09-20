@@ -64,22 +64,19 @@
 ## Day 3 — Sunday 18 October: Sham Shui Po day + evening massage
 *Massage booked for 17:00 · Early start, lunch in Sham Shui Po*
 
-- **08:30** **Gym** — hotel gym, or Snap Fitness at 27–33 Nathan Road (4 min walk)
-- **09:45** MTR TST → Sham Shui Po (~15 min, Tsuen Wan Line, no change)
-- **10:15** **JCCAC**, 30 Pak Tin Street · Converted factory, 100+ artist studios · Free · Opens 10:00 · ~1.5 hrs
+- **08:00** **Gym** — hotel gym, or Snap Fitness at 27–33 Nathan Road (4 min walk)
+- **09:00** MTR TST → Sham Shui Po (~15 min, Tsuen Wan Line, no change)
+- **09:30** **Mei Ho House Heritage Museum**, 70 Berwick Street · Restored 1950s public housing · Free · **Opens 09:30 — the earliest thing open, so it goes first** · 45 min
+- **10:15** **JCCAC**, 30 Pak Tin Street · Converted factory, 100+ artist studios · Free · *Opens 10:00 — this is what sets the morning* · ~1.5 hrs
   - 🔗 [Instagram](https://www.instagram.com/jccac_artsvillage/) · [Facebook](https://www.facebook.com/jccacpage/)
 - **11:45** 🍽 **Lunch + snack stops in Sham Shui Po**
-  - **Hop Yik Tai** — 121 Kweilin Street · Michelin-listed cheung fan · **Steamed, not fried** · Open 06:30–20:30
-  - **Kung Wo Beancurd Factory** — 118 Pei Ho Street, 1 min from MTR Exit B2 · Open 07:00–21:00 · ⚠ the famous dish is deep-fried tofu — have the tofu fa or fresh soy milk instead
-  - **Heritage Tea House** — ground floor of JCCAC, zero detour · Homemade dumplings, noodle soup, herbal iced tea
-  - **YEARS** — plant-based, salads and pasta, from HKD40 · lightest option
-  - **Lau Sum Kee** — Michelin Bib Gourmand, 60-year-old bamboo-pole noodle shop · stirred noodles with shiitake and shrimp roe (tossed, not fried)
-- **13:00** **Mei Ho House Heritage Museum**, 70 Berwick Street · Restored 1950s public housing · Free · 45 min
-- **13:45** 🛍 **Thrifting block, ~2 hrs**
-  - **Apliu Street** flea market — electronics, bric-a-brac, second-hand everything
-  - **Sing Jai Kee** — Sham Shui Po vintage
-  - **Fuk Wing Street** and the fabric streets
-  - **Dragon Centre** — if you want indoors/aircon
+  - **Hop Yik Tai** — 121 Kweilin Street · Michelin-listed cheung fan · **Steamed, not fried** · 06:30–20:30
+  - **Kung Wo Beancurd Factory** — 118 Pei Ho Street, 1 min from MTR Exit B2 · 07:00–21:00 · ⚠ famous dish is deep-fried tofu — have the tofu fa or fresh soy milk
+  - **Heritage Tea House** — ground floor of JCCAC · Dumplings, noodle soup, herbal iced tea
+  - **YEARS** — plant-based, from HKD40 · lightest option
+  - **Lau Sum Kee** — Michelin Bib Gourmand bamboo-pole noodles (tossed, not fried)
+- **13:00** 🛍 **Thrifting block — now a full 3 hrs**
+  - **Apliu Street** flea market · **Sing Jai Kee** vintage · **Fuk Wing Street** and the fabric streets · **Dragon Centre** if you want aircon
 - **16:00** Leave Sham Shui Po · MTR back to TST (12 min)
 - **16:30** Back at hotel, freshen up
 - **17:00** 💆 **Massage — Tai Pan Reflexology Parlour**, 83 Nathan Road (basement) · **✅ BOOKED — 5:00pm** · 5 min walk · ☎ +852 2301 1990
@@ -136,7 +133,7 @@
 | Tai Pan massage (Sun 17:00) | ☎ +852 2301 1990 | ✅ **BOOKED** |
 | Lamees dinner (only if choosing it over Flat Iron) | +852 9181 9600 | 1 week before |
 | Apgujeong arrival night | +852 3579 2992 | Optional — walk-in usually fine |
-| LockCha Tea House (Sat lunch) | book.bistrochat.com/lockcha-admiralty | A few days before |
+| LockCha Tea House (Sat 14:00) | book.bistrochat.com/lockcha-admiralty | Not required for 1, but worth doing — small room, busy Saturday |
 | Nu Nail & Beauty (Mon 12:00) | ☎ +852 5323 3617 | ✅ **BOOKED** |
 | Big Bus night tour (Fri 19:00) | bigbustours.com or Klook | Book ahead — 19:00 departure |
 
