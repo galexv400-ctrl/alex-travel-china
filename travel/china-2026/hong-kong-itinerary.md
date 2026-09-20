@@ -145,6 +145,18 @@
 
 ---
 
+## Taxi Apps — download before you go
+
+- **Fly Taxi** — the one that matters for Saturday. Covers **New Territories green taxis**, which serve Tai Po. Urban red taxis do not go out there, and not every app covers green. Supports Octopus and e-payment.
+- **Uber** — English interface, dispatches licensed metered taxis as well as private cars. Covers almost all of Hong Kong except the Outlying Islands.
+- **Skip HKTaxi** — being discontinued.
+
+⚠ **Payment reality:** since 1 April 2026 every HK taxi must offer at least one QR and one non-QR electronic payment method, but readers are still reported broken, covered or refused. **Carry small HKD notes and ask before you get in.**
+
+⚠ **Getting back from the monastery** is harder than getting there — it is rural Tai Po. Ask reception to call one, or book the return on Fly Taxi before leaving the grounds.
+
+---
+
 ## Before You Fly — Check What's On
 
 **Sassy Hong Kong — https://www.sassyhongkong.com/**
