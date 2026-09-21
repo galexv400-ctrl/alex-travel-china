@@ -108,6 +108,20 @@
 
 ---
 
+## 🧺 LAUNDRY PLAN
+**First wash: Hong Kong, The Luxe Manor.** Nothing gets washed 15–18 Oct.
+
+- **Wash on the evening of Sat 17 or Sun 18 — not the morning of Mon 19.** Hong Kong sits at ~70–75% humidity in October; a sink wash needs a full overnight, sometimes longer. Washing on the 19th means packing damp clothes for the 9-hour train to Chongqing on the 20th.
+- Use the **dry bag** for anything still damp on the 20th — it keeps the wet off the clean layers.
+- Hang things in the bathroom with the extractor fan on, or over the air-con vent. Both beat a still room in HK humidity.
+- ⚠ The **TRAVEL 100 merino** must be hand-washed at max 30°C and laid flat — do not hang-stretch it.
+
+**What this means for 15–18 Oct:** 4 days of 28–32°C humidity on 2 bra tops, 1 short-sleeve, the kimono and 2 playsuits. That is roughly one outfit per day with no spare. The **bra tops and playsuits are the ones that will feel it** — consider rinsing just those in the sink as you go, even before the main wash.
+
+**After Hong Kong:** the warm-weather kit goes unused 20 Oct–4 Nov while you are in cool/cold China, then comes back out clean for Bangkok 4–8 Nov. That part of the plan works well.
+
+---
+
 ## SLEEPWEAR
 - Pyjama top x2
 - Long pyjama bottoms x1 `[Cold]`
