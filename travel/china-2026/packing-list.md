@@ -104,7 +104,7 @@
 - Regular socks x10 — including long socks
 - Thermal socks x2 `[Cold]` — spare pair for the Great Wall night; damp socks in 3°C are worse than none
 - Hair ties x3
-- Hair brush x1
+- 🎒 Hair brush x1
 
 ---
 
