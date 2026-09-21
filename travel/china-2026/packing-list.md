@@ -28,7 +28,7 @@
 - Stradivarius bra top x2 `[Warm]`
 
 ### Long sleeves & base layers
-- Uniqlo long-sleeve mid-warm tops x3 — black, pink, green `[Cool] [Cold]` — main mid-layer, workhorse for 12–22°C days
+- Uniqlo long-sleeve mid-warm tops x4 — black, pink, green + 1 `[Cool] [Cold]` — main mid-layer, workhorse for 12–22°C days
 - Amazon plain black long-sleeve (thin) x2 `[Warm] [Cool]` — 95% modal / 5% spandex
   - ✅ Hand-washes well and dries overnight on a hanger — rotate the two across the trip
   - ⚠ Not the pick for the cold hikes. Modal absorbs sweat into the fibre, so it stays wet against the skin in 3°C wind even though it dries fast on a hanger. For the Great Wall and Zhangjiajie, wear a Decathlon thermal next to skin and save these as a mid-layer or for milder days.
@@ -72,7 +72,6 @@
 ## OUTERWEAR & MID-LAYERS
 - Waterproof pink jacket ✅ `[Cold]` — ESSENTIAL, wearing on plane
 - Uniqlo pink puffer ✅ `[Cold]` — ESSENTIAL, packable, carried in day bag
-- Black fleece, sweater style x1 `[Cool]` — standalone mid-layer for Zhangjiajie damp cold, Shanghai, Xi'an
 - Black fleece (Gillet brand) x1 `[Cool] [Cold]` — the zip-in liner of the waterproof shell. Wear over Uniqlo tops on its own, or zip into the jacket for max warmth (Great Wall).
 
 ---
@@ -216,6 +215,7 @@
 ---
 
 ## NOT BRINGING
+- Black fleece, sweater style — removed; Gillet fleece liner + 4 Uniqlo long-sleeves cover the mid-layer job
 - 2nd Shein striped shirt — reduced to one, kimono covers the same job more lightly
 - Shein loose black and white shorts — swapped for a 2nd pair of GF bike shorts (gym-capable, faster drying)
 - Skechers black — replaced with new shoes
