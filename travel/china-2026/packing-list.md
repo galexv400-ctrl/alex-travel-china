@@ -53,8 +53,7 @@
 - Amazon flared x1 ✅ `[Cool]`
 
 ### Shorts
-- Girlfriend Collective bike shorts x1 `[Warm]`
-- Shein loose black and white shorts x1 `[Warm]`
+- Girlfriend Collective bike shorts x2 `[Warm]` — doubles as gym wear; second pair replaces the Shein loose shorts
 
 ### Playsuits
 - Green playsuit x1 `[Warm] [Cool]`
@@ -215,6 +214,7 @@
 ---
 
 ## NOT BRINGING
+- Shein loose black and white shorts — swapped for a 2nd pair of GF bike shorts (gym-capable, faster drying)
 - Skechers black — replaced with new shoes
 - Denim jacket — removed
 - iPad (won't use, saves weight)
