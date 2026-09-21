@@ -84,7 +84,7 @@
 ## ACCESSORIES
 - Baseball cap x1 ✅ `[Warm]` — in hand luggage
 - Sunglasses x1 ✅ `[Warm]` — in hand luggage
-- Warm hat x1 `[Cold]` — ❓ not yet placed
+- 🛒 **Warm hat x1** `[Cold]` — DO NOT SKIP. Great Wall 1 Nov at 1–3°C, exposed and windy after dark. A beanie is the cheapest, smallest warmth you can carry. Pack with the neck warmer in the case.
 - Gloves x1 `[Cold]` — ❓ not yet placed
 - Neck warmer x1 `[Cold]` — in the case
 - Scarf `[Cold]` — if bringing from Temu
@@ -322,17 +322,18 @@
 
 ### Buy Properly
 1. ✅ **New shoes — bought and broken in.** Replacing Skechers black, for plane days + general walking. Doing both hikes in these.
-2. Cable organiser bag ✅ Have
-3. H&M cropped trousers ✅ Have
-4. Sunglasses ✅ Have
-5. Amazon flared trousers ✅ Have
-6. Sports bras x3 ✅ Have
-7. Toiletry bag ✅ Have
-8. Decathlon thermal base layers x3 ✅ Purchased
-9. Hiking shoes ❌ Not bringing — using trainers instead
-10. Universal adapter ✅ Purchased
-11. CCC/3-C certified power bank — Anker 10000mAh ✅ Purchased
-12. Travel insurance ✅ Ordered via Passport Card
+2. 🛒 **Warm hat / beanie** — the one cold-weather gap. Buy in Israel; or Xi'an 30 Oct–1 Nov is your last easy chance before the Great Wall.
+3. Cable organiser bag ✅ Have
+4. H&M cropped trousers ✅ Have
+5. Sunglasses ✅ Have
+6. Amazon flared trousers ✅ Have
+7. Sports bras x3 ✅ Have
+8. Toiletry bag ✅ Have
+9. Decathlon thermal base layers x3 ✅ Purchased
+10. Hiking shoes ❌ Not bringing — using trainers instead
+11. Universal adapter ✅ Purchased
+12. CCC/3-C certified power bank — Anker 10000mAh ✅ Purchased
+13. Travel insurance ✅ Ordered via Passport Card
 
 ### Buy from Bath & Body Works (Travel Sizes)
 1. Body wash (small)
