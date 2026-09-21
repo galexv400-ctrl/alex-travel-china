@@ -119,7 +119,6 @@
 - H&M cropped trousers `[Warm]`
 - Kimono
 - Uniqlo sports bra top x2
-- Uniqlo short-sleeve top x1
 
 *This is the whole `[Warm]` wardrobe in one cube — the only one you open 15–19 Oct and again 4–8 Nov. It stays sealed for the 16 days of cool/cold China in between.*
 
@@ -127,10 +126,12 @@
 - Black fleece (Gillet brand) — the zip-in liner
 - Uniqlo long-sleeve mid-warm tops x4
 - Amazon plain black long-sleeve x1
+- Decathlon thermal base layers x3 — TRAVEL 100 merino, BL500 collared, BL100
 - Girlfriend Collective leggings x3 — float, regular, green
+- Uniqlo short-sleeve top x1
 
-*The `[Cool]`/`[Cold]` layer cube — opens from 20 Oct onwards.*
-❓ Thermals: confirm whether the 3 Decathlon base layers are in here too, or packed separately.
+*The `[Cool]`/`[Cold]` layer cube — mainly from 20 Oct onwards.*
+⚠ The Uniqlo short-sleeve lives here but is a `[Warm]` item. It is one of only two ways to cover your shoulders at Tsz Shan Monastery (Sat 17 Oct) — so you will need to open this cube in Hong Kong, or move that top to the purple cube.
 
 ---
 
