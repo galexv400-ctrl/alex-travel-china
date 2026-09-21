@@ -12,7 +12,7 @@
 ### Wearing on the Plane (do not pack)
 - Green thin jumpsuit
 - Waterproof pink jacket (layer)
-- New shoes ✅ **bought and broken in** — replacing Skechers black · wear on plane days
+- Purple Skechers ✅ **bought and broken in** · wear on plane days
 
 ### Day Bag / Plane Bag (bulky items)
 - Uniqlo pink puffer (packable)
@@ -74,8 +74,8 @@
 ---
 
 ## FOOTWEAR
-- New shoes ✅ **bought and broken in** — replacing Skechers black; wear on plane days
-- Second pair trainers x1 ✅ — backup for wet days (Zhangjiajie misty/rainy) + 25 days of walking. Also doing the Zhangjiajie + Great Wall hikes in trainers.
+- Purple Skechers ✅ **bought and broken in** — the new pair; wear on plane days
+- Asics trainers x1 ✅ (second pair) — backup for wet days (Zhangjiajie misty/rainy) + 25 days of walking. Also doing the Zhangjiajie + Great Wall hikes in trainers.
 - Tevas black x1 ✅ `[Warm]` — lightweight sandal
 - Flip-flops x1 `[Warm]` — hotel/casual, pool at Sindhorn, shared shower at the Great Wall guesthouse. Replaces the pink Crocs — lighter and flatter to pack.
 - Hiking shoes ❌ NOT bringing — too heavy to carry for one day of hiking. Using trainers instead.
@@ -122,6 +122,13 @@
 - Uniqlo short-sleeve top x1
 
 *This is the whole `[Warm]` wardrobe in one cube — the only one you open 15–19 Oct and again 4–8 Nov. It stays sealed for the 16 days of cool/cold China in between.*
+
+### 👟 Shoe organiser
+- Asics trainers (the second pair)
+- Tevas black
+
+**Worn on the plane:** purple Skechers — the new broken-in pair
+**Loose in the case:** flip-flops — they fit in alongside
 
 ---
 
