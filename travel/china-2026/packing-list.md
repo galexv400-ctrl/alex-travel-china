@@ -103,8 +103,7 @@
 - Hair ties x3
 - 🎒 Hair brush x1
 
-> **📦 Packing note:** knickers, regular socks and thermal socks all go in the **smallest packing cube**.
-> Keep it near the top of the bag — it is the cube you open daily, and on the Great Wall night (1 Nov) you want the dry thermal socks without unpacking everything in a cold guesthouse.
+> **📦 Packing note:** knickers and all socks go in the **red-pink cube (smallest)** — see Packing Cubes.
 
 ---
 
@@ -132,6 +131,13 @@
 
 *The `[Cool]`/`[Cold]` layer cube — mainly from 20 Oct onwards.*
 ⚠ The Uniqlo short-sleeve lives here but is a `[Warm]` item. It is one of only two ways to cover your shoulders at Tsz Shan Monastery (Sat 17 Oct) — so you will need to open this cube in Hong Kong, or move that top to the purple cube.
+
+### ❤️ Red-pink cube — smallest
+- Knickers x20
+- Regular socks x10 (including the long socks)
+- Thermal socks x2
+
+*Keep this near the top of the bag — it is the one you open daily, and on the Great Wall night (1 Nov) you want the dry thermal socks without unpacking everything in a cold guesthouse.*
 
 ---
 
@@ -217,7 +223,7 @@
 - Day bag / plane bag — for bulky items
 - Uniqlo bum bag ✅ — quick errands, markets, pickpocket-safe
 - Uniqlo brown bag ✅ — side bag, tourist sites, markets
-- Packing cubes ✅ — smallest cube = knickers + all socks (see Underwear & Basics)
+- Packing cubes ✅ — purple = warm, pink = cool/cold, red-pink = knickers + socks (see Packing Cubes)
 - Dry bag ✅ — damp base layers, wet swimwear, keeps sweat off clean clothes
 - Reusable tote ✅ — Bangkok shopping, markets
 
