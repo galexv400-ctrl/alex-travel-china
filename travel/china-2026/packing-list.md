@@ -16,7 +16,6 @@
 
 ### Day Bag / Plane Bag (bulky items)
 - Uniqlo pink puffer (packable)
-- Makeup — mascara, lip balm
 - Neck warmer (if space)
 
 ---
@@ -25,7 +24,7 @@
 
 ### Bra tops / summer tops
 - Uniqlo sports bra top x2 — blue and black `[Warm]`
-- Uniqlo short-sleeve tops x2 `[Warm]` — covered shoulders for temples without a long sleeve in 30°C; wears with the H&M cropped trousers for the Bangkok dinners
+- Uniqlo short-sleeve top x1 ✅ `[Warm]` — already owned. No more needed: the playsuits cover the rest of the warm days. Covered shoulders for temples without a long sleeve in 30°C; wears with the H&M cropped trousers for the Bangkok dinners
 
 ### Long sleeves & base layers
 - Uniqlo long-sleeve mid-warm tops x4 — black, pink, green + 1 `[Cool] [Cold]` — main mid-layer, workhorse for 12–22°C days
@@ -38,7 +37,6 @@
   - **Wedze BL100 thermal — black** `[Cool]` — lightest synthetic. Everyday base layer for cool days; quick-drying, so good as the spare in the day pack.
 
 ### Shirts
-- Shein striped shirt x1 `[Cool]` — temple coverage
 - Kimono x1 `[Warm]` — throw over a bra top for covered shoulders at Tsz Shan Monastery (Sat 17 Oct) and other religious sites, without long sleeves in 30°C. Also dresses up a bra top + cropped trousers for the Bangkok dinners. Packs to nothing.
 
 ---
@@ -47,7 +45,7 @@
 
 ### Trousers
 - Uniqlo long black trousers x1 `[Warm]` — thin, versatile
-- 🛒 **H&M cropped trousers x1** `[Warm]` — BUY. Second warm-weather long-leg option. Covers the knees for religious sites (Tsz Shan Monastery, Sat 17 Oct) and smart enough for the Bangkok dinners (El Gaucho, August, Maison Saigon, Mozza). Pair with the black Tevas.
+- H&M cropped trousers x1 ✅ `[Warm]` — already owned. Second warm-weather long-leg option. Covers the knees for religious sites (Tsz Shan Monastery, Sat 17 Oct) and smart enough for the Bangkok dinners (El Gaucho, August, Maison Saigon, Mozza). Pair with the black Tevas.
 - Wolven flared x1 `[Cool]`
 - Tala flared x1 `[Cool]`
 - Manners London flared x1 `[Cool] [Cold]` — thick, warmest of the flares, best for cold evenings
@@ -141,7 +139,6 @@
 - 🎒 Sunscreen stick (face, portable)
 - Lip balm x1
 - Small moisturiser x1
-- Face wipes x1
 - 🎒 Toothbrush + toothpaste
 - 🎒 Pads x7 (first few days, then buy locally)
 - 🎒 Ibuprofen, back pain meds, Imodium, blister plasters, iron pills, SSRI, thyroid pill, magnesium (sleep)
@@ -158,7 +155,7 @@
 - Universal adapter + international plugs ✅
 - Earphones / AirPods
 - Octopus card (on iPhone, set up ✅)
-- Cable organiser bag — 🛒 to buy
+- Cable organiser bag ✅
 - Toiletry bag ✅
 
 ---
@@ -213,6 +210,10 @@
 ---
 
 ## NOT BRINGING
+- Make-up — not bringing
+- Shein striped shirt — not bringing; kimono covers shoulders for temples
+- Face wipes — not bringing
+- Extra short-sleeve tops — one is enough, the playsuits cover the warm days
 - Stradivarius bra tops x2 — not bringing
 - Pink Crocs — replaced with flip-flops
 - Asics long-sleeve black sports top — duplicates the BL100 thermal
@@ -235,19 +236,18 @@
 
 ### Buy Properly
 1. ✅ **New shoes — bought and broken in.** Replacing Skechers black, for plane days + general walking. Doing both hikes in these.
-2. **Cable organiser bag**
-3. 🛒 **Uniqlo short-sleeve tops x2** — warm-phase tops with shoulder coverage
-4. 🛒 **Laundry detergent** (travel size) — 25 days, sink washes
-5. 🛒 **H&M cropped trousers** — the one gap in the list. Your only other `[Warm]` long-leg is the single pair of Uniqlo thin blacks, which has to cover both temple modesty rules and four smart Bangkok dinners. Choose a dark colour, lightweight and fast-drying if possible.
-6. Sunglasses ✅ Have
-7. Amazon flared trousers ✅ Have
-8. Sports bras x3 ✅ Have
-9. Toiletry bag ✅ Have
-10. Decathlon thermal base layers x3 ✅ Purchased
-11. Hiking shoes ❌ Not bringing — using trainers instead
-12. Universal adapter ✅ Purchased
-13. CCC/3-C certified power bank — Anker 10000mAh ✅ Purchased
-14. Travel insurance ✅ Ordered via Passport Card
+2. Cable organiser bag ✅ Have
+3. 🛒 **Laundry detergent** (travel size) — 25 days, sink washes
+4. H&M cropped trousers ✅ Have
+5. Sunglasses ✅ Have
+6. Amazon flared trousers ✅ Have
+7. Sports bras x3 ✅ Have
+8. Toiletry bag ✅ Have
+9. Decathlon thermal base layers x3 ✅ Purchased
+10. Hiking shoes ❌ Not bringing — using trainers instead
+11. Universal adapter ✅ Purchased
+12. CCC/3-C certified power bank — Anker 10000mAh ✅ Purchased
+13. Travel insurance ✅ Ordered via Passport Card
 
 ### Buy from Bath & Body Works (Travel Sizes)
 1. Body wash (small)
