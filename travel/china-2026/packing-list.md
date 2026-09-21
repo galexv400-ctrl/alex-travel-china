@@ -1,7 +1,7 @@
 # Complete Packing List — China & Bangkok 2026
 
 ## Status Key
-✅ Have · 🛒 Buy · 🛍 Shein/Temu fine · 💊 Pharmacy · 📱 App/digital
+🎒 **PACKED** · ✅ Have · 🛒 Buy · 🛍 Shein/Temu fine · 💊 Pharmacy · 📱 App/digital
 
 **Phase tags:** `[Warm]` Bangkok/HK/early China 25–32°C · `[Cool]` Chongqing→early Xi'an 14–22°C · `[Cold]` Late Xi'an/Great Wall/Beijing 1–15°C (nights 1–3°C)
 
@@ -115,8 +115,8 @@
 ---
 
 ## COMFORT & EXTRAS
-- Earplugs ✅ — long train journeys + twin-share room
-- Eye mask ✅ — overnight and 9hr train days
+- 🎒 Earplugs — long train journeys + twin-share room
+- 🎒 Eye mask — overnight and 9hr train days
 - Disposable hand warmers ✅ `[Cold]` — Great Wall 1 Nov at 3°C
 
 ---
@@ -135,18 +135,18 @@
 - 2-in-1 shampoo (small)
 - Roll-on men's deodorant x1
 - Body wash — 🛒 buy from Bath & Body Works (small)
-- Sunscreen lotion (small, body) ✅
+- 🎒 Sunscreen lotion (small, body)
 - Sunscreen stick (face, portable) ✅
 - Lip balm x1
 - Small moisturiser x1
 - Face wipes x1
-- Toothbrush + toothpaste
-- Pads x7 (first few days, then buy locally)
-- Ibuprofen, back pain meds, Imodium, blister plasters, iron pills, SSRI, thyroid pill, magnesium (sleep)
-- Hand sanitiser wipes x1 ✅
-- Pocket tissues — several packs ✅ Carry one in EVERY bag: Chinese public toilets often have no paper.
-- Anti-chafe balm ✅ — 25 days walking + Bangkok humidity
-- Small hand sanitiser ✅ — bought in Israel
+- 🎒 Toothbrush + toothpaste
+- 🎒 Pads x7 (first few days, then buy locally)
+- 🎒 Ibuprofen, back pain meds, Imodium, blister plasters, iron pills, SSRI, thyroid pill, magnesium (sleep)
+- 🎒 Hand sanitiser wipes x1
+- 🎒 Pocket tissues — several packs. Carry one in EVERY bag: Chinese public toilets often have no paper.
+- 🎒 Anti-chafe balm — 25 days walking + Bangkok humidity
+- 🎒 Small hand sanitiser — bought in Israel
 
 ---
 
