@@ -16,7 +16,6 @@
 
 ### Day Bag / Plane Bag (bulky items)
 - Uniqlo pink puffer (packable)
-- Neck warmer (if space)
 
 ---
 
@@ -83,11 +82,11 @@
 ---
 
 ## ACCESSORIES
-- Sun hat x1 ✅ `[Warm]`
-- Sunglasses x1 ✅ `[Warm]`
-- Warm hat x1 `[Cold]`
-- Gloves x1 `[Cold]`
-- Neck warmer x1 `[Cold]`
+- Baseball cap x1 ✅ `[Warm]` — in hand luggage
+- Sunglasses x1 ✅ `[Warm]` — in hand luggage
+- Warm hat x1 `[Cold]` — ❓ not yet placed
+- Gloves x1 `[Cold]` — ❓ not yet placed
+- Neck warmer x1 `[Cold]` — in the case
 - Scarf `[Cold]` — if bringing from Temu
 
 ---
@@ -143,8 +142,12 @@
 - Spare pocket tissues
 - Pads
 
-### ✈️ Carry-on
+### ✈️ Carry-on / hand luggage
 - **All medication** — SSRI, thyroid, ibuprofen, back pain meds, Imodium, iron pills, magnesium, blister plasters
+- **All tech** — phone + 2 cables, Anker power bank, universal adapter, AirPods, cable organiser bag
+  - ⚠ The power bank MUST be in hand luggage — lithium batteries are banned from the hold, and Chinese airlines enforce this strictly
+- Baseball cap (sun hat)
+- Sunglasses
 - ⚠ Keep prescriptions in original packaging and photograph them. Never in the hold: 4 flights and 4 train legs.
 
 ---
