@@ -82,7 +82,9 @@
 
 ---
 
-## Day 4 — Saturday 7 November: Chatuchak + Pool
+## Day 4 — Saturday 7 November: Chatuchak + Souvenirs + Pool
+
+> 🎁 **This is souvenir day.** Everything for friends gets bought today or tomorrow morning — not in Hong Kong, where you would then carry it for 16 days and five train legs.
 
 - **08:00** Breakfast at the hotel
 - **09:00** BTS Chit Lom → **Mo Chit** · direct on the Sukhumvit line, ~20 min
@@ -93,8 +95,17 @@
   - **Sections 5–6** — curated second-hand denim, workwear, rock tees · marked up for collectors, *polite haggling expected*
   - **Sections 2–6** — independent Thai designers throughout
 
+**🎁 Then souvenirs — sections 8, 10 and 26:** handicrafts, ceramics, soaps, textiles, prints, lanterns. Cheapest prices of the whole trip. Budget an extra ~45 min on top of the vintage.
+
 - **13:00** Lunch — in the market, or ☕ **Mixt Chatuchak** next door for air conditioning
 - **~15:00** Back to the hotel · shower, drop the bags
+- **🌶 Before or after dinner — Tops Market, Central Chidlom (basement food hall)**
+  - **Lao Gan Ma chilli crisp** — imported/Chinese section. You are at Central Chidlom for Mozza anyway
+  - Backup if they are out: **Gourmet Market, Siam Paragon** (one BTS stop) or Villa Market
+  - ⚠ Buy AFTER Chatuchak, not before — do not carry glass jars round a market
+  - ⚠ Jars are oil: **checked luggage only**, never hand luggage
+  - ⚠ Wrap each jar in clothing and put them in the **dry bag** — glass breaks, oil leaks
+  - ⚠ 15kg limit on the El Al flight home. Two or three jars is fine; six is not
 - **Afternoon — nothing.** Pool on 18 and a book
   - 🍵 Or **Peace Oriental Teahouse** back on Langsuan
 - **🍽 Dinner: Mozza**, Central Chidlom · Niçoise, crab and mango, raspberry rocket, lobster, beetroot carpaccio · light after five hours in the heat
@@ -106,7 +117,9 @@
 ## Day 5 — Sunday 8 November: Bangkok → Tel Aviv
 
 - **Breakfast** at the hotel — last one
-- **Morning free** — pool, or Central Embassy / Central Chidlom on your doorstep
+- **Morning free** — pool, or **Central Embassy / Central Chidlom** on your doorstep
+  - 🎁 **Last chance for souvenirs** — air-conditioned, mall prices but zero effort
+  - 🌶 Also the fallback for the chilli crisp if Saturday did not work out
 - **12:00** Check out
 - **12:15** 🚕 **Grab to Suvarnabhumi** · 40–60 min · **~£9–15** · *door to door — you will have more luggage than you arrived with*
 - **~13:15** ✈ **Arrive airport** — 3¼ hrs before departure
