@@ -30,14 +30,13 @@
 
 ### Long sleeves & base layers
 - Uniqlo long-sleeve mid-warm tops x4 — black, pink, green + 1 `[Cool] [Cold]` — main mid-layer, workhorse for 12–22°C days
-- Amazon plain black long-sleeve (thin) x2 `[Warm] [Cool]` — 95% modal / 5% spandex
-  - ✅ Hand-washes well and dries overnight on a hanger — rotate the two across the trip
-  - ⚠ Not the pick for the cold hikes. Modal absorbs sweat into the fibre, so it stays wet against the skin in 3°C wind even though it dries fast on a hanger. For the Great Wall and Zhangjiajie, wear a Decathlon thermal next to skin and save these as a mid-layer or for milder days.
+- Amazon plain black long-sleeve (thin) x1 `[Warm] [Cool]` — 95% modal / 5% spandex
+  - ✅ Hand-washes well and dries overnight on a hanger — wash it as you go
+  - ⚠ Not the pick for the cold hikes. Modal absorbs sweat into the fibre, so it stays wet against the skin in 3°C wind even though it dries fast on a hanger. For the Great Wall and Zhangjiajie, wear a Decathlon thermal next to skin and save this as a mid-layer or for milder days.
 - Decathlon thermal base layers x3 ✅ — bought:
   - **TRAVEL 100 merino long-sleeve — black** `[Cool] [Cold]` — 70% merino, odour-resistant. Best for long train days + multi-day wear without washing. ⚠ Hand wash max 30°C, lay flat to dry — no tumble dryer.
   - **Wedze BL500 thermal, collared — blue** `[Cold]` — warmest of the three. Save this for the Great Wall night (3°C) and Beijing; the collar seals the draught.
   - **Wedze BL100 thermal — black** `[Cool]` — lightest synthetic. Everyday base layer for cool days; quick-drying, so good as the spare in the day pack.
-- Asics long-sleeve black sports top x1 `[Cool]`
 
 ### Shirts
 - Shein striped shirt x1 `[Cool]` — temple coverage
@@ -59,7 +58,7 @@
 - Girlfriend Collective bike shorts x2 `[Warm]` — doubles as gym wear; second pair replaces the Shein loose shorts
 
 ### Playsuits
-- Green playsuit x1 `[Warm] [Cool]`
+- Green playsuit x1 `[Warm]`
 - Red playsuit x1 `[Warm]`
 
 ### Leggings
@@ -216,6 +215,8 @@
 ---
 
 ## NOT BRINGING
+- Asics long-sleeve black sports top — duplicates the BL100 thermal
+- 2nd Amazon modal long-sleeve — reduced to one
 - Black fleece, sweater style — removed; Gillet fleece liner + 4 Uniqlo long-sleeves cover the mid-layer job
 - 2nd Shein striped shirt — reduced to one, kimono covers the same job more lightly
 - Shein loose black and white shorts — swapped for a 2nd pair of GF bike shorts (gym-capable, faster drying)
