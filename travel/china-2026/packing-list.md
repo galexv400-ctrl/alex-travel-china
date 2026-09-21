@@ -139,6 +139,20 @@
 
 *Keep this near the top of the bag — it is the one you open daily, and on the Great Wall night (1 Nov) you want the dry thermal socks without unpacking everything in a cold guesthouse.*
 
+### 4️⃣ Fourth cube — trousers & underwear
+- Wolven flared
+- Tala flared
+- Manners London flared
+- Amazon flared
+- Pyjama top x2
+- Normal comfy bra x1
+- Sports bras x3
+- Swimming costume
+
+❓ Colour of this cube — not yet noted.
+❓ "All my trousers": the Uniqlo thin blacks and H&M cropped are recorded in the purple cube. Confirm whether they moved here, or whether this cube holds only the 4 flares.
+❓ Long pyjama bottoms x1 — not yet assigned to a cube.
+
 ---
 
 ### 👟 Shoe organiser
