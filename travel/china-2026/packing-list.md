@@ -106,6 +106,9 @@
 - Hair ties x3
 - 🎒 Hair brush x1
 
+> **📦 Packing note:** knickers, regular socks and thermal socks all go in the **smallest packing cube**.
+> Keep it near the top of the bag — it is the cube you open daily, and on the Great Wall night (1 Nov) you want the dry thermal socks without unpacking everything in a cold guesthouse.
+
 ---
 
 ## SLEEPWEAR
@@ -167,7 +170,7 @@
 - Day bag / plane bag — for bulky items
 - Uniqlo bum bag ✅ — quick errands, markets, pickpocket-safe
 - Uniqlo brown bag ✅ — side bag, tourist sites, markets
-- Packing cubes ✅
+- Packing cubes ✅ — smallest cube = knickers + all socks (see Underwear & Basics)
 - Dry bag ✅ — damp base layers, wet swimwear, keeps sweat off clean clothes
 - Reusable tote ✅ — Bangkok shopping, markets
 
