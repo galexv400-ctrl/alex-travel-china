@@ -47,6 +47,7 @@
 
 ### Trousers
 - Uniqlo long black trousers x1 `[Warm]` — thin, versatile
+- 🛒 **H&M cropped trousers x1** `[Warm]` — BUY. Second warm-weather long-leg option. Covers the knees for religious sites (Tsz Shan Monastery, Sat 17 Oct) and smart enough for the Bangkok dinners (El Gaucho, August, Maison Saigon, Mozza). Pair with the black Tevas.
 - Wolven flared x1 `[Cool]`
 - Tala flared x1 `[Cool]`
 - Manners London flared x1 `[Cool] [Cold]` — thick, warmest of the flares, best for cold evenings
@@ -232,15 +233,16 @@
 ### Buy Properly
 1. ✅ **New shoes — bought and broken in.** Replacing Skechers black, for plane days + general walking. Doing both hikes in these.
 2. **Cable organiser bag**
-3. Sunglasses ✅ Have
-4. Amazon flared trousers ✅ Have
-5. Sports bras x3 ✅ Have
-6. Toiletry bag ✅ Have
-7. Decathlon thermal base layers x3 ✅ Purchased
-8. Hiking shoes ❌ Not bringing — using trainers instead
-9. Universal adapter ✅ Purchased
-10. CCC/3-C certified power bank — Anker 10000mAh ✅ Purchased
-11. Travel insurance ✅ Ordered via Passport Card
+3. 🛒 **H&M cropped trousers** — the one gap in the list. Your only other `[Warm]` long-leg is the single pair of Uniqlo thin blacks, which has to cover both temple modesty rules and four smart Bangkok dinners. Choose a dark colour, lightweight and fast-drying if possible.
+4. Sunglasses ✅ Have
+5. Amazon flared trousers ✅ Have
+6. Sports bras x3 ✅ Have
+7. Toiletry bag ✅ Have
+8. Decathlon thermal base layers x3 ✅ Purchased
+9. Hiking shoes ❌ Not bringing — using trainers instead
+10. Universal adapter ✅ Purchased
+11. CCC/3-C certified power bank — Anker 10000mAh ✅ Purchased
+12. Travel insurance ✅ Ordered via Passport Card
 
 ### Buy from Bath & Body Works (Travel Sizes)
 1. Body wash (small)
