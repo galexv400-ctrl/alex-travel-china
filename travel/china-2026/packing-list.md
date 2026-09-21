@@ -97,7 +97,7 @@
 ---
 
 ## UNDERWEAR & BASICS
-- Knickers x15
+- Knickers x20
 - **Swimming costume** ✅ — Sindhorn infinity pool, 18th floor, open late
 - Sports bras x3 ✅
 - Normal comfy bra x1 ✅
