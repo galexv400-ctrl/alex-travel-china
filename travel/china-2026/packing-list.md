@@ -108,6 +108,23 @@
 
 ---
 
+## 🎒 PACKING CUBES — mock pack, 21 Sept
+*Record of what went in each cube during the trial pack. Update if it changes on the real pack.*
+
+### 🟣 Purple cube — warm weather
+- Girlfriend Collective bike shorts x2 (gym shorts)
+- Green playsuit
+- Red playsuit
+- Uniqlo long black trousers `[Warm]`
+- H&M cropped trousers `[Warm]`
+- Kimono
+- Uniqlo sports bra top x2
+- Uniqlo short-sleeve top x1
+
+*This is the whole `[Warm]` wardrobe in one cube — the only one you open 15–19 Oct and again 4–8 Nov. It stays sealed for the 16 days of cool/cold China in between.*
+
+---
+
 ## 🧺 LAUNDRY PLAN
 **First wash: Hong Kong. Drop-off laundry, not a sink wash.** Nothing gets washed 15–18 Oct.
 
