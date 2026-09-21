@@ -26,7 +26,8 @@
 - Uniqlo short-sleeve top x1 ✅ `[Warm]` — already owned. No more needed: the playsuits cover the rest of the warm days. Covered shoulders for temples without a long sleeve in 30°C; wears with the H&M cropped trousers for the Bangkok dinners
 
 ### Long sleeves & base layers
-- Uniqlo long-sleeve mid-warm tops x4 — black, pink, green + 1 `[Cool] [Cold]` — main mid-layer, workhorse for 12–22°C days
+- Uniqlo long-sleeve mid-warm tops x3 — black, pink, green `[Cool] [Cold]` — main mid-layer, workhorse for 12–22°C days
+- Navy long-sleeve workout top x1 `[Cool]` — replaces the 4th Uniqlo. Doubles as a gym top and a mid-layer; synthetic, so it dries fast and is fine next to skin on cool days.
 - Amazon plain black long-sleeve (thin) x1 `[Warm] [Cool]` — 95% modal / 5% spandex
   - ✅ Hand-washes well and dries overnight on a hanger — wash it as you go
   - ⚠ Not the pick for the cold hikes. Modal absorbs sweat into the fibre, so it stays wet against the skin in 3°C wind even though it dries fast on a hanger. For the Great Wall and Zhangjiajie, wear a Decathlon thermal next to skin and save this as a mid-layer or for milder days.
@@ -121,7 +122,8 @@
 
 ### 🩷 Pink cube — largest — cool/cold weather
 - Black fleece (Gillet brand) — the zip-in liner
-- Uniqlo long-sleeve mid-warm tops x4
+- Uniqlo long-sleeve mid-warm tops x3
+- Navy long-sleeve workout top x1
 - Amazon plain black long-sleeve x1
 - Decathlon thermal base layers x3 — TRAVEL 100 merino, BL500 collared, BL100
 - Girlfriend Collective leggings x3 — float, regular, green
