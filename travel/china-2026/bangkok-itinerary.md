@@ -59,7 +59,7 @@
 
 ---
 
-## Day 3 — Friday 6 November: Charoenkrung Creative District
+## Day 3 — Friday 6 November: Charoenkrung + Talat Noi + Song Wat
 
 - **08:00** Breakfast at the hotel
 - **09:00** BTS Chit Lom → Siam → change to **Silom Line** → **Saphan Taksin** (~25 min)
@@ -71,12 +71,19 @@
 - **~11:00 ATT19** — across the street · handicraft exhibitions, vintage shop, café · Soho vibes
 - **Talat Noi** — Bangkok's oldest shophouses, now studios. Street art through the laneways
   - ☕ **Mother Roaster**, Talat Noi — run by **"Auntie Pim"**, a Bangkok legend who served coffee 30+ years from a shop with two stools before expanding upstairs
+- **~11:45 Song Wat Road** — carry on north from Talat Noi along the river, **5–10 min walk**
+  - Bangkok's old rice-trading street: century-old shophouses and godowns now holding cafés, galleries, natural-wine bars and design studios. The creative district everyone is talking about, and it is the same converted-industrial energy as Warehouse 30 but older and more lived-in
+  - **Hong Sieng Kong** — restored riverside complex on the Talat Noi/Song Wat edge: antiques, crumbling walls left as found, tables right on the water. The photograph of the trip
+  - Wander rather than tick off — the point is the shophouse facades, the laneways and what is open on the day. Most places run roughly 10:00–18:00; many close Mondays, so Friday is right
+  - ⚠ Heavily Chinese-Thai food, so most of it is off your list — treat it as coffee, galleries and shophouses, and eat elsewhere
 - **12:30** Lunch in the area — Charoenkrung is a specialty coffee and food neighbourhood
 - **14:00 TCDC**, Grand Postal Building, 1160 Charoenkrung Rd · Tue–Sun 10:30–21:00 · **~£2.30**
 - **River City Bangkok** — short walk, on the water, if you want more
 - **~16:00** Ferry or BTS back · **Late afternoon free**
 - **🍽 Dinner: Maison Saigon**, Velaa Sindhorn Village · Vietnamese — grilled chicken and beef, herbs, fresh rolls. Light, nothing oily
   - *If you want one standout meal instead:* **Bistrot de la Mer**, 19F Sindhorn Kempinski · baked turbot (boneless), bouillabaisse
+
+> **Route note:** Warehouse 30 → ATT19 → Talat Noi → Song Wat is one continuous walk north along the river, then TCDC back south. No transport needed between them.
 
 > **Why this and not a day trip:** every real day trip from Bangkok is 2.5–4 hrs each way. This is the JCCAC / Sham Shui Po energy you enjoyed in Hong Kong — converted industrial buildings, artist studios, an old working neighbourhood with a creative layer — and it's 30 minutes away.
 
