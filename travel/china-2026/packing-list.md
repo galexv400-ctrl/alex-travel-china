@@ -252,17 +252,16 @@
 ### Buy Properly
 1. ✅ **New shoes — bought and broken in.** Replacing Skechers black, for plane days + general walking. Doing both hikes in these.
 2. Cable organiser bag ✅ Have
-3. 🛒 **Laundry detergent** (travel size) — 25 days, sink washes
-4. H&M cropped trousers ✅ Have
-5. Sunglasses ✅ Have
-6. Amazon flared trousers ✅ Have
-7. Sports bras x3 ✅ Have
-8. Toiletry bag ✅ Have
-9. Decathlon thermal base layers x3 ✅ Purchased
-10. Hiking shoes ❌ Not bringing — using trainers instead
-11. Universal adapter ✅ Purchased
-12. CCC/3-C certified power bank — Anker 10000mAh ✅ Purchased
-13. Travel insurance ✅ Ordered via Passport Card
+3. H&M cropped trousers ✅ Have
+4. Sunglasses ✅ Have
+5. Amazon flared trousers ✅ Have
+6. Sports bras x3 ✅ Have
+7. Toiletry bag ✅ Have
+8. Decathlon thermal base layers x3 ✅ Purchased
+9. Hiking shoes ❌ Not bringing — using trainers instead
+10. Universal adapter ✅ Purchased
+11. CCC/3-C certified power bank — Anker 10000mAh ✅ Purchased
+12. Travel insurance ✅ Ordered via Passport Card
 
 ### Buy from Bath & Body Works (Travel Sizes)
 1. Body wash (small)
