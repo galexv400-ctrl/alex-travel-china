@@ -47,7 +47,6 @@
 - Uniqlo long black trousers x1 `[Warm]` — thin, versatile
 - H&M cropped trousers x1 ✅ `[Warm]` — already owned. Second warm-weather long-leg option. Covers the knees for religious sites (Tsz Shan Monastery, Sat 17 Oct) and smart enough for the Bangkok dinners (El Gaucho, August, Maison Saigon, Mozza). Pair with the black Tevas.
 - Wolven flared x1 `[Cool]`
-- Tala flared x1 `[Cool]`
 - Manners London flared x1 `[Cool] [Cold]` — thick, warmest of the flares, best for cold evenings
 - Amazon flared x1 ✅ `[Cool]`
 
@@ -139,9 +138,19 @@
 
 *Keep this near the top of the bag — it is the one you open daily, and on the Great Wall night (1 Nov) you want the dry thermal socks without unpacking everything in a cold guesthouse.*
 
+### 🎒 Backpack front pocket
+- Toiletries bag
+- Spare pocket tissues
+- Pads
+
+### ✈️ Carry-on
+- **All medication** — SSRI, thyroid, ibuprofen, back pain meds, Imodium, iron pills, magnesium, blister plasters
+- ⚠ Keep prescriptions in original packaging and photograph them. Never in the hold: 4 flights and 4 train legs.
+
+---
+
 ### 🟤 Brown cube — trousers & underwear
 - Wolven flared
-- Tala flared — ⚠ under review, may be cut
 - Manners London flared
 - Amazon flared
 - Pyjama top x2
@@ -202,6 +211,8 @@
 ---
 
 ## TOILETRIES BAG
+*Lives in the front pocket of the backpack, with spare tissues and pads. **Medication travels in the carry-on**, not here.*
+
 - 2-in-1 shampoo (small)
 - Roll-on men's deodorant x1
 - Body wash — 🛒 buy from Bath & Body Works (small)
@@ -280,6 +291,7 @@
 ---
 
 ## NOT BRINGING
+- Tala flares — cut; Wolven, Amazon and Manners London cover the `[Cool]` phase
 - Long pyjama bottoms — re-wearing comfortable trousers instead
 - Make-up — not bringing
 - Shein striped shirt — not bringing; kimono covers shoulders for temples
