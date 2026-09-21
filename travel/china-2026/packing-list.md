@@ -123,6 +123,17 @@
 
 *This is the whole `[Warm]` wardrobe in one cube — the only one you open 15–19 Oct and again 4–8 Nov. It stays sealed for the 16 days of cool/cold China in between.*
 
+### 🩷 Pink cube — largest — cool/cold weather
+- Black fleece (Gillet brand) — the zip-in liner
+- Uniqlo long-sleeve mid-warm tops x4
+- Amazon plain black long-sleeve x1
+- Girlfriend Collective leggings x3 — float, regular, green
+
+*The `[Cool]`/`[Cold]` layer cube — opens from 20 Oct onwards.*
+❓ Thermals: confirm whether the 3 Decathlon base layers are in here too, or packed separately.
+
+---
+
 ### 👟 Shoe organiser
 - Asics trainers (the second pair)
 - Tevas black
