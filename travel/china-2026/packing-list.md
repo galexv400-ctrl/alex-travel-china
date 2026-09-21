@@ -206,10 +206,9 @@
 - ✅ DiDi — set up
 - 🛒 WeChat — set up in HK with hotel staff verification
 - 🛒 Google Translate — download Chinese offline pack
-- 🛒 Baidu Maps — download offline maps for all cities
+- ✅ Apple Maps — works in mainland China in English, no VPN needed. Replaces Baidu (Chinese-only interface)
 - 🛒 China Customs app — set up, fill declaration 24–48hrs before China entry
-- 📱 Netflix — download content offline
-- 📱 Spotify — download playlists offline
+- 🛒 **Podcasts + 1 audiobook — download before leaving Israel.** ~40 hrs of daytime trains (9 hrs on 20 Oct and again 1 Nov, 7 hrs on 30 Oct) plus 23 hrs flying. Streaming apps are blocked/unreliable in mainland China. Test in airplane mode.
 - 📱 Hotel addresses in Chinese — screenshot each hotel's address in Chinese characters
 
 ---
@@ -237,20 +236,23 @@
 ### Buy Properly
 1. ✅ **New shoes — bought and broken in.** Replacing Skechers black, for plane days + general walking. Doing both hikes in these.
 2. **Cable organiser bag**
-3. 🛒 **H&M cropped trousers** — the one gap in the list. Your only other `[Warm]` long-leg is the single pair of Uniqlo thin blacks, which has to cover both temple modesty rules and four smart Bangkok dinners. Choose a dark colour, lightweight and fast-drying if possible.
-4. Sunglasses ✅ Have
-5. Amazon flared trousers ✅ Have
-6. Sports bras x3 ✅ Have
-7. Toiletry bag ✅ Have
-8. Decathlon thermal base layers x3 ✅ Purchased
-9. Hiking shoes ❌ Not bringing — using trainers instead
-10. Universal adapter ✅ Purchased
-11. CCC/3-C certified power bank — Anker 10000mAh ✅ Purchased
-12. Travel insurance ✅ Ordered via Passport Card
+3. 🛒 **Uniqlo short-sleeve tops x2** — warm-phase tops with shoulder coverage
+4. 🛒 **Laundry detergent** (travel size) — 25 days, sink washes
+5. 🛒 **H&M cropped trousers** — the one gap in the list. Your only other `[Warm]` long-leg is the single pair of Uniqlo thin blacks, which has to cover both temple modesty rules and four smart Bangkok dinners. Choose a dark colour, lightweight and fast-drying if possible.
+6. Sunglasses ✅ Have
+7. Amazon flared trousers ✅ Have
+8. Sports bras x3 ✅ Have
+9. Toiletry bag ✅ Have
+10. Decathlon thermal base layers x3 ✅ Purchased
+11. Hiking shoes ❌ Not bringing — using trainers instead
+12. Universal adapter ✅ Purchased
+13. CCC/3-C certified power bank — Anker 10000mAh ✅ Purchased
+14. Travel insurance ✅ Ordered via Passport Card
 
 ### Buy from Bath & Body Works (Travel Sizes)
 1. Body wash (small)
 2. Hand sanitiser (small) — buy in Hong Kong
+3. Antihistamine 💊
 
 ### Set Up Before Leaving Israel
 1. NordVPN — enable Obfuscated Servers, test it works ✅
@@ -258,17 +260,17 @@
 3. Alipay — account + foreign bank card linked ✅
 4. DiDi — download and set up ✅
 5. WeChat — will set up in Hong Kong with hotel staff (verification needed)
-6. Baidu Maps — download offline maps for all cities
+6. Apple Maps — works in China in English; Baidu not needed
 7. Google Translate — download Chinese offline language pack
 8. China Customs app — create account, fill declaration 24–48hrs before mainland China entry
-9. Netflix/Spotify — download offline content
+9. Podcasts + audiobook — download offline for the train days
 
 ### Medications & Pharmacy
 - ✅ Ibuprofen, back pain meds, Imodium, blister plasters, iron pills, SSRI, thyroid pill, magnesium
-- Roll-on sunscreen (if needed), roll-on insect repellent, lip balm
+- Roll-on sunscreen (if needed), lip balm, antihistamine 💊
+- ⚠ Carry the prescription meds (SSRI, thyroid) in HAND LUGGAGE in original packaging — 4 flights and 5 train legs. Photograph the prescriptions.
 
 ### NOT Buying
 - iPad (won't use)
 - Head torch (hotel has lighting)
-- Flip flops (Crocs + Tevas enough)
 - Microfibre towel (hotels provide)
