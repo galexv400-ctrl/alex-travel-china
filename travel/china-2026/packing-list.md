@@ -109,16 +109,17 @@
 ---
 
 ## 🧺 LAUNDRY PLAN
-**First wash: Hong Kong, The Luxe Manor.** Nothing gets washed 15–18 Oct.
+**First wash: Hong Kong. Drop-off laundry, not a sink wash.** Nothing gets washed 15–18 Oct.
 
-- **Wash on the evening of Sat 17 or Sun 18 — not the morning of Mon 19.** Hong Kong sits at ~70–75% humidity in October; a sink wash needs a full overnight, sometimes longer. Washing on the 19th means packing damp clothes for the 9-hour train to Chongqing on the 20th.
-- Use the **dry bag** for anything still damp on the 20th — it keeps the wet off the clean layers.
-- Hang things in the bathroom with the extractor fan on, or over the air-con vent. Both beat a still room in HK humidity.
-- ⚠ The **TRAVEL 100 merino** must be hand-washed at max 30°C and laid flat — do not hang-stretch it.
+- **Drop off Sat 17 or Sun 18 — not Mon 19.** Most HK shops are same-day or next-day, but you leave for Chongqing on Tue 20 and the Intrepid welcome meeting is 18:00 on Mon 19. Dropping off on the 19th risks not getting it back in time.
+- **Use a local shop, not the hotel.** Tsim Sha Tsui is full of drop-off laundries; expect roughly **HKD 40–70 for a wash-dry-fold load**, often with a minimum weight. Hotel laundry at The Luxe Manor will be several times that, priced per item.
+- Ask the Luxe Manor front desk for the nearest one — they will know, and it saves hunting.
+- ⚠ **Keep the TRAVEL 100 merino out of the bag.** Commercial machines tumble dry hot and will shrink it. Hand wash that one at max 30°C, laid flat.
+- ⚠ Take the **Girlfriend Collective leggings and bike shorts** out too if the shop tumble dries — high heat degrades the elastane.
 
-**What this means for 15–18 Oct:** 4 days of 28–32°C humidity on 2 bra tops, 1 short-sleeve, the kimono and 2 playsuits. That is roughly one outfit per day with no spare. The **bra tops and playsuits are the ones that will feel it** — consider rinsing just those in the sink as you go, even before the main wash.
+**What this means for 15–18 Oct:** 4 days of 28–32°C humidity on 2 bra tops, 1 short-sleeve, the kimono and 2 playsuits. Roughly one outfit per day with no spare.
 
-**After Hong Kong:** the warm-weather kit goes unused 20 Oct–4 Nov while you are in cool/cold China, then comes back out clean for Bangkok 4–8 Nov. That part of the plan works well.
+**After Hong Kong:** the warm-weather kit goes unused 20 Oct–4 Nov while you are in cool/cold China, then comes back out clean for Bangkok 4–8 Nov.
 
 ---
 
