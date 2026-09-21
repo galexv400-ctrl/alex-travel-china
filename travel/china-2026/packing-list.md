@@ -136,7 +136,7 @@
 - Roll-on men's deodorant x1
 - Body wash — 🛒 buy from Bath & Body Works (small)
 - 🎒 Sunscreen lotion (small, body)
-- Sunscreen stick (face, portable) ✅
+- 🎒 Sunscreen stick (face, portable)
 - Lip balm x1
 - Small moisturiser x1
 - Face wipes x1
