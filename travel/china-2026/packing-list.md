@@ -39,7 +39,8 @@
 - Asics long-sleeve black sports top x1 `[Cool]`
 
 ### Shirts
-- Shein striped shirts x2 `[Cool]` — temple coverage
+- Shein striped shirt x1 `[Cool]` — temple coverage
+- Kimono x1 `[Warm]` — throw over a bra top for covered shoulders at Tsz Shan Monastery (Sat 17 Oct) and other religious sites, without long sleeves in 30°C. Also dresses up a bra top + cropped trousers for the Bangkok dinners. Packs to nothing.
 
 ---
 
@@ -215,6 +216,7 @@
 ---
 
 ## NOT BRINGING
+- 2nd Shein striped shirt — reduced to one, kimono covers the same job more lightly
 - Shein loose black and white shorts — swapped for a 2nd pair of GF bike shorts (gym-capable, faster drying)
 - Skechers black — replaced with new shoes
 - Denim jacket — removed
