@@ -86,7 +86,7 @@
 - Baseball cap x1 ✅ `[Warm]` — in hand luggage
 - Sunglasses x1 ✅ `[Warm]` — in hand luggage
 - 🛒 **Warm hat x1** `[Cold]` — DO NOT SKIP. Great Wall 1 Nov at 1–3°C, exposed and windy after dark. A beanie is the cheapest, smallest warmth you can carry. Pack with the neck warmer in the case.
-- Gloves x1 `[Cold]` — ❓ not yet placed
+- Gloves x1 `[Cold]` — ⚠ **LOCATE THESE.** Believed owned but not found yet. If they do not turn up by early October, buy a cheap pair alongside the warm hat — nothing technical needed. Pack with the neck warmer in the case.
 - Neck warmer x1 `[Cold]` — in the case
 - Scarf `[Cold]` — if bringing from Temu
 
