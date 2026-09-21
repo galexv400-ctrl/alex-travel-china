@@ -139,9 +139,9 @@
 
 *Keep this near the top of the bag — it is the one you open daily, and on the Great Wall night (1 Nov) you want the dry thermal socks without unpacking everything in a cold guesthouse.*
 
-### 4️⃣ Fourth cube — trousers & underwear
+### 🟤 Brown cube — trousers & underwear
 - Wolven flared
-- Tala flared
+- Tala flared — ⚠ under review, may be cut
 - Manners London flared
 - Amazon flared
 - Pyjama top x2
@@ -149,9 +149,7 @@
 - Sports bras x3
 - Swimming costume
 
-❓ Colour of this cube — not yet noted.
-❓ "All my trousers": the Uniqlo thin blacks and H&M cropped are recorded in the purple cube. Confirm whether they moved here, or whether this cube holds only the 4 flares.
-❓ Long pyjama bottoms x1 — not yet assigned to a cube.
+*The 4 flares only — the summer trousers (Uniqlo thin blacks, H&M cropped) stay in the purple cube.*
 
 ---
 
@@ -181,7 +179,8 @@
 
 ## SLEEPWEAR
 - Pyjama top x2
-- Long pyjama bottoms x1 `[Cold]`
+- ❌ Long pyjama bottoms — not packing. Re-wear comfortable trousers or leggings instead.
+  - ⚠ Great Wall, 1 Nov: the guesthouse gets to 1–3°C at night. Sleep in a Decathlon thermal + the green GF leggings — do not rely on a flare.
 
 ---
 
@@ -281,6 +280,7 @@
 ---
 
 ## NOT BRINGING
+- Long pyjama bottoms — re-wearing comfortable trousers instead
 - Make-up — not bringing
 - Shein striped shirt — not bringing; kimono covers shoulders for temples
 - Face wipes — not bringing
