@@ -25,7 +25,6 @@
 
 ### Bra tops / summer tops
 - Uniqlo sports bra top x2 — blue and black `[Warm]`
-- Stradivarius bra top x2 `[Warm]`
 - Uniqlo short-sleeve tops x2 `[Warm]` — covered shoulders for temples without a long sleeve in 30°C; wears with the H&M cropped trousers for the Bangkok dinners
 
 ### Long sleeves & base layers
@@ -214,6 +213,7 @@
 ---
 
 ## NOT BRINGING
+- Stradivarius bra tops x2 — not bringing
 - Pink Crocs — replaced with flip-flops
 - Asics long-sleeve black sports top — duplicates the BL100 thermal
 - 2nd Amazon modal long-sleeve — reduced to one
