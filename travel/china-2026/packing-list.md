@@ -80,7 +80,7 @@
 - New shoes ✅ **bought and broken in** — replacing Skechers black; wear on plane days
 - Second pair trainers x1 ✅ — backup for wet days (Zhangjiajie misty/rainy) + 25 days of walking. Also doing the Zhangjiajie + Great Wall hikes in trainers.
 - Tevas black x1 ✅ `[Warm]` — lightweight sandal
-- Pink Crocs x1 ✅ `[Warm]` — hotel/casual
+- Flip-flops x1 `[Warm]` — hotel/casual, pool at Sindhorn, shared shower at the Great Wall guesthouse. Replaces the pink Crocs — lighter and flatter to pack.
 - Hiking shoes ❌ NOT bringing — too heavy to carry for one day of hiking. Using trainers instead.
 - (All footwear is worn or ultralight — no boots taking up main luggage space)
 
@@ -215,6 +215,7 @@
 ---
 
 ## NOT BRINGING
+- Pink Crocs — replaced with flip-flops
 - Asics long-sleeve black sports top — duplicates the BL100 thermal
 - 2nd Amazon modal long-sleeve — reduced to one
 - Black fleece, sweater style — removed; Gillet fleece liner + 4 Uniqlo long-sleeves cover the mid-layer job
@@ -224,7 +225,6 @@
 - Denim jacket — removed
 - iPad (won't use, saves weight)
 - Head torch (Great Wall guesthouse has basic lighting)
-- Flip flops from Temu (Crocs + Tevas enough)
 - Microfibre towel (hotels provide)
 - Portable door lock (Great Wall guesthouse has locks)
 - Portable umbrella (Zhangjiajie risk but packing tight)
