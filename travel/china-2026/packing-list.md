@@ -213,9 +213,18 @@
 
 ---
 
+## ⚠ CHINA — SCAMS & SAFETY
+- 🫖 **Tea-tasting scam.** Strangers — often friendly, often practising English — invite you to a teahouse or bar, then you get a bill for hundreds of pounds. Commonest scam in China, worst in **Beijing, Shanghai and Xi'an**, all places you have free time. **Never accept an invitation from someone who approaches you.**
+- 💴 **Counterfeit RMB100 notes.** Check them before accepting. Matters for you: you are carrying CNY 1,200–1,500 and tipping in cash, so you will handle notes rather than paying by app.
+- 🚕 **DiDi only** — never an unmarked taxi.
+- 🏨 **Use the hotel safe.** You are twin-share for 15 nights, so the case is in a shared room throughout. Split the cards: one on you, one in the safe.
+- 😷 PM face masks for Beijing pollution are **provided by Intrepid** — nothing to pack.
+
+---
+
 ## 🚄 TRAIN RULES — 5 legs, security screened like an airport
 - ❌ **No aerosol sprays** — confiscated. Your kit is clear: hand sanitiser is a **gel** ✓, deodorant is **roll-on** ✓, sunscreen is **lotion + stick** ✓. Nothing pressurised.
-- ❌ **No scissors or knives in ANY luggage** — including nail scissors and tweezers. Leave them home or lose them.
+- ✅ **No scissors or knives in ANY luggage** — checked, none in the bag.
 - ✅ Power bank must be **CCC/3-C certified** — the Anker is ✓
 - ⏱ Passport scanned at every station and tourist site. Allow **20–30 min** for group entry.
 
@@ -286,6 +295,13 @@
 ---
 
 ## MONEY
+
+#### ✅ Settled — Intrepid admin
+- Passport scan **sent to Intrepid** ✓
+- **Twin-share confirmed** — no single supplement
+- UK passport valid to **2032** ✓
+- **Joining the tipping kitty** — budgeted in CNY
+- 💡 Optional activities on top: ¥25–290 each (Tang Dynasty Show and Acrobat show are ¥290; most are ¥25–50). Doing several of the bigger ones adds **¥400–600**. Alipay covers most, so not a cash problem.
 
 ### 💱 Tel Aviv — where to change
 **Lilienblum Street** — Tel Aviv's money-changing street, independent bureaus competing on rate, no commission. **Allenby Street** is the backup.

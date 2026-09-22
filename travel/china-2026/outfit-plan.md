@@ -56,6 +56,8 @@ deliberately rotated. Repeat wears are marked — they are the plan, not an over
 
 ### 🥶 Sunday 1 November — the coldest night
 
+> ⚠ **The chairlift is closed November–March.** You are walking up. That is what the change-before-sunset plan is for.
+
 **Travelling (9 hrs):** BL100 *(2nd)* · regular leggings *(3rd)* · fleece
 
 **On arrival, change into dry before sunset:**
