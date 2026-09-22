@@ -115,7 +115,8 @@ There is no designated ditch item — nothing on the list is surplus. If you nee
 weigh-in, the order is:
 
 1. **Amazon cropped trousers** — you have two cropped pairs; one covers it
-2. **A sports bra** — three is generous when they are also doubling as tops
-3. **Striped shirt** — the newest addition, and the fleece covers layering
+2. **Striped shirt** — the newest addition, and the fleece covers layering
+
+**Sports bras stay at 3** — they double as tops, so the quantity is doing real work.
 
 Decide at the weigh-in in Israel, not mid-trip.

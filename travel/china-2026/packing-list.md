@@ -32,7 +32,7 @@
 - Shein striped shirt x1 `[Cool]` — **open layering piece**, the only one in the China cube. Wear over a sports bra on a 22°C Shanghai day, or over the black short-sleeve when it cools. Comes off without going over your head. Replaces the black light long-sleeve.
   - ⚠ If cotton, it is slow to dry across 15 unwashed days — keep it as an over-layer, not next to skin.
 
-> ⚖️ **No designated ditch item.** Nothing on this list is surplus any more. If the case is over 15kg at the weigh-in, drop in this order: **Amazon cropped trousers** (you have two cropped pairs) → **one sports bra** (three is generous) → **striped shirt** (newest, and the fleece covers layering). Decide in Israel, not mid-trip.
+> ⚖️ **No designated ditch item.** Nothing on this list is surplus any more. If the case is over 15kg at the weigh-in, drop in this order: **Amazon cropped trousers** (you have two cropped pairs) → **striped shirt** (newest, and the fleece covers layering). **Sports bras stay at 3** — they double as tops, so the quantity is doing real work. Decide in Israel, not mid-trip.
 - Navy long-sleeve workout top x1 `[Cool]` — replaces the 4th Uniqlo. Doubles as a gym top and a mid-layer; synthetic, so it dries fast and is fine next to skin on cool days.
 - Amazon plain black long-sleeve (thin) x1 `[Warm] [Cool]` — 95% modal / 5% spandex
   - ✅ Hand-washes well and dries overnight on a hanger — wash it as you go
