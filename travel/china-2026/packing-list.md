@@ -29,7 +29,8 @@
 ### Long sleeves & base layers
 - Uniqlo long-sleeve mid-warm tops x2 `[Cool] [Cold]` — the warmer mid-layer, for 12–17°C days
 - Uniqlo khaki long-sleeve x1 `[Cool]` — lighter fabric, less warm. The right weight for the 18–23°C daytimes in Chongqing, Changsha and Shanghai, which is most of the cool phase. Khaki also hides train days better than pink or green.
-- Black light long-sleeve x1 `[Cool]` — 🏳 **THE DESIGNATED DITCH ITEM.** Packs light, not attached to it. If the case is over 15kg, this goes first. Best moment to drop it: **Hong Kong, after the laundry on 18 Oct** — before 16 days of Chinese trains, not while still at home.
+- Shein striped shirt x1 `[Cool]` — **open layering piece**, the only one in the China cube. Wear over a sports bra on a 22°C Shanghai day, or over the black short-sleeve when it cools. Comes off without going over your head. Replaces the black light long-sleeve.
+  - ⚠ If cotton, it is slow to dry across 15 unwashed days — keep it as an over-layer, not next to skin.
 - Navy long-sleeve workout top x1 `[Cool]` — replaces the 4th Uniqlo. Doubles as a gym top and a mid-layer; synthetic, so it dries fast and is fine next to skin on cool days.
 - Amazon plain black long-sleeve (thin) x1 `[Warm] [Cool]` — 95% modal / 5% spandex
   - ✅ Hand-washes well and dries overnight on a hanger — wash it as you go
@@ -98,7 +99,7 @@
 ## UNDERWEAR & BASICS
 - Knickers x20
 - **Swimming costume** ✅ — Sindhorn infinity pool, 18th floor, open late
-- Sports bras x3 ✅
+- Sports bras x3 ✅ — ⚠ **bring the DYLAN, not the PALOMA.** The Paloma is cut low, and these double as tops. Low-cut is wrong for the monastery on 17 Oct and for mainland China generally.
 - Normal comfy bra x1 ✅
 - Regular socks x10 — including long socks
 - Thermal socks x2 `[Cold]` — spare pair for the Great Wall night; damp socks in 3°C are worse than none
@@ -128,7 +129,7 @@
 - Black fleece (Gillet brand) — the zip-in liner
 - Uniqlo long-sleeve mid-warm tops x2
 - Uniqlo khaki long-sleeve x1 (lighter)
-- Black light long-sleeve x1 🏳 ditch item
+- Shein striped shirt x1 — open layering piece
 - Navy long-sleeve workout top x1
 - Amazon plain black long-sleeve x1
 - Decathlon thermal base layers x3 — TRAVEL 100 merino, BL500 collared, BL100
@@ -166,7 +167,7 @@
 - Amazon flared
 - Pyjama top x2
 - Normal comfy bra x1
-- Sports bras x3
+- Sports bras x3 — **Dylan, not Paloma** (Paloma is low cut)
 - Swimming costume
 
 *The 4 flares only — the summer trousers (Uniqlo thin blacks, H&M cropped) stay in the purple cube.*
@@ -341,6 +342,7 @@
 ---
 
 ## NOT BRINGING
+- Black light long-sleeve — swapped for the Shein striped shirt, which layers open and does the job better
 - Uniqlo long black trousers — swapped for the Amazon cropped, more comfortable
 - 2nd pair GF bike shorts — one is enough
 - Tala flares — cut; Wolven, Amazon and Manners London cover the `[Cool]` phase
