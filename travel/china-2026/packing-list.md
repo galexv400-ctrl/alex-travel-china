@@ -24,7 +24,7 @@
 ### Bra tops / summer tops
 - Uniqlo sports bra top x2 — blue and black `[Warm]`
 - Uniqlo short-sleeve top x1 ✅ `[Warm]` — covered shoulders for temples without a long sleeve in 30°C; wears with the cropped trousers for the Bangkok dinners
-- 🛒 **Warm-weather tops x2 — BUY.** Lightweight short-sleeve or vest, dark colours. The warm kit was cut too far: 10 hot days at 30–33°C on 4 tops leaves no spare, and on the sweatiest days (Chatuchak, Song Wat) you will want a fresh top for dinner. Two more closes it.
+- **Uniqlo short-sleeve tops x2 — black and grey** `[Warm] [Cool]`. Not just for Bangkok and HK: **these also cover the warm end of China.** Chongqing, Changsha and Shanghai run 18–23°C in the daytime, which is short-sleeve weather when you are walking all day — a long sleeve there will be too warm. Fleece over the top for mornings and evenings.
 
 ### Long sleeves & base layers
 - Uniqlo long-sleeve mid-warm tops x2 `[Cool] [Cold]` — the warmer mid-layer, for 12–17°C days
@@ -120,7 +120,6 @@
 - H&M cropped trousers `[Warm]`
 - Kimono
 - Uniqlo sports bra top x2
-- 🛒 Warm-weather tops x2 (to buy)
 
 *This is the whole `[Warm]` wardrobe in one cube — the only one you open 15–19 Oct and again 4–8 Nov. It stays sealed for the 16 days of cool/cold China in between.*
 
@@ -133,7 +132,7 @@
 - Amazon plain black long-sleeve x1
 - Decathlon thermal base layers x3 — TRAVEL 100 merino, BL500 collared, BL100
 - Girlfriend Collective leggings x3 — float, regular, green
-- Uniqlo short-sleeve top x1
+- Uniqlo short-sleeve tops x3 — the original + black and grey
 
 *The `[Cool]`/`[Cold]` layer cube — mainly from 20 Oct onwards.*
 ⚠ The Uniqlo short-sleeve lives here but is a `[Warm]` item. It is one of only two ways to cover your shoulders at Tsz Shan Monastery (Sat 17 Oct) — so you will need to open this cube in Hong Kong, or move that top to the purple cube.

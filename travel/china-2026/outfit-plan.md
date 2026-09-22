@@ -29,21 +29,23 @@ Nothing here is binding — it is a default so you never stand in front of a sui
 
 ## 🍂 China · 20 Oct–3 Nov · no laundry
 
+👕 **Short sleeves are part of the China rotation.** At 18–23°C walking all day, a long sleeve is too warm — wear a short sleeve with the fleece over it for mornings and evenings.
+
 ⚠ **One wash only, in Hong Kong.** That makes this **15 days unwashed**, so every item below is
 deliberately rotated. Repeat wears are marked — they are the plan, not an oversight.
 
 | Day | Doing | Wear |
 |---|---|---|
 | **Tue 20** | 🚄 9 hrs to Chongqing | Khaki · Amazon flares · Skechers |
-| **Wed 21** | Chongqing · hot pot | Navy workout · Wolven flares |
+| **Wed 21** | Chongqing · hot pot · **23°C** | **Short-sleeve (black)** · Wolven flares · fleece for the evening |
 | **Thu 22** | 🚄 4–5 hrs to Zhangjiajie | Modal · regular leggings · fleece pm |
 | **Fri 23** | ⛰ Tianmen Mtn | BL100 thermal · float leggings · fleece · shell · **Asics** |
 | **Sat 24** | ⛰ 4 hr hike | Navy *(2nd)* · regular leggings *(2nd)* · fleece · shell · **Asics** |
 | **Sun 25** | Changsha · night market | Khaki *(2nd)* · Wolven *(2nd)* |
-| **Mon 26** | 🚄 5 hrs · Bund | Modal *(2nd)* · Amazon flares *(2nd)* |
+| **Mon 26** | 🚄 5 hrs · Bund · **22°C** | **Short-sleeve (grey)** · Amazon flares *(2nd)* · fleece pm |
 | **Tue 27** | French Concession | **Mid-warm #1** · Wolven *(3rd)* |
 | **Wed 28** | Shanghai free day | Black light *(ditch item)* · float leggings *(2nd)* |
-| **Thu 29** | Wuxi day trip | Mid-warm #1 *(2nd)* · Amazon flares *(3rd)* |
+| **Thu 29** | Wuxi day trip · **20°C** | Short-sleeve (black) *(2nd)* · Amazon flares *(3rd)* · fleece |
 | **Fri 30** | 🚄 7 hrs to Xi'an | Khaki *(3rd)* · **Manners flares** · fleece pm |
 | **Sat 31** | Terracotta Warriors | **Merino thermal** · Manners *(2nd)* · fleece · neck warmer |
 | **Sun 1 Nov** | 🚄 9 hrs → **Great Wall** | **See below** |
