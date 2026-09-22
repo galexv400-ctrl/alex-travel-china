@@ -23,7 +23,8 @@
 
 ### Bra tops / summer tops
 - Uniqlo sports bra top x2 — blue and black `[Warm]`
-- Uniqlo short-sleeve top x1 ✅ `[Warm]` — already owned. No more needed: the playsuits cover the rest of the warm days. Covered shoulders for temples without a long sleeve in 30°C; wears with the H&M cropped trousers for the Bangkok dinners
+- Uniqlo short-sleeve top x1 ✅ `[Warm]` — covered shoulders for temples without a long sleeve in 30°C; wears with the cropped trousers for the Bangkok dinners
+- 🛒 **Warm-weather tops x2 — BUY.** Lightweight short-sleeve or vest, dark colours. The warm kit was cut too far: 10 hot days at 30–33°C on 4 tops leaves no spare, and on the sweatiest days (Chatuchak, Song Wat) you will want a fresh top for dinner. Two more closes it.
 
 ### Long sleeves & base layers
 - Uniqlo long-sleeve mid-warm tops x2 `[Cool] [Cold]` — the warmer mid-layer, for 12–17°C days
@@ -46,7 +47,7 @@
 ## BOTTOMS
 
 ### Trousers
-- Uniqlo long black trousers x1 `[Warm]` — thin, versatile
+- Amazon cropped trousers x1 ✅ `[Warm]` — more comfortable than the Uniqlo long blacks, which they replace. Cropped still covers the knees for religious sites.
 - H&M cropped trousers x1 ✅ `[Warm]` — already owned. Second warm-weather long-leg option. Covers the knees for religious sites (Tsz Shan Monastery, Sat 17 Oct) and smart enough for the Bangkok dinners (El Gaucho, August, Maison Saigon, Mozza). Pair with the black Tevas.
 - Wolven flared x1 `[Cool]`
 - Manners London flared x1 `[Cool] [Cold]` — thick, warmest of the flares, best for cold evenings
@@ -115,10 +116,11 @@
 - Girlfriend Collective bike shorts x1 (gym shorts)
 - Green playsuit
 - Red playsuit
-- Uniqlo long black trousers `[Warm]`
+- Amazon cropped trousers `[Warm]`
 - H&M cropped trousers `[Warm]`
 - Kimono
 - Uniqlo sports bra top x2
+- 🛒 Warm-weather tops x2 (to buy)
 
 *This is the whole `[Warm]` wardrobe in one cube — the only one you open 15–19 Oct and again 4–8 Nov. It stays sealed for the 16 days of cool/cold China in between.*
 
@@ -339,6 +341,7 @@
 ---
 
 ## NOT BRINGING
+- Uniqlo long black trousers — swapped for the Amazon cropped, more comfortable
 - 2nd pair GF bike shorts — one is enough
 - Tala flares — cut; Wolven, Amazon and Manners London cover the `[Cool]` phase
 - Long pyjama bottoms — re-wearing comfortable trousers instead
