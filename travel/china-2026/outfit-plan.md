@@ -40,12 +40,12 @@ deliberately rotated. Repeat wears are marked — they are the plan, not an over
 | **Wed 21** | Chongqing · hot pot · **23°C** | **Short-sleeve (black)** · Wolven flares · fleece for the evening |
 | **Thu 22** | 🚄 4–5 hrs to Zhangjiajie | Modal · regular leggings · fleece pm |
 | **Fri 23** | ⛰ Tianmen Mtn | BL100 thermal · float leggings · fleece · shell · **Asics** |
-| **Sat 24** | ⛰ 4 hr hike | Navy *(2nd)* · regular leggings *(2nd)* · fleece · shell · **Asics** |
+| **Sat 24** | ⛰ 4 hr hike | Navy · regular leggings *(2nd)* · fleece · shell · **Asics** |
 | **Sun 25** | Changsha · night market | Khaki *(2nd)* · Wolven *(2nd)* |
-| **Mon 26** | 🚄 5 hrs · Bund · **22°C** | **Short-sleeve (grey)** · Amazon flares *(2nd)* · fleece pm |
+| **Mon 26** | 🚄 5 hrs · Bund · **22°C** | Short-sleeve (black) *(2nd)* · Amazon flares *(2nd)* · fleece pm |
 | **Tue 27** | French Concession | **Mid-warm (pink)** · Wolven *(3rd)* |
 | **Wed 28** | Shanghai free day | **Striped shirt** over a sports bra · float leggings *(2nd)* |
-| **Thu 29** | Wuxi day trip · **20°C** | Short-sleeve (black) *(2nd)* · Amazon flares *(3rd)* · fleece |
+| **Thu 29** | Wuxi day trip · **20°C** | Short-sleeve (black) *(3rd)* · Amazon flares *(3rd)* · fleece |
 | **Fri 30** | 🚄 7 hrs to Xi'an | Khaki *(3rd)* · **Manners flares** · fleece pm |
 | **Sat 31** | Terracotta Warriors | **Merino thermal** · Manners *(2nd)* · fleece · neck warmer |
 | **Sun 1 Nov** | 🚄 9 hrs → **Great Wall** | **See below** |
@@ -74,12 +74,16 @@ deliberately rotated. Repeat wears are marked — they are the plan, not an over
 
 | Item | Wears |
 |---|---|
-| Khaki light | 3 |
+| Khaki light · **Short-sleeve (black)** | 3 each |
 | Wolven flares · Amazon flares · Manners flares | 3 each |
-| Navy · Modal · Mid-warm (pink) · Merino · BL100 | 2 each |
 | Regular leggings · float leggings | 3 each |
-| Mid-warm (black) | 2 |
+| Merino · BL100 · Mid-warm (black) | 2 each |
+| Navy · Modal · Mid-warm (pink) | 1 each |
 | Striped shirt · BL500 · green leggings | 1 each |
+
+> 👕 **Grey short-sleeve is not in this rotation** — it lives in the purple cube, which stays sealed 20 Oct–4 Nov. The black one does all the China days.
+
+> ✅ **Navy, Modal and the pink mid-warm are worn once each** — that is your spare capacity if something gets soaked in Zhangjiajie.
 
 **Knickers:** 20, and the Hong Kong wash returns the early ones to the pool → **~20 for 15 days.** Comfortable.
 **Socks:** 10 regular → 2 wears each. Thermal socks kept dry for the Great Wall.
