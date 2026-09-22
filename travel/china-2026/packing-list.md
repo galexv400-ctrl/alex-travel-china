@@ -348,7 +348,6 @@
 - Tala flares — cut; Wolven, Amazon and Manners London cover the `[Cool]` phase
 - Long pyjama bottoms — re-wearing comfortable trousers instead
 - Make-up — not bringing
-- Shein striped shirt — not bringing; kimono covers shoulders for temples
 - Face wipes — not bringing
 
 - Stradivarius bra tops x2 — not bringing
@@ -356,7 +355,7 @@
 - Asics long-sleeve black sports top — duplicates the BL100 thermal
 - 2nd Amazon modal long-sleeve — reduced to one
 - Black fleece, sweater style — removed; Gillet fleece liner + 4 Uniqlo long-sleeves cover the mid-layer job
-- 2nd Shein striped shirt — reduced to one, kimono covers the same job more lightly
+- 2nd Shein striped shirt — only one coming; it is the China layering shirt
 - Shein loose black and white shorts — cut; the GF bike shorts and playsuits cover the warm days
 - Skechers black — replaced with new shoes
 - Denim jacket — removed
