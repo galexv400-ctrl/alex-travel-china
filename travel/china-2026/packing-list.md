@@ -56,6 +56,7 @@
 
 ### Shorts
 - Girlfriend Collective bike shorts x1 `[Warm]` — doubles as gym wear
+- Shein loose black and white shorts x1 ✅ `[Warm]` — **smart enough for the Bangkok dinners.** Back on the list: with the Amazon cropped cut, the H&M cropped were the only smart warm-weather bottom. These give you a second option for El Gaucho, Maison Saigon and Mozza.
 
 ### Playsuits
 - Green playsuit x1 `[Warm]`
@@ -99,7 +100,7 @@
 ## UNDERWEAR & BASICS
 - Knickers x20
 - **Swimming costume** ✅ — Sindhorn infinity pool, 18th floor, open late
-- Sports bras x3 ✅ — ⚠ **bring the DYLAN, not the PALOMA.** The Paloma is cut low, and these double as tops. Low-cut is wrong for the monastery on 17 Oct and for mainland China generally.
+- Sports bras x3 ✅ — **all DYLAN: 1 green, 1 black, 1 grey.** ⚠ Not the PALOMA. The Paloma is cut low, and these double as tops. Low-cut is wrong for the monastery on 17 Oct and for mainland China generally.
 - Normal comfy bra x1 ✅
 - Regular socks x10 — including long socks
 - Thermal socks x2 `[Cold]` — spare pair for the Great Wall night; damp socks in 3°C are worse than none
@@ -115,6 +116,7 @@
 
 ### 🟣 Purple cube — warm weather
 - Girlfriend Collective bike shorts x1 (gym shorts)
+- Shein loose black and white shorts x1
 - Green playsuit
 - Red playsuit
 - H&M cropped trousers `[Warm]`
@@ -166,7 +168,7 @@
 - Amazon flared
 - Pyjama top x2
 - Normal comfy bra x1
-- Sports bras x3 — **Dylan, not Paloma** (Paloma is low cut)
+- Sports bras x3 — **Dylan: green, black, grey** (not Paloma, too low cut)
 - Swimming costume
 
 *The 3 flares only — the H&M cropped trousers stay in the purple cube.*
@@ -357,7 +359,6 @@
 - 2nd Amazon modal long-sleeve — reduced to one
 - Black fleece, sweater style — removed; Gillet fleece liner + 4 Uniqlo long-sleeves cover the mid-layer job
 - 2nd Shein striped shirt — only one coming; it is the China layering shirt
-- Shein loose black and white shorts — cut; the GF bike shorts and playsuits cover the warm days
 - Skechers black — replaced with new shoes
 - Denim jacket — removed
 - iPad (won't use, saves weight)
