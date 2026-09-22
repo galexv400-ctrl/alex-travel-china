@@ -135,7 +135,6 @@
 - Girlfriend Collective leggings x3 — float, regular, green
 - Uniqlo short-sleeve top x1 — **black**, the China one: Chongqing 21 Oct, Shanghai 26 Oct, Wuxi 29 Oct
 
-*The `[Cool]`/`[Cold]` layer cube — mainly from 20 Oct onwards.*
 *The `[Cool]`/`[Cold]` layer cube — from 20 Oct onwards.*
 👕 The black short-sleeve lives here because 18–23°C daytimes in Chongqing, Changsha and Shanghai are too warm for a long sleeve. Fleece over it for mornings and evenings.
 
