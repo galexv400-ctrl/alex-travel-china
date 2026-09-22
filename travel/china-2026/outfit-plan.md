@@ -44,7 +44,7 @@ deliberately rotated. Repeat wears are marked — they are the plan, not an over
 | **Sun 25** | Changsha · night market | Khaki *(2nd)* · Wolven *(2nd)* |
 | **Mon 26** | 🚄 5 hrs · Bund · **22°C** | **Short-sleeve (grey)** · Amazon flares *(2nd)* · fleece pm |
 | **Tue 27** | French Concession | **Mid-warm #1** · Wolven *(3rd)* |
-| **Wed 28** | Shanghai free day | Black light *(ditch item)* · float leggings *(2nd)* |
+| **Wed 28** | Shanghai free day | **Striped shirt** over a sports bra · float leggings *(2nd)* |
 | **Thu 29** | Wuxi day trip · **20°C** | Short-sleeve (black) *(2nd)* · Amazon flares *(3rd)* · fleece |
 | **Fri 30** | 🚄 7 hrs to Xi'an | Khaki *(3rd)* · **Manners flares** · fleece pm |
 | **Sat 31** | Terracotta Warriors | **Merino thermal** · Manners *(2nd)* · fleece · neck warmer |
@@ -79,7 +79,7 @@ deliberately rotated. Repeat wears are marked — they are the plan, not an over
 | Navy · Modal · Mid-warm #1 · Merino · BL100 | 2 each |
 | Regular leggings · float leggings | 3 each |
 | Mid-warm #2 | 2 |
-| Black light · BL500 · green leggings | 1 each |
+| Striped shirt · BL500 · green leggings | 1 each |
 
 **Knickers:** 20, and the Hong Kong wash returns the early ones to the pool → **~20 for 15 days.** Comfortable.
 **Socks:** 10 regular → 2 wears each. Thermal socks kept dry for the Great Wall.
@@ -109,7 +109,13 @@ deliberately rotated. Repeat wears are marked — they are the plan, not an over
 
 ---
 
-## The ditch item
+## If the case is over 15kg
 
-**Black light long-sleeve** — worn once, Shanghai free day. If the case is over 15kg, this goes.
-Decide in Hong Kong after the laundry, before 16 days of Chinese trains.
+There is no designated ditch item — nothing on the list is surplus. If you need to lose weight at the
+weigh-in, the order is:
+
+1. **Amazon cropped trousers** — you have two cropped pairs; one covers it
+2. **A sports bra** — three is generous when they are also doubling as tops
+3. **Striped shirt** — the newest addition, and the fleece covers layering
+
+Decide at the weigh-in in Israel, not mid-trip.
