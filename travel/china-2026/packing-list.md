@@ -210,7 +210,7 @@
 ---
 
 ## 🚄 TRAIN RULES — 5 legs, security screened like an airport
-- ❌ **No aerosol sprays** — confiscated. Check the **hand sanitiser**: if it is a spray, swap it for a gel or the wipes.
+- ❌ **No aerosol sprays** — confiscated. Your kit is clear: hand sanitiser is a **gel** ✓, deodorant is **roll-on** ✓, sunscreen is **lotion + stick** ✓. Nothing pressurised.
 - ❌ **No scissors or knives in ANY luggage** — including nail scissors and tweezers. Leave them home or lose them.
 - ✅ Power bank must be **CCC/3-C certified** — the Anker is ✓
 - ⏱ Passport scanned at every station and tourist site. Allow **20–30 min** for group entry.
