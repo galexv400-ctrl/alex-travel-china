@@ -281,6 +281,16 @@
 ---
 
 ## MONEY
+
+### 💱 Tel Aviv — where to change
+**Lilienblum Street** — Tel Aviv's money-changing street, independent bureaus competing on rate, no commission. **Allenby Street** is the backup.
+- ❌ Never at **Ben Gurion** — worst rates in the country. Never at a hotel.
+- ☎ **Call ahead for HKD and THB** — both are minor currencies in Israel and may need a day's notice.
+
+**Buy in Tel Aviv:** USD 500 · HKD 1,500–2,000 · THB 4,000
+**Buy in Hong Kong:** CNY 1,200–1,500 — TST money changers stock yuan as standard at far better rates than Israel. Chungking Mansions on Nathan Road, ~10 min from The Luxe Manor. You have until 20 Oct.
+**Withdraw in Bangkok:** the bulk of the THB, on 5 Nov
+
 - Monzo card (£1,084 in China 2026 pot)
 - Israeli credit card (insurance, Luxe Manor)
 - UK credit card (Sindhorn)
@@ -288,7 +298,11 @@
 - **Octopus card ✅ ~HKD 500 loaded.** Covers Airport Express (~105) + all MTR + minibuses + shops. Spend the remainder down on Mon 19th — refunding costs HKD 11 and takes 6–8 weeks
 - **CNY 1,200–1,500 cash** — raised from 500–750 because **tipping is being paid in CNY**, not USD. The Day 1 kitty is collected in cash and the leader tip is $4–7/day equivalent (~CNY 430–750 over the tour, possibly two leaders after the Shanghai change). At 500–750 total you would have nothing left for anything Alipay cannot cover.
   - 💱 **Get the CNY in Hong Kong, not Tel Aviv.** TST money changers hold CNY as standard and the rates are far better. Israeli bureaus often do not stock yuan at all, or price it badly.
-- **Thai Baht** — ~1,000 for the 15 Oct airport hotel night (hotel prepaid, shuttle free), then **15,000–20,000** for 4–8 Nov (tattoo 2,000–4,000 cash, massages, Chatuchak)
+- **Thai Baht — buy 4,000 in Israel, in two envelopes:**
+  - **~1,000 for Thu 15 Oct** — the airport hotel night. Hotel prepaid, shuttle free, so this is only incidentals
+  - **~3,000 sealed for Wed 4 Nov** — you land 18:05 from Beijing and will not want an ATM that night. Do not touch this envelope in October
+  - Then **withdraw 15,000–20,000 on Thu 5 Nov** in daylight, at a bank ATM, for the rest of the stay (tattoo 2,000–4,000 cash, massages, Chatuchak)
+  - 💡 On 4 Nov the Grab is on your card and August takes cards — the 3,000 is a cushion, not a necessity
   - ⚠ Thai ATMs charge a **fixed ~220 THB fee per withdrawal** — take out more, less often
 - $500 USD emergency fund — get before trip, keep hidden
 - 💵 **TIPPING — paying in CNY, not USD.** Group kitty proposed Day 1 (optional, cash), plus leader tip of $4–7/day equivalent ≈ **CNY 430–750** over the tour; possibly two leaders after the Shanghai change. Covered by the raised CNY figure above.
