@@ -166,7 +166,7 @@
 - Wolven flared
 - Manners London flared
 - Amazon flared
-- Pyjama top x2
+- Pyjama top x2 — BCCA
 - Normal comfy bra x1
 - Sports bras x3 — **Dylan: green, black, grey** (not Paloma, too low cut)
 - Swimming costume
@@ -200,7 +200,7 @@
 ---
 
 ## SLEEPWEAR
-- Pyjama top x2
+- Pyjama top x2 — BCCA
 - ❌ Long pyjama bottoms — not packing. Re-wear comfortable trousers or leggings instead.
   - ⚠ Great Wall, 1 Nov: the guesthouse gets to 1–3°C at night. Sleep in a Decathlon thermal + the green GF leggings — do not rely on a flare.
 
