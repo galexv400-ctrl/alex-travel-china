@@ -26,7 +26,9 @@
 - Uniqlo short-sleeve top x1 ✅ `[Warm]` — already owned. No more needed: the playsuits cover the rest of the warm days. Covered shoulders for temples without a long sleeve in 30°C; wears with the H&M cropped trousers for the Bangkok dinners
 
 ### Long sleeves & base layers
-- Uniqlo long-sleeve mid-warm tops x3 — black, pink, green `[Cool] [Cold]` — main mid-layer, workhorse for 12–22°C days
+- Uniqlo long-sleeve mid-warm tops x2 `[Cool] [Cold]` — the warmer mid-layer, for 12–17°C days
+- Uniqlo khaki long-sleeve x1 `[Cool]` — lighter fabric, less warm. The right weight for the 18–23°C daytimes in Chongqing, Changsha and Shanghai, which is most of the cool phase. Khaki also hides train days better than pink or green.
+- Black light long-sleeve x1 `[Cool]` — 🏳 **THE DESIGNATED DITCH ITEM.** Packs light, not attached to it. If the case is over 15kg, this goes first. Best moment to drop it: **Hong Kong, after the laundry on 18 Oct** — before 16 days of Chinese trains, not while still at home.
 - Navy long-sleeve workout top x1 `[Cool]` — replaces the 4th Uniqlo. Doubles as a gym top and a mid-layer; synthetic, so it dries fast and is fine next to skin on cool days.
 - Amazon plain black long-sleeve (thin) x1 `[Warm] [Cool]` — 95% modal / 5% spandex
   - ✅ Hand-washes well and dries overnight on a hanger — wash it as you go
@@ -122,7 +124,9 @@
 
 ### 🩷 Pink cube — largest — cool/cold weather
 - Black fleece (Gillet brand) — the zip-in liner
-- Uniqlo long-sleeve mid-warm tops x3
+- Uniqlo long-sleeve mid-warm tops x2
+- Uniqlo khaki long-sleeve x1 (lighter)
+- Black light long-sleeve x1 🏳 ditch item
 - Navy long-sleeve workout top x1
 - Amazon plain black long-sleeve x1
 - Decathlon thermal base layers x3 — TRAVEL 100 merino, BL500 collared, BL100
