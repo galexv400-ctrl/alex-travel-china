@@ -120,6 +120,7 @@
 - H&M cropped trousers `[Warm]`
 - Kimono
 - Uniqlo sports bra top x2
+- Uniqlo short-sleeve tops x2 — the original + **grey**
 
 *This is the whole `[Warm]` wardrobe in one cube — the only one you open 15–19 Oct and again 4–8 Nov. It stays sealed for the 16 days of cool/cold China in between.*
 
@@ -132,10 +133,11 @@
 - Amazon plain black long-sleeve x1
 - Decathlon thermal base layers x3 — TRAVEL 100 merino, BL500 collared, BL100
 - Girlfriend Collective leggings x3 — float, regular, green
-- Uniqlo short-sleeve tops x3 — the original + black and grey
+- Uniqlo short-sleeve top x1 — **black**, the China one: Chongqing 21 Oct, Shanghai 26 Oct, Wuxi 29 Oct
 
 *The `[Cool]`/`[Cold]` layer cube — mainly from 20 Oct onwards.*
-⚠ The Uniqlo short-sleeve lives here but is a `[Warm]` item. It is one of only two ways to cover your shoulders at Tsz Shan Monastery (Sat 17 Oct) — so you will need to open this cube in Hong Kong, or move that top to the purple cube.
+*The `[Cool]`/`[Cold]` layer cube — from 20 Oct onwards.*
+👕 The black short-sleeve lives here because 18–23°C daytimes in Chongqing, Changsha and Shanghai are too warm for a long sleeve. Fleece over it for mornings and evenings.
 
 ### ❤️ Red-pink cube — smallest
 - Knickers x20
@@ -190,7 +192,7 @@
 - ⚠ **Keep the TRAVEL 100 merino out of the bag.** Commercial machines tumble dry hot and will shrink it. Hand wash that one at max 30°C, laid flat.
 - ⚠ Take the **Girlfriend Collective leggings and bike shorts** out too if the shop tumble dries — high heat degrades the elastane.
 
-**What this means for 15–18 Oct:** 4 days of 28–32°C humidity on 2 bra tops, 1 short-sleeve, the kimono and 2 playsuits. Roughly one outfit per day with no spare.
+**What this means for 15–18 Oct:** 4 days of 28–32°C humidity on 2 bra tops, 2 short-sleeves, the kimono and 2 playsuits.
 
 **After Hong Kong:** the warm-weather kit goes unused 20 Oct–4 Nov while you are in cool/cold China, then comes back out clean for Bangkok 4–8 Nov.
 
@@ -347,7 +349,7 @@
 - Make-up — not bringing
 - Shein striped shirt — not bringing; kimono covers shoulders for temples
 - Face wipes — not bringing
-- Extra short-sleeve tops — one is enough, the playsuits cover the warm days
+
 - Stradivarius bra tops x2 — not bringing
 - Pink Crocs — replaced with flip-flops
 - Asics long-sleeve black sports top — duplicates the BL100 thermal
