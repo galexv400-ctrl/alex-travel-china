@@ -23,8 +23,7 @@
 
 ### Bra tops / summer tops
 - Uniqlo sports bra top x2 — blue and black `[Warm]`
-- Uniqlo short-sleeve top x1 ✅ `[Warm]` — covered shoulders for temples without a long sleeve in 30°C; wears with the cropped trousers for the Bangkok dinners
-- **Uniqlo short-sleeve tops x2 — black and grey** `[Warm] [Cool]`. Not just for Bangkok and HK: **these also cover the warm end of China.** Chongqing, Changsha and Shanghai run 18–23°C in the daytime, which is short-sleeve weather when you are walking all day — a long sleeve there will be too warm. Fleece over the top for mornings and evenings.
+- **Uniqlo short-sleeve tops x2 ✅ — black and grey** `[Warm] [Cool]`. Grey travels in the purple cube (Bangkok, HK, and the monastery on 17 Oct); black in the pink cube for China. Not just for Bangkok and HK: **these also cover the warm end of China.** Chongqing, Changsha and Shanghai run 18–23°C in the daytime, which is short-sleeve weather when you are walking all day — a long sleeve there will be too warm. Fleece over the top for mornings and evenings.
 
 ### Long sleeves & base layers
 - Uniqlo long-sleeve mid-warm tops x2 `[Cool] [Cold]` — the warmer mid-layer, for 12–17°C days
@@ -123,7 +122,7 @@
 - H&M cropped trousers `[Warm]`
 - Kimono
 - Uniqlo sports bra top x2
-- Uniqlo short-sleeve tops x2 — the original + **grey**
+- Uniqlo short-sleeve top x1 — **grey**
 
 *This is the whole `[Warm]` wardrobe in one cube — the only one you open 15–19 Oct and again 4–8 Nov. It stays sealed for the 16 days of cool/cold China in between.*
 
@@ -194,7 +193,7 @@
 - ⚠ **Keep the TRAVEL 100 merino out of the bag.** Commercial machines tumble dry hot and will shrink it. Hand wash that one at max 30°C, laid flat.
 - ⚠ Take the **Girlfriend Collective leggings and bike shorts** out too if the shop tumble dries — high heat degrades the elastane.
 
-**What this means for 15–18 Oct:** 4 days of 28–32°C humidity on 2 bra tops, 2 short-sleeves, the kimono and 2 playsuits.
+**What this means for 15–18 Oct:** 4 days of 28–32°C humidity on 2 bra tops, the grey short-sleeve, the kimono and 2 playsuits — plus the sports bras, which double as tops.
 
 **After Hong Kong:** the warm-weather kit goes unused 20 Oct–4 Nov while you are in cool/cold China, then comes back out clean for Bangkok 4–8 Nov.
 
