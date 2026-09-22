@@ -23,59 +23,68 @@ Nothing here is binding — it is a default so you never stand in front of a sui
 > The short-sleeve lives in the pink cube — pull it out the night before.
 
 > 🧺 **Laundry: drop off Sat 17 evening, collect Sun or Mon.** Everything worn 15–17 Oct goes in.
+> **This is the only wash of the trip** — the warm kit then stays clean and sealed until Bangkok on 4 Nov.
 
 ---
 
-## 🍂 Chongqing → Shanghai · 20–29 Oct · 15–23°C day, 8–16°C night
+## 🍂 China · 20 Oct–3 Nov · no laundry
 
-*The mild stretch. Long sleeve on its own, fleece for evenings. No thermals needed yet.*
+⚠ **One wash only, in Hong Kong.** That makes this **15 days unwashed**, so every item below is
+deliberately rotated. Repeat wears are marked — they are the plan, not an oversight.
 
 | Day | Doing | Wear |
 |---|---|---|
-| **Tue 20** | 🚄 9 hrs to Chongqing | **Khaki light** · Amazon flares · Skechers *(comfort day)* |
-| **Wed 21** | Chongqing city tour · hot pot | Navy workout top · Wolven flares |
-| **Thu 22** | 🚄 4–5 hrs to Zhangjiajie | Amazon modal · regular leggings · **fleece for the evening** |
-| **Fri 23** | ⛰ Tianmen Mtn, cliff walkways | **BL100 thermal** · float leggings · fleece · **waterproof shell** · **Asics** |
-| **Sat 24** | ⛰ 4 hr hike, Avatar mountains | Navy workout top · regular leggings · fleece · shell · **Asics** |
-| **Sun 25** | Changsha · Nvshu · night market | Khaki light · Wolven flares |
-| **Mon 26** | 🚄 5 hrs to Shanghai · Bund | Amazon modal · Amazon flares |
-| **Tue 27** | French Concession walk | **Mid-warm #1** · Wolven flares |
-| **Wed 28** | Shanghai free day | **Black light** *(ditch item)* · regular leggings |
-| **Thu 29** | Wuxi day trip | Mid-warm #1 · Amazon flares |
+| **Tue 20** | 🚄 9 hrs to Chongqing | Khaki · Amazon flares · Skechers |
+| **Wed 21** | Chongqing · hot pot | Navy workout · Wolven flares |
+| **Thu 22** | 🚄 4–5 hrs to Zhangjiajie | Modal · regular leggings · fleece pm |
+| **Fri 23** | ⛰ Tianmen Mtn | BL100 thermal · float leggings · fleece · shell · **Asics** |
+| **Sat 24** | ⛰ 4 hr hike | Navy *(2nd)* · regular leggings *(2nd)* · fleece · shell · **Asics** |
+| **Sun 25** | Changsha · night market | Khaki *(2nd)* · Wolven *(2nd)* |
+| **Mon 26** | 🚄 5 hrs · Bund | Modal *(2nd)* · Amazon flares *(2nd)* |
+| **Tue 27** | French Concession | **Mid-warm #1** · Wolven *(3rd)* |
+| **Wed 28** | Shanghai free day | Black light *(ditch item)* · float leggings *(2nd)* |
+| **Thu 29** | Wuxi day trip | Mid-warm #1 *(2nd)* · Amazon flares *(3rd)* |
+| **Fri 30** | 🚄 7 hrs to Xi'an | Khaki *(3rd)* · **Manners flares** · fleece pm |
+| **Sat 31** | Terracotta Warriors | **Merino thermal** · Manners *(2nd)* · fleece · neck warmer |
+| **Sun 1 Nov** | 🚄 9 hrs → **Great Wall** | **See below** |
+| **Mon 2** | Jinshanling hike → Beijing | Merino *(2nd — odour-resistant, that is its job)* · float leggings *(3rd)* · fleece · shell · **Asics** |
+| **Tue 3** | Forbidden City · 🦆 farewell | **Mid-warm #2** *(2nd)* · Manners *(3rd)* · puffer |
 
-> ☔ **Zhangjiajie is your wettest leg.** Leggings, not flares — flares hold water for hours.
-> Asics on both mountain days, Skechers stay dry.
+> ☔ **Zhangjiajie is the wettest leg.** Leggings, not flares — flares hold water for hours.
 
-> 🧺 **Laundry #2: Shanghai, drop Mon 26, collect Wed 28.** Four nights in one hotel, cheap and easy.
-> **Do not skip this** — otherwise it is 17 days from Hong Kong to Bangkok with no wash.
+### 🥶 Sunday 1 November — the coldest night
+
+**Travelling (9 hrs):** BL100 *(2nd)* · regular leggings *(3rd)* · fleece
+
+**On arrival, change into dry before sunset:**
+- **BL500 collared** next to skin — kept clean all trip for this
+- **Green leggings** — warmest pair, first wear
+- **Mid-warm #2** on top · fleece **zipped into the shell** · **puffer** over everything
+- **Warm hat · gloves · neck warmer · thermal socks** · hand warmers in pockets
+
+**Sleeping:** merino + green leggings *(no pyjama bottoms — this is the plan instead)*
+
+> ⚠ Change **before** sunset. A base layer damp from the climb cools you faster than no layer.
 
 ---
 
-## ❄️ Xi'an → Beijing · 30 Oct–3 Nov · 10–18°C day, 1–8°C night
+## 📊 Wear counts across the 15 unwashed days
 
-| Day | Doing | Wear |
-|---|---|---|
-| **Fri 30** | 🚄 7 hrs to Xi'an · Muslim Quarter | **Mid-warm #2** · Amazon flares · fleece *(evening 5–8°C)* |
-| **Sat 31** | Terracotta Warriors — outdoors | **Merino thermal** · Manners flares · fleece · neck warmer |
-| **Sun 1 Nov** | 🚄 9 hrs → **Great Wall, sunset** | **See below — the cold night** |
-| **Mon 2** | Jinshanling hike 2 hrs → Beijing | BL100 thermal · regular leggings · fleece · shell · **Asics** |
-| **Tue 3** | Forbidden City · 🦆 farewell dinner | Mid-warm #2 · Manners flares · puffer |
+| Item | Wears |
+|---|---|
+| Khaki light | 3 |
+| Wolven flares · Amazon flares · Manners flares | 3 each |
+| Navy · Modal · Mid-warm #1 · Merino · BL100 | 2 each |
+| Regular leggings · float leggings | 3 each |
+| Mid-warm #2 | 2 |
+| Black light · BL500 · green leggings | 1 each |
 
-### 🥶 Sunday 1 November — the coldest night of the trip
+**Knickers:** 20 packed, ~4 washed in Hong Kong → **16 left for 15 days.** Exactly enough, no spare.
+**Socks:** 10 regular → 2 wears each. Thermal socks kept dry for the Great Wall.
 
-**Travelling (9 hrs):** BL100 thermal · regular leggings · fleece
-
-**On arrival, before sunset — change into dry:**
-- **BL500 collared thermal** next to skin *(the warmest, collar seals the draught)*
-- **Green leggings** *(warmest of the three)*
-- Mid-warm on top · fleece **zipped into** the waterproof shell · **puffer over everything**
-- **Warm hat · gloves · neck warmer · thermal socks**
-- Hand warmers in your pockets
-
-**Sleeping:** merino thermal + green leggings. *(No pyjama bottoms — this is the plan instead.)*
-
-> ⚠ **Change before sunset, not after.** A base layer damp from the climb cools you faster than no layer at all.
-> Carry the BL500 dry in the day pack.
+> ⚠ **This works, but there is no slack.** If anything gets soaked in Zhangjiajie, you are short.
+> Your Intrepid leader can usually arrange a hotel wash — worth asking in Chongqing or Shanghai
+> even if you do not plan on it.
 
 ---
 
@@ -97,14 +106,6 @@ Nothing here is binding — it is a default so you never stand in front of a sui
 > 🌡 **Wed 4 is a 20°C swing in one day.** Dress for Beijing, carry the puffer, change at the hotel.
 
 ---
-
-## What never gets worn twice in a row
-
-- **Mid-warm #1** — Shanghai only (27, 29 Oct)
-- **Mid-warm #2** — Xi'an and Beijing only (30 Oct, 3 Nov)
-- **BL500 collared** — the Great Wall night only. Keep it clean and dry for it.
-- **Green leggings** — Great Wall night and sleeping. The warmest pair, saved.
-- **Manners flares** — the two coldest daytimes (31 Oct, 3 Nov)
 
 ## The ditch item
 
