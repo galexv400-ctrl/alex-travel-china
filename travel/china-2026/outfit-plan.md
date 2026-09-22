@@ -74,14 +74,14 @@ deliberately rotated. Repeat wears are marked — they are the plan, not an over
 
 | Item | Wears |
 |---|---|
-| Khaki light · **Short-sleeve (black)** | 3 each |
+| Khaki light · Short-sleeve (black) | 3 each · *swap in the grey any time* |
 | Wolven flares · Amazon flares · Manners flares | 3 each |
 | Regular leggings · float leggings | 3 each |
 | Merino · BL100 · Mid-warm (black) | 2 each |
 | Navy · Modal · Mid-warm (pink) | 1 each |
 | Striped shirt · BL500 · green leggings | 1 each |
 
-> 👕 **Grey short-sleeve is not in this rotation** — it lives in the purple cube, which stays sealed 20 Oct–4 Nov. The black one does all the China days.
+> 👕 **Both short-sleeves are available throughout** — the plan uses the black one in China, but the grey is there if you want a change or the black is dirty.
 
 > ✅ **Navy, Modal and the pink mid-warm are worn once each** — that is your spare capacity if something gets soaked in Zhangjiajie.
 

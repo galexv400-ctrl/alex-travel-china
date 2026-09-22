@@ -23,7 +23,7 @@
 
 ### Bra tops / summer tops
 - Uniqlo sports bra top x2 — blue and black `[Warm]`
-- **Uniqlo short-sleeve tops x2 ✅ — black and grey** `[Warm] [Cool]`. Grey travels in the purple cube (Bangkok, HK, and the monastery on 17 Oct); black in the pink cube for China. Not just for Bangkok and HK: **these also cover the warm end of China.** Chongqing, Changsha and Shanghai run 18–23°C in the daytime, which is short-sleeve weather when you are walking all day — a long sleeve there will be too warm. Fleece over the top for mornings and evenings.
+- **Uniqlo short-sleeve tops x2 ✅ — black and grey** `[Warm] [Cool]`. Grey lives in the purple cube, black in the pink one — but both are available throughout. Not just for Bangkok and HK: **these also cover the warm end of China.** Chongqing, Changsha and Shanghai run 18–23°C in the daytime, which is short-sleeve weather when you are walking all day — a long sleeve there will be too warm. Fleece over the top for mornings and evenings.
 
 ### Long sleeves & base layers
 - Uniqlo long-sleeve mid-warm tops x2 — **pink and black** `[Cool] [Cold]` — the warmer mid-layer, for 12–17°C days
@@ -124,7 +124,7 @@
 - Uniqlo sports bra top x2
 - Uniqlo short-sleeve top x1 — **grey**
 
-*This is the whole `[Warm]` wardrobe in one cube — the only one you open 15–19 Oct and again 4–8 Nov. It stays sealed for the 16 days of cool/cold China in between.*
+*The whole `[Warm]` wardrobe in one cube — mainly 15–19 Oct and 4–8 Nov. You have constant access, so pull from it whenever a China day runs warm.*
 
 ### 🩷 Pink cube — largest — cool/cold weather
 - Black fleece (Gillet brand) — the zip-in liner
