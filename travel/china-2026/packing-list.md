@@ -42,18 +42,17 @@
 ### Shirts
 - Kimono x1 `[Warm]` — throw over a bra top for covered shoulders at Tsz Shan Monastery (Sat 17 Oct) and other religious sites, without long sleeves in 30°C. Also dresses up a bra top + cropped trousers for the Bangkok dinners. Packs to nothing.
 
-> ⚖️ **No designated ditch item.** Nothing on this list is surplus any more. If the case is over 15kg at the weigh-in, drop in this order: **Amazon cropped trousers** (you have two cropped pairs) → **striped shirt** (newest, and the fleece covers layering). **Sports bras stay at 3** — they double as tops, so the quantity is doing real work. Decide in Israel, not mid-trip.
+> ⚖️ **No designated ditch item.** Nothing on this list is surplus any more. If the case is over 15kg at the weigh-in, drop the **striped shirt** first (newest, and the fleece covers layering). Beyond that there is nothing spare. **Sports bras stay at 3** — they double as tops, so the quantity is doing real work. Decide in Israel, not mid-trip.
 
 ---
 
 ## BOTTOMS
 
 ### Trousers
-- Amazon cropped trousers x1 ✅ `[Warm]` — more comfortable than the Uniqlo long blacks, which they replace. Cropped still covers the knees for religious sites.
 - H&M cropped trousers x1 ✅ `[Warm]` — already owned. Second warm-weather long-leg option. Covers the knees for religious sites (Tsz Shan Monastery, Sat 17 Oct) and smart enough for the Bangkok dinners (El Gaucho, August, Maison Saigon, Mozza). Pair with the black Tevas.
-- Wolven flared x1 `[Cool]`
+- Wolven flared x1 `[Cool]` — **flared leggings, the thinnest of the three.** Not a duplicate of the Amazon flares.
 - Manners London flared x1 `[Cool] [Cold]` — thick, warmest of the flares, best for cold evenings
-- Amazon flared x1 ✅ `[Cool]`
+- Amazon flared x1 ✅ `[Cool]` — mid-weight, a proper trouser
 
 ### Shorts
 - Girlfriend Collective bike shorts x1 `[Warm]` — doubles as gym wear
@@ -118,7 +117,6 @@
 - Girlfriend Collective bike shorts x1 (gym shorts)
 - Green playsuit
 - Red playsuit
-- Amazon cropped trousers `[Warm]`
 - H&M cropped trousers `[Warm]`
 - Kimono
 - Uniqlo sports bra top x2
@@ -344,6 +342,7 @@
 ---
 
 ## NOT BRINGING
+- Amazon cropped trousers — cut; the H&M cropped do the same job and the warm phase has a laundry stop
 - Black light long-sleeve — swapped for the Shein striped shirt, which layers open and does the job better
 - Uniqlo long black trousers — swapped for the Amazon cropped, more comfortable
 - 2nd pair GF bike shorts — one is enough

@@ -114,8 +114,9 @@ deliberately rotated. Repeat wears are marked — they are the plan, not an over
 There is no designated ditch item — nothing on the list is surplus. If you need to lose weight at the
 weigh-in, the order is:
 
-1. **Amazon cropped trousers** — you have two cropped pairs; one covers it
-2. **Striped shirt** — the newest addition, and the fleece covers layering
+1. **Striped shirt** — the newest addition, and the fleece covers layering
+
+Beyond that there is nothing spare.
 
 **Sports bras stay at 3** — they double as tops, so the quantity is doing real work.
 
