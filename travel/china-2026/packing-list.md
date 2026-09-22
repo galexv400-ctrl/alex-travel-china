@@ -313,7 +313,7 @@
 - 2nd Amazon modal long-sleeve — reduced to one
 - Black fleece, sweater style — removed; Gillet fleece liner + 4 Uniqlo long-sleeves cover the mid-layer job
 - 2nd Shein striped shirt — reduced to one, kimono covers the same job more lightly
-- Shein loose black and white shorts — swapped for a 2nd pair of GF bike shorts (gym-capable, faster drying)
+- Shein loose black and white shorts — cut; the GF bike shorts and playsuits cover the warm days
 - Skechers black — replaced with new shoes
 - Denim jacket — removed
 - iPad (won't use, saves weight)
