@@ -209,6 +209,14 @@
 
 ---
 
+## 🚄 TRAIN RULES — 5 legs, security screened like an airport
+- ❌ **No aerosol sprays** — confiscated. Check the **hand sanitiser**: if it is a spray, swap it for a gel or the wipes.
+- ❌ **No scissors or knives in ANY luggage** — including nail scissors and tweezers. Leave them home or lose them.
+- ✅ Power bank must be **CCC/3-C certified** — the Anker is ✓
+- ⏱ Passport scanned at every station and tourist site. Allow **20–30 min** for group entry.
+
+---
+
 ## ⚠ Sweat management — Great Wall
 - Carry a SPARE base layer in the day pack. Hike up, change into a dry one before sunset.
 - Suggested pairing: hike in the **BL100** (quick-drying), carry the **BL500 collared** as the dry one to change into for sunset and the night.
@@ -282,10 +290,12 @@
 - **Thai Baht** — ~1,000 for the 15 Oct airport hotel night (hotel prepaid, shuttle free), then **15,000–20,000** for 4–8 Nov (tattoo 2,000–4,000 cash, massages, Chatuchak)
   - ⚠ Thai ATMs charge a **fixed ~220 THB fee per withdrawal** — take out more, less often
 - $500 USD emergency fund — get before trip, keep hidden
+- 💵 **TIPPING — not yet budgeted.** Intrepid propose a group kitty on Day 1 (optional), plus a suggested leader tip of **$4–7 USD per day**. Over a 15-day tour that is roughly **$60–105**, and there is a leader change in Shanghai so possibly two. Bring it in small USD notes, separate from the emergency $500.
 
 ---
 
 ## APPS (install before leaving Israel)
+- 🛒 **DATA — eSIM or roaming plan. THE BIGGEST GAP ON THIS LIST.** Alipay, DiDi, WeChat, NordVPN and Apple Maps all need a live data connection. Without data in mainland China you cannot pay for anything, because cards are not accepted. Sort this before you fly — an eSIM bought in Israel, or confirm your roaming covers China and what it costs.
 - ✅ NordVPN — Obfuscated Servers enabled
 - ✅ Octopus for Tourists — set up on Apple Wallet
 - ✅ Alipay — set up, linked card
