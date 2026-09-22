@@ -79,7 +79,7 @@ deliberately rotated. Repeat wears are marked — they are the plan, not an over
 | Mid-warm #2 | 2 |
 | Black light · BL500 · green leggings | 1 each |
 
-**Knickers:** 20 packed, ~4 washed in Hong Kong → **16 left for 15 days.** Exactly enough, no spare.
+**Knickers:** 20, and the Hong Kong wash returns the early ones to the pool → **~20 for 15 days.** Comfortable.
 **Socks:** 10 regular → 2 wears each. Thermal socks kept dry for the Great Wall.
 
 > ⚠ **This works, but there is no slack.** If anything gets soaked in Zhangjiajie, you are short.

@@ -53,7 +53,7 @@
 - Amazon flared x1 ✅ `[Cool]`
 
 ### Shorts
-- Girlfriend Collective bike shorts x2 `[Warm]` — doubles as gym wear; second pair replaces the Shein loose shorts
+- Girlfriend Collective bike shorts x1 `[Warm]` — doubles as gym wear
 
 ### Playsuits
 - Green playsuit x1 `[Warm]`
@@ -112,7 +112,7 @@
 *Record of what went in each cube during the trial pack. Update if it changes on the real pack.*
 
 ### 🟣 Purple cube — warm weather
-- Girlfriend Collective bike shorts x2 (gym shorts)
+- Girlfriend Collective bike shorts x1 (gym shorts)
 - Green playsuit
 - Red playsuit
 - Uniqlo long black trousers `[Warm]`
@@ -300,6 +300,7 @@
 ---
 
 ## NOT BRINGING
+- 2nd pair GF bike shorts — one is enough
 - Tala flares — cut; Wolven, Amazon and Manners London cover the `[Cool]` phase
 - Long pyjama bottoms — re-wearing comfortable trousers instead
 - Make-up — not bringing
