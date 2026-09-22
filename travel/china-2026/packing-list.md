@@ -286,16 +286,18 @@
 - UK credit card (Sindhorn)
 - **HKD 1,500–2,000 cash** — buy in Israel before flying. Minibuses, Sham Shui Po market stalls and some taxis are cash-only
 - **Octopus card ✅ ~HKD 500 loaded.** Covers Airport Express (~105) + all MTR + minibuses + shops. Spend the remainder down on Mon 19th — refunding costs HKD 11 and takes 6–8 weeks
-- CNY 500–750 cash — get before trip, for first days in China
+- **CNY 1,200–1,500 cash** — raised from 500–750 because **tipping is being paid in CNY**, not USD. The Day 1 kitty is collected in cash and the leader tip is $4–7/day equivalent (~CNY 430–750 over the tour, possibly two leaders after the Shanghai change). At 500–750 total you would have nothing left for anything Alipay cannot cover.
+  - 💱 **Get the CNY in Hong Kong, not Tel Aviv.** TST money changers hold CNY as standard and the rates are far better. Israeli bureaus often do not stock yuan at all, or price it badly.
 - **Thai Baht** — ~1,000 for the 15 Oct airport hotel night (hotel prepaid, shuttle free), then **15,000–20,000** for 4–8 Nov (tattoo 2,000–4,000 cash, massages, Chatuchak)
   - ⚠ Thai ATMs charge a **fixed ~220 THB fee per withdrawal** — take out more, less often
 - $500 USD emergency fund — get before trip, keep hidden
-- 💵 **TIPPING — not yet budgeted.** Intrepid propose a group kitty on Day 1 (optional), plus a suggested leader tip of **$4–7 USD per day**. Over a 15-day tour that is roughly **$60–105**, and there is a leader change in Shanghai so possibly two. Bring it in small USD notes, separate from the emergency $500.
+- 💵 **TIPPING — paying in CNY, not USD.** Group kitty proposed Day 1 (optional, cash), plus leader tip of $4–7/day equivalent ≈ **CNY 430–750** over the tour; possibly two leaders after the Shanghai change. Covered by the raised CNY figure above.
 
 ---
 
 ## APPS (install before leaving Israel)
-- 🛒 **DATA — eSIM or roaming plan. THE BIGGEST GAP ON THIS LIST.** Alipay, DiDi, WeChat, NordVPN and Apple Maps all need a live data connection. Without data in mainland China you cannot pay for anything, because cards are not accepted. Sort this before you fly — an eSIM bought in Israel, or confirm your roaming covers China and what it costs.
+- 📶 **DATA — Airalo regional Asia eSIM.** Covers Thailand, Hong Kong and mainland China on one plan. **Buy and install on airport wifi in Bangkok, 15 Oct.** Alipay, DiDi, WeChat, NordVPN and Apple Maps all need live data, and cards are not accepted in China — this is the single thing the trip depends on.
+  - ⚠ Keep **NordVPN** set up anyway. Airalo China eSIMs often route outside the mainland so the firewall does not apply, but that is not guaranteed.
 - ✅ NordVPN — Obfuscated Servers enabled
 - ✅ Octopus for Tourists — set up on Apple Wallet
 - ✅ Alipay — set up, linked card
