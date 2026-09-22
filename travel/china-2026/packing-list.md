@@ -287,7 +287,7 @@
 - ❌ Never at **Ben Gurion** — worst rates in the country. Never at a hotel.
 - ☎ **Call ahead for HKD and THB** — both are minor currencies in Israel and may need a day's notice.
 
-**Buy in Tel Aviv:** USD 500 · HKD 1,500–2,000 · THB 4,000
+**Buy in Tel Aviv:** HKD 1,500–2,000 · THB 4,000 *(no USD — see below)*
 **Buy in Hong Kong:** CNY 1,200–1,500 — TST money changers stock yuan as standard at far better rates than Israel. Chungking Mansions on Nathan Road, ~10 min from The Luxe Manor. You have until 20 Oct.
 **Withdraw in Bangkok:** the bulk of the THB, on 5 Nov
 
@@ -304,7 +304,13 @@
   - Then **withdraw 15,000–20,000 on Thu 5 Nov** in daylight, at a bank ATM, for the rest of the stay (tattoo 2,000–4,000 cash, massages, Chatuchak)
   - 💡 On 4 Nov the Grab is on your card and August takes cards — the 3,000 is a cushion, not a necessity
   - ⚠ Thai ATMs charge a **fixed ~220 THB fee per withdrawal** — take out more, less often
-- $500 USD emergency fund — get before trip, keep hidden
+- ❌ **USD emergency fund — not carrying.** Intrepid suggest $500; decided against. Replaced by the four measures below, which target the likeliest failure (a frozen card) rather than the rarest (total card loss).
+
+### 🛡 Instead of the USD fund
+1. **Notify all three banks of the travel dates** — Monzo, Israeli card, UK card. Free, and it prevents the most likely problem: a card frozen for suspicious activity on day 2 in Chongqing.
+2. **Split your cards.** Carry one card + day cash in the bum bag; leave a second card and the CNY reserve in the hotel safe or the case. Never all four in one wallet.
+3. **Keep a CNY cash reserve** — a few hundred yuan kept separate from spending money. In China, CNY cash is the real fallback; USD is not directly spendable and needs a bank and your passport to change.
+4. **Keep an Alipay balance topped up** — it works independently of the card in your pocket.
 - 💵 **TIPPING — paying in CNY, not USD.** Group kitty proposed Day 1 (optional, cash), plus leader tip of $4–7/day equivalent ≈ **CNY 430–750** over the tour; possibly two leaders after the Shanghai change. Covered by the raised CNY figure above.
 
 ---
