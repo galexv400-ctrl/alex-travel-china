@@ -26,7 +26,7 @@
 - **Uniqlo short-sleeve tops x2 ✅ — black and grey** `[Warm] [Cool]`. Grey travels in the purple cube (Bangkok, HK, and the monastery on 17 Oct); black in the pink cube for China. Not just for Bangkok and HK: **these also cover the warm end of China.** Chongqing, Changsha and Shanghai run 18–23°C in the daytime, which is short-sleeve weather when you are walking all day — a long sleeve there will be too warm. Fleece over the top for mornings and evenings.
 
 ### Long sleeves & base layers
-- Uniqlo long-sleeve mid-warm tops x2 `[Cool] [Cold]` — the warmer mid-layer, for 12–17°C days
+- Uniqlo long-sleeve mid-warm tops x2 — **pink and black** `[Cool] [Cold]` — the warmer mid-layer, for 12–17°C days
 - Uniqlo khaki long-sleeve x1 `[Cool]` — lighter fabric, less warm. The right weight for the 18–23°C daytimes in Chongqing, Changsha and Shanghai, which is most of the cool phase. Khaki also hides train days better than pink or green.
 - Shein striped shirt x1 `[Cool]` — **open layering piece**, the only one in the China cube. Wear over a sports bra on a 22°C Shanghai day, or over the black short-sleeve when it cools. Comes off without going over your head. Replaces the black light long-sleeve.
   - ⚠ If cotton, it is slow to dry across 15 unwashed days — keep it as an over-layer, not next to skin.
@@ -128,7 +128,7 @@
 
 ### 🩷 Pink cube — largest — cool/cold weather
 - Black fleece (Gillet brand) — the zip-in liner
-- Uniqlo long-sleeve mid-warm tops x2
+- Uniqlo long-sleeve mid-warm tops x2 — **pink and black**
 - Uniqlo khaki long-sleeve x1 (lighter)
 - Shein striped shirt x1 — open layering piece
 - Navy long-sleeve workout top x1

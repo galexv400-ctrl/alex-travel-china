@@ -43,14 +43,14 @@ deliberately rotated. Repeat wears are marked — they are the plan, not an over
 | **Sat 24** | ⛰ 4 hr hike | Navy *(2nd)* · regular leggings *(2nd)* · fleece · shell · **Asics** |
 | **Sun 25** | Changsha · night market | Khaki *(2nd)* · Wolven *(2nd)* |
 | **Mon 26** | 🚄 5 hrs · Bund · **22°C** | **Short-sleeve (grey)** · Amazon flares *(2nd)* · fleece pm |
-| **Tue 27** | French Concession | **Mid-warm #1** · Wolven *(3rd)* |
+| **Tue 27** | French Concession | **Mid-warm (pink)** · Wolven *(3rd)* |
 | **Wed 28** | Shanghai free day | **Striped shirt** over a sports bra · float leggings *(2nd)* |
 | **Thu 29** | Wuxi day trip · **20°C** | Short-sleeve (black) *(2nd)* · Amazon flares *(3rd)* · fleece |
 | **Fri 30** | 🚄 7 hrs to Xi'an | Khaki *(3rd)* · **Manners flares** · fleece pm |
 | **Sat 31** | Terracotta Warriors | **Merino thermal** · Manners *(2nd)* · fleece · neck warmer |
 | **Sun 1 Nov** | 🚄 9 hrs → **Great Wall** | **See below** |
 | **Mon 2** | Jinshanling hike → Beijing | Merino *(2nd — odour-resistant, that is its job)* · float leggings *(3rd)* · fleece · shell · **Asics** |
-| **Tue 3** | Forbidden City · 🦆 farewell | **Mid-warm #2** *(2nd)* · Manners *(3rd)* · puffer |
+| **Tue 3** | Forbidden City · 🦆 farewell | **Mid-warm (black)** *(2nd)* · Manners *(3rd)* · puffer |
 
 > ☔ **Zhangjiajie is the wettest leg.** Leggings, not flares — flares hold water for hours.
 
@@ -61,7 +61,7 @@ deliberately rotated. Repeat wears are marked — they are the plan, not an over
 **On arrival, change into dry before sunset:**
 - **BL500 collared** next to skin — kept clean all trip for this
 - **Green leggings** — warmest pair, first wear
-- **Mid-warm #2** on top · fleece **zipped into the shell** · **puffer** over everything
+- **Mid-warm (black)** on top · fleece **zipped into the shell** · **puffer** over everything
 - **Warm hat · gloves · neck warmer · thermal socks** · hand warmers in pockets
 
 **Sleeping:** merino + green leggings *(no pyjama bottoms — this is the plan instead)*
@@ -76,9 +76,9 @@ deliberately rotated. Repeat wears are marked — they are the plan, not an over
 |---|---|
 | Khaki light | 3 |
 | Wolven flares · Amazon flares · Manners flares | 3 each |
-| Navy · Modal · Mid-warm #1 · Merino · BL100 | 2 each |
+| Navy · Modal · Mid-warm (pink) · Merino · BL100 | 2 each |
 | Regular leggings · float leggings | 3 each |
-| Mid-warm #2 | 2 |
+| Mid-warm (black) | 2 |
 | Striped shirt · BL500 · green leggings | 1 each |
 
 **Knickers:** 20, and the Hong Kong wash returns the early ones to the pool → **~20 for 15 days.** Comfortable.
