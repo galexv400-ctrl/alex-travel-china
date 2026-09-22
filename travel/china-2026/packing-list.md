@@ -49,7 +49,7 @@
 ## BOTTOMS
 
 ### Trousers
-- H&M cropped trousers x1 ✅ `[Warm]` — already owned. Second warm-weather long-leg option. Covers the knees for religious sites (Tsz Shan Monastery, Sat 17 Oct) and smart enough for the Bangkok dinners (El Gaucho, August, Maison Saigon, Mozza). Pair with the black Tevas.
+- H&M cropped trousers x1 ✅ `[Warm]` — **your only warm-weather long-leg.** Covers the knees for religious sites (Tsz Shan Monastery, Sat 17 Oct) and smart enough for the Bangkok dinners (El Gaucho, August, Maison Saigon, Mozza). Pair with the black Tevas.
 - Wolven flared x1 `[Cool]` — **flared leggings, the thinnest of the three.** Not a duplicate of the Amazon flares.
 - Manners London flared x1 `[Cool] [Cold]` — thick, warmest of the flares, best for cold evenings
 - Amazon flared x1 ✅ `[Cool]` — mid-weight, a proper trouser
@@ -169,7 +169,7 @@
 - Sports bras x3 — **Dylan, not Paloma** (Paloma is low cut)
 - Swimming costume
 
-*The 4 flares only — the summer trousers (Uniqlo thin blacks, H&M cropped) stay in the purple cube.*
+*The 3 flares only — the H&M cropped trousers stay in the purple cube.*
 
 ---
 
@@ -344,7 +344,7 @@
 ## NOT BRINGING
 - Amazon cropped trousers — cut; the H&M cropped do the same job and the warm phase has a laundry stop
 - Black light long-sleeve — swapped for the Shein striped shirt, which layers open and does the job better
-- Uniqlo long black trousers — swapped for the Amazon cropped, more comfortable
+- Uniqlo long black trousers — cut; the H&M cropped are more comfortable and cover the knees just as well
 - 2nd pair GF bike shorts — one is enough
 - Tala flares — cut; Wolven, Amazon and Manners London cover the `[Cool]` phase
 - Long pyjama bottoms — re-wearing comfortable trousers instead
