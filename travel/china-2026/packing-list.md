@@ -288,8 +288,13 @@
 - UK passport — use for mainland China
 - Israeli passport — HK, Thailand
 - 🖨 Travel insurance (Passport Card) — **PRINTED** ✅
-- Flight confirmations — print + save offline
-- Hotel confirmations — print + save offline
+- 🖨 Flight confirmations — **PRINTED** ✅
+- 🖨 Hotel confirmations — **PRINTED** ✅
+- 🖨 Passport copy (UK) — to print
+- 🖨 Next of kin / emergency contacts — to print
+- 🖨 Intrepid booking #6886724 + emergency line +86 17200311621 — to print
+- 📱 Hong Kong bookings — **phone only**, not printing. Big Bus ref XF7MVK0Z, LockCha, monastery, Tai Pan, Nu Nail
+- 📱 TDAC QR codes x2 — screenshot after generating on 13 Oct and 2 Nov
 - Intrepid booking #6886724
 
 ---
