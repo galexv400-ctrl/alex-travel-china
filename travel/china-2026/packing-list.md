@@ -357,7 +357,12 @@
 - 🛒 WeChat — set up in HK with hotel staff verification
 - 🛒 Google Translate — download Chinese offline pack
 - ✅ Apple Maps — works in mainland China in English, no VPN needed. Replaces Baidu (Chinese-only interface)
-- 🛒 China Customs app — set up, fill declaration 24–48hrs before China entry
+- 🛒 **China Customs declaration — do it Mon 19 Oct, in Hong Kong.** Entry to mainland is Tue 20 Oct by train, and the window is **24 hrs before**. Doing it in HK means no firewall and good wifi.
+  - ✅ **Use the ALIPAY mini-program, not WeChat** — search 海关旅客指尖服务 ("Customs Travellers Fingertip Service"). Your Alipay is already set up, so WeChat is not a dependency.
+  - ⭐ **Screenshot the QR code** — you scan it at the customs channel after immigration
+  - It is free. Ignore any site charging for it.
+  - 💡 Paper forms are available at the border if the app fails — nobody is penalised for using one
+  - ℹ The old Entry/Exit **Health** Declaration was abolished in Nov 2023. This is the **customs** declaration, which is still expected.
 - 🛒 **Podcasts + 1 audiobook — download before leaving Israel.** ~40 hrs of daytime trains (9 hrs on 20 Oct and again 1 Nov, 7 hrs on 30 Oct) plus 23 hrs flying. Streaming apps are blocked/unreliable in mainland China. Test in airplane mode.
 - 📱 Hotel addresses in Chinese — screenshot each hotel's address in Chinese characters
 
@@ -421,7 +426,7 @@
 5. WeChat — will set up in Hong Kong with hotel staff (verification needed)
 6. Apple Maps — works in China in English; Baidu not needed
 7. Google Translate — download Chinese offline language pack
-8. China Customs app — create account, fill declaration 24–48hrs before mainland China entry
+8. China Customs — file via the Alipay mini-program on 19 Oct, in Hong Kong (24 hr window before the 20 Oct crossing)
 9. Podcasts + audiobook — download offline for the train days
 
 ### Medications & Pharmacy
