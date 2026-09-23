@@ -291,8 +291,8 @@
 - 🖨 Flight confirmations — **PRINTED** ✅
 - 🖨 Hotel confirmations — **PRINTED** ✅
 - 🖨 Passport copy (UK) — **PRINTED** ✅
-- 🖨 Next of kin / emergency contacts — to print
-- 🖨 Intrepid booking #6886724 + emergency line +86 17200311621 — to print
+- 📱 Intrepid booking #6886724 — **in the Intrepid app**, not printing. Emergency line +86 17200311621
+- 📱 Next of kin / emergency contacts — on phone, not printing
 - 📱 Hong Kong bookings — **phone only**, not printing. Big Bus ref XF7MVK0Z, LockCha, monastery, Tai Pan, Nu Nail
 - 📱 TDAC QR codes x2 — screenshot after generating on 13 Oct and 2 Nov
 
