@@ -47,7 +47,7 @@
 
 ## Money
 
-- [ ] Notify bank of travel dates (China + Thailand)
+- [x] Notify bank of travel dates (China + Thailand)
 - [ ] Get CNY 500–750 cash for first day or two in China
 - [ ] Get Thai Baht (THB) cash for Bangkok
 - [ ] Check card works on UnionPay network

@@ -340,7 +340,7 @@
 - ❌ **USD emergency fund — not carrying.** Intrepid suggest $500; decided against. Replaced by the four measures below, which target the likeliest failure (a frozen card) rather than the rarest (total card loss).
 
 ### 🛡 Instead of the USD fund
-1. **Notify all three banks of the travel dates** — Monzo, Israeli card, UK card. Free, and it prevents the most likely problem: a card frozen for suspicious activity on day 2 in Chongqing.
+1. ✅ **Banks notified of travel dates** — Monzo, Israeli card, UK card. Done.
 2. **Split your cards.** Carry one card + day cash in the bum bag; leave a second card and the CNY reserve in the hotel safe or the case. Never all four in one wallet.
 3. **Keep a CNY cash reserve** — a few hundred yuan kept separate from spending money. In China, CNY cash is the real fallback; USD is not directly spendable and needs a bank and your passport to change.
 4. **Keep an Alipay balance topped up** — it works independently of the card in your pocket.
