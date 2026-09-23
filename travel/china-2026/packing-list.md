@@ -287,7 +287,7 @@
 ## DOCUMENTS
 - UK passport — use for mainland China
 - Israeli passport — HK, Thailand
-- Travel insurance (Passport Card) ✅ ordered
+- 🖨 Travel insurance (Passport Card) — **PRINTED** ✅
 - Flight confirmations — print + save offline
 - Hotel confirmations — print + save offline
 - Intrepid booking #6886724
