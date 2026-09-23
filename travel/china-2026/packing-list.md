@@ -290,7 +290,7 @@
 - 🖨 Travel insurance (Passport Card) — **PRINTED** ✅
 - 🖨 Flight confirmations — **PRINTED** ✅
 - 🖨 Hotel confirmations — **PRINTED** ✅
-- 🖨 Passport copy (UK) — to print
+- 🖨 Passport copy (UK) — **PRINTED** ✅
 - 🖨 Next of kin / emergency contacts — to print
 - 🖨 Intrepid booking #6886724 + emergency line +86 17200311621 — to print
 - 📱 Hong Kong bookings — **phone only**, not printing. Big Bus ref XF7MVK0Z, LockCha, monastery, Tai Pan, Nu Nail
