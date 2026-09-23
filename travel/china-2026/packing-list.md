@@ -295,7 +295,6 @@
 - 🖨 Intrepid booking #6886724 + emergency line +86 17200311621 — to print
 - 📱 Hong Kong bookings — **phone only**, not printing. Big Bus ref XF7MVK0Z, LockCha, monastery, Tai Pan, Nu Nail
 - 📱 TDAC QR codes x2 — screenshot after generating on 13 Oct and 2 Nov
-- Intrepid booking #6886724
 
 ---
 
