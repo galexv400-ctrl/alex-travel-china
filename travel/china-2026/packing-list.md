@@ -321,7 +321,21 @@
 
 **Buy in Tel Aviv:** HKD 500 · THB 1,000 — **landing cushions only.** The ILS rate is poor, so convert the minimum here and use ATMs abroad, where a Monzo withdrawal is near-interbank.
 **Buy in Hong Kong:** CNY 1,200–1,500 — TST money changers stock yuan as standard at far better rates than Israel. Chungking Mansions on Nathan Road, ~10 min from The Luxe Manor. You have until 20 Oct.
-**Withdraw in Bangkok:** the bulk of the THB, on 5 Nov
+**Withdraw in Bangkok:** ~10,000 THB on 5 Nov
+
+### 💷 Budget check — £1,100 in the trip pot
+Flights, hotels, the tour, insurance, the eSIM, the Big Bus and the massage are all **already paid**. What is left:
+
+| | Estimate |
+|---|---|
+| Bangkok, 15 Oct | ~£20 |
+| Hong Kong, 16–19 Oct | £250–350 |
+| China, 20 Oct–4 Nov | £300–440 |
+| Bangkok, 4–8 Nov | £250–350 |
+| **Total** | **£820–1,160** |
+
+⚠ **£1,100 sits near the top of that range.** It covers the trip; it does **not** cover serious shopping. Chatuchak, Siam, Cat Street, Apliu and souvenirs would add **£200–300**. Top the pot up if the shopping matters.
+💡 ATM withdrawals are **not extra spend** — they just convert this same pot into cash.
 
 - Monzo card (£1,084 in China 2026 pot)
 - Israeli credit card (insurance, Luxe Manor)
@@ -333,7 +347,8 @@
 - **Thai Baht — buy 1,000 in Israel**, a landing cushion only:
   - Covers **Thu 15 Oct** — hotel prepaid, shuttle free, so incidentals only
   - **Wed 4 Nov needs almost nothing either** — the Grab is on your card and August takes cards. Use a Suvarnabhumi ATM on arrival if you want a cushion.
-  - Then **withdraw 15,000–20,000 on Thu 5 Nov** in daylight, at a bank ATM, for the rest of the stay (massages, Chatuchak, souvenirs, Lao Gan Ma)
+  - Then **withdraw ~10,000 on Thu 5 Nov** in daylight, at a bank ATM. Reduced from 15,000–20,000 because the **massage is now prepaid** and all four dinners (El Gaucho, August, Maison Saigon, Mozza) take cards.
+  - Cash is really only for **Chatuchak, markets, street souvenirs, the Lao Gan Ma and non-Grab taxis**. Take more later only if Chatuchak demands it — better a second 220 THB fee than flying home with £200 of unspendable baht.
   - 💳 **At every ATM and card terminal, choose the LOCAL currency** — baht, not shekels. Choosing your home currency hands the conversion to the machine at a deliberately bad rate.
   - ⚠ Thai ATMs charge a **fixed ~220 THB fee per withdrawal** — take out more, less often
 - 💵 **TIPPING — paying in CNY, not USD.** Group kitty proposed Day 1 (optional, cash), plus leader tip of $4–7/day equivalent ≈ **CNY 430–750** over the tour; possibly two leaders after the Shanghai change. Covered by the raised CNY figure above.
