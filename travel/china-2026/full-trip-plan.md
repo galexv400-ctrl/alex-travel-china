@@ -76,7 +76,8 @@
 | Bangkok airport — Canalis (15 Oct) | ₪158 | ✅ Booked |
 | Hong Kong — The Luxe Manor (16–18 Oct) | ₪1,397 | ✅ Booked |
 | Bangkok — Sindhorn Midtown (4–8 Nov) | **₪2,771** | ✅ **Upgraded + charged to Israeli card** |
-| *— room ₪2,354 · 7% VAT ₪165 · 10% service ₪252 · THB 30,498* | | *upgraded: original room had no private bathroom* |
+| *— room ₪2,354 · 7% VAT ₪165 · 10% service ₪252 · THB 30,498* | | *upgraded: original King Studio had no private bathroom* |
+| *— raised with Booking.com 24 Sep* | *₪751 difference* | *complaint logged; they contacted the hotel. No resolution expected — keeping the upgraded room* |
 | **Other** | | |
 | Travel insurance (PassportCard) | ~$270 | ✅ **Paid** · policy printed |
 | Intrepid tour #6886724 | ~$4,000 | ✅ Booked |
@@ -92,6 +93,7 @@
 
 > ✅ **All accommodation is now settled** — Sindhorn was the last one, upgraded and charged to the Israeli card. The £1,100 Monzo pot is now for spending only, which it covers.
 > 💡 If the Sindhorn charge is taken at checkout rather than now, choose **THB** at the terminal, not shekels.
+> 📌 **Sindhorn upgrade, for the record:** the reservation page offered an "upgrade for a private bathroom", implying the King Studio had none — unusual for a five-star IHG property. That room type is **no longer bookable on the site**. Complaint raised with Booking.com on 24 Sep; screenshots kept. Decision: **keep the upgraded room** either way — a private bathroom for the last four nights, after 15 nights twin-sharing and a basic Great Wall guesthouse, is worth ₪751.
 
 ---
 
