@@ -244,7 +244,7 @@
 *Lives in the front pocket of the backpack, with spare tissues and pads. **Medication travels in the carry-on**, not here.*
 
 - 2-in-1 shampoo (small)
-- Roll-on men's deodorant x1
+- 🛒 **Deodorant — BUY IN HONG KONG.** Roll-on or stick, **never aerosol** (confiscated on Chinese trains anyway). Israeli options are poor; **Watsons and Mannings** in TST have a much better range, including Japanese and Korean brands. ⭐ Buy it Mon 19 Oct with the **Octopus balance you need to spend down**.
 - Body wash — 🛒 buy from Bath & Body Works (small)
 - 🎒 Sunscreen lotion (small, body)
 - 🎒 Sunscreen stick (face, portable)
@@ -435,6 +435,7 @@ Flights, hotels, the tour, insurance, the eSIM, the Big Bus and the massage are 
 ### Buy from Bath & Body Works (Travel Sizes)
 1. Body wash (small)
 2. Hand sanitiser (small) — buy in Hong Kong
+3. Deodorant — roll-on or stick, Watsons/Mannings TST
 3. Antihistamine 💊
 4. **Imodium** 💊
 

@@ -111,6 +111,7 @@
 - **12:00** 💅 **Nu Nail & Beauty** — Flat 10A, 10/F, Lokville Commercial Building, 27 Lock Road, TST · **3 min walk from hotel** · ✅ **BOOKED** · Open daily 10:00–23:00 · ☎ +852 5323 3617
   - 🔗 [Website](https://www.nunailandbeauty.com/) · [Instagram](https://www.instagram.com/nunailandbeauty/) · [Facebook](https://www.facebook.com/nunailandbeauty/)
 - **~13:30** Done · Free afternoon in TST
+  - 🛒 **Buy deodorant** — roll-on or stick, never aerosol. Watsons or Mannings, both all over TST. Better range than Israel, and it uses up Octopus balance.
   - 💳 **Spend down the Octopus.** Works in 7-Eleven, Circle K, most cafés, Watsons and Mannings. Buy snacks for the bullet train on the 20th, toiletries, anything else — and walk out at roughly zero. *Refunding instead costs HKD 11 and takes 6–8 weeks.*
   - 🛍 **Mee & Gee** — the big HK vintage chain has a **TST branch**, no harbour crossing · 70s Japanese pieces, leather jackets, denim · *People lose whole afternoons in here*
   - Or the waterfront, K11 MUSEA, or a slow coffee
