@@ -348,7 +348,14 @@
 ---
 
 ## APPS (install before leaving Israel)
-- 📶 **DATA — Airalo regional Asia eSIM.** Covers Thailand, Hong Kong and mainland China on one plan. **Buy and install on airport wifi in Bangkok, 15 Oct.** Alipay, DiDi, WeChat, NordVPN and Apple Maps all need live data, and cards are not accepted in China — this is the single thing the trip depends on.
+- ✅ **DATA — Airalo Asialink eSIM: BOUGHT + INSTALLED 24 Sept.**
+  - **Asia — 50 GB — 30 days** · order **99987084** · Mastercard ···4615
+  - £45.50 less £3.73 Airmoney = **£41.77 paid**
+  - Covers all 18 Asialink countries incl. **mainland China, Hong Kong, Thailand**
+  - Status: **installed, line toggled OFF, inactive.** The 30 days start on first connection abroad, so it runs 15 Oct → ~14 Nov
+  - 📲 **On landing in Bangkok, 15 Oct:** turn the Airalo line ON and set it as the **data** line · keep the Israeli SIM as **voice** · **turn data roaming OFF on the Israeli line** so it does not bill in parallel
+  - ⚠ Airalo China eSIMs often route outside the mainland so the firewall may not apply — not guaranteed, keep NordVPN ready
+- 📶 *(superseded)* **Airalo regional Asia eSIM.** Covers Thailand, Hong Kong and mainland China on one plan. **Buy and install on airport wifi in Bangkok, 15 Oct.** Alipay, DiDi, WeChat, NordVPN and Apple Maps all need live data, and cards are not accepted in China — this is the single thing the trip depends on.
   - ⚠ Keep **NordVPN** set up anyway. Airalo China eSIMs often route outside the mainland so the firewall does not apply, but that is not guaranteed.
 - ✅ NordVPN — Obfuscated Servers enabled
 - ✅ Octopus for Tourists — set up on Apple Wallet
