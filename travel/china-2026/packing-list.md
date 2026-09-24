@@ -319,7 +319,7 @@
 4. **Count the notes in front of them before you leave.** Non-negotiable, and normal practice.
 5. **Check Google reviews the morning you go.** Individual shops change hands; recent reviews are the only reliable guide to which one on the street is currently good.
 
-**Buy in Tel Aviv:** HKD 500 · THB 1,000 — **landing cushions only.** The ILS rate is poor, so convert the minimum here and use ATMs abroad, where a Monzo withdrawal is near-interbank.
+**Bought in Tel Aviv:** ✅ **THB 2,000** (good rate). ❌ **No HKD available in Israel** — use a Hong Kong ATM instead. The ILS rate is poor, so convert the minimum here and use ATMs abroad, where a Monzo withdrawal is near-interbank.
 **Buy in Hong Kong:** CNY 1,200–1,500 — TST money changers stock yuan as standard at far better rates than Israel. Chungking Mansions on Nathan Road, ~10 min from The Luxe Manor. You have until 20 Oct.
 **Withdraw in Bangkok:** ~10,000 THB on 5 Nov
 
@@ -340,14 +340,14 @@ Flights, hotels, the tour, insurance, the eSIM, the Big Bus and the massage are 
 - **Monzo card** — ~£1,100 in the China 2026 pot · **no FX fee on spending** · linked to Alipay · use it for everything you can
 - Israeli credit card (insurance, Luxe Manor) — **overflow/backup only, ~2–3% foreign transaction fee.** Fine for the last £200–300 if the pot runs out; not the first choice.
 - UK credit card (Sindhorn)
-- **HKD 500 cash** — bought in Israel as a landing cushion; withdraw the rest from a TST ATM. Cash is for Cat Street and Apliu stalls, the laundry drop-off (HKD 40–70), the 19 Oct taxi to Harbour Plaza (~HKD 100, many HK taxis are cash-only) and the salons. Octopus covers transit and shops, cards cover restaurants.
+- **HKD — none bought in Israel; not available.** ✅ **You do not need any on arrival:** the Octopus (~HKD 500 loaded) covers the Airport Express, MTR, minibuses and shops, the hotel and Big Bus are prepaid, and Flat Iron takes cards. **Withdraw from an ATM** — in HKG arrivals or TST — not an exchange counter; airport rates are poor and a Monzo withdrawal is near-interbank. One withdrawal funds both your HK spending and the CNY. Cash is for Cat Street and Apliu stalls, the laundry drop-off (HKD 40–70), the 19 Oct taxi to Harbour Plaza (~HKD 100, many HK taxis are cash-only) and the salons. Octopus covers transit and shops, cards cover restaurants.
 - **Octopus card ✅ ~HKD 500 loaded.** Covers Airport Express (~105) + all MTR + minibuses + shops. Spend the remainder down on Mon 19th — refunding costs HKD 11 and takes 6–8 weeks
 - **CNY 1,200–1,500 cash — get in Hong Kong, funded by an ATM withdrawal there.** ⚠ Do NOT buy it with Israeli-bought HKD: that is ILS→HKD→CNY and you pay a spread twice. Withdraw HKD from a TST ATM (Monzo, near-interbank) and take that to a changer. Raised from 500–750 because **tipping is being paid in CNY**, not USD. The Day 1 kitty is collected in cash and the leader tip is $4–7/day equivalent (~CNY 430–750 over the tour, possibly two leaders after the Shanghai change). At 500–750 total you would have nothing left for anything Alipay cannot cover.
   - 💱 **Get the CNY in Hong Kong, not Tel Aviv.** TST money changers hold CNY as standard and the rates are far better. Israeli bureaus often do not stock yuan at all, or price it badly.
-- **Thai Baht — buy 1,000 in Israel**, a landing cushion only:
-  - Covers **Thu 15 Oct** — hotel prepaid, shuttle free, so incidentals only
-  - **Wed 4 Nov needs almost nothing either** — the Grab is on your card and August takes cards. Use a Suvarnabhumi ATM on arrival if you want a cushion.
-  - Then **withdraw ~10,000 on Thu 5 Nov** in daylight, at a bank ATM. Reduced from 15,000–20,000 because the **massage is now prepaid** and all four dinners (El Gaucho, August, Maison Saigon, Mozza) take cards.
+- **Thai Baht — ✅ 2,000 bought in Israel at a good rate:**
+  - ~1,000 for **Thu 15 Oct** — hotel prepaid, shuttle free, so incidentals only
+  - ~1,000 held for **Wed 4 Nov** — arrive from Beijing with walking-around money, no ATM hunt
+  - Then **withdraw ~8,000 on Thu 5 Nov** (down from 10,000 — you are arriving with 1,000 already) in daylight, at a bank ATM. Reduced from 15,000–20,000 because the **massage is now prepaid** and all four dinners (El Gaucho, August, Maison Saigon, Mozza) take cards.
   - Cash is really only for **Chatuchak, markets, street souvenirs, the Lao Gan Ma and non-Grab taxis**. Take more later only if Chatuchak demands it — better a second 220 THB fee than flying home with £200 of unspendable baht.
   - 💳 **At every ATM and card terminal, choose the LOCAL currency** — baht, not shekels. Choosing your home currency hands the conversion to the machine at a deliberately bad rate.
   - ⚠ Thai ATMs charge a **fixed ~220 THB fee per withdrawal** — take out more, less often
