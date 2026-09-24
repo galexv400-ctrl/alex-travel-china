@@ -75,12 +75,22 @@
 | **Hotels** | | |
 | Bangkok airport — Canalis (15 Oct) | ₪158 | ✅ Booked |
 | Hong Kong — The Luxe Manor (16–18 Oct) | ₪1,397 | ✅ Booked |
-| Bangkok — Sindhorn Midtown (4–8 Nov) | ₪2,020 | ✅ Booked |
+| Bangkok — Sindhorn Midtown (4–8 Nov) | ₪2,020 | ⚠ **Booked, NOT PAID — pay at property** |
 | **Other** | | |
-| Travel insurance (Passportcard estimate) | ~$270 | ❌ To book |
+| Travel insurance (PassportCard) | ~$270 | ✅ **Paid** · policy printed |
 | Intrepid tour #6886724 | ~$4,000 | ✅ Booked |
-| **Confirmed total** | **~$6,630** | — |
-| **Estimated grand total** | **~$6,900** | — |
+| Airalo eSIM — Asia 50 GB / 30 days | £41.77 | ✅ Paid 24 Sep |
+| Hot stone massage, 5 Nov | 2,300 THB (~£52) | ✅ Paid 24 Sep |
+| **Total paid to date** | **~$6,900** | — |
+
+### ⚠ Still to pay during the trip
+| Item | Approx | When |
+|---|---|---|
+| **Sindhorn Midtown, 4 nights** | **₪2,020 (~£430)** | **At checkout, 8 Nov** |
+| Spending — HK, China, Bangkok | £820–1,160 | Throughout |
+| Shopping, if buying properly | +£200–300 | Chatuchak, Siam, markets |
+
+> 🚨 **The Sindhorn bill is the big one and it is NOT in the spending estimate.** About **£430 lands on a card during the trip**, on top of everyday spending. The £1,100 Monzo pot does not cover both — plan for the hotel to go on the **UK credit card** (as the money section says) and keep Monzo for spending, or top the pot up.
 
 ---
 
