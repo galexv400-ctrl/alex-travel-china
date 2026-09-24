@@ -319,16 +319,16 @@
 4. **Count the notes in front of them before you leave.** Non-negotiable, and normal practice.
 5. **Check Google reviews the morning you go.** Individual shops change hands; recent reviews are the only reliable guide to which one on the street is currently good.
 
-**Buy in Tel Aviv:** HKD 1,500–2,000 · THB 4,000 *(no USD — see below)*
+**Buy in Tel Aviv:** HKD 1,000 · THB 4,000 *(no USD, no CNY)*
 **Buy in Hong Kong:** CNY 1,200–1,500 — TST money changers stock yuan as standard at far better rates than Israel. Chungking Mansions on Nathan Road, ~10 min from The Luxe Manor. You have until 20 Oct.
 **Withdraw in Bangkok:** the bulk of the THB, on 5 Nov
 
 - Monzo card (£1,084 in China 2026 pot)
 - Israeli credit card (insurance, Luxe Manor)
 - UK credit card (Sindhorn)
-- **HKD 1,500–2,000 cash** — buy in Israel before flying. Minibuses, Sham Shui Po market stalls and some taxis are cash-only
+- **HKD 1,000 cash** — bought in Israel. Covers Cat Street and Apliu stalls, the laundry drop-off (HKD 40–70), the 19 Oct taxi to Harbour Plaza (~HKD 100, many HK taxis are cash-only) and the salons. Octopus covers transit and shops, cards cover restaurants.
 - **Octopus card ✅ ~HKD 500 loaded.** Covers Airport Express (~105) + all MTR + minibuses + shops. Spend the remainder down on Mon 19th — refunding costs HKD 11 and takes 6–8 weeks
-- **CNY 1,200–1,500 cash** — raised from 500–750 because **tipping is being paid in CNY**, not USD. The Day 1 kitty is collected in cash and the leader tip is $4–7/day equivalent (~CNY 430–750 over the tour, possibly two leaders after the Shanghai change). At 500–750 total you would have nothing left for anything Alipay cannot cover.
+- **CNY 1,200–1,500 cash — get in Hong Kong, funded by an ATM withdrawal there.** ⚠ Do NOT buy it with Israeli-bought HKD: that is ILS→HKD→CNY and you pay a spread twice. Withdraw HKD from a TST ATM (Monzo, near-interbank) and take that to a changer. Raised from 500–750 because **tipping is being paid in CNY**, not USD. The Day 1 kitty is collected in cash and the leader tip is $4–7/day equivalent (~CNY 430–750 over the tour, possibly two leaders after the Shanghai change). At 500–750 total you would have nothing left for anything Alipay cannot cover.
   - 💱 **Get the CNY in Hong Kong, not Tel Aviv.** TST money changers hold CNY as standard and the rates are far better. Israeli bureaus often do not stock yuan at all, or price it badly.
 - **Thai Baht — buy 4,000 in Israel, in two envelopes:**
   - **~1,000 for Thu 15 Oct** — the airport hotel night. Hotel prepaid, shuttle free, so this is only incidentals
