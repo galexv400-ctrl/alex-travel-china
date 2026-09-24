@@ -337,8 +337,8 @@ Flights, hotels, the tour, insurance, the eSIM, the Big Bus and the massage are 
 ⚠ **£1,100 sits near the top of that range.** It covers the trip; it does **not** cover serious shopping. Chatuchak, Siam, Cat Street, Apliu and souvenirs would add **£200–300**. Top the pot up if the shopping matters.
 💡 ATM withdrawals are **not extra spend** — they just convert this same pot into cash.
 
-- Monzo card (£1,084 in China 2026 pot)
-- Israeli credit card (insurance, Luxe Manor)
+- **Monzo card** — ~£1,100 in the China 2026 pot · **no FX fee on spending** · linked to Alipay · use it for everything you can
+- Israeli credit card (insurance, Luxe Manor) — **overflow/backup only, ~2–3% foreign transaction fee.** Fine for the last £200–300 if the pot runs out; not the first choice.
 - UK credit card (Sindhorn)
 - **HKD 500 cash** — bought in Israel as a landing cushion; withdraw the rest from a TST ATM. Cash is for Cat Street and Apliu stalls, the laundry drop-off (HKD 40–70), the 19 Oct taxi to Harbour Plaza (~HKD 100, many HK taxis are cash-only) and the salons. Octopus covers transit and shops, cards cover restaurants.
 - **Octopus card ✅ ~HKD 500 loaded.** Covers Airport Express (~105) + all MTR + minibuses + shops. Spend the remainder down on Mon 19th — refunding costs HKD 11 and takes 6–8 weeks
@@ -372,7 +372,7 @@ Flights, hotels, the tour, insurance, the eSIM, the Big Bus and the massage are 
   - ⚠ Airalo China eSIMs often route outside the mainland so the firewall may not apply — not guaranteed, keep NordVPN ready
 - ✅ NordVPN — Obfuscated Servers enabled
 - ✅ Octopus for Tourists — set up on Apple Wallet
-- ✅ Alipay — set up, linked card
+- ✅ Alipay — set up, **linked to MONZO** (no FX fee). This is how you pay for almost everything across 16 days in China, so the card choice matters more than any other.
 - ✅ DiDi — set up
 - 🛒 WeChat — set up in HK with hotel staff verification
 - 🛒 Google Translate — download Chinese offline pack
