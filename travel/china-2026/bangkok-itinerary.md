@@ -13,8 +13,9 @@
 ## ⚠ Before you fly
 - ⚠ **Thailand Digital Arrival Card (TDAC)** — complete online **within 3 days before landing**. Free, but the QR code is **mandatory at immigration**. Needed for **both** Thai entries: 15 Oct and 4 Nov
 - ⚠ Visa-free **30 days** on a British passport (reduced from 60 on 15 Sept 2026). Exemption capped at **two entries per calendar year** — 15 Oct and 4 Nov are exactly two. **Use the same passport both times**
+- 💳 At every ATM and card terminal, **choose baht, not shekels or pounds** — letting the machine convert costs several percent
 - **Download Grab** — Thailand's Uber/DiDi. Fixed price, English, card on file. Set it up in Israel.
-- **Thai Baht** — ~1,000 for the 15 Oct airport night, then **15,000–20,000** for this leg
+- **Thai Baht** — buy only **~1,000 in Israel** as a landing cushion (hotel prepaid, shuttle free). Then **withdraw ~10,000 on Thu 5 Nov** at a bank ATM: the massage is prepaid and all four dinners take cards, so cash is really just Chatuchak, markets, souvenirs and the Lao Gan Ma
 - ⚠ Thai ATMs charge a **fixed ~220 THB fee per withdrawal** — take out more, less often
 
 ---
