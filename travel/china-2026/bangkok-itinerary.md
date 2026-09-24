@@ -33,6 +33,7 @@
 ---
 
 ## Day 2 — Thursday 5 November: Relax + Siam + Hot Stone
+*Massage ✅ BOOKED + PAID — 16:30*
 
 - **No alarm** · Breakfast at the hotel (included)
 - **Morning — nothing.** Pool on 18, gym on 19, two saunas
@@ -42,18 +43,20 @@
 - ☕ **VE/LA**, Central Embassy · award-winning Bangkok coffee, creative matcha drinks
 
 - **13:30** BTS Chit Lom → **Siam** · *one stop*
-- **13:45–15:30 Siam**
+- **13:45–15:45 Siam**
   - **Siam Center** — Brandy Melville (first in Thailand), Thai designer labels
   - **Siam Square** — indie boutiques, streetwear, laneways. The hipster bit
   - **Siam Paragon** — Uniqlo
-- **15:40** BTS Siam → **Ploenchit** · *two stops*
+- **15:50** BTS Siam → **Ploenchit** · *two stops* · **take the BTS, do not walk** — 25 min in 32°C leaves you sticky for a heat treatment
 - 🍵 **Ksana Matcha**, 2F One City Centre, 548 Ploenchit Rd · Japanese matcha importer, Antelope Canyon interior · *on the way*
 
-- **16:00** 🪨 **Hot Stone Massage, 90 min** — Let's Relax, **30th floor, Grande Centre Point, 100 Witthayu Rd** · **~£53**
-  - 10–15 min walk, or BTS Ploenchit Exit 5 then 300m · Open 10:00–24:00
-  - 🔗 [Book online](https://booking.letsrelaxspa.com/book) · ☎ +66 2651 5225
-- **17:30** Finish · back to the hotel
-- **🍽 Dinner: El Gaucho**, Velaa Sindhorn Village · Argentinian grill · effectively next door
+- **16:30** 🪨 **Aromatic Hot Stone Massage, 90 min** — ✅ **BOOKED + PAID**
+  - **Booking no. BLR2611050011** · Let's Relax **Bangkok Ploenchit Grande Centre Point**, 30th floor, 100 Witthayu (Wireless) Rd
+  - **2,300 THB paid in full** 24 Sept · Mastercard ···4615 · ref K-ISBS-2854301645 · *nothing to pay on the day*
+  - BTS Ploenchit Exit 5 then 300m · Open 10:00–24:00 · ☎ +66 2651 5225
+- **18:00** Finish · **walk back to the hotel** — 10–15 min, cooler by then, and downhill
+- **19:30** 🍽 **Dinner: El Gaucho**, Velaa Sindhorn Village · Argentinian grill · effectively next door
+  - 👗 Smartest meal of the trip: **H&M cropped + short-sleeve + kimono + black Tevas.** Not flip-flops.
 
 > **Why hot stone, not Thai massage:** Thai is vigorous — stretching and heavy pressure. After three weeks of trains and hiking, sustained heat from the stones does more. It only comes as 90 min because the stones need time to place and work.
 
