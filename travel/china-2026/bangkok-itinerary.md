@@ -33,11 +33,14 @@
 | If you want | Go to |
 |---|---|
 | **A proper meal** | **August**, Langsuan · 5 min walk · healthy, organic veg, USDA meats · walk in |
-| **Something lighter** | **Mozza**, Central Chidlom · salads |
+| **Something lighter** | ⭐ **Gourmet Market, Central Chidlom** · ~10 min walk · supermarket with excellent prepared food — salads, sushi, sandwiches, fruit. Assemble something and take it back to the room. A step up from 7-Eleven without being a sit-down meal *(you are back here on 7 Nov for the Lao Gan Ma)* |
+| **A short walk, undecided** | **Velaa Sindhorn Village** · effectively next door · several restaurants and cafés — walk over and see what appeals |
+| **Sit-down but light** | **Mozza**, Central Chidlom · salads |
 | **Barely anything** | **7-Eleven or FamilyMart** on Langsuan — toasties, fruit, yoghurt, noodles. Open late, and genuinely decent in Thailand |
 | **Not leaving the room** | Hotel room service |
 
-⚠ Central Embassy and Central Chidlom food halls close around **21:00–22:00** — fine if you are prompt, not if the flight slips.
+⚠ Central Embassy and Central Chidlom kitchens close around **21:00–22:00** — fine if you are prompt, not if the flight slips. Gourmet Market usually runs later.
+💡 Open Google Maps when you land and filter for *open now* — you will have data from the moment you switch the eSIM on.
 ✅ The convenience stores and August are both walkable in a few minutes, so a late arrival costs you nothing.
 
 > **First evening entirely yours — deliberately unbooked.** You wake in Beijing on a group tour and go to sleep with nothing scheduled for three days. The infinity pool on 18 is open late if you would rather swim than eat.
