@@ -159,8 +159,14 @@
   - ✅ **Worth a look:** textiles, prints, small leather, jewellery, lanterns — flat, light, and they survive a suitcase
   - ❌ **Skip:** soaps and ceramics — no interest, and ceramics are heavy and breakable alongside the Lao Gan Ma jars
 
-- **~12:30–13:00** Lunch — ⭐ **Mixt Chatuchak** next door: air-conditioned, and the non-Thai, non-fried option. Market food is almost all Thai and fried, so treat Mixt as the plan rather than the backup.
-- **~14:00** Back to the hotel · shower, drop the bags. **Earlier than planned is the likely outcome** — the afternoon is deliberately empty.
+- **~12:30** Leave the market. **Not eating inside** — market food is almost all Thai and fried.
+### 🍽 Lunch — after Chatuchak, two options
+| | |
+|---|---|
+| **Straight away** | ⭐ **Mixt Chatuchak** — next door, not inside the market. Air-conditioned, sit down, then head back |
+| **Back at base first** | BTS to Chit Lom, shower and drop the bags, then eat near the hotel ~14:00 — **Velaa**, **Gourmet Market** or **Central Embassy**. Better if you would rather be clean and unhurried than fed immediately |
+
+- **~14:00** At the hotel · shower, drop the bags. **Earlier than planned is the likely outcome** — the afternoon is deliberately empty.
 - **🌶 Before or after dinner — Tops Market, Central Chidlom (basement food hall)**
   - **Lao Gan Ma chilli crisp** — imported/Chinese section. You are at Central Chidlom for Mozza anyway
   - Backup if they are out: **Gourmet Market, Siam Paragon** (one BTS stop) or Villa Market
