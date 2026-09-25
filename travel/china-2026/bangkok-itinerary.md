@@ -1,4 +1,4 @@
-# Bangkok Itinerary — 4–8 November 2026
+# Bangkok Itinerary — 15 Oct stopover + 4–8 November 2026
 
 **Hotel:** Sindhorn Midtown, Vignette Collection by IHG
 **Address:** 68 Langsuan Rd, Soi Langsuan, Lumphini, Pathumwan, Bangkok 10330
@@ -17,6 +17,39 @@
 - **Download Grab** — Thailand's Uber/DiDi. Fixed price, English, card on file. Set it up in Israel.
 - **Thai Baht** — ✅ **2,000 bought in Israel** at a good rate: ~1,000 for the 15 Oct night, ~1,000 held for arriving on 4 Nov. Then **withdraw ~8,000 on Thu 5 Nov** at a bank ATM — the massage is prepaid and all four dinners take cards, so cash is really just Chatuchak, markets, souvenirs and the Lao Gan Ma
 - ⚠ Thai ATMs charge a **fixed ~220 THB fee per withdrawal** — take out more, less often
+
+---
+
+## Night 0 — Thursday 15 October: Bangkok airport stopover
+
+*One night between Tel Aviv and Hong Kong. Not a Bangkok day — a sleep.*
+
+**Hotel:** Canalis Suvarnabhumi Airport Hotel · 1599/1 Lat Krabang Soi 13, Lat Krabang 10520
+**Booking.com:** 6637.638.401 · PIN 4470 · Deluxe Double · **₪158, no breakfast** · ☎ +66 2 332 1555
+**Check-in** 14:00–00:00 · **Check-out** Fri 16 Oct by 12:00 · **Free airport shuttle**
+
+- **Tue 14 Oct, 22:15** ⚠ Be at **Ben Gurion** — El Al want 3 hrs. You leave the evening of the 14th, not the 15th
+- **01:15** ✈ **El Al LY83** TLV → BKK · 11h 40m · Dreamliner
+- **16:55** Land Suvarnabhumi · **TDAC QR ready** (task due 13 Oct)
+- **~17:40** Immigration + bags
+- 📶 **Switch on the Airalo eSIM here** — this is its first connection, which starts the 30 days
+- 🚐 **Free hotel shuttle** — ⚠ **confirm the pick-up point and times with the hotel in advance**, do not assume
+- **~18:30** Check in. Late arrival is fine — reception runs to midnight
+
+### That evening
+- 🍽 Hotel restaurant, or 7-Eleven nearby. **Lat Krabang is suburban** — this is not a night for going out, and you will have been travelling ~20 hrs door to door
+- 💵 You have **~1,000 THB** in hand. Hotel prepaid, shuttle free, so this is incidentals only
+- ⚠ **Settle the bill the evening you arrive** — the morning is too tight
+- ⚠ **Book the 07:45 shuttle at reception** the night before
+- 🍞 **Buy breakfast the night before.** No breakfast at Canalis and you leave at 07:45 — 7-Eleven, or eat airside at Suvarnabhumi
+
+### Friday 16 October — early
+- **~06:30** Up
+- **07:45** 🚐 Shuttle to Suvarnabhumi
+- **10:30** ✈ **Thai TG628** BKK → HKG · ref **EASDQZ** · seat 44H · 1pc 23kg + 7kg
+- **14:20** Land Hong Kong **Terminal 1**
+
+> **The point of this night is sleep, nothing else.** You land after ~20 hrs of travel and leave again before 08:00. Do not plan anything.
 
 ---
 

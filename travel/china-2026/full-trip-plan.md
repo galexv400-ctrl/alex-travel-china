@@ -131,8 +131,8 @@
 - Phone: +66 2 796 8888
 - Booking.com confirmation: 6761.193.363 | PIN: 6989
 - Check-in: Wed 4 Nov from 15:00 | Check-out: Sun 8 Nov by 12:00
-- Room: King Studio, breakfast included, free cancellation before 4 Oct 2026
-- Total: ₪2,020 (THB 23,388.17) — pay at property
+- Room: **upgraded — private bathroom**, breakfast included
+- Total: **₪2,771** (room ₪2,354 + 7% VAT ₪165 + 10% service ₪252) — ✅ **paid, Israeli card**
 - BKK → HKG: Thai Airways TG628, departs 10:30, arrives 14:20, Fri 16 Oct · 2h 50m · Economy (W) · arrives HKG **Terminal 1**
   - ⚠ Early start. Canalis shuttle by **07:45**; book it at reception the night before. Check-out is 12:00 so no clash, but settle the bill the evening you arrive.
 - Booking ref: EASDQZ | E-Ticket: 2172348955256
