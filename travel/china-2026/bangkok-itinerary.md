@@ -179,20 +179,28 @@
 > 🎁 **This is souvenir day.** Everything for friends gets bought today or tomorrow morning — not in Hong Kong, where you would then carry it for 16 days and five train legs.
 
 - **09:30** Breakfast at the hotel
-- **10:30** BTS Chit Lom → **Mo Chit** · direct on the Sukhumvit line, ~20 min
+- **10:30** Getting there — **two options**
+  - ⭐ **MRT Lumphini → Kamphaeng Phet** · direct on the Blue Line, no change · **Exit 2 leads straight into the market** — no walk at the other end, and the cleanest toilets and the lockers are right there
+  - **BTS Chit Lom → Mo Chit** · fewer stops, but ~10 min walk from the station to the market
 - **11:00 Chatuchak** · Sat–Sun 09:00–18:00, all zones open
   - ⏱ **Plan for ~3 hrs.** You move fast and the shopping is opportunistic — out by **14:00** is realistic. Everything below is a menu, not a checklist: skip freely.
 
-**Go straight to the vintage — skip the rest:**
-  - **Sections 2–3** — Thailand's best vintage Levi's, military jackets, graphic tees, 90s streetwear · **£5–47** a piece
-  - **Sections 5–6** — curated second-hand denim, workwear, rock tees · marked up for collectors, *polite haggling expected*
-  - **Sections 2–6** — independent Thai designers throughout
+**Go straight to the vintage:**
+  - ⭐ **Sections 5–6** — the second-hand and vintage zone. Levi's, military jackets, graphic tees, workwear, rock tees · **£5–47** a piece
+  - **Sections 2 and 4** — teen fashion and accessories · independent Thai designers scattered through 2–6
+  - ℹ *Section numbering varies between sources. 5–6 is consistently the vintage zone; treat the rest as a rough guide and follow the yellow signs with red lettering.*
 
-**🎁 Then souvenirs — sections 8, 10 and 26:** ~30 min, and only if the vintage has not taken it.
-  - ✅ **Worth a look:** textiles, prints, small leather, jewellery, lanterns — flat, light, and they survive a suitcase
-  - ❌ **Skip:** soaps and ceramics — no interest, and ceramics are heavy and breakable alongside the Lao Gan Ma jars
+**🎁 Then souvenirs — ~30 min, only if the vintage has not taken it:**
+  - ✅ **Sections 1 and 29** — antiques, **jewellery**, books · flat, light, survives a suitcase
+  - ✅ **Sections 25–26** — **silk and textiles**, Southeast Asian home décor
+  - ❌ **Skip section 8** — wood carvings, fragrances, **spa products**. Soaps, which you do not want
+  - ❌ **Skip the ceramics** in 15/19/20 and 25–26 — heavy and breakable alongside glass jars of Lao Gan Ma
 
 - **~14:00** Leave the market. **Not eating inside** — market food is almost all Thai and fried.
+  - 💳 **Cash, in small notes.** Card acceptance is limited; **some stalls take Alipay**, which you have set up
+  - 🚻 Toilets are around the outer perimeter, small coin fee. The two by **MRT Kamphaeng Phet Exit 2** are staffed and cleanest
+  - 🔒 **Lockers by Exit 2** if you buy more than you want to carry
+  - 💱 Currency exchange inside **Mixt Chatuchak** if you run short
 ### 🍽 Lunch — after Chatuchak, two options
 | | |
 |---|---|
@@ -211,6 +219,10 @@
   - 🍵 Or **Peace Oriental Teahouse** back on Langsuan
 - **🍽 Dinner: Mozza**, Central Chidlom · Niçoise, crab and mango, raspberry rocket, lobster, beetroot carpaccio · light after five hours in the heat
 
+> 💡 **Haggling:** less expected here than reputation suggests — **fixed pricing dominates**. The discount comes from volume: buy two or three from one stall and ask for a better price. "Buy more, get one free" signs mark low-margin stock.
+>
+> ☔ **November is the tail of the rainy season** — afternoon thunderstorms are possible. Another reason not to be there at 16:00.
+>
 > ⚠ **The trade-off of the later start:** Chatuchak is busiest from late morning through mid-afternoon, and the narrow section lanes get slow — which matters more when you move fast. Heat is not your issue; crowds are. Sections 2–6 are where you are headed, so go straight there rather than drifting in from the entrance.
 >
 > ✅ **Closing time is not a risk** — the market runs to 18:00 and you will be out around 14:00. It's also 15,000 stalls, most of them souvenirs you don't want — head straight for sections 2–6 rather than wandering in from the entrance.
