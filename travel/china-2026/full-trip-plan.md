@@ -35,7 +35,7 @@
 | Thu 5 Nov | 22 | Bangkok | Morning free (pool). Sushi at Honmono. Siam shopping. **Hot stone massage 16:00**, Let's Relax Ploenchit. Dinner: El Gaucho | — |
 | Fri 6 Nov | 23 | Bangkok | **Charoenkrung creative district** — Warehouse 30, ATT19, Talat Noi, TCDC. Dinner: Maison Saigon | — |
 | Sat 7 Nov | 24 | Bangkok | **Chatuchak** (weekends only), Sections 2–6. Back 15:00, pool. Dinner: Mozza | — |
-| Sun 8 Nov | 25 | Bangkok → Tel Aviv | Check out 11:45. Grab 12:00 — arrive ~12:40–13:00, when El Al check-in opens. **Hard cut-off 3 hrs** | El Al LY84, BKK 16:30 → TLV 22:55 |
+| Sun 8 Nov | 25 | Bangkok → Tel Aviv | Check out 12:00. Grab 12:15 — arrive ~12:55–13:15; desks open ~13:30. **Hard cut-off 3 hrs** | El Al LY84, BKK 16:30 → TLV 22:55 |
 
 ---
 
@@ -79,7 +79,7 @@
 | *— room ₪2,354 · 7% VAT ₪165 · 10% service ₪252 · THB 30,498* | | *upgraded: original King Studio had no private bathroom* |
 | *— raised with Booking.com 24 Sep* | *₪751 difference* | *complaint logged; they contacted the hotel. No resolution expected — keeping the upgraded room* |
 | **Other** | | |
-| Travel insurance (PassportCard) | ~$270 | ✅ **Paid** · policy printed |
+| Travel insurance (PassportCard) | paid | ✅ **PAID** · policy printed · nothing outstanding |
 | Intrepid tour #6886724 | ~$4,000 | ✅ Booked |
 | Airalo eSIM — Asia 50 GB / 30 days | £41.77 | ✅ Paid 24 Sep |
 | Hot stone massage, 5 Nov | 2,300 THB (~£52) | ✅ Paid 24 Sep |

@@ -192,17 +192,17 @@
   - ☕ **Open House, 6F Central Embassy** — bookshop, cafés, big light-filled space. Somewhere to sit with a book rather than shop
   - 🎁 **Last chance for souvenirs** — air-conditioned, mall prices but zero effort
   - 🌶 Also the fallback for the chilli crisp if Saturday did not work out
-- **11:45** Check out
-- **12:00** 🚕 **Grab to Suvarnabhumi** · 40–60 min · **~£9–15** · *door to door — you will have more luggage than you arrived with*
-- **12:40–13:00** ✈ **Arrive airport — ~3.5 hrs before departure**, timed to when El Al check-in opens rather than before it
+- **12:00** Check out
+- **12:15** 🚕 **Grab to Suvarnabhumi** · 40–60 min · **~£9–15** · *door to door — you will have more luggage than you arrived with*
+- **12:55–13:15** ✈ **Arrive airport** — El Al desks at BKK open **~3 hrs before** (≈13:30) from your own experience there, so arriving earlier just means waiting with luggage
 - **16:30** ✈ **El Al LY84** · BKK → TLV · seat 34D · 11h 25m
 - **22:55** Land Tel Aviv — **same day, Sun 8 November.** Thailand is UTC+7, Israel UTC+2 in November, so the 5-hour difference swallows most of the 11h 25m flight.
 
 > ⚠ **El Al is stricter than other airlines.** Security screening happens BEFORE check-in, they recommend **4 hours**, and their hard deadline for economy is **3 hours** — they state plainly that late passengers are not boarded.
 >
-> ✅ **Leaving at 12:00 is the right compromise.** El Al check-in at BKK opens ~3.5 hrs before (≈13:00), so arriving earlier just means waiting with luggage. A 40-min run puts you there at 12:40, a bad 60-min run at 13:00 — either way you arrive as the desks open, with traffic already absorbed.
+> ✅ **12:15 is the right departure.** Desks open ~3 hrs before (≈13:30) at this airport. A 40-min run puts you there at 12:55, a bad 60-min run at 13:15 — either way you are there before they open, with traffic absorbed and no standing around.
 >
-> ⚠ **Do not push it later.** 12:15 leaves you at 3¼ hrs with zero margin, and their hard cut-off is 3 hrs.
+> ⚠ **Do not push it later than 12:15.** Their hard cut-off is 3 hrs, so anything later removes your traffic margin entirely.
 
 > **Why Grab and not the Airport Rail Link:** the train is cheaper (~£2) and immune to traffic, but it means BTS Chit Lom → transfer at Phaya Thai → ARL, with a suitcase plus whatever Chatuchak and Siam produced. The downside is asymmetric — £12 costs £12, a missed connection costs a flight home.
 
