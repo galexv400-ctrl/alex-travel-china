@@ -185,13 +185,16 @@
 ---
 
 ## 🧺 LAUNDRY PLAN
-**First wash: Hong Kong. Drop-off laundry, not a sink wash.** Nothing gets washed 15–18 Oct.
+**First and only wash of the trip: Hong Kong. Drop-off laundry.**
 
-- **Drop off Sat 17 or Sun 18 — not Mon 19.** Most HK shops are same-day or next-day, but you leave for Chongqing on Tue 20 and the Intrepid welcome meeting is 18:00 on Mon 19. Dropping off on the 19th risks not getting it back in time.
+**What goes in:** knickers and socks · the `[Warm]` clothes worn 15–19 Oct · what you flew in (green jumpsuit)
+**Timing:** ⭐ **drop Sunday 18 Oct ~10:00** on the way out to Sham Shui Po · **collect Monday 19 Oct ~10:45** before checkout
+- ❌ Saturday does not work — you are out from 08:45 until dinner at 19:45, by which time the shops are shut
+
 - **Use a local shop, not the hotel.** Tsim Sha Tsui is full of drop-off laundries; expect roughly **HKD 40–70 for a wash-dry-fold load**, often with a minimum weight. Hotel laundry at The Luxe Manor will be several times that, priced per item.
 - Ask the Luxe Manor front desk for the nearest one — they will know, and it saves hunting.
-- ⚠ **Keep the TRAVEL 100 merino out of the bag.** Commercial machines tumble dry hot and will shrink it. Hand wash that one at max 30°C, laid flat.
-- ⚠ Take the **Girlfriend Collective leggings and bike shorts** out too if the shop tumble dries — high heat degrades the elastane.
+- ✅ **Nothing delicate is in this load.** It is knickers, socks, the warm-weather clothes and what you flew in — none of it is at risk from a hot tumble dry.
+- ℹ The **TRAVEL 100 merino** and the **GF leggings** are not worn in Hong Kong, so they are not in this wash. Keep them out of any commercial machine later in the trip — merino shrinks, elastane degrades.
 
 **What this means for 15–18 Oct:** 4 days of 28–32°C humidity on 2 bra tops, the grey short-sleeve, the kimono and 2 playsuits — plus the sports bras, which double as tops.
 
