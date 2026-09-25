@@ -66,16 +66,20 @@
 
 *Skip Samsen — Thai, and there is always a queue.*
 
-### 🛍 Sheung Wan / Central — the whole afternoon
-*Everything below is within a 10-minute walk of everything else.*
+### 🛍 Sheung Wan / Central — ~14:30 onwards
+*Everything below is within a 10-minute walk of everything else. **Times are a suggested order, not a schedule** — you arrive earlier than these stops need, so there is slack throughout.*
 
-- **15:00 Blue Lotus Gallery**, 28 Pound Lane, Sheung Wan · Photography + the mini print vending machine · Tue–Sun 11:00–18:00 — *now with hours to spare rather than 45 min*
+**Closing times, which is what actually constrains the order:**
+- **Bang Bang 70s** 19:00 · **PMQ shops** 19:00 · **Blue Lotus** 18:00 · **Cat Street** ~18:00
+- **Select 18** runs to **23:00** — always do this one last
+
+- **~14:30 Blue Lotus Gallery**, 28 Pound Lane, Sheung Wan · Photography + the mini print vending machine · Tue–Sun **11:00–18:00**
   - 🔗 [Website](https://bluelotus-gallery.com/about) · [Facebook](https://www.facebook.com/bluelotusgalleryhk/)
-- **15:45 Cat Street** (Upper Lascar Row) — antiques, bric-a-brac · 5 min walk · stalls wind down ~18:00
-- **16:15 PMQ**, 35 Aberdeen Street · Design studios · Shops till 19:00, cafes till 23:00
-- **16:45 Bang Bang 70s**, 1/F, 16A Aberdeen Street — *next door to PMQ* · Daily 14:00–19:00
-- **17:15 Select 18**, Shop A, 18 Bridges Street · Vintage · **Open till 23:00 Saturdays**
-- **17:45 Central Market** + Old Town Central streets — Cochrane, Stanley, Graham, Aberdeen
+- **~15:15 Cat Street** (Upper Lascar Row) — antiques, bric-a-brac · 5 min walk · ⚠ stalls wind down **~18:00**, and rain shuts it — do this before the indoor stops if the sky looks wrong
+- **~16:00 PMQ**, 35 Aberdeen Street · Design studios · Shops till **19:00**, cafés till 23:00
+- **~16:45 Bang Bang 70s**, 1/F, 16A Aberdeen Street — *next door to PMQ* · Daily **14:00–19:00**
+- **~17:15 Select 18**, Shop A, 18 Bridges Street · Vintage · **open till 23:00 Saturdays — the one you can do last, or after dinner**
+- **~17:45 Central Market** + Old Town Central streets — Cochrane, Stanley, Graham, Aberdeen
 - *Also here if you fancy it:* traditional **ear cleaning** on Queen's Road Central · **Moonary** and **Soul Coffee** for a sit-down
 - **19:00** MTR to TST · Dinner ~19:45
 
