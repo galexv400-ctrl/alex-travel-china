@@ -10,8 +10,15 @@
 ## Day 1 — Friday 16 October: Arrival
 *Gentle day — two flights behind you*
 
-- **14:20** Land at HKIA · UK passport · Top up Octopus card at Airport Express machines
-- **~15:00** **Airport Express** to Kowloon Station (24 min) · Taxi to The Luxe Manor · Octopus already topped up, so tap and go
+- **14:20** Land at HKIA · UK passport
+  - ❌ **Do NOT top up the Octopus.** You have ~HKD 500 on it and the Airport Express is ~105. You need to spend it **down** by the 19th — refunding costs HKD 11 and takes 6–8 weeks
+  - 💵 **You arrive with no HKD cash** (none was available in Israel). Use an **ATM in arrivals** if you want some — not an exchange counter, the airport rates are poor
+- **~15:00** **Airport Express** to Kowloon Station (24 min) · tap the Octopus
+- **Kowloon Station → The Luxe Manor** (~2 km), pick one:
+  - ⭐ **Uber** — operates in HK and **pays by card**, so no cash needed. Best with luggage off two flights
+  - **Free Airport Express shuttle bus** — the K-routes serve TST hotels. ⚠ Check whether The Luxe Manor is a listed stop; if it is, this is free and door to door
+  - **Taxi** — cheapest (~HKD 50) but many drivers want cash
+  - **MTR** — Austin → Tsim Sha Tsui, 5 min walk, pays with the Octopus you need to spend down. Best on any day you are *not* carrying a suitcase
   - *Why the train, not a taxi:* both arrive ~15:45, but a taxi is ~HKD 300–340 vs ~HKD 130, **Friday late afternoon is rush hour into TST**, and HK taxis are often cash-first — you would need to withdraw HKD at the airport first. The train is immune to traffic and already paid for.
 - **~16:00** Check in, freshen up, rest properly — no rush tonight
 - **18:45** Walk to the Avenue of Stars (10 min along the waterfront)
