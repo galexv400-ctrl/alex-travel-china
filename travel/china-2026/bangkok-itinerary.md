@@ -25,11 +25,22 @@
 - **18:05** Land Suvarnabhumi off CA959 from Beijing · Visa-free, 30 days · **TDAC QR code ready**
 - **~18:50** Immigration + bags
 - **~19:00** 🚕 **Grab** — four official pick-up points on **Level 1 of arrivals**, clearly signed · ~5 min to match, ~15 min for the car · **~£9–15** inc. 50 THB airport fee and tolls · 40–60 min
-- **~20:00** Check in — Sindhorn Midtown, 68 Langsuan Road
-- **🍽 Dinner: August**, Langsuan · 5 min walk · Healthy cuisine, organic vegetables, USDA-certified meats
-  - *Alternative:* **Mozza**, Central Chidlom · salads
+- **~20:00–20:15** Check in — Sindhorn Midtown, 68 Langsuan Road
 
-> **First evening entirely yours.** You wake in Beijing on a group tour and go to sleep with nothing scheduled for three days. Don't over-plan it — the infinity pool on 18 is open late.
+### 🍽 Dinner — decide when you land, nothing booked
+*You will have been travelling since a Beijing hotel this morning. Pick by how you feel, not by a plan.*
+
+| If you want | Go to |
+|---|---|
+| **A proper meal** | **August**, Langsuan · 5 min walk · healthy, organic veg, USDA meats · walk in |
+| **Something lighter** | **Mozza**, Central Chidlom · salads |
+| **Barely anything** | **7-Eleven or FamilyMart** on Langsuan — toasties, fruit, yoghurt, noodles. Open late, and genuinely decent in Thailand |
+| **Not leaving the room** | Hotel room service |
+
+⚠ Central Embassy and Central Chidlom food halls close around **21:00–22:00** — fine if you are prompt, not if the flight slips.
+✅ The convenience stores and August are both walkable in a few minutes, so a late arrival costs you nothing.
+
+> **First evening entirely yours — deliberately unbooked.** You wake in Beijing on a group tour and go to sleep with nothing scheduled for three days. The infinity pool on 18 is open late if you would rather swim than eat.
 
 ---
 
