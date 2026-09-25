@@ -87,22 +87,35 @@
 ---
 
 ## Day 3 — Sunday 18 October: Sham Shui Po day + evening massage
-*Massage booked for 17:00 · Early start, lunch in Sham Shui Po*
+*Massage ✅ BOOKED 17:00 — the only fixed point. Everything before it is yours.*
 
-- **07:30** **Gym** — hotel gym, or Snap Fitness at 27–33 Nathan Road (4 min walk)
-- **08:30** 🍳 **Breakfast at The Luxe Manor** — included
-- **09:00** MTR TST → Sham Shui Po (~15 min, Tsuen Wan Line, no change)
-- **09:30** **Mei Ho House Heritage Museum**, 70 Berwick Street · Restored 1950s public housing · Free · **Opens 09:30 — the earliest thing open, so it goes first** · 45 min
-- **10:15** **JCCAC**, 30 Pak Tin Street · Converted factory, 100+ artist studios · Free · *Opens 10:00 — this is what sets the morning* · ~1.5 hrs
+> 😴 **Later start, allowing for jet lag.** If you wake early anyway, just shift the whole thing forward — Mei Ho House opens 09:30 and JCCAC at 10:00, so earlier works. Nothing before 17:00 is booked.
+
+- **Optional 08:30 gym** — hotel gym, or Snap Fitness at 27–33 Nathan Road (4 min walk)
+- **09:30** 🍳 **Breakfast at The Luxe Manor** — included
+- **10:15** MTR TST → Sham Shui Po (~15 min, Tsuen Wan Line, no change)
+- **10:30** **Mei Ho House Heritage Museum**, 70 Berwick Street · Restored 1950s public housing · Free · 45 min
+- **11:30** **JCCAC**, 30 Pak Tin Street · Converted factory, 100+ artist studios · Free · ~1.5 hrs
   - 🔗 [Instagram](https://www.instagram.com/jccac_artsvillage/) · [Facebook](https://www.facebook.com/jccacpage/)
-- **11:45** 🍽 **Lunch + snack stops in Sham Shui Po**
-  - **Hop Yik Tai** — 121 Kweilin Street · Michelin-listed cheung fan · **Steamed, not fried** · 06:30–20:30
-  - **Kung Wo Beancurd Factory** — 118 Pei Ho Street, 1 min from MTR Exit B2 · 07:00–21:00 · ⚠ famous dish is deep-fried tofu — have the tofu fa or fresh soy milk
-  - **Heritage Tea House** — ground floor of JCCAC · Dumplings, noodle soup, herbal iced tea
-  - **YEARS** — plant-based, from HKD40 · lightest option
-  - **Lau Sum Kee** — Michelin Bib Gourmand bamboo-pole noodles (tossed, not fried)
-- **13:00** 🛍 **Thrifting block — now a full 3 hrs**
-  - **Apliu Street** flea market · **Sing Jai Kee** vintage · **Fuk Wing Street** and the fabric streets · **Dragon Centre** if you want aircon
+- **13:00** 🍽 **Lunch in Sham Shui Po**
+  - ⭐ **Hop Yik Tai** — 121 Kweilin Street · Michelin-listed cheung fan · **steamed, not fried** · 06:30–20:30
+  - **YEARS** — plant-based, from HKD40 · the lightest option
+  - **Heritage Tea House** — ground floor of JCCAC, so you can eat without moving
+  - *Lau Sum Kee* (bamboo-pole noodles, tossed not fried) · *Kung Wo Beancurd* (⚠ the famous dish is deep-fried — have tofu fa or fresh soy milk instead)
+### ☕ 14:00 — Tai Nan Street: coffee, then thrifting
+*Tai Nan Street is Sham Shui Po's café strip AND the heart of the thrifting area — the same few blocks. Do both at once.*
+
+| | |
+|---|---|
+| ⭐ **Openground**, 198 Tai Nan St | Coffee, books and art over two floors — ground floor café and shop, exhibitions upstairs by local artists. Known for unusual cheesecakes. **The best fit for you** — same appeal as JCCAC and PMQ |
+| **Café Sausalito**, 201 Tai Nan St | Part café, part micro-roaster, part bean supplier. Industrial look, classic coffee |
+| **Flow**, 195 Tai Nan St | Hand-drip specialists who run brewing masterclasses. Known for a vivid green matcha cake |
+| **KOKONI** | Japanese-themed, in-house roasted |
+
+*All three of the first are on one block — 195, 198, 201. **Ki Lung Street** is the other café artery.*
+
+- 🛍 **Thrifting, same area** — **Apliu Street** flea market · **Sing Jai Kee** vintage · **Fuk Wing Street** and the fabric streets · **Dragon Centre** if you want aircon
+  - 🎒 Browsing, not buying — bag space is the constraint, same as Chatuchak
 - **16:00** Leave Sham Shui Po · MTR back to TST (12 min)
 - **16:30** Back at hotel, freshen up
 - **17:00** 💆 **Massage — Tai Pan Reflexology Parlour**, 83 Nathan Road (basement) · **✅ BOOKED — 5:00pm** · 5 min walk · ☎ +852 2301 1990
