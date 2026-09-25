@@ -94,6 +94,7 @@
 
 - **Optional 08:30 gym** — hotel gym, or Snap Fitness at 27–33 Nathan Road (4 min walk)
 - **09:30** 🍳 **Breakfast at The Luxe Manor** — included
+- **10:00** 🧺 **Drop the laundry off** on the way out — ask The Luxe Manor front desk for the nearest drop-off shop. Collect Monday morning.
 - **10:15** MTR TST → Sham Shui Po (~15 min, Tsuen Wan Line, no change)
 - **10:30** **Mei Ho House Heritage Museum**, 70 Berwick Street · Restored 1950s public housing · Free · 45 min
 - **11:30** **JCCAC**, 30 Pak Tin Street · Converted factory, 100+ artist studios · Free · ~1.5 hrs
@@ -133,13 +134,13 @@
 ---
 
 ## Day 4 — Monday 19 October: Manicure + Check Out
-*⚠ Check out by 12:00 · Welcome meeting 6pm at Harbour Plaza North Point*
+*⚠ Check out by 12:00 · Manicure 12:00 · Welcome meeting 18:00 at Harbour Plaza North Point*
 
-- **07:30** Optional hotel gym
-- **08:30** 🍳 **Breakfast at The Luxe Manor** — included · *last one, make it count*
-- **09:30** Pack
-- **10:30** ⚠ **Check out early** — before the manicure, not at 12:00 · Leave luggage with concierge
-- **11:00** Slow brunch nearby in TST
+> 🧳 **Pack the night before.** Then Monday is just a checkout, and the morning stays yours.
+
+- **09:30** 🍳 **Breakfast at The Luxe Manor** — included · *last one, make it count*
+- **10:45** 🧺 **Collect the laundry** (dropped Sunday morning — see below)
+- **11:15** ⚠ **Check out** — before the manicure, not at the 12:00 deadline · leave luggage with the concierge
 - **12:00** 💅 **Nu Nail & Beauty** — Flat 10A, 10/F, Lokville Commercial Building, 27 Lock Road, TST · **3 min walk from hotel** · ✅ **BOOKED** · Open daily 10:00–23:00 · ☎ +852 5323 3617
   - 🔗 [Website](https://www.nunailandbeauty.com/) · [Instagram](https://www.instagram.com/nunailandbeauty/) · [Facebook](https://www.facebook.com/nunailandbeauty/)
 - **~13:30** Done · Free afternoon in TST
@@ -148,8 +149,9 @@
   - 🛍 **Mee & Gee** — the big HK vintage chain has a **TST branch**, no harbour crossing · 70s Japanese pieces, leather jackets, denim · *People lose whole afternoons in here*
   - Or the waterfront, K11 MUSEA, or a slow coffee
   - 🚿 Need a shower after checkout? **Snap Fitness**, 27–33 Nathan Road (4 min walk) does day passes. Though you check in at Harbour Plaza at 16:00 with two hours before the meeting, so the hotel shower is simpler unless you actually want to train
-- **15:00** Collect luggage from The Luxe Manor · Taxi direct to Harbour Plaza North Point, 665 King's Road (~25 min, ~HKD 100)
-- **16:00** Check in at Harbour Plaza North Point
+- **15:30** Collect luggage from The Luxe Manor · **Uber to Harbour Plaza North Point**, 665 King's Road (~25 min)
+  - ⭐ **Uber, not a taxi** — pays by card, and cash is the thing you are short of in Hong Kong. A taxi is ~HKD 100 and often cash-only
+- **16:15** Check in at Harbour Plaza North Point · time to shower and change before the meeting
 - **18:00** ✅ Intrepid welcome meeting
 
 > ⚠ Harbour Plaza North Point is on HK Island — NOT Kowloon. Take taxi direct with luggage. Bring insurance details and next of kin info.
