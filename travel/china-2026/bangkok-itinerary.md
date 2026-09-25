@@ -121,6 +121,14 @@
   - Wander rather than tick off. Most places run roughly 10:00–18:00; many close Mondays, so Friday is right
   - ⚠ Heavily Chinese-Thai food, so most of it is off your list — treat it as coffee, galleries and shophouses
 
+### ⏱ If you finish early — backups in the area
+| | |
+|---|---|
+| ⭐ **River City Bangkok** | Art and antiques centre on the water, short walk from TCDC. Air-conditioned, galleries and dealers, river views. The natural extension |
+| ⭐ **ICONSIAM** | Across the river — **free shuttle boat** from Si Phraya or Sathorn pier. Enormous riverside mall, excellent food hall, best river views in Bangkok. Good if you want air-con and a change of pace |
+| **Assumption Cathedral + Old Customs House** | Both a few minutes off Charoenkrung. The European-quarter architecture that explains the whole district |
+| **Just stay on the boat** | Ride the Chao Phraya ferry further up or down and get off somewhere you have not been. Cheap, and the river is the point |
+
 - **~18:00** Ferry or BTS back
 - **19:30** 🍽 **Dinner: Maison Saigon**, Velaa Sindhorn Village · Vietnamese — grilled chicken and beef, herbs, fresh rolls. Light, nothing oily
   - *If you want one standout meal instead:* **Bistrot de la Mer**, 19F Sindhorn Kempinski · baked turbot (boneless), bouillabaisse
