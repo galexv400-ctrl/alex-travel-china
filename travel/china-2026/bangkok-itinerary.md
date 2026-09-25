@@ -180,7 +180,9 @@
 | Fri 6 | **Maison Saigon**, Velaa | Vietnamese — grilled chicken/beef |
 | Sat 7 | **Mozza**, Central Chidlom | Salads |
 
-**In reserve, all walkable:** Bisou (wagyu, Langsuan) · Bistrot de la Mer (boneless fish, 19F Kempinski) · Vaso (Spanish tapas, Velaa — *needs booking*) · Sushi Kuuya (Langsuan)
+**In reserve, all walkable:** Bisou (wagyu, Langsuan) · Bistrot de la Mer (boneless fish, 19F Kempinski) · Sushi Kuuya (Langsuan)
+
+*Not Vaso — Spanish tapas is the wrong flavour profile.*
 
 **Coffee / matcha / tea by location:**
 | Where you'll be | |
