@@ -187,16 +187,20 @@
 ## Day 5 — Sunday 8 November: Bangkok → Tel Aviv
 
 - **Breakfast** at the hotel — last one
-- **Morning free** — pool, or **Central Embassy / Central Chidlom** on your doorstep
+- ⚠ **Pack first.** You have more than you arrived with — Chatuchak, possibly Siam, and glass jars of Lao Gan Ma that need wrapping in clothing inside the **dry bag**. Not a ten-minute job.
+- **Morning free once packed** — pool, or **Central Embassy / Central Chidlom** on your doorstep
+  - ☕ **Open House, 6F Central Embassy** — bookshop, cafés, big light-filled space. Somewhere to sit with a book rather than shop
   - 🎁 **Last chance for souvenirs** — air-conditioned, mall prices but zero effort
   - 🌶 Also the fallback for the chilli crisp if Saturday did not work out
-- **12:00** Check out
-- **12:15** 🚕 **Grab to Suvarnabhumi** · 40–60 min · **~£9–15** · *door to door — you will have more luggage than you arrived with*
-- **~13:15** ✈ **Arrive airport** — 3¼ hrs before departure
+- **11:15** Check out
+- **11:30** 🚕 **Grab to Suvarnabhumi** · 40–60 min · **~£9–15** · *door to door — you will have more luggage than you arrived with*
+- **~12:30** ✈ **Arrive airport — 4 hrs before departure**, which is what El Al actually asks for
 - **16:30** ✈ **El Al LY84** · BKK → TLV · seat 34D · 11h 25m
-- **22:55** Land Tel Aviv
+- **22:55** Land Tel Aviv — **same day, Sun 8 November.** Thailand is UTC+7, Israel UTC+2 in November, so the 5-hour difference swallows most of the 11h 25m flight.
 
-> ⚠ **El Al is stricter than other airlines.** They recommend **4 hours** for international flights because security screening happens BEFORE check-in, and their hard deadline for economy is **3 hours**. They state plainly that late passengers are not boarded. Leaving at 12:15 gets you there with 3¼ hours — do not linger.
+> ⚠ **El Al is stricter than other airlines.** Security screening happens BEFORE check-in, they recommend **4 hours**, and their hard deadline for economy is **3 hours** — they state plainly that late passengers are not boarded.
+>
+> ✅ **Leaving at 11:30 gives you the full 4 hours.** Even a bad-traffic 60-minute run still lands you at 12:30. The earlier version left at 12:15 and cut it to 3¼ hrs, which had no margin at all.
 
 > **Why Grab and not the Airport Rail Link:** the train is cheaper (~£2) and immune to traffic, but it means BTS Chit Lom → transfer at Phaya Thai → ARL, with a suitcase plus whatever Chatuchak and Siam produced. The downside is asymmetric — £12 costs £12, a missed connection costs a flight home.
 
