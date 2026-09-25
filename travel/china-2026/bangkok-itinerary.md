@@ -154,6 +154,12 @@
   - Wander rather than tick off. Most places run roughly 10:00–18:00; many close Mondays, so Friday is right
   - ⚠ Heavily Chinese-Thai food, so most of it is off your list — treat it as coffee, galleries and shophouses
 
+### ☔ If it rains
+Bangkok showers in November are usually short afternoon bursts, not all-day rain. **This is the exposed day** — Talat Noi and Song Wat are outdoor walking.
+- **Sit it out indoors:** TCDC (to 21:00), Warehouse 30, ATT19 and River City are all covered. Reorder rather than cancel — the outdoor stretch can move to whenever it clears
+- **If it settles in:** **ICONSIAM** across the river, free shuttle boat, entirely indoors
+- ⚠ **You have no umbrella** — it was cut from the packing list, and the waterproof jacket is a winter shell you will not be carrying in Bangkok. **7-Eleven sells umbrellas for ~100 THB**; buy one if the sky looks wrong
+
 ### ⏱ If you finish early — backups in the area
 | | |
 |---|---|
@@ -190,11 +196,11 @@
   - **Sections 2 and 4** — teen fashion and accessories · independent Thai designers scattered through 2–6
   - ℹ *Section numbering varies between sources. 5–6 is consistently the vintage zone; treat the rest as a rough guide and follow the yellow signs with red lettering.*
 
-**🎁 Then souvenirs — ~30 min, only if the vintage has not taken it:**
-  - ✅ **Sections 1 and 29** — antiques, **jewellery**, books · flat, light, survives a suitcase
-  - ✅ **Sections 25–26** — **silk and textiles**, Southeast Asian home décor
-  - ❌ **Skip section 8** — wood carvings, fragrances, **spa products**. Soaps, which you do not want
-  - ❌ **Skip the ceramics** in 15/19/20 and 25–26 — heavy and breakable alongside glass jars of Lao Gan Ma
+**More clothing, then small souvenirs. Nothing else.**
+  - ✅ **Sections 12–14 and 21** — the largest clothing area: clothes, bags, shoes
+  - ✅ **Small souvenirs as you go** — canvas bags (~100 THB), passport holders, accessories, keyrings. Flat, light, cheap, and they survive a suitcase
+  - ❌ **Skip:** books · silk · antiques · ceramics · soaps and spa products (section 8) · home décor
+  - *That removes sections 1, 8, 15, 19, 20, 25, 26 and 29 entirely — most of the market. Good.*
 
 - **~14:00** Leave the market. **Not eating inside** — market food is almost all Thai and fried.
   - 💳 **Cash, in small notes.** Card acceptance is limited; **some stalls take Alipay**, which you have set up
@@ -221,7 +227,8 @@
 
 > 💡 **Haggling:** less expected here than reputation suggests — **fixed pricing dominates**. The discount comes from volume: buy two or three from one stall and ask for a better price. "Buy more, get one free" signs mark low-margin stock.
 >
-> ☔ **November is the tail of the rainy season** — afternoon thunderstorms are possible. Another reason not to be there at 16:00.
+> ☔ **November is the tail of the rainy season** — afternoon thunderstorms are possible, and the market lanes puddle badly. Another reason not to be there at 16:00.
+> **If it is raining:** Mixt Chatuchak next door is indoors, or abandon it for Siam/Central and shop under a roof. Chatuchak is not worth being soaked for.
 >
 > ⚠ **The trade-off of the later start:** Chatuchak is busiest from late morning through mid-afternoon, and the narrow section lanes get slow — which matters more when you move fast. Heat is not your issue; crowds are. Sections 2–6 are where you are headed, so go straight there rather than drifting in from the entrance.
 >
