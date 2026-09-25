@@ -145,10 +145,10 @@
 
 > 🎁 **This is souvenir day.** Everything for friends gets bought today or tomorrow morning — not in Hong Kong, where you would then carry it for 16 days and five train legs.
 
-- **08:00** Breakfast at the hotel
-- **09:00** BTS Chit Lom → **Mo Chit** · direct on the Sukhumvit line, ~20 min
-- **09:30 Chatuchak** · Sat–Sun 09:00–18:00, all zones open
-  - ⏱ **Plan for ~3 hrs, not 5.** You move fast and the shopping is opportunistic — out by 12:30–13:00 is realistic. Everything below is a menu, not a checklist: skip freely.
+- **09:30** Breakfast at the hotel
+- **10:30** BTS Chit Lom → **Mo Chit** · direct on the Sukhumvit line, ~20 min
+- **11:00 Chatuchak** · Sat–Sun 09:00–18:00, all zones open
+  - ⏱ **Plan for ~3 hrs.** You move fast and the shopping is opportunistic — out by **14:00** is realistic. Everything below is a menu, not a checklist: skip freely.
 
 **Go straight to the vintage — skip the rest:**
   - **Sections 2–3** — Thailand's best vintage Levi's, military jackets, graphic tees, 90s streetwear · **£5–47** a piece
@@ -159,14 +159,14 @@
   - ✅ **Worth a look:** textiles, prints, small leather, jewellery, lanterns — flat, light, and they survive a suitcase
   - ❌ **Skip:** soaps and ceramics — no interest, and ceramics are heavy and breakable alongside the Lao Gan Ma jars
 
-- **~12:30** Leave the market. **Not eating inside** — market food is almost all Thai and fried.
+- **~14:00** Leave the market. **Not eating inside** — market food is almost all Thai and fried.
 ### 🍽 Lunch — after Chatuchak, two options
 | | |
 |---|---|
 | **Straight away** | ⭐ **Mixt Chatuchak** — next door, not inside the market. Air-conditioned, sit down, then head back |
-| **Back at base first** | BTS to Chit Lom, shower and drop the bags, then eat near the hotel ~14:00 — **Velaa**, **Gourmet Market** or **Central Embassy**. Better if you would rather be clean and unhurried than fed immediately |
+| **Back at base first** | BTS to Chit Lom, shower and drop the bags, then eat near the hotel ~15:30 — **Velaa**, **Gourmet Market** or **Central Embassy**. Better if you would rather be clean and unhurried than fed immediately |
 
-- **~14:00** At the hotel · shower, drop the bags. **Earlier than planned is the likely outcome** — the afternoon is deliberately empty.
+- **~15:00** At the hotel · shower, drop the bags. The rest of the day is deliberately empty.
 - **🌶 Before or after dinner — Tops Market, Central Chidlom (basement food hall)**
   - **Lao Gan Ma chilli crisp** — imported/Chinese section. You are at Central Chidlom for Mozza anyway
   - Backup if they are out: **Gourmet Market, Siam Paragon** (one BTS stop) or Villa Market
@@ -178,7 +178,9 @@
   - 🍵 Or **Peace Oriental Teahouse** back on Langsuan
 - **🍽 Dinner: Mozza**, Central Chidlom · Niçoise, crab and mango, raspberry rocket, lobster, beetroot carpaccio · light after five hours in the heat
 
-> **Go early — but not for the heat.** You live in Israel; 32°C is ordinary. The real reason is **crowds**: Chatuchak fills up through the morning and the narrow section lanes get slow to move through, which matters more when you move fast. It's also 15,000 stalls, most of them souvenirs you don't want — head straight for sections 2–6 rather than wandering in from the entrance.
+> ⚠ **The trade-off of the later start:** Chatuchak is busiest from late morning through mid-afternoon, and the narrow section lanes get slow — which matters more when you move fast. Heat is not your issue; crowds are. Sections 2–6 are where you are headed, so go straight there rather than drifting in from the entrance.
+>
+> ✅ **Closing time is not a risk** — the market runs to 18:00 and you will be out around 14:00. It's also 15,000 stalls, most of them souvenirs you don't want — head straight for sections 2–6 rather than wandering in from the entrance.
 
 ---
 
