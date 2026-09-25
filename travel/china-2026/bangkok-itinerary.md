@@ -89,29 +89,45 @@
 
 ## Day 3 — Friday 6 November: Charoenkrung + Talat Noi + Song Wat
 
-- **08:00** Breakfast at the hotel
-- **09:00** BTS Chit Lom → Siam → change to **Silom Line** → **Saphan Taksin** (~25 min)
-  - Then walk up Charoenkrung, or take the **Chao Phraya ferry** from Sathorn Pier — *going by boat is half the point*
+*Reordered for a later start — and because Song Wat at golden hour beats Song Wat at noon.*
 
-- **09:45 Warehouse 30** — 48 Charoen Krung 30, Bang Rak · **09:00–18:00 daily · FREE**
+- **09:30** Breakfast at the hotel
+- **10:30** BTS Chit Lom → Siam → **Silom Line** → **Saphan Taksin** (~25 min)
+  - Or the **Chao Phraya ferry** from Sathorn Pier — *going by boat is half the point*
+
+- **11:15 Warehouse 30** — 48 Charoen Krung 30, Bang Rak · **09:00–18:00 daily · FREE**
   - 4,000㎡ of restored **WWII warehouses** — burnt orange facades, original steel trusses, wooden floors. Galleries, vintage shops, design stores
-  - ☕ **30, a COFFEE ROASTER by li-bra-ry** — *inside Warehouse 30*, roasted on site, watch the whole process
-- **~11:00 ATT19** — across the street · handicraft exhibitions, vintage shop, café · Soho vibes
-- **Talat Noi** — Bangkok's oldest shophouses, now studios. Street art through the laneways
-  - ☕ **Mother Roaster**, Talat Noi — run by **"Auntie Pim"**, a Bangkok legend who served coffee 30+ years from a shop with two stools before expanding upstairs
-- **~11:45 Song Wat Road** — carry on north from Talat Noi along the river, **5–10 min walk**
-  - Bangkok's old rice-trading street: century-old shophouses and godowns now holding cafés, galleries, natural-wine bars and design studios. The creative district everyone is talking about, and it is the same converted-industrial energy as Warehouse 30 but older and more lived-in
-  - **Hong Sieng Kong** — restored riverside complex on the Talat Noi/Song Wat edge: antiques, crumbling walls left as found, tables right on the water. The photograph of the trip
-  - Wander rather than tick off — the point is the shophouse facades, the laneways and what is open on the day. Most places run roughly 10:00–18:00; many close Mondays, so Friday is right
-  - ⚠ Heavily Chinese-Thai food, so most of it is off your list — treat it as coffee, galleries and shophouses, and eat elsewhere
-- **12:30** Lunch in the area — Charoenkrung is a specialty coffee and food neighbourhood
-- **14:00 TCDC**, Grand Postal Building, 1160 Charoenkrung Rd · Tue–Sun 10:30–21:00 · **~£2.30**
-- **River City Bangkok** — short walk, on the water, if you want more
-- **~16:00** Ferry or BTS back · **Late afternoon free**
-- **🍽 Dinner: Maison Saigon**, Velaa Sindhorn Village · Vietnamese — grilled chicken and beef, herbs, fresh rolls. Light, nothing oily
+  - ☕ **30, a COFFEE ROASTER by li-bra-ry** — *inside*, roasted on site
+
+- **12:30 ATT19** — across the street · handicraft exhibitions, vintage shop, café · Soho vibes
+
+### 🍽 13:15 Lunch — Charoenkrung
+| | |
+|---|---|
+| ⭐ **Sarnies**, Soi Charoenkrung 44 | Australian-style café, famous for sourdough. Sandwiches, brunch plates, salads, proper coffee. Air-conditioned. **Best fit** — non-Thai, not fried, not oily |
+| **The Warehouse Talat Noi** | Converted warehouse, several venues, French influence. Worth a look on the day |
+| **Sweet Pista**, inside Warehouse 30 | Convenient, but burgers and pasta — mostly off your list |
+
+- **14:30 TCDC**, Grand Postal Building, 1160 Charoenkrung Rd · **Tue–Sun 10:30–21:00** · ~£2.30
+  - Open till 21:00, which is what makes the later start work
+
+- **16:00 Talat Noi** — Bangkok's oldest shophouses, now studios. Street art through the laneways
+  - ☕ **Mother Roaster** — run by **"Auntie Pim"**, a Bangkok legend who served coffee 30+ years from a shop with two stools
+  - ☕ **La Cabra** — Scandinavian-style coffee, the other good stop here
+
+- **~16:45 Song Wat Road** — carry on north along the river, **5–10 min walk**
+  - Bangkok's old rice-trading street: century-old shophouses and godowns now holding cafés, galleries, natural-wine bars and design studios. Same converted-industrial energy as Warehouse 30 but older and more lived-in
+  - ⭐ **Hong Sieng Kong** ~17:00 — restored riverside complex on the Talat Noi/Song Wat edge: antiques, crumbling walls left as found, tables right on the water. **Golden hour. The photograph of the trip.**
+  - Wander rather than tick off. Most places run roughly 10:00–18:00; many close Mondays, so Friday is right
+  - ⚠ Heavily Chinese-Thai food, so most of it is off your list — treat it as coffee, galleries and shophouses
+
+- **~18:00** Ferry or BTS back
+- **19:30** 🍽 **Dinner: Maison Saigon**, Velaa Sindhorn Village · Vietnamese — grilled chicken and beef, herbs, fresh rolls. Light, nothing oily
   - *If you want one standout meal instead:* **Bistrot de la Mer**, 19F Sindhorn Kempinski · baked turbot (boneless), bouillabaisse
 
-> **Route note:** Warehouse 30 → ATT19 → Talat Noi → Song Wat is one continuous walk north along the river, then TCDC back south. No transport needed between them.
+> **Route:** Warehouse 30 → ATT19 → lunch → TCDC → Talat Noi → Song Wat is one walk north along the river, with TCDC as the air-conditioned middle. No transport needed between them.
+
+> 🌡 **Heat is not the issue for you** — you live in Israel. The reorder is about light, not comfort: the river at 17:00 is worth more than the river at midday.
 
 > **Why this and not a day trip:** every real day trip from Bangkok is 2.5–4 hrs each way. This is the JCCAC / Sham Shui Po energy you enjoyed in Hong Kong — converted industrial buildings, artist studios, an old working neighbourhood with a creative layer — and it's 30 minutes away.
 
