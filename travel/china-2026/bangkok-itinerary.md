@@ -73,6 +73,13 @@
 - **19:30** 🍽 **Dinner: El Gaucho**, Velaa Sindhorn Village · Argentinian grill · effectively next door
   - 👗 Smartest meal of the trip: **H&M cropped + short-sleeve + kimono + black Tevas.** Not flip-flops.
 
+> 🔁 **If the day feels too full, drop in this order:**
+> 1. **A coffee** — VE/LA or Ksana Matcha. Ksana is the squeeze: you reach Ploenchit ~16:00 and need the 30th floor by 16:30.
+> 2. **The pool** — a short swim, not a morning.
+> 3. **The afternoon shopping** — Siam and Central are open until ~22:00, so you can go after dinner instead. **Sun 8 Nov morning is also free** before the 12:00 checkout, with Central Embassy and Chidlom on your doorstep.
+>
+> The massage is the fixed point — paid, and the whole day is shaped around it.
+
 > **Why hot stone, not Thai massage:** Thai is vigorous — stretching and heavy pressure. After three weeks of trains and hiking, sustained heat from the stones does more. It only comes as 90 min because the stones need time to place and work.
 
 ---
