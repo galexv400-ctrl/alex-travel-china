@@ -58,7 +58,7 @@
 - ☕ **VE/LA**, Central Embassy · award-winning Bangkok coffee, creative matcha drinks
 
 - **13:30** BTS Chit Lom → **Siam** · *one stop*
-- **13:45–15:45 Siam**
+- **13:45–15:45 Siam** — 🎒 **browsing, not shopping.** Bag space is the constraint: 15kg limit, and the return already has to carry Chatuchak souvenirs and glass jars of Lao Gan Ma. Buy only if something is genuinely fun. Nothing here is a must.
   - **Siam Center** — Brandy Melville (first in Thailand), Thai designer labels
   - **Siam Square** — indie boutiques, streetwear, laneways. The hipster bit
   - **Siam Paragon** — Uniqlo

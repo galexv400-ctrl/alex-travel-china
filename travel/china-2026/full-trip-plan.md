@@ -89,7 +89,7 @@
 | Item | Approx | When |
 |---|---|---|
 | Spending — HK, China, Bangkok | £820–1,160 | Throughout |
-| Shopping, if buying properly | +£200–300 | Chatuchak, Siam, markets |
+| Shopping | minimal | **Opportunistic only** — bag space and the 15kg limit are the real constraint, not budget. The £200–300 allowance is unlikely to be needed. |
 
 > ✅ **All accommodation is now settled** — Sindhorn was the last one, upgraded and charged to the Israeli card. The £1,100 Monzo pot is now for spending only, which it covers.
 > 💡 If the Sindhorn charge is taken at checkout rather than now, choose **THB** at the terminal, not shekels.
