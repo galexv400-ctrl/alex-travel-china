@@ -40,20 +40,33 @@
 
 > ⏰ **The 08:15 start is fixed by the monastery booking**, not by choice. It is ~90 min from the hotel including the awkward last leg, so 09:15 is the latest sensible departure. Everything after **14:30 is yours**.
 
-- **08:15** 🍳 **Breakfast at The Luxe Manor** — included in your rate
-- **09:15** MTR East Rail to Tai Po Market (~45 min) · then to the monastery (show driver / ask for: 慈山寺)
+- **08:45** 🍳 **Breakfast at The Luxe Manor** — included in your rate
+- **09:45** MTR East Rail to Tai Po Market (~45 min) · then to the monastery (show driver / ask for: 慈山寺)
   - ⚠ **The direct 20T minibus runs WEEKDAYS ONLY** — no good on a Saturday. Options:
     1. **Taxi** — green NT taxi via Fly Taxi, or hail outside the station (~10 min)
     2. **Minibus 20B** — drops at Tong Tsz Road / Universal Gate Road junction, then **10 min walk uphill**
     3. **Bus to Tai Mei Tuk**, alight San Tau Kok — then ~30 min uphill walk. Last resort.
   - *hkbus.app is the best free app for HK bus and minibus live times*
-- **10:00** **Tsz Shan Monastery**, Tung Tsz Road, Tai Po · Free, pre-booked only · Peaceful Buddhist monastery, giant Guanyin statue, wooded grounds · ~2 hrs at your pace · Covered shoulders required · Open Thu–Tue 09:30–17:00
+- **10:30** **Tsz Shan Monastery** ✅ **BOOKED 10:30**, Tung Tsz Road, Tai Po · Free, pre-booked only · Peaceful Buddhist monastery, giant Guanyin statue, wooded grounds · **allow 75–90 min** — large site, 76m Guanyin and wooded grounds, but you move fast · Covered shoulders required · Open Thu–Tue 09:30–17:00
   - 🔗 [Instagram](https://www.instagram.com/tszshanmonastery/) · [Facebook](https://www.facebook.com/tszshanmonastery/) · [Booking](https://www.tszshan.org/home/new/en/visit.php)
-- **11:45** Back to Tai Po Market station · *Getting back is the harder direction — ask monastery reception to call a taxi before you leave the grounds, or walk 10 min down to the Tong Tsz Road junction for the 20B*
-- **12:05** **East Rail Line direct to Admiralty** (~40 min, no changes — the line runs cross-harbour since 2022)
-- **13:00** 🍵 **Lunch: LockCha Tea House — ✅ BOOKED, 1 person** — G/F, The K.S. Lo Gallery, 10 Cotton Tree Drive, Hong Kong Park, Admiralty · 100+ teas, all-vegetarian dim sum made fresh daily · Sat 10:00–21:00 · Stick to the steamed dumplings
+- **~11:45–12:00** Back to Tai Po Market station · *Getting back is the harder direction — ask monastery reception to call a taxi before you leave the grounds, or walk 10 min down to the Tong Tsz Road junction for the 20B*
+- **~12:15** **East Rail Line direct to Admiralty** (~40 min, no changes — the line runs cross-harbour since 2022) · arrive ~13:00
+- **13:00** 🍵 **Lunch: LockCha Tea House — ✅ BOOKED, 1 person** · ⚠ **only works with a 75-min monastery visit.** If you linger, call and push it to 13:30 — G/F, The K.S. Lo Gallery, 10 Cotton Tree Drive, Hong Kong Park, Admiralty · 100+ teas, all-vegetarian dim sum made fresh daily · Sat 10:00–21:00 · Stick to the steamed dumplings
   - 🔗 [Instagram](https://www.instagram.com/lockchahk/) · [Website](https://www.lockcha.com/locations/hong-kong-park/)
 - **14:30** Leave — LockCha sits inside Hong Kong Park, so you pass through it without stopping · MTR Admiralty → Sheung Wan, or walk (~15 min)
+
+### 🥗 If you skip LockCha — lunch in Sheung Wan instead
+*Eat when you arrive, ~14:00, with no booking and no clock.*
+
+| | |
+|---|---|
+| ⭐ **Purple Tomato**, Jervois St | Fresh salads, generously piled — Niçoise, Greek, Caesar. HK$80–100. Closest match to what you actually eat |
+| **Knead**, Jervois Rd | Sandwiches and salads, fully customisable — pick base, dressing, toppings. From HK$45 |
+| **Monsieur CHATTÉ**, Jervois St | Small French deli — build-your-own salad bar, lentils, goat's cheese, roast beef |
+| **Teakha**, off Tai Ping Shan St | Tea and desserts, outdoor terrace. Not lunch, but a lovely stop — right by Blue Lotus |
+| **Pacific Place**, Admiralty | Directly above the MTR you arrive at. Big mall, lots of choice, zero detour |
+
+*Skip Samsen — Thai, and there is always a queue.*
 
 ### 🛍 Sheung Wan / Central — the whole afternoon
 *Everything below is within a 10-minute walk of everything else.*
