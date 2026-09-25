@@ -71,6 +71,9 @@
   - BTS Ploenchit Exit 5 then 300m · Open 10:00–24:00 · ☎ +66 2651 5225
 - **18:00** Finish · **walk back to the hotel** — 10–15 min, cooler by then, and downhill
 - **19:30** 🍽 **Dinner: El Gaucho**, Velaa Sindhorn Village · Argentinian grill · effectively next door
+  - 🚶 **Walk-in is the plan — not booked, deliberately.** A solo diner is far easier to seat than a couple: bar seats and two-tops open up that groups cannot use.
+  - ☎ **If you decide you want it, call around 17:00** — you will be finishing the massage five minutes away.
+  - 🔁 **If it is full or you do not fancy it:** **Bisou** (wagyu, Langsuan, walkable) is the same-level steak alternative. Also **Bistrot de la Mer** (boneless fish, 19F Kempinski) or **Sushi Kuuya**, Langsuan.
   - 👗 Smartest meal of the trip: **H&M cropped + short-sleeve + kimono + black Tevas.** Not flip-flops.
 
 > 🔁 **If the day feels too full, drop in this order:**
