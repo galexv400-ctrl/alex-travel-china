@@ -35,7 +35,7 @@
 | Thu 5 Nov | 22 | Bangkok | Morning free (pool). Sushi at Honmono. Siam shopping. **Hot stone massage 16:00**, Let's Relax Ploenchit. Dinner: El Gaucho | — |
 | Fri 6 Nov | 23 | Bangkok | **Charoenkrung creative district** — Warehouse 30, ATT19, Talat Noi, TCDC. Dinner: Maison Saigon | — |
 | Sat 7 Nov | 24 | Bangkok | **Chatuchak** (weekends only), Sections 2–6. Back 15:00, pool. Dinner: Mozza | — |
-| Sun 8 Nov | 25 | Bangkok → Tel Aviv | Check out 12:00. Grab 12:15 — **El Al needs 3 hrs minimum** | El Al LY84, BKK 16:30 → TLV 22:55 |
+| Sun 8 Nov | 25 | Bangkok → Tel Aviv | Check out 11:45. Grab 12:00 — arrive ~12:40–13:00, when El Al check-in opens. **Hard cut-off 3 hrs** | El Al LY84, BKK 16:30 → TLV 22:55 |
 
 ---
 

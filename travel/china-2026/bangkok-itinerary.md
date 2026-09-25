@@ -62,7 +62,7 @@
   - **Siam Center** — Brandy Melville (first in Thailand), Thai designer labels
   - **Siam Square** — indie boutiques, streetwear, laneways. The hipster bit
   - **Siam Paragon** — Uniqlo
-- **15:50** BTS Siam → **Ploenchit** · *two stops* · **take the BTS, do not walk** — 25 min in 32°C leaves you sticky for a heat treatment
+- **15:50** BTS Siam → **Ploenchit** · *two stops* · **take the BTS, do not walk** — not for comfort, but because 25 min on foot leaves you warm and damp for a treatment built around heat. Walk it on the way back instead.
 - 🍵 **Ksana Matcha**, 2F One City Centre, 548 Ploenchit Rd · Japanese matcha importer, Antelope Canyon interior · *on the way*
 
 - **16:30** 🪨 **Aromatic Hot Stone Massage, 90 min** — ✅ **BOOKED + PAID**

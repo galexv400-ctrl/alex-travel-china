@@ -321,7 +321,7 @@
 
 **Bought in Tel Aviv:** ✅ **THB 2,000** (good rate). ❌ **No HKD available in Israel** — use a Hong Kong ATM instead. The ILS rate is poor, so convert the minimum here and use ATMs abroad, where a Monzo withdrawal is near-interbank.
 **Buy in Hong Kong:** CNY 1,200–1,500 — TST money changers stock yuan as standard at far better rates than Israel. Chungking Mansions on Nathan Road, ~10 min from The Luxe Manor. You have until 20 Oct.
-**Withdraw in Bangkok:** ~10,000 THB on 5 Nov
+**Withdraw in Bangkok:** ~8,000 THB on 5 Nov
 
 ### 💷 Budget check — £1,100 in the trip pot
 Flights, hotels, the tour, insurance, the eSIM, the Big Bus and the massage are all **already paid**. What is left:
