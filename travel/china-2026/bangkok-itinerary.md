@@ -148,16 +148,19 @@
 - **08:00** Breakfast at the hotel
 - **09:00** BTS Chit Lom → **Mo Chit** · direct on the Sukhumvit line, ~20 min
 - **09:30 Chatuchak** · Sat–Sun 09:00–18:00, all zones open
+  - ⏱ **Plan for ~3 hrs, not 5.** You move fast and the shopping is opportunistic — out by 12:30–13:00 is realistic. Everything below is a menu, not a checklist: skip freely.
 
 **Go straight to the vintage — skip the rest:**
   - **Sections 2–3** — Thailand's best vintage Levi's, military jackets, graphic tees, 90s streetwear · **£5–47** a piece
   - **Sections 5–6** — curated second-hand denim, workwear, rock tees · marked up for collectors, *polite haggling expected*
   - **Sections 2–6** — independent Thai designers throughout
 
-**🎁 Then souvenirs — sections 8, 10 and 26:** handicrafts, ceramics, soaps, textiles, prints, lanterns. Cheapest prices of the whole trip. Budget an extra ~45 min on top of the vintage.
+**🎁 Then souvenirs — sections 8, 10 and 26:** ~30 min, and only if the vintage has not taken it.
+  - ✅ **Worth a look:** textiles, prints, small leather, jewellery, lanterns — flat, light, and they survive a suitcase
+  - ❌ **Skip:** soaps and ceramics — no interest, and ceramics are heavy and breakable alongside the Lao Gan Ma jars
 
-- **13:00** Lunch — in the market, or ☕ **Mixt Chatuchak** next door for air conditioning
-- **~15:00** Back to the hotel · shower, drop the bags
+- **~12:30–13:00** Lunch — ⭐ **Mixt Chatuchak** next door: air-conditioned, and the non-Thai, non-fried option. Market food is almost all Thai and fried, so treat Mixt as the plan rather than the backup.
+- **~14:00** Back to the hotel · shower, drop the bags. **Earlier than planned is the likely outcome** — the afternoon is deliberately empty.
 - **🌶 Before or after dinner — Tops Market, Central Chidlom (basement food hall)**
   - **Lao Gan Ma chilli crisp** — imported/Chinese section. You are at Central Chidlom for Mozza anyway
   - Backup if they are out: **Gourmet Market, Siam Paragon** (one BTS stop) or Villa Market
@@ -169,7 +172,7 @@
   - 🍵 Or **Peace Oriental Teahouse** back on Langsuan
 - **🍽 Dinner: Mozza**, Central Chidlom · Niçoise, crab and mango, raspberry rocket, lobster, beetroot carpaccio · light after five hours in the heat
 
-> **Go early.** Chatuchak is outdoors and becomes unpleasant by midday. It's also 15,000 stalls, most of them souvenirs you don't want — head straight for sections 2–6 rather than wandering in from the entrance.
+> **Go early — but not for the heat.** You live in Israel; 32°C is ordinary. The real reason is **crowds**: Chatuchak fills up through the morning and the narrow section lanes get slow to move through, which matters more when you move fast. It's also 15,000 stalls, most of them souvenirs you don't want — head straight for sections 2–6 rather than wandering in from the entrance.
 
 ---
 
