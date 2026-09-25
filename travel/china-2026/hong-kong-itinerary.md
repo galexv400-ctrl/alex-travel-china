@@ -89,7 +89,8 @@
 ## Day 3 — Sunday 18 October: Sham Shui Po day + evening massage
 *Massage ✅ BOOKED 17:00 — the only fixed point. Everything before it is yours.*
 
-> 😴 **Later start, allowing for jet lag.** If you wake early anyway, just shift the whole thing forward — Mei Ho House opens 09:30 and JCCAC at 10:00, so earlier works. Nothing before 17:00 is booked.
+> 😴 **Later start, and jet lag pushes the same way.** Israel is UTC+3 in October, Hong Kong UTC+8 — you fly **east**, so local time runs ahead of your body clock. Early mornings feel brutal and you tend to sleep and wake **later**, not earlier. By the 18th you are three days in and only partly adjusted.
+> **So 09:30 is the right call, and later is fine too.** Nothing before the 17:00 massage is booked. Mei Ho House opens 09:30 and JCCAC at 10:00, so the morning only compresses, never breaks.
 
 - **Optional 08:30 gym** — hotel gym, or Snap Fitness at 27–33 Nathan Road (4 min walk)
 - **09:30** 🍳 **Breakfast at The Luxe Manor** — included
