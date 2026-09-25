@@ -3,7 +3,7 @@
 **Hotel:** Sindhorn Midtown, Vignette Collection by IHG
 **Address:** 68 Langsuan Rd, Soi Langsuan, Lumphini, Pathumwan, Bangkok 10330
 **Check-in:** Wed 4 Nov from 15:00 · **Check-out:** Sun 8 Nov by 12:00
-**Booking.com:** 6761.193.363 · PIN 6989 · King Studio, **breakfast included**
+**Booking.com:** 6761.193.363 · PIN 6989 · **upgraded room with private bathroom**, breakfast included · ₪2,771 paid, Israeli card
 **Phone:** +66 2 796 8888
 
 **Facilities:** Infinity pool 18F · Life Fitness gym 19F · two saunas · 24-hour access
@@ -15,7 +15,7 @@
 - ⚠ Visa-free **30 days** on a British passport (reduced from 60 on 15 Sept 2026). Exemption capped at **two entries per calendar year** — 15 Oct and 4 Nov are exactly two. **Use the same passport both times**
 - 💳 At every ATM and card terminal, **choose baht, not shekels or pounds** — letting the machine convert costs several percent
 - **Download Grab** — Thailand's Uber/DiDi. Fixed price, English, card on file. Set it up in Israel.
-- **Thai Baht** — buy only **~1,000 in Israel** as a landing cushion (hotel prepaid, shuttle free). Then **withdraw ~10,000 on Thu 5 Nov** at a bank ATM: the massage is prepaid and all four dinners take cards, so cash is really just Chatuchak, markets, souvenirs and the Lao Gan Ma
+- **Thai Baht** — ✅ **2,000 bought in Israel** at a good rate: ~1,000 for the 15 Oct night, ~1,000 held for arriving on 4 Nov. Then **withdraw ~8,000 on Thu 5 Nov** at a bank ATM — the massage is prepaid and all four dinners take cards, so cash is really just Chatuchak, markets, souvenirs and the Lao Gan Ma
 - ⚠ Thai ATMs charge a **fixed ~220 THB fee per withdrawal** — take out more, less often
 
 ---
