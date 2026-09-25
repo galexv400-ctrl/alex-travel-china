@@ -36,7 +36,9 @@
 ---
 
 ## Day 2 — Saturday 17 October: Monastery + Sheung Wan / Central
-*Monastery ✅ BOOKED · LockCha ✅ BOOKED 13:00*
+*Monastery ✅ BOOKED 10:00 · LockCha ✅ BOOKED 13:00*
+
+> ⏰ **The 08:15 start is fixed by the monastery booking**, not by choice. It is ~90 min from the hotel including the awkward last leg, so 09:15 is the latest sensible departure. Everything after **14:30 is yours**.
 
 - **08:15** 🍳 **Breakfast at The Luxe Manor** — included in your rate
 - **09:15** MTR East Rail to Tai Po Market (~45 min) · then to the monastery (show driver / ask for: 慈山寺)
@@ -67,11 +69,9 @@
 - **19:00** MTR to TST · Dinner ~19:45
 
 *Too tired after the monastery?* Skip the lot — 14:45 MTR straight back to TST and rest.
-- **~19:45** 🍽 Dinner: **Apgujeong Tent Bar** — 1/F Koon Fook Centre, 9 Knutsford Terrace, TST · **5 min walk from hotel** · Korean, relaxed, open late · Best Korean at Foodie Forks 2025 · ☎ +852 3579 2992
-  - 🔗 [OpenRice](https://www.openrice.com/en/hongkong/r-apgujeong-tent-bar-tsim-sha-tsui-korean-wine-r12817)
-  - *Alternative:* **Lamees** (Jordanian) — 145 Pak Tai Street, To Kwa Wan · Mezze, grilled meats · Taxi ~15 min · Book: +852 9181 9600
-  - *Or:* **Goobne Chicken** — 2/F, The Hart, 4 Hart Avenue, TST · **5 min walk from hotel** · **Oven-roasted, not fried** — marinated 24hrs+, 8 flavours · Open 12:00 till past midnight · Walk-in
-    - 🔗 [OpenRice](https://www.openrice.com/en/hongkong/menu/188593/takeaway) · [Time Out](https://www.timeout.com/hong-kong/restaurants/goobne-chicken)
+- **~19:45** 🍽 **Dinner: Goobne Chicken** — 2/F, The Hart, 4 Hart Avenue, TST · **5 min walk from hotel** · **Oven-roasted, not fried** — marinated 24hrs+, 8 flavours · Open 12:00 till past midnight · **Walk-in**
+  - 🔗 [OpenRice](https://www.openrice.com/en/hongkong/menu/188593/takeaway) · [Time Out](https://www.timeout.com/hong-kong/restaurants/goobne-chicken)
+  - *Alternatives, both 5 min from the hotel:* **Apgujeong Tent Bar**, 9 Knutsford Terrace (Korean, relaxed, open late · ☎ +852 3579 2992) · **Lamees** (Jordanian, mezze and grilled meats, To Kwa Wan, taxi ~15 min · ☎ +852 9181 9600)
 
 ---
 
