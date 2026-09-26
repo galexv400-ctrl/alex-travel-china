@@ -216,8 +216,10 @@ Bangkok showers in November are usually short afternoon bursts, not all-day rain
 
 | Backup | Why |
 |---|---|
-| ⭐ **Mixt Chatuchak + JJ Mall** | Right next door, **indoor and air-conditioned**, same kind of stock without the crush. The lowest-effort escape — you are already there |
-| ⭐ **BTS back to Siam** | Siam Square, Siam Center, Siam Paragon — **the shopping you deferred from Thursday**. Indoor, calm, and it was on your list anyway |
+| ⭐ **Union Mall** | **One stop away** (MRT Phahon Yothin / BTS Ladprao). Indoor, air-conditioned, aimed at a young crowd — **trendy clothing at market-ish prices**, not mall prices. The best value escape and the closest to what you actually came for |
+| ⭐ **BTS back to Siam** | Siam Square, Siam Center, Siam Paragon — **the shopping you deferred from Thursday**. Indoor, calm, and it was on your list anyway, so nothing is wasted |
+| **Or Tor Kor Market** | Directly across from Chatuchak (same MRT, Kamphaeng Phet). Bangkok's cleanest and most famous fresh market — premium fruit, produce, covered and calm. **Not clothes shopping**, but a genuinely interesting half hour and zero travel |
+| **Mixt Chatuchak / JJ Mall** | Next door, indoor, similar stock — but ⚠ **noticeably more expensive**, since it is air-conditioned retail rather than market stalls. Comfort, not value |
 | **Abandon shopping entirely** | Back to the hotel, pool on 18, and do **Central Embassy / Chidlom on Sunday morning** before the 12:00 checkout. Already the noted last-chance slot |
 
 > 🎯 **Remember what Chatuchak is actually for here.** Shopping is opportunistic and bag space is the real constraint — you are not going to fill a case. If the vintage in 5–6 is a fight, you lose very little by walking away. Do not spend a good afternoon being uncomfortable for things you did not need.
