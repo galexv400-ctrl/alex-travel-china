@@ -207,6 +207,21 @@ Bangkok showers in November are usually short afternoon bursts, not all-day rain
   - 🚻 Toilets are around the outer perimeter, small coin fee. The two by **MRT Kamphaeng Phet Exit 2** are staffed and cleanest
   - 🔒 **Lockers by Exit 2** if you buy more than you want to carry
   - 💱 Currency exchange inside **Mixt Chatuchak** if you run short
+### 🚪 If it is too busy — decide by 11:30, then go
+*Chatuchak peaks roughly 12:00–16:00. You arrive at 11:00, ahead of the worst, but Saturday is the busier of the two market days.*
+
+**The test:** give sections 5–6 **twenty minutes**. If you are shuffling rather than walking, or you cannot stop at a stall without blocking the lane, it is not going to improve — it gets worse from there.
+
+**Then pick one and leave without agonising:**
+
+| Backup | Why |
+|---|---|
+| ⭐ **Mixt Chatuchak + JJ Mall** | Right next door, **indoor and air-conditioned**, same kind of stock without the crush. The lowest-effort escape — you are already there |
+| ⭐ **BTS back to Siam** | Siam Square, Siam Center, Siam Paragon — **the shopping you deferred from Thursday**. Indoor, calm, and it was on your list anyway |
+| **Abandon shopping entirely** | Back to the hotel, pool on 18, and do **Central Embassy / Chidlom on Sunday morning** before the 12:00 checkout. Already the noted last-chance slot |
+
+> 🎯 **Remember what Chatuchak is actually for here.** Shopping is opportunistic and bag space is the real constraint — you are not going to fill a case. If the vintage in 5–6 is a fight, you lose very little by walking away. Do not spend a good afternoon being uncomfortable for things you did not need.
+
 ### 🍽 Lunch — after Chatuchak, two options
 | | |
 |---|---|
