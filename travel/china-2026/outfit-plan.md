@@ -85,7 +85,7 @@ deliberately rotated. Repeat wears are marked — they are the plan, not an over
 
 > 👕 **Both short-sleeves are available throughout** — the plan uses the black one in China, but the grey is there if you want a change or the black is dirty.
 
-> ✅ **Navy, Modal and the pink mid-warm are worn once each** — that is your spare capacity if something gets soaked in Zhangjiajie.
+> ✅ **The Asics, the Modal and the pink mid-warm are worn once each** — that is your spare capacity if something gets soaked in Zhangjiajie.
 
 **Knickers:** 20, and the Hong Kong wash returns the early ones to the pool → **~20 for 15 days.** Comfortable.
 **Socks:** 10 regular → 2 wears each. Thermal socks kept dry for the Great Wall.
