@@ -40,7 +40,7 @@ deliberately rotated. Repeat wears are marked — they are the plan, not an over
 | **Wed 21** | Chongqing · hot pot · **23°C** | **Short-sleeve (black)** · Wolven flares · fleece for the evening |
 | **Thu 22** | 🚄 4–5 hrs to Zhangjiajie | Modal · regular leggings · fleece pm |
 | **Fri 23** | ⛰ Tianmen Mtn | BL100 thermal · float leggings · fleece · shell · **Asics** |
-| **Sat 24** | ⛰ 4 hr hike | Navy · regular leggings *(2nd)* · fleece · shell · **Asics** |
+| **Sat 24** | ⛰ 4 hr hike | **Asics black** · regular leggings *(2nd)* · fleece · shell · **Asics** |
 | **Sun 25** | Changsha · night market | Khaki *(2nd)* · Wolven *(2nd)* |
 | **Mon 26** | 🚄 5 hrs · Bund · **22°C** | Short-sleeve (black) *(2nd)* · Amazon flares *(2nd)* · fleece pm |
 | **Tue 27** | French Concession | **Mid-warm (pink)** · Wolven *(3rd)* |
@@ -80,7 +80,7 @@ deliberately rotated. Repeat wears are marked — they are the plan, not an over
 | Wolven flares · Amazon flares · Manners flares | 3 each |
 | Regular leggings · float leggings | 3 each |
 | Merino · BL100 · Mid-warm (black) | 2 each |
-| Navy · Modal · Mid-warm (pink) | 1 each |
+| Asics black · Modal · Mid-warm (pink) | 1 each |
 | BL500 · green leggings | 1 each |
 
 > 👕 **Both short-sleeves are available throughout** — the plan uses the black one in China, but the grey is there if you want a change or the black is dirty.

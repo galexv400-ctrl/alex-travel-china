@@ -28,7 +28,7 @@
 ### Long sleeves & base layers
 - Uniqlo long-sleeve mid-warm tops x2 — **pink and black** `[Cool] [Cold]` — the warmer mid-layer, for 12–17°C days
 - Uniqlo khaki long-sleeve x1 `[Cool]` — lighter fabric, less warm. The right weight for the 18–23°C daytimes in Chongqing, Changsha and Shanghai, which is most of the cool phase. Khaki also hides train days better than pink or green.
-- Navy long-sleeve workout top x1 `[Cool]` — replaces the 4th Uniqlo. Doubles as a gym top and a mid-layer; synthetic, so it dries fast and is fine next to skin on cool days.
+- Asics long-sleeve black sports top x1 `[Cool]` — replaces the navy bamboo one. Doubles as a gym top and a mid-layer; synthetic, so it dries fast and is fine next to skin on cool days.
 - Amazon plain black long-sleeve (thin) x1 `[Warm] [Cool]` — 95% modal / 5% spandex
   - ✅ Hand-washes well and dries overnight on a hanger — wash it as you go
   - ⚠ Not the pick for the cold hikes. Modal absorbs sweat into the fibre, so it stays wet against the skin in 3°C wind even though it dries fast on a hanger. For the Great Wall and Zhangjiajie, wear a Decathlon thermal next to skin and save this as a mid-layer or for milder days.
@@ -132,7 +132,7 @@
 - Black fleece (Gillet brand) — the zip-in liner
 - Uniqlo long-sleeve mid-warm tops x2 — **pink and black**
 - Uniqlo khaki long-sleeve x1 (lighter)
-- Navy long-sleeve workout top x1
+- Asics long-sleeve black sports top x1
 - Amazon plain black long-sleeve x1
 - Decathlon thermal base layers x3 — TRAVEL 100 merino, BL500 collared, BL100
 - Girlfriend Collective leggings x3 — float, regular, green
@@ -406,7 +406,7 @@ Flights, hotels, the tour, insurance, the eSIM, the Big Bus and the massage are 
 
 - Stradivarius bra tops x2 — not bringing
 - Pink Crocs — replaced with flip-flops
-- Asics long-sleeve black sports top — duplicates the BL100 thermal
+- Navy bamboo long-sleeve — swapped for the Asics black sports top
 - 2nd Amazon modal long-sleeve — reduced to one
 - Black fleece, sweater style — removed; Gillet fleece liner + 4 Uniqlo long-sleeves cover the mid-layer job
 - Skechers black — replaced with new shoes
