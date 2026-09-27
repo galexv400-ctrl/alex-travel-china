@@ -248,6 +248,7 @@
 *Lives in the front pocket of the backpack, with spare tissues and pads. **Medication travels in the carry-on**, not here.*
 
 - 2-in-1 shampoo (small)
+- ☂ **Umbrella — BUY IN HONG KONG, Mon 19 Oct.** Small folding one from Watsons or Mannings, paid with the Octopus balance you need to spend down. Cut from the original list for space, but you have 16 days in China after this including **Zhangjiajie, the wettest leg**, and Bangkok showers in November. The Lululemon covers a light shower; an umbrella covers standing around in real rain.
 - 🛒 **Deodorant — BUY IN HONG KONG.** Roll-on or stick, **never aerosol** (confiscated on Chinese trains anyway). Israeli options are poor; **Watsons and Mannings** in TST have a much better range, including Japanese and Korean brands. ⭐ Buy it Mon 19 Oct with the **Octopus balance you need to spend down**.
 - Body wash — 🛒 buy from Bath & Body Works (small)
 - 🎒 Sunscreen lotion (small, body)
@@ -414,7 +415,6 @@ Flights, hotels, the tour, insurance, the eSIM, the Big Bus and the massage are 
 - Head torch (Great Wall guesthouse has basic lighting)
 - Microfibre towel (hotels provide)
 - Portable door lock (Great Wall guesthouse has locks)
-- Portable umbrella (Zhangjiajie risk but packing tight)
 - Insect repellent (limited need October/November)
 
 ---
