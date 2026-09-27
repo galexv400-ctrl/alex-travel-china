@@ -51,7 +51,7 @@
   - 🔗 [Instagram](https://www.instagram.com/tszshanmonastery/) · [Facebook](https://www.facebook.com/tszshanmonastery/) · [Booking](https://www.tszshan.org/home/new/en/visit.php)
 - **~11:45–12:00** Back to Tai Po Market station · *Getting back is the harder direction — ask monastery reception to call a taxi before you leave the grounds, or walk 10 min down to the Tong Tsz Road junction for the 20B*
 - **~12:15** **East Rail Line to Admiralty** (~40 min, no changes — the line runs cross-harbour since 2022), then **Island Line to Sheung Wan** (3 stops, ~6 min) · arrive **~13:10**
-- ❌ **LockCha cancelled** — expensive, and it was the only thing putting a clock on the day. ⚠ **Cancel the booking** so the table is released.
+- ❌ **LockCha ✅ cancelled** — expensive, and it was the only thing putting a clock on the day.
 - **~13:15 Lunch in Sheung Wan** — no booking, eat when you feel like it. See options below.
 
 ### 🥗 Lunch in Sheung Wan — ~13:15, nothing booked
@@ -183,7 +183,6 @@
 | Tai Pan massage (Sun 17:00) | ☎ +852 2301 1990 | ✅ **BOOKED** |
 | Lamees dinner (only if choosing it over Flat Iron) | +852 9181 9600 | 1 week before |
 | Apgujeong arrival night | +852 3579 2992 | Optional — walk-in usually fine |
-| LockCha Tea House (Sat 13:00) | ✅ **BOOKED** — 1 person | |
 | Nu Nail & Beauty (Mon 12:00) | ☎ +852 5323 3617 | ✅ **BOOKED** |
 | Big Bus night tour (Fri 19:00) | ✅ **BOOKED — ref XF7MVK0Z** | Arrive Stop #16, Avenue of Stars, by 18:45 |
 
