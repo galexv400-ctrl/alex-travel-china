@@ -228,7 +228,7 @@
 ---
 
 ## 🚄 TRAIN RULES — 5 legs, security screened like an airport
-- ❌ **No aerosol sprays** — confiscated. Your kit is clear: hand sanitiser is a **gel** ✓, deodorant is **roll-on** ✓, sunscreen is **roll-on + stick** ✓. Nothing pressurised.
+- ❌ **No aerosol sprays** — confiscated. ✅ **Your kit is clear:** hand sanitiser is a **pump spray, not a pressurised can** ✓ · deodorant **roll-on** ✓ · sunscreen **roll-on + stick** ✓. Nothing pressurised anywhere in the bag.
 - ✅ **No scissors or knives in ANY luggage** — checked, none in the bag.
 - ✅ Power bank must be **CCC/3-C certified** — the Anker is ✓
 - ⏱ Passport scanned at every station and tourist site. Allow **20–30 min** for group entry.
@@ -286,7 +286,7 @@
 ### 🎒 2. Day bag — also the cabin bag
 *One bag, two jobs: Intrepid's required day pack, and your hand luggage on the four flights.*
 - **Uniqlo pink puffer**
-- **Medications for the flight**
+- ⭐ **ALL medication on travel days** — the SSRI and thyroid especially. Four flights and five train legs; a bag going astray between Beijing and Bangkok must not separate you from the prescriptions. Original packaging, prescriptions photographed.
 - Toilet paper · wipes
 - **Portable charger** (Anker) ⚠ *lithium — must be cabin, never the hold*
 - **Wallet**
@@ -297,7 +297,7 @@
 ### 👝 3. Uniqlo bag — on your body
 - **Both passports**
 - Spare toilet paper
-- **Hand sanitiser spray**, wrapped in a plastic bag
+- **Hand sanitiser — pump spray** (not a pressurised can), wrapped in a plastic bag
 - Phone · one card · day cash
 
 *Octopus is digital on the iPhone — nothing to carry.*
