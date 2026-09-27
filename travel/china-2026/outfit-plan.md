@@ -115,13 +115,8 @@ deliberately rotated. Repeat wears are marked — they are the plan, not an over
 
 ---
 
-## If the case is over 15kg
+## ⚖️ Weight — settled
 
-There is no designated ditch item — nothing on the list is surplus. If you need to lose weight at the
-weigh-in, the order is:
+**✅ Weighed: comfortably under 15kg.** Nothing needs dropping. The list is final.
 
-Everything on the list is doing a job. If you must lose something, the **Amazon flares** go first — Wolven and Manners cover the `[Cool]` phase.
-
-**Sports bras stay at 3** — they double as tops, so the quantity is doing real work.
-
-Decide at the weigh-in in Israel, not mid-trip.
+*(If that ever changes: the Amazon flares go first — Wolven and Manners cover the `[Cool]` phase between them. Sports bras stay at 3; they double as tops.)*
