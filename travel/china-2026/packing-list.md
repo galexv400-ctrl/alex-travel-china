@@ -279,14 +279,38 @@
 ---
 
 ## BAGS
-- Main luggage (15kg limit)
-- Day pack ✅ — Intrepid requirement
-- Day bag / plane bag — for bulky items
-- Uniqlo bum bag ✅ — quick errands, markets, pickpocket-safe
-- Uniqlo brown bag ✅ — side bag, tourist sites, markets
-- Packing cubes ✅ — purple = warm, pink = cool/cold, red-pink = knickers + socks (see Packing Cubes)
-- Dry bag ✅ — damp base layers, wet swimwear, keeps sweat off clean clothes
-- Reusable tote ✅ — Bangkok shopping, markets
+
+### 🧳 Main luggage — under 15kg ✅
+4 packing cubes (purple = warm · pink = cool/cold · red-pink = knickers + socks · brown = trousers & underwear) · shoe organiser · **toiletries in the front pocket** with spare tissues and pads
+
+### 🎒 Day pack — also the cabin bag
+*One bag, two jobs. Intrepid require a day pack for excursions; it is your hand luggage on the four flights.*
+
+**On flights:**
+- **All medication** — in original packaging, prescriptions photographed
+- **All tech** — phone + 2 cables, Anker power bank ⚠ *lithium, must be cabin*, universal adapter, AirPods, cable organiser
+- Printed documents · both passports
+- **Uniqlo pink puffer** · neck warmer
+- Earplugs · eye mask
+- Baseball cap · sunglasses
+
+**On excursions:**
+- **Lululemon packable jacket** · **umbrella** (bought in HK)
+- ⚠ **Passport** — scanned at every Chinese tourist site and train station, so it travels with you daily
+- Pocket tissues · hand sanitiser gel · sunscreen stick + roll-on
+- Power bank + cable · water
+- **Cold days:** spare base layer. **Great Wall, 1 Nov:** the dry BL500, hand warmers, warm hat, gloves, neck warmer
+
+### 👝 Uniqlo bag ✅
+Phone · **one card** · day cash · lip balm
+*Pickpocket-safe for markets — Cat Street, Apliu Street, Chatuchak. Octopus is digital, on the iPhone, so nothing to carry.*
+⚠ Card rule: one card on you, the second and the CNY reserve in the hotel safe. Never all of them in one place.
+
+### 🧺 Dry bag ✅
+Damp base layers · wet swimwear · **and the Lao Gan Ma jars on the way home** — glass breaks, oil leaks
+
+### 🛍 Reusable tote ✅
+Chatuchak, Bangkok shopping, markets
 
 ---
 
