@@ -278,39 +278,35 @@
 
 ---
 
-## BAGS
+## BAGS — three, plus two liners
 
-### 🧳 Main luggage — under 15kg ✅
+### 🧳 1. Main case — under 15kg ✅
 4 packing cubes (purple = warm · pink = cool/cold · red-pink = knickers + socks · brown = trousers & underwear) · shoe organiser · **toiletries in the front pocket** with spare tissues and pads
 
-### 🎒 Day pack — also the cabin bag
-*One bag, two jobs. Intrepid require a day pack for excursions; it is your hand luggage on the four flights.*
+### 🎒 2. Day bag — also the cabin bag
+*One bag, two jobs: Intrepid's required day pack, and your hand luggage on the four flights.*
+- **Uniqlo pink puffer**
+- **Medications for the flight**
+- Toilet paper · wipes
+- **Portable charger** (Anker) ⚠ *lithium — must be cabin, never the hold*
+- **Wallet**
 
-**On flights:**
-- **All medication** — in original packaging, prescriptions photographed
-- **All tech** — phone + 2 cables, Anker power bank ⚠ *lithium, must be cabin*, universal adapter, AirPods, cable organiser
-- Printed documents · both passports
-- **Uniqlo pink puffer** · neck warmer
-- Earplugs · eye mask
-- Baseball cap · sunglasses
+**Added for excursions:** Lululemon packable jacket · umbrella (bought in HK) · sunscreen stick + roll-on · water
+**Cold days:** spare base layer. **Great Wall 1 Nov:** dry BL500, hand warmers, warm hat, gloves, neck warmer
 
-**On excursions:**
-- **Lululemon packable jacket** · **umbrella** (bought in HK)
-- ⚠ **Passport** — scanned at every Chinese tourist site and train station, so it travels with you daily
-- Pocket tissues · hand sanitiser gel · sunscreen stick + roll-on
-- Power bank + cable · water
-- **Cold days:** spare base layer. **Great Wall, 1 Nov:** the dry BL500, hand warmers, warm hat, gloves, neck warmer
+### 👝 3. Uniqlo bag — on your body
+- **Both passports**
+- Spare toilet paper
+- **Hand sanitiser spray**, wrapped in a plastic bag
+- Phone · one card · day cash
 
-### 👝 Uniqlo bag ✅
-Phone · **one card** · day cash · lip balm
-*Pickpocket-safe for markets — Cat Street, Apliu Street, Chatuchak. Octopus is digital, on the iPhone, so nothing to carry.*
-⚠ Card rule: one card on you, the second and the CNY reserve in the hotel safe. Never all of them in one place.
+*Octopus is digital on the iPhone — nothing to carry.*
+⚠ **Card rule:** one card on you, the second and the CNY reserve in the hotel safe. Never all of them together.
+⚠ **In China the passport travels daily** — it is scanned at every tourist site and train station.
 
-### 🧺 Dry bag ✅
-Damp base layers · wet swimwear · **and the Lao Gan Ma jars on the way home** — glass breaks, oil leaks
-
-### 🛍 Reusable tote ✅
-Chatuchak, Bangkok shopping, markets
+### Liners, not carried bags
+- **Dry bag** ✅ — damp base layers, wet swimwear, and **the Lao Gan Ma jars on the way home**
+- **Reusable tote** ✅ — folds away until Chatuchak and the Bangkok markets
 
 ---
 
