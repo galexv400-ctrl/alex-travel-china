@@ -251,9 +251,8 @@
 - ☂ **Umbrella — BUY IN HONG KONG, Mon 19 Oct.** Small folding one from Watsons or Mannings, paid with the Octopus balance you need to spend down. Cut from the original list for space, but you have 16 days in China after this including **Zhangjiajie, the wettest leg**, and Bangkok showers in November. The Lululemon covers a light shower; an umbrella covers standing around in real rain.
 - 🛒 **Deodorant — BUY IN HONG KONG.** Roll-on or stick, **never aerosol** (confiscated on Chinese trains anyway). Israeli options are poor; **Watsons and Mannings** in TST have a much better range, including Japanese and Korean brands. ⭐ Buy it Mon 19 Oct with the **Octopus balance you need to spend down**.
 - Body wash — 🛒 buy from Bath & Body Works (small)
-- 🎒 Sunscreen lotion (small, body)
 - 🎒 Sunscreen stick (face, portable)
-- 📍 **Roll-on sunscreen — it is in the LEGO BAG.** Remember to take it out and pack it. Roll-on, so no aerosol problem on the Chinese trains.
+- 📍 **Roll-on sunscreen (body) — it is in the LEGO BAG.** Remember to take it out and pack it. Replaces the lotion. Roll-on, so no aerosol problem on the Chinese trains.
 - Lip balm x1
 - Small moisturiser x1
 - 🎒 Toothbrush + toothpaste
@@ -457,7 +456,7 @@ Flights, hotels, the tour, insurance, the eSIM, the Big Bus and the massage are 
 ### Medications & Pharmacy
 - ✅ Ibuprofen, back pain meds, blister plasters, iron pills, SSRI, thyroid pill, magnesium
 - ✅ Imodium — bought
-- 📍 Roll-on sunscreen — **in the Lego bag** · lip balm · antihistamine 💊
+- 📍 Roll-on sunscreen (body) — **in the Lego bag**, replaces the lotion · lip balm · antihistamine 💊
 - ⚠ Carry the prescription meds (SSRI, thyroid) in HAND LUGGAGE in original packaging — 4 flights and 5 train legs. Photograph the prescriptions.
 
 ### NOT Buying
