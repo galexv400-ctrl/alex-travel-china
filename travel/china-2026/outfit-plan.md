@@ -15,7 +15,7 @@ Nothing here is binding — it is a default so you never stand in front of a sui
 |---|---|---|
 | **Thu 15** | Fly TLV→BKK, airport hotel | Green jumpsuit · waterproof jacket · Skechers *(worn on plane)* → **evening:** bra top + bike shorts |
 | **Fri 16** | Fly to HK · open-top bus 19:00 · Flat Iron | Green playsuit · Skechers → **bus: add the kimono** (open deck, moving air) |
-| **Sat 17** | 🛕 **Monastery** · LockCha · Cat Street | **Uniqlo short-sleeve + H&M cropped trousers** · Skechers · cap → **evening: kimono** |
+| **Sat 17** | 🛕 **Monastery** · Sheung Wan · Cat Street | **Uniqlo short-sleeve + H&M cropped trousers** · Skechers · cap → **evening: kimono** |
 | **Sun 18** | Apliu St · massage 17:00 · Born Ga | Red playsuit · Tevas · cap |
 | **Mon 19** | Check out 12:00 · welcome meeting 18:00 | Bra top + cropped trousers + kimono · Tevas |
 
