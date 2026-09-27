@@ -254,7 +254,7 @@
 - Body wash — 🛒 buy from Bath & Body Works (small)
 - 🎒 Sunscreen stick (face, portable)
 - 📍 **Roll-on sunscreen (body) — it is in the LEGO BAG.** Remember to take it out and pack it. Replaces the lotion. Roll-on, so no aerosol problem on the Chinese trains.
-- Lip balm x1
+- 🛒 **Lip balm — BUY.** Not yet owned.
 - Small moisturiser x1
 - 🎒 Toothbrush + toothpaste
 - 🎒 Pads x7 (first few days, then buy locally)
@@ -296,7 +296,8 @@
 **Added for excursions:** Lululemon packable jacket · umbrella (bought in HK) · sunscreen stick + roll-on · water
 **Cold days:** spare base layer. **Great Wall 1 Nov:** dry BL500, hand warmers, warm hat, gloves, neck warmer
 
-### 👝 3. Uniqlo bag — on your body
+### 👝 3. Uniqlo moon bag — on your body
+*Fits the power bank, which is the point.*
 - **Both passports**
 - Spare toilet paper
 - **Hand sanitiser — pump spray** (not a pressurised can), wrapped in a plastic bag
@@ -447,6 +448,7 @@ Flights, hotels, the tour, insurance, the eSIM, the Big Bus and the massage are 
 ### Buy Properly
 1. ✅ **New shoes — bought and broken in.** Replacing Skechers black, for plane days + general walking. Doing both hikes in these.
 2. 🛒 **Warm hat / beanie + gloves** — the cold-weather gap. One Decathlon trip. Buy in Israel; Xi'an 30 Oct–1 Nov is the last easy chance before the Great Wall, but do not rely on it.
+3. 🛒 **Lip balm** — pharmacy, same trip as the antihistamine and body wash
 3. Cable organiser bag ✅ Have
 4. H&M cropped trousers ✅ Have
 5. Sunglasses ✅ Have

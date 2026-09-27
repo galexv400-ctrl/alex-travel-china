@@ -7,6 +7,23 @@
 
 ---
 
+## 👝 What to carry in Hong Kong
+
+*The Uniqlo moon bag is enough here — Octopus is digital and nothing is far. It fits the power bank, which matters more than it sounds.*
+
+- **Phone** — also your Octopus, your maps and your payment
+- **One card** · **HKD cash** for market stalls, the laundry and taxis
+- **Power bank + short cable**
+- Lip balm · pocket tissues · hand sanitiser · sunglasses
+
+> ⚡ **Your phone is your transit card.** A flat battery does not just mean no maps — **you cannot get through an MTR gate.** Specific to Hong Kong, because the Octopus is digital. Charge the power bank nightly.
+
+> 🛂 **Passport stays in the hotel safe** — Hong Kong does not scan it at sites, unlike mainland China where it travels with you daily. Keep a **photo on your phone**.
+
+> ☂ **No umbrella until Monday** — you buy it on the 19th. Fri–Sun, take the **Lululemon jacket** if the sky looks doubtful.
+
+---
+
 ## Day 1 — Friday 16 October: Arrival
 *Gentle day — two flights behind you*
 
