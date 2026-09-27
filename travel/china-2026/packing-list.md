@@ -257,7 +257,7 @@
 - 🎒 Toothbrush + toothpaste
 - 🎒 Pads x7 (first few days, then buy locally)
 - 🎒 Ibuprofen, back pain meds, blister plasters, iron pills, SSRI, thyroid pill, magnesium (sleep)
-- 🛒 **Imodium — NEED TO BUY.** Not yet owned. Get it in Israel, not mid-trip: 15 days of unfamiliar food, hot pot in Chongqing, street food in Changsha and the Muslim Quarter, and long train days where a stop is not an option.
+- 🎒 **Imodium ✅ BOUGHT**
 - 🎒 Hand sanitiser wipes x1
 - 🎒 Pocket tissues — several packs. Carry one in EVERY bag: Chinese public toilets often have no paper.
 - 🎒 Anti-chafe balm — 25 days walking + Bangkok humidity
@@ -441,7 +441,6 @@ Flights, hotels, the tour, insurance, the eSIM, the Big Bus and the massage are 
 2. Hand sanitiser (small) — buy in Hong Kong
 3. Deodorant — roll-on or stick, Watsons/Mannings TST
 3. Antihistamine 💊
-4. **Imodium** 💊
 
 ### Set Up Before Leaving Israel
 1. NordVPN — enable Obfuscated Servers, test it works ✅
@@ -456,7 +455,7 @@ Flights, hotels, the tour, insurance, the eSIM, the Big Bus and the massage are 
 
 ### Medications & Pharmacy
 - ✅ Ibuprofen, back pain meds, blister plasters, iron pills, SSRI, thyroid pill, magnesium
-- 🛒 **Imodium — to buy**
+- ✅ Imodium — bought
 - Roll-on sunscreen (if needed), lip balm, antihistamine 💊
 - ⚠ Carry the prescription meds (SSRI, thyroid) in HAND LUGGAGE in original packaging — 4 flights and 5 train legs. Photograph the prescriptions.
 
