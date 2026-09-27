@@ -74,7 +74,7 @@
 - Black fleece (Gillet brand) x1 `[Cool] [Cold]` — the zip-in liner of the waterproof shell. Wear over Uniqlo tops on its own, or zip into the jacket for max warmth (Great Wall).
 - **Lululemon packable jacket x1** ✅ `[Warm] [Cool]` — **pocket-sized, water-resistant. Lives in the DAY PACK, not the case.**
   - Fills the real gap: the pink shell is a winter jacket, far too much for **Zhangjiajie at 17°C in mist**, which is your wettest stretch
-  - Also covers **Bangkok showers** — better than the umbrella you cut, because it leaves your hands free
+  - Also covers **Bangkok showers**, and leaves your hands free — pairs with the umbrella you will buy in Hong Kong
   - ⚠ Water-**resistant**, not waterproof. It will wet out in a real downpour — it does not replace the pink shell
 
 ---
