@@ -44,7 +44,7 @@ deliberately rotated. Repeat wears are marked — they are the plan, not an over
 | **Sun 25** | Changsha · night market | Khaki *(2nd)* · Wolven *(2nd)* |
 | **Mon 26** | 🚄 5 hrs · Bund · **22°C** | Short-sleeve (black) *(2nd)* · Amazon flares *(2nd)* · fleece pm |
 | **Tue 27** | French Concession | **Mid-warm (pink)** · Wolven *(3rd)* |
-| **Wed 28** | Shanghai free day | **Striped shirt** over a sports bra · float leggings *(2nd)* |
+| **Wed 28** | Shanghai free day | Khaki *(2nd)* over a sports bra · float leggings *(2nd)* |
 | **Thu 29** | Wuxi day trip · **20°C** | Short-sleeve (black) *(3rd)* · Amazon flares *(3rd)* · fleece |
 | **Fri 30** | 🚄 7 hrs to Xi'an | Khaki *(3rd)* · **Manners flares** · fleece pm |
 | **Sat 31** | Terracotta Warriors | **Merino thermal** · Manners *(2nd)* · fleece · neck warmer |
@@ -81,7 +81,7 @@ deliberately rotated. Repeat wears are marked — they are the plan, not an over
 | Regular leggings · float leggings | 3 each |
 | Merino · BL100 · Mid-warm (black) | 2 each |
 | Navy · Modal · Mid-warm (pink) | 1 each |
-| Striped shirt · BL500 · green leggings | 1 each |
+| BL500 · green leggings | 1 each |
 
 > 👕 **Both short-sleeves are available throughout** — the plan uses the black one in China, but the grey is there if you want a change or the black is dirty.
 
@@ -120,9 +120,7 @@ deliberately rotated. Repeat wears are marked — they are the plan, not an over
 There is no designated ditch item — nothing on the list is surplus. If you need to lose weight at the
 weigh-in, the order is:
 
-1. **Striped shirt** — the newest addition, and the fleece covers layering
-
-Beyond that there is nothing spare.
+Everything on the list is doing a job. If you must lose something, the **Amazon flares** go first — Wolven and Manners cover the `[Cool]` phase.
 
 **Sports bras stay at 3** — they double as tops, so the quantity is doing real work.
 

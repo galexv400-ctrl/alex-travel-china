@@ -395,7 +395,7 @@ Flights, hotels, the tour, insurance, the eSIM, the Big Bus and the massage are 
 ## NOT BRINGING
 - Shein striped shirt — dropped to make room for the Lululemon packable jacket. The fleece covers open layering
 - Amazon cropped trousers — cut; the H&M cropped do the same job and the warm phase has a laundry stop
-- Black light long-sleeve — swapped for the Shein striped shirt, which layers open and does the job better
+- Black light long-sleeve — not bringing
 - Uniqlo long black trousers — cut; the H&M cropped are more comfortable and cover the knees just as well
 - 2nd pair GF bike shorts — one is enough
 - Tala flares — cut; Wolven, Amazon and Manners London cover the `[Cool]` phase
@@ -408,7 +408,6 @@ Flights, hotels, the tour, insurance, the eSIM, the Big Bus and the massage are 
 - Asics long-sleeve black sports top — duplicates the BL100 thermal
 - 2nd Amazon modal long-sleeve — reduced to one
 - Black fleece, sweater style — removed; Gillet fleece liner + 4 Uniqlo long-sleeves cover the mid-layer job
-- 2nd Shein striped shirt — only one coming; it is the China layering shirt
 - Skechers black — replaced with new shoes
 - Denim jacket — removed
 - iPad (won't use, saves weight)
