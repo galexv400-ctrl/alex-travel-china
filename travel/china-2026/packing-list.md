@@ -280,8 +280,10 @@
 
 ## BAGS — three, plus two liners
 
-### 🧳 1. Main case — under 15kg ✅
-4 packing cubes (purple = warm · pink = cool/cold · red-pink = knickers + socks · brown = trousers & underwear) · shoe organiser · **toiletries in the front pocket** with spare tissues and pads
+### 🧳 1. Main case (backpack) — under 15kg ✅
+**Main compartment:** 4 packing cubes — purple = warm · pink = cool/cold · red-pink = knickers + socks · brown = trousers & underwear · plus the shoe organiser
+**Front section of the backpack:** the **toiletries bag, everything wrapped**, with spare tissues and pads
+- ✅ Goes in the **hold**, so no 100ml liquid limit
 
 ### 🎒 2. Day bag — also the cabin bag
 *One bag, two jobs: Intrepid's required day pack, and your hand luggage on the four flights.*
