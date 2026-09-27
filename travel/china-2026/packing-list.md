@@ -93,7 +93,7 @@
 - Baseball cap x1 ✅ `[Warm]` — in hand luggage
 - Sunglasses x1 ✅ `[Warm]` — in hand luggage
 - 🛒 **Warm hat x1** `[Cold]` — DO NOT SKIP. Great Wall 1 Nov at 1–3°C, exposed and windy after dark. A beanie is the cheapest, smallest warmth you can carry. Pack with the neck warmer in the case.
-- Gloves x1 `[Cold]` — ⚠ **LOCATE THESE.** Believed owned but not found yet. If they do not turn up by early October, buy a cheap pair alongside the warm hat — nothing technical needed. Pack with the neck warmer in the case.
+- 🛒 **Gloves x1** `[Cold]` — **BUY.** The old pair never turned up. Nothing technical needed — cheap is fine, but **touchscreen-compatible is worth the extra few shekels** for photos on the Wall at 3°C. Buy with the warm hat, same Decathlon trip. Pack with the neck warmer in the case.
 - Neck warmer x1 `[Cold]` — in the case
 - Scarf `[Cold]` — if bringing from Temu
 
@@ -423,7 +423,7 @@ Flights, hotels, the tour, insurance, the eSIM, the Big Bus and the massage are 
 
 ### Buy Properly
 1. ✅ **New shoes — bought and broken in.** Replacing Skechers black, for plane days + general walking. Doing both hikes in these.
-2. 🛒 **Warm hat / beanie** — the one cold-weather gap. Buy in Israel; or Xi'an 30 Oct–1 Nov is your last easy chance before the Great Wall.
+2. 🛒 **Warm hat / beanie + gloves** — the cold-weather gap. One Decathlon trip. Buy in Israel; Xi'an 30 Oct–1 Nov is the last easy chance before the Great Wall, but do not rely on it.
 3. Cable organiser bag ✅ Have
 4. H&M cropped trousers ✅ Have
 5. Sunglasses ✅ Have
