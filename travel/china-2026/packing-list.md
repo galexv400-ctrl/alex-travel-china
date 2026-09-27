@@ -40,7 +40,8 @@
 ### Shirts
 - Kimono x1 `[Warm]` — throw over a bra top for covered shoulders at Tsz Shan Monastery (Sat 17 Oct) and other religious sites, without long sleeves in 30°C. Also dresses up a bra top + cropped trousers for the Bangkok dinners. Packs to nothing.
 
-> ⚖️ **Nothing on this list is surplus.** The striped shirt was the spare and it has been dropped to make room for the Lululemon. If the case is over 15kg at the weigh-in, the honest answer is that everything left is doing a job — take the **Amazon flares** out before anything else, since Wolven and Manners cover the `[Cool]` phase. **Sports bras stay at 3** — they double as tops.
+> ⚖️ **✅ WEIGHED — comfortably under 15kg.** Nothing needs dropping. The list is settled; stop second-guessing it.
+> *(If that ever changes, the Amazon flares go first — Wolven and Manners cover the `[Cool]` phase between them.)*
 
 ---
 
