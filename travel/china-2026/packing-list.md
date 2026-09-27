@@ -253,6 +253,7 @@
 - Body wash — 🛒 buy from Bath & Body Works (small)
 - 🎒 Sunscreen lotion (small, body)
 - 🎒 Sunscreen stick (face, portable)
+- 📍 **Roll-on sunscreen — it is in the LEGO BAG.** Remember to take it out and pack it. Roll-on, so no aerosol problem on the Chinese trains.
 - Lip balm x1
 - Small moisturiser x1
 - 🎒 Toothbrush + toothpaste
@@ -456,7 +457,7 @@ Flights, hotels, the tour, insurance, the eSIM, the Big Bus and the massage are 
 ### Medications & Pharmacy
 - ✅ Ibuprofen, back pain meds, blister plasters, iron pills, SSRI, thyroid pill, magnesium
 - ✅ Imodium — bought
-- Roll-on sunscreen (if needed), lip balm, antihistamine 💊
+- 📍 Roll-on sunscreen — **in the Lego bag** · lip balm · antihistamine 💊
 - ⚠ Carry the prescription meds (SSRI, thyroid) in HAND LUGGAGE in original packaging — 4 flights and 5 train legs. Photograph the prescriptions.
 
 ### NOT Buying
