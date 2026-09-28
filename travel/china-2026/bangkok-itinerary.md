@@ -50,6 +50,7 @@
 - 🏊 There is a pool and a fitness centre if you want them
 - ⚠ **Book the 07:00 shuttle at reception when you check in** — see below
 - ⚠ **Settle the bill on arrival** — the morning is too tight
+- 🏪 **7-Eleven run before bed** — water for the room and the morning, plus something for breakfast **if** you would rather not wait until airside. Also worth grabbing snacks for the 2h50 flight to Hong Kong
 
 ### 🚐 Friday 16 October — the shuttle is 07:00, not 07:45
 
@@ -63,7 +64,7 @@
 
 - **~06:15** Up
 - **07:00** 🚐 Free shuttle to Suvarnabhumi
-- 🍞 **No breakfast anywhere** — room service does not open until 10:30. **Eat airside**, which you have ample time for, or buy from 7-Eleven the night before
+- 🍞 **Nothing at the hotel** — room service does not open until 10:30. **Eat airside**, where you have 3 hrs — or use whatever you picked up at 7-Eleven the night before
 - **10:30** ✈ **Thai TG628** BKK → HKG · ref **EASDQZ** · seat 44H · 1pc 23kg + 7kg
 - **14:20** Land Hong Kong **Terminal 1**
 
