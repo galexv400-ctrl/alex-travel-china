@@ -88,8 +88,18 @@
 ### Still to pay during the trip
 | Item | Approx | When |
 |---|---|---|
-| Spending — HK, China, Bangkok | £820–1,160 | Throughout |
-| Shopping | minimal | **Opportunistic only** — bag space and the 15kg limit are the real constraint, not budget. The £200–300 allowance is unlikely to be needed. |
+| Bangkok, 15 Oct | ~£20 | Airport hotel night |
+| Hong Kong, 16–19 Oct | £250–350 | 4 days |
+| **China, 20 Oct–4 Nov** | **£360–465** | 16 days — see meal note below |
+| Bangkok, 4–8 Nov | £250–350 | 5 days |
+| **Total** | **£880–1,185** | |
+| Shopping | minimal | **Opportunistic only** — bag space and the 15kg limit are the constraint, not budget |
+
+> 🍽 **Intrepid includes only 5 meals in 16 days** — 4 breakfasts and 1 lunch (the Chongqing hotpot). That leaves roughly **43 meals you pay for**: ~12 breakfasts, ~15 lunches, ~16 dinners.
+> Budget roughly ¥25 breakfast · ¥55 lunch · ¥80 dinner ≈ **¥2,400 (~£260) on food alone**, plus drinks and snacks.
+> Add tipping (¥430–750) and optional activities (¥0–600) and China lands at **£360–465**, higher than the earlier £300–440 estimate.
+
+> ✅ **The expensive sights are included** — Tianmen Mountain, the Zhangjiajie cable car and Bailong Elevator, Terracotta Warriors, Forbidden City, Tiananmen, Jinshanling and the Great Wall sunset are all covered by the 20 included activities. The optional extras are genuinely optional: Tang Dynasty Show ¥290, acrobats ¥290, Temple of Heaven ¥40, Hutong visit ¥150.
 
 > ✅ **All accommodation is now settled** — Sindhorn was the last one, upgraded and charged to the Israeli card. The £1,100 Monzo pot is now for spending only, which it covers.
 > 💡 If the Sindhorn charge is taken at checkout rather than now, choose **THB** at the terminal, not shekels.
