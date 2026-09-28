@@ -104,9 +104,9 @@
 - Knickers x20
 - **Swimming costume** ✅ — Sindhorn infinity pool, 18th floor, open late
 - **BRAS — 5 in total** ✅
-  - **4 sports bras:** 3 DYLAN (green, black, grey) + 1 FLOAT (black, small — packs light, different cut, not a duplicate)
+  - **4 sports bras:** 2 DYLAN (black, green) · 1 PALOMA (grey) · 1 FLOAT (black, small)
   - **1 normal comfy bra**
-  - ⚠ **Not the PALOMA** — cut low, and the sports bras double as tops. Wrong for the monastery on 17 Oct and mainland China generally
+  - ⚠ **The grey Paloma is the low-cut one.** Fine as a bra, but the sports bras double as tops — so **do not wear the Paloma as a top** at Tsz Shan Monastery (17 Oct) or generally in mainland China. Use a Dylan or the Float for those days.
   - *Five is generous by count, but they are worn as outerwear and there is only one wash in 25 days*
 - Regular socks x10 — including long socks
 - Thermal socks x2 `[Cold]` — spare pair for the Great Wall night; damp socks in 3°C are worse than none
@@ -172,7 +172,7 @@
 - Manners London flared
 - Amazon flared
 - Pyjama top x2 — BCCA
-- **Bras x5** — 4 sports (Dylan green/black/grey + Float black small) · 1 comfy
+- **Bras x5** — 4 sports (2 Dylan black/green · Paloma grey · Float black) · 1 comfy
 - Swimming costume
 
 *The 3 flares only — the H&M cropped trousers stay in the purple cube.*
