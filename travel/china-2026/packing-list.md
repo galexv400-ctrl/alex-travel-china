@@ -261,7 +261,9 @@
 - 🎒 Pads x7 (first few days, then buy locally)
 - 🎒 Ibuprofen, back pain meds, blister plasters, iron pills, SSRI, thyroid pill, magnesium (sleep)
 - 🔪 **Pill splitter** — ⚠ **in the CASE for flights**, not hand luggage. On trains, keep it with the medication packaging.
-- 🎒 **Imodium ✅ BOUGHT**
+- 🎒 **Imodium ✅ BOUGHT** (loperamide 2mg)
+- 💊 **Azithromycin 250mg** (Azenil/Zeto) — ⚠ **prescribed, fill it.** The standby antibiotic for travellers' diarrhoea in Asia. Written in advance precisely so you are not trying to get antibiotics in Chongqing, mid-episode, without Chinese
+- 💊 **Bismuth subsalicylate 262mg** (Kalbeten) — ⚠ prescribed, fill it
 - 🎒 Hand sanitiser wipes x1
 - 🎒 Pocket tissues — several packs. Carry one in EVERY bag: Chinese public toilets often have no paper.
 - 🎒 Anti-chafe balm — 25 days walking + Bangkok humidity
@@ -483,6 +485,14 @@ Flights, hotels, the tour, insurance, the eSIM, the Big Bus and the massage are 
 7. Google Translate — download Chinese offline language pack
 8. China Customs — file via the Alipay mini-program on 19 Oct, in Hong Kong (24 hr window before the 20 Oct crossing)
 9. Podcasts + audiobook — download offline for the train days
+
+### 💉 Vaccinations — ✅ DONE
+**Travel clinic, Bnei Brak, 12 Aug 2026 · Dr Ahmad Salem**
+- **Typhim Vi** — typhoid · 1 dose
+- **Adacel** — tetanus, diphtheria, pertussis · 1 dose
+- **Vaqta** — hepatitis A (adult) · 1 dose
+
+📄 **Carry the clinic summary** — photograph it and keep it with the insurance documents.
 
 ### Medications & Pharmacy
 - ✅ Ibuprofen, back pain meds, blister plasters, iron pills, SSRI, thyroid pill, magnesium
