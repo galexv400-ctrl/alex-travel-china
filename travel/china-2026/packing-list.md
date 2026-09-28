@@ -249,10 +249,10 @@
 ## TOILETRIES BAG
 *Lives in the front pocket of the backpack, with spare tissues and pads. **Medication travels in the carry-on**, not here.*
 
-- 2-in-1 shampoo (small)
+- 🛒 **Shampoo + conditioner — BUY IN HONG KONG**, Mon 19 Oct. Replaces the 2-in-1. Watsons or Mannings, on the Octopus balance
 - ☂ **Umbrella — BUY IN HONG KONG, Mon 19 Oct.** Small folding one from Watsons or Mannings, paid with the Octopus balance you need to spend down. Cut from the original list for space, but you have 16 days in China after this including **Zhangjiajie, the wettest leg**, and Bangkok showers in November. The Lululemon covers a light shower; an umbrella covers standing around in real rain.
 - 🛒 **Deodorant — BUY IN HONG KONG.** Roll-on or stick, **never aerosol** (confiscated on Chinese trains anyway). Israeli options are poor; **Watsons and Mannings** in TST have a much better range, including Japanese and Korean brands. ⭐ Buy it Mon 19 Oct with the **Octopus balance you need to spend down**.
-- Body wash — 🛒 buy from Bath & Body Works (small)
+- 🛒 **Body wash — BUY IN HONG KONG**, same trip
 - 🎒 Sunscreen stick (face, portable)
 - 📍 **Roll-on sunscreen (body) — it is in the LEGO BAG.** Remember to take it out and pack it. Replaces the lotion. Roll-on, so no aerosol problem on the Chinese trains.
 - 🛒 **Lip balm — BUY.** Not yet owned.
@@ -475,11 +475,13 @@ Flights, hotels, the tour, insurance, the eSIM, the Big Bus and the massage are 
 12. CCC/3-C certified power bank — Anker 10000mAh ✅ Purchased
 13. Travel insurance ✅ Ordered via Passport Card
 
-### Buy from Bath & Body Works (Travel Sizes)
-1. Body wash (small)
-2. Hand sanitiser (small) — buy in Hong Kong
-3. Deodorant — roll-on or stick, Watsons/Mannings TST
-3. Antihistamine 💊
+### 🇭🇰 Buy in Hong Kong — Mon 19 Oct, Watsons or Mannings
+*All on the Octopus balance you need to spend down.*
+1. **Shampoo + conditioner**
+2. **Body wash**
+3. **Deodorant** — roll-on or stick, ⚠ never aerosol
+4. **Umbrella** — small folding
+5. Hand sanitiser, if you want a spare
 
 ### Set Up Before Leaving Israel
 1. NordVPN — enable Obfuscated Servers, test it works ✅

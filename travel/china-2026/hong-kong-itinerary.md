@@ -171,7 +171,8 @@
   - ⭐ **REstore**, 1F 618 Shanghai St, **Mong Kok** · ✅ **open 12:00–21:00 daily** — ~8 min on the MTR from TST, then a 5–10 min walk
     - **Minibus sign keychains** and HK convenience-store goods: flat, light, cheap and unmistakably Hong Kong — the best souvenir on the trip for the brief you set. 🔗 [@restorehkshop](https://www.instagram.com/restorehkshop/)
     - *Two slots work: **here on Monday afternoon**, or **Sunday 18:15–19:15** between the massage and dinner. Take whichever suits*
-  - 🛒 **Buy deodorant** — roll-on or stick, never aerosol. Watsons or Mannings, both all over TST. Better range than Israel, and it uses up Octopus balance.
+  - 🛒 **Toiletries run — Watsons or Mannings**, both all over TST, both take Octopus. Better range than Israel, and it clears the balance you have to spend anyway:
+    - **Shampoo + conditioner** · **body wash** · **deodorant** (roll-on or stick, ⚠ never aerosol)
   - ☂ **Buy a small folding umbrella** — same shops, also takes Octopus. It was cut from the packing list, and you are about to spend **16 days in China** including **Zhangjiajie, your wettest leg (22–25 Oct)**. Also covers Bangkok showers in November. Cheap, light, folds into the day pack.
   - 💳 **Spend down the Octopus.** Works in 7-Eleven, Circle K, most cafés, Watsons and Mannings. Buy snacks for the bullet train on the 20th, toiletries, anything else — and walk out at roughly zero. *Refunding instead costs HKD 11 and takes 6–8 weeks.*
   - 🛍 **Mee & Gee** — the big HK vintage chain has a **TST branch**, no harbour crossing · 70s Japanese pieces, leather jackets, denim · *People lose whole afternoons in here*
