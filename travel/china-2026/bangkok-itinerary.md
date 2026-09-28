@@ -300,6 +300,11 @@ Bangkok showers in November are usually short afternoon bursts, not all-day rain
 
 ## Food notes
 
+> 🚶 **Every meal on this trip is a walk-in. Nothing is booked, deliberately.**
+> A solo diner is far easier to seat than a couple — bar seats and two-tops open up that groups cannot use — and every dinner has walkable alternatives.
+> The only optional safety net: **call El Gaucho around 17:00 on Thu 5 Nov** if you decide you want it. You will be five minutes away finishing the massage.
+
+
 **Constraints applied throughout:** no Thai, no Italian, no fried, no oily, no BBQ, no lamb. Chicken, beef, tofu and boneless fish preferred. Light and Mediterranean-leaning.
 
 | Night | Where | What |

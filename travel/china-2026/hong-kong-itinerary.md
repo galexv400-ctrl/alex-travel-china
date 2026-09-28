@@ -7,6 +7,8 @@
 
 ---
 
+> 🚶 **All meals are walk-in — nothing booked.** Only the monastery (Sat 10:30), the massage (Sun 17:00) and the manicure (Mon 12:00) are fixed.
+
 ## 👝 What to carry in Hong Kong
 
 *The Uniqlo moon bag is enough here — Octopus is digital and nothing is far. It fits the power bank, which matters more than it sounds.*
