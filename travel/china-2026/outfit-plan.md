@@ -119,4 +119,4 @@ deliberately rotated. Repeat wears are marked — they are the plan, not an over
 
 **✅ Weighed: comfortably under 15kg.** Nothing needs dropping. The list is final.
 
-*(If that ever changes: the Amazon flares go first — Wolven and Manners cover the `[Cool]` phase between them. Sports bras stay at 3; they double as tops.)*
+*(If that ever changes: the Amazon flares go first — Wolven and Manners cover the `[Cool]` phase between them. Sports bras: 4; they double as tops.)*

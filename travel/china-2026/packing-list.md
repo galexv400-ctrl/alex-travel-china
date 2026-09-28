@@ -103,7 +103,9 @@
 ## UNDERWEAR & BASICS
 - Knickers x20
 - **Swimming costume** ✅ — Sindhorn infinity pool, 18th floor, open late
-- Sports bras x3 ✅ — **all DYLAN: 1 green, 1 black, 1 grey.** ⚠ Not the PALOMA. The Paloma is cut low, and these double as tops. Low-cut is wrong for the monastery on 17 Oct and for mainland China generally.
+- Sports bras x4 ✅ — **3 DYLAN: green, black, grey** + **1 FLOAT, black, small** (packs light, different cut, not a duplicate)
+  - ⚠ **Not the PALOMA** — cut low, and these double as tops. Wrong for the monastery on 17 Oct and mainland China generally
+  - *Four rather than three because 25 days on one wash is tight when they are worn as outerwear, not just underneath*
 - Normal comfy bra x1 ✅
 - Regular socks x10 — including long socks
 - Thermal socks x2 `[Cold]` — spare pair for the Great Wall night; damp socks in 3°C are worse than none
@@ -170,7 +172,7 @@
 - Amazon flared
 - Pyjama top x2 — BCCA
 - Normal comfy bra x1
-- Sports bras x3 — **Dylan: green, black, grey** (not Paloma, too low cut)
+- Sports bras x4 — **Dylan: green, black, grey** + **Float black (small)** · not Paloma
 - Swimming costume
 
 *The 3 flares only — the H&M cropped trousers stay in the purple cube.*
@@ -467,7 +469,7 @@ Flights, hotels, the tour, insurance, the eSIM, the Big Bus and the massage are 
 4. H&M cropped trousers ✅ Have
 5. Sunglasses ✅ Have
 6. Amazon flared trousers ✅ Have
-7. Sports bras x3 ✅ Have
+7. Sports bras x4 ✅ Have
 8. Toiletry bag ✅ Have
 9. Decathlon thermal base layers x3 ✅ Purchased
 10. Hiking shoes ❌ Not bringing — using trainers instead
