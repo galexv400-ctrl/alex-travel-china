@@ -103,11 +103,10 @@
 ## UNDERWEAR & BASICS
 - Knickers x20
 - **Swimming costume** ✅ — Sindhorn infinity pool, 18th floor, open late
-- **BRAS — 5 in total** ✅
-  - **4 sports bras:** 2 DYLAN (black, green) · 1 PALOMA (grey) · 1 FLOAT (black, small)
-  - **1 normal comfy bra**
-  - 👕 **Worn AS TOPS: the 2 Dylans only** — cut high enough for Tsz Shan Monastery (17 Oct) and mainland China generally
-  - 👚 **Worn UNDERNEATH: Paloma, Float, comfy bra** — the Paloma is lower cut and sits better under regular tops
+- **BRAS — 4, all wireless** ✅
+  - **2 DYLAN** (black, green) — 👕 **the ones worn AS TOPS.** Cut high enough for Tsz Shan Monastery (17 Oct) and mainland China generally
+  - **1 PALOMA** (grey) — 👚 under-layer. Lower cut, sits better under regular tops
+  - **1 FLOAT** (black, small) — 👚 under-layer, packs light
   - ⚠ **Only the Dylans work as outerwear.** On temple days and in mainland China, that is what you wear.
 - Regular socks x10 — including long socks
 - Thermal socks x2 `[Cold]` — spare pair for the Great Wall night; damp socks in 3°C are worse than none
@@ -173,7 +172,7 @@
 - Manners London flared
 - Amazon flared
 - Pyjama top x2 — BCCA
-- **Bras x5** — 2 Dylan *(wearable as tops)* · Paloma grey · Float black · 1 comfy *(all under-layers)*
+- **Bras x4, all wireless** — 2 Dylan *(wearable as tops)* · Paloma grey · Float black
 - Swimming costume
 
 *The 3 flares only — the H&M cropped trousers stay in the purple cube.*
@@ -430,6 +429,7 @@ Flights, hotels, the tour, insurance, the eSIM, the Big Bus and the massage are 
 ---
 
 ## NOT BRINGING
+- Wired comfy bra — 25 days of flights, trains and hiking, and nothing on the itinerary is formal. The Paloma covers under-regular-tops more comfortably
 *From Intrepid's generic packing list, reviewed 28 Sept and declined:*
 - Motion sickness tablets — not needed
 - Reusable water bottle — for health reasons
@@ -470,7 +470,7 @@ Flights, hotels, the tour, insurance, the eSIM, the Big Bus and the massage are 
 4. H&M cropped trousers ✅ Have
 5. Sunglasses ✅ Have
 6. Amazon flared trousers ✅ Have
-7. Bras x5 — 4 sports + 1 comfy ✅ Have
+7. Bras x4 — all wireless ✅ Have
 8. Toiletry bag ✅ Have
 9. Decathlon thermal base layers x3 ✅ Purchased
 10. Hiking shoes ❌ Not bringing — using trainers instead
