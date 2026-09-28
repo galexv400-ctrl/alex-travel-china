@@ -26,30 +26,48 @@
 
 **Hotel:** Canalis Suvarnabhumi Airport Hotel · 1599/1 Lat Krabang Soi 13, Lat Krabang 10520
 **Booking.com:** 6637.638.401 · PIN 4470 · Deluxe Double · **₪158, no breakfast** · ☎ +66 2 332 1555
-**Check-in** 14:00–00:00 · **Check-out** Fri 16 Oct by 12:00 · **Free airport shuttle**
+**Check-in** 14:00–00:00 · **Check-out** Fri 16 Oct by 12:00
 
 - **Tue 14 Oct, 22:15** ⚠ Be at **Ben Gurion** — El Al want 3 hrs. You leave the evening of the 14th, not the 15th
 - **01:15** ✈ **El Al LY83** TLV → BKK · 11h 40m · Dreamliner
 - **16:55** Land Suvarnabhumi · **TDAC QR ready** (task due 13 Oct)
 - **~17:40** Immigration + bags
-- 📶 **Switch on the Airalo eSIM here** — this is its first connection, which starts the 30 days
-- 🚐 **Free hotel shuttle** — ⚠ **confirm the pick-up point and times with the hotel in advance**, do not assume
-- **~18:30** Check in. Late arrival is fine — reception runs to midnight
+- 📶 **Switch on the Airalo eSIM here** — first connection, which starts the 30 days
+
+### 🚕 Getting to the hotel — take a taxi, not their car
+
+⚠ **The airport pick-up is NOT free.** Confirmed by the hotel: **THB 350/car or 600/van**, paid on arrival. Meeting point is **Gate 5, 2nd floor, inside the terminal** — look for the hotel logo — then a **10–15 min wait** for the car, because it cannot park at arrivals.
+
+✅ **Metered taxi is cheaper and faster: THB 150–200** plus the airport surcharge.
+- **1st floor, between Gates 4 and 5, outside the terminal**
+- **10–15 min** to the hotel
+- You will have ~1,000 THB cash in hand — more than enough
+
+- **~18:15** Check in. Late arrival is fine — reception runs to midnight
 
 ### That evening
-- 🍽 Hotel restaurant, or 7-Eleven nearby. **Lat Krabang is suburban** — this is not a night for going out, and you will have been travelling ~20 hrs door to door
-- 💵 You have **~1,000 THB** in hand. Hotel prepaid, shuttle free, so this is incidentals only
-- ⚠ **Settle the bill the evening you arrive** — the morning is too tight
-- ⚠ **Book the 07:45 shuttle at reception** the night before
-- 🍞 **Buy breakfast the night before.** No breakfast at Canalis and you leave at 07:45 — 7-Eleven, or eat airside at Suvarnabhumi
+- 🍽 Hotel **room service runs 10:30–21:30**, or 7-Eleven nearby. **Lat Krabang is suburban** — not a night for going out, and you will have been travelling ~20 hrs door to door
+- 🏊 There is a pool and a fitness centre if you want them
+- ⚠ **Book the 07:00 shuttle at reception when you check in** — see below
+- ⚠ **Settle the bill on arrival** — the morning is too tight
 
-### Friday 16 October — early
-- **~06:30** Up
-- **07:45** 🚐 Shuttle to Suvarnabhumi
+### 🚐 Friday 16 October — the shuttle is 07:00, not 07:45
+
+⚠ **The free hotel→airport shuttle runs only four times: 05:00 · 07:00 · 09:00 · 11:00.** There is no 07:45.
+
+**Take the 07:00.** Your flight is **TG628 at 10:30**:
+- **07:00** → at the airport ~07:15, **3h15 before departure** ✅
+- **09:00** → at the airport ~09:15, only **75 min before** ❌ — too late to check a bag on an international flight
+
+⚠ **Book it at the front desk on check-in.** One van, six people, **one 28-inch case each** — it can fill up.
+
+- **~06:15** Up
+- **07:00** 🚐 Free shuttle to Suvarnabhumi
+- 🍞 **No breakfast anywhere** — room service does not open until 10:30. **Eat airside**, which you have ample time for, or buy from 7-Eleven the night before
 - **10:30** ✈ **Thai TG628** BKK → HKG · ref **EASDQZ** · seat 44H · 1pc 23kg + 7kg
 - **14:20** Land Hong Kong **Terminal 1**
 
-> **The point of this night is sleep, nothing else.** You land after ~20 hrs of travel and leave again before 08:00. Do not plan anything.
+> **The point of this night is sleep, nothing else.** You land after ~20 hrs of travel and leave again at 07:00. Do not plan anything.
 
 ---
 
