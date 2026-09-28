@@ -422,6 +422,7 @@ Flights, hotels, the tour, insurance, the eSIM, the Big Bus and the massage are 
   - ℹ The old Entry/Exit **Health** Declaration was abolished in Nov 2023. This is the **customs** declaration, which is still expected.
 - 🛒 **Podcasts + 1 audiobook — download before leaving Israel.** ~40 hrs of daytime trains (9 hrs on 20 Oct and again 1 Nov, 7 hrs on 30 Oct) plus 23 hrs flying. Streaming apps are blocked/unreliable in mainland China. Test in airplane mode.
 - 📱 Hotel addresses in Chinese — screenshot each hotel's address in Chinese characters
+- 📱 **Vaccine book + travel clinic summary** — photograph both, keep with the insurance documents
 
 ---
 
@@ -492,7 +493,8 @@ Flights, hotels, the tour, insurance, the eSIM, the Big Bus and the massage are 
 - **Adacel** — tetanus, diphtheria, pertussis · 1 dose
 - **Vaqta** — hepatitis A (adult) · 1 dose
 
-📄 **Carry the clinic summary** — photograph it and keep it with the insurance documents.
+📱 **Photograph the clinic summary AND the vaccine book** — keep both on the phone with the insurance documents.
+❌ **Do not pack the physical vaccine book.** Nothing on this trip requires it: no yellow fever certificate is needed for China, Hong Kong or Thailand, and you are not arriving from a yellow fever zone. The only use is showing a doctor your status abroad, and a photo does that without the risk of losing the original.
 
 ### Medications & Pharmacy
 - ✅ Ibuprofen, back pain meds, blister plasters, iron pills, SSRI, thyroid pill, magnesium
