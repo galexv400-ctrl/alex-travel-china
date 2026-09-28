@@ -404,12 +404,10 @@ Flights, hotels, the tour, insurance, the eSIM, the Big Bus and the massage are 
   - ⚠ Airalo China eSIMs often route outside the mainland so the firewall may not apply — not guaranteed, keep NordVPN ready
 - ✅ NordVPN — Obfuscated Servers enabled
 - ✅ Octopus for Tourists — set up on Apple Wallet
-- 🚨 **ALIPAY — RESTRICTED 28 Sept, appeal in progress.** Linked to Monzo (no FX fee). **This is how you pay for almost everything across 16 days in China** — cards are not accepted there.
-  - **What is blocked:** paying, receiving, adding friends, messaging. **Withdrawals still work** — funds are not frozen
-  - **Reason given:** "account risk", 13:31 on 28 Sept — triggered by opening the China Customs mini-program from a foreign account
-  - **Appeal submitted via the in-app Appeal button.** ⚠ Use the **ISRAELI passport** — that is what the account is registered under. UK documents would look like the identity mismatch their system is already flagging
-  - ❌ **Do not** reopen that mini-program · **do not** create a second account (a common cause of permanent restriction) · **do not** file the customs declaration through Alipay — use **customsapp.chinaport.gov.cn** instead
-  - 🔁 **If unresolved by mid-October:** CNY cash goes up substantially from 1,200–1,500, and **WeChat Pay becomes essential** rather than optional in Hong Kong
+- ✅ **Alipay — working. Linked to MONZO** (no FX fee). How you pay for almost everything across 16 days in China; cards are not accepted there.
+  - ℹ **Was restricted 28 Sept** ("account risk") after opening the China Customs mini-program from a foreign account. **Resolved the same day by ringing the Alipay helpline** — faster than the in-app appeal, and worth remembering if anything goes wrong in China.
+  - ❌ **Do not open that mini-program again.** File the customs declaration at **customsapp.chinaport.gov.cn** — keep Alipay for payments only
+  - ❌ Never create a second account — a common cause of *permanent* restriction
 - ✅ DiDi — set up
 - 🛒 WeChat — set up in HK with hotel staff verification
 - 🛒 Google Translate — download Chinese offline pack
