@@ -106,7 +106,8 @@
 - **BRAS — 5 in total** ✅
   - **4 sports bras:** 2 DYLAN (black, green) · 1 PALOMA (grey) · 1 FLOAT (black, small)
   - **1 normal comfy bra**
-  - ⚠ **The grey Paloma is the low-cut one.** Fine as a bra, but the sports bras double as tops — so **do not wear the Paloma as a top** at Tsz Shan Monastery (17 Oct) or generally in mainland China. Use a Dylan or the Float for those days.
+  - 👚 **The grey Paloma is the under-layer one** — lower cut, and it sits better under regular tops than the others. That is its job: worn *underneath*, not as outerwear.
+  - ⚠ **Do not wear the Paloma as a top** at Tsz Shan Monastery (17 Oct) or generally in mainland China — use a **Dylan or the Float**, which are cut higher.
   - *Five is generous by count, but they are worn as outerwear and there is only one wash in 25 days*
 - Regular socks x10 — including long socks
 - Thermal socks x2 `[Cold]` — spare pair for the Great Wall night; damp socks in 3°C are worse than none
