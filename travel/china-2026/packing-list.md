@@ -106,9 +106,9 @@
 - **BRAS — 5 in total** ✅
   - **4 sports bras:** 2 DYLAN (black, green) · 1 PALOMA (grey) · 1 FLOAT (black, small)
   - **1 normal comfy bra**
-  - 👚 **The grey Paloma is the under-layer one** — lower cut, and it sits better under regular tops than the others. That is its job: worn *underneath*, not as outerwear.
-  - ⚠ **Do not wear the Paloma as a top** at Tsz Shan Monastery (17 Oct) or generally in mainland China — use a **Dylan or the Float**, which are cut higher.
-  - *Five is generous by count, but they are worn as outerwear and there is only one wash in 25 days*
+  - 👕 **Worn AS TOPS: the 2 Dylans only** — cut high enough for Tsz Shan Monastery (17 Oct) and mainland China generally
+  - 👚 **Worn UNDERNEATH: Paloma, Float, comfy bra** — the Paloma is lower cut and sits better under regular tops
+  - ⚠ **Only the Dylans work as outerwear.** On temple days and in mainland China, that is what you wear.
 - Regular socks x10 — including long socks
 - Thermal socks x2 `[Cold]` — spare pair for the Great Wall night; damp socks in 3°C are worse than none
 - Hair ties x3
@@ -173,7 +173,7 @@
 - Manners London flared
 - Amazon flared
 - Pyjama top x2 — BCCA
-- **Bras x5** — 4 sports (2 Dylan black/green · Paloma grey · Float black) · 1 comfy
+- **Bras x5** — 2 Dylan *(wearable as tops)* · Paloma grey · Float black · 1 comfy *(all under-layers)*
 - Swimming costume
 
 *The 3 flares only — the H&M cropped trousers stay in the purple cube.*
