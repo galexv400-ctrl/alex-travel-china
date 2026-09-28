@@ -260,6 +260,7 @@
 - 🎒 Toothbrush + toothpaste
 - 🎒 Pads x7 (first few days, then buy locally)
 - 🎒 Ibuprofen, back pain meds, blister plasters, iron pills, SSRI, thyroid pill, magnesium (sleep)
+- 🔪 **Pill splitter** — ⚠ **in the CASE for flights**, not hand luggage. On trains, keep it with the medication packaging.
 - 🎒 **Imodium ✅ BOUGHT**
 - 🎒 Hand sanitiser wipes x1
 - 🎒 Pocket tissues — several packs. Carry one in EVERY bag: Chinese public toilets often have no paper.
@@ -284,6 +285,7 @@
 ### 🧳 1. Main case (backpack) — under 15kg ✅
 **Main compartment:** 4 packing cubes — purple = warm · pink = cool/cold · red-pink = knickers + socks · brown = trousers & underwear · plus the shoe organiser
 **Front section of the backpack:** the **toiletries bag, everything wrapped**, with spare tissues and pads
+- ⚠ **PILL SPLITTER goes in the CASE, not the day bag** — it has a blade, and El Al screen before check-in
 - ✅ Goes in the **hold**, so no 100ml liquid limit
 
 ### 🎒 2. Day bag — also the cabin bag
