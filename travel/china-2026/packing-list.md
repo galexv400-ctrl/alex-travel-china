@@ -230,6 +230,7 @@
 ## 🚄 TRAIN RULES — 5 legs, security screened like an airport
 - ❌ **No aerosol sprays** — confiscated. ✅ **Your kit is clear:** hand sanitiser is a **pump spray, not a pressurised can** ✓ · deodorant **roll-on** ✓ · sunscreen **roll-on + stick** ✓. Nothing pressurised anywhere in the bag.
 - ✅ **No scissors or knives in ANY luggage** — checked, none in the bag.
+- ⚠ **The pill splitter is the one blade you are carrying.** On trains there is no hold — everything goes through the scanner with you, so packing it in the case does not protect it. Keep it **with the medication and its packaging** so it reads as medical, not as a blade. Small chance it is taken; it is cheap.
 - ✅ Power bank must be **CCC/3-C certified** — the Anker is ✓
 - ⏱ Passport scanned at every station and tourist site. Allow **20–30 min** for group entry.
 
