@@ -117,6 +117,8 @@
 - **09:30** 🍳 **Breakfast at The Luxe Manor** — included
 - **10:00** 🧺 **Drop the laundry off** on the way out — ask The Luxe Manor front desk for the nearest drop-off shop. Collect Monday morning.
 - **10:15** MTR TST → Sham Shui Po (~15 min, Tsuen Wan Line, no change)
+  - 🚐 **Optional stop: REstore**, 1F 618 Shanghai St, **Mong Kok** — directly on this line, 5–10 min walk from Mong Kok station. Minibus sign keychains and HK convenience-store goods. ⚠ Better on the way **out** than back — returning at 16:00 is tight against the 17:00 massage
+  - 🔗 [@restorehkshop](https://www.instagram.com/restorehkshop/) — ⚠ **check opening hours**, small Mong Kok shops often open late and close Mondays
 - **10:30** **Mei Ho House Heritage Museum**, 70 Berwick Street · Restored 1950s public housing · Free · 45 min
 - **11:30** **JCCAC**, 30 Pak Tin Street · Converted factory, 100+ artist studios · Free · ~1.5 hrs
   - 🔗 [Instagram](https://www.instagram.com/jccac_artsvillage/) · [Facebook](https://www.facebook.com/jccacpage/)
@@ -164,7 +166,9 @@
 - **11:15** ⚠ **Check out** — before the manicure, not at the 12:00 deadline · leave luggage with the concierge
 - **12:00** 💅 **Nu Nail & Beauty** — Flat 10A, 10/F, Lokville Commercial Building, 27 Lock Road, TST · **3 min walk from hotel** · ✅ **BOOKED** · Open daily 10:00–23:00 · ☎ +852 5323 3617
   - 🔗 [Website](https://www.nunailandbeauty.com/) · [Instagram](https://www.instagram.com/nunailandbeauty/) · [Facebook](https://www.facebook.com/nunailandbeauty/)
-- **~13:30** Done · Free afternoon in TST
+- **~13:30** Done · Free afternoon
+  - ⭐ **REstore**, 1F 618 Shanghai St, **Mong Kok** — ~8 min on the MTR from TST, then a 5–10 min walk. **Minibus sign keychains** and HK convenience-store goods: flat, light, cheap and unmistakably Hong Kong — the best souvenir on the whole trip for the brief you set. 🔗 [@restorehkshop](https://www.instagram.com/restorehkshop/)
+    - ⚠ **Check the hours first** — if they close Mondays, do it Sunday on the way to Sham Shui Po instead
   - 🛒 **Buy deodorant** — roll-on or stick, never aerosol. Watsons or Mannings, both all over TST. Better range than Israel, and it uses up Octopus balance.
   - ☂ **Buy a small folding umbrella** — same shops, also takes Octopus. It was cut from the packing list, and you are about to spend **16 days in China** including **Zhangjiajie, your wettest leg (22–25 Oct)**. Also covers Bangkok showers in November. Cheap, light, folds into the day pack.
   - 💳 **Spend down the Octopus.** Works in 7-Eleven, Circle K, most cafés, Watsons and Mannings. Buy snacks for the bullet train on the 20th, toiletries, anything else — and walk out at roughly zero. *Refunding instead costs HKD 11 and takes 6–8 weeks.*
