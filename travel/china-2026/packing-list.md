@@ -427,6 +427,11 @@ Flights, hotels, the tour, insurance, the eSIM, the Big Bus and the massage are 
 ---
 
 ## NOT BRINGING
+*From Intrepid's generic packing list, reviewed 28 Sept and declined:*
+- Motion sickness tablets — not needed
+- Reusable water bottle — for health reasons
+- Rehydration powder · padlock · travel pillow · compression socks · sewing kit · money belt — not useful for this trip
+
 - Shein striped shirt — dropped to make room for the Lululemon packable jacket. The fleece covers open layering
 - Amazon cropped trousers — cut; the H&M cropped do the same job and the warm phase has a laundry stop
 - Black light long-sleeve — not bringing
