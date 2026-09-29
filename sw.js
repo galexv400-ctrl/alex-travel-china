@@ -1,37 +1,59 @@
-const CACHE = 'china-2026-v78';
-const ASSETS = [
-  '/alex-travel-china/',
-  '/alex-travel-china/index.html',
-  '/alex-travel-china/manifest.json'
+// Offline support for the trip site.
+//
+// The markdown files are fetched NETWORK-FIRST: when online you always get the
+// latest version, and the copy is saved; when offline (China, planes, no
+// signal) the last saved copy is shown. Everything is pre-saved on install, so
+// opening the app once while online makes every tab available offline.
+
+const CACHE = 'trip-2026-v100';
+
+const MD = [
+  'travel/china-2026/full-trip-plan.md',
+  'travel/china-2026/hong-kong-itinerary.md',
+  'travel/china-2026/bangkok-itinerary.md',
+  'travel/china-2026/outfit-plan.md',
+  'travel/china-2026/packing-list.md',
+  'travel/china-2026/intrepid-trip-notes.md',
 ];
 
-// Install — cache all assets
+const SHELL = ['./', 'index.html', 'manifest.json', 'lib/marked.min.js', 'icon-192.png', 'icon-512.png'];
+
 self.addEventListener('install', e => {
   e.waitUntil(
-    caches.open(CACHE).then(c => c.addAll(ASSETS)).then(() => self.skipWaiting())
+    caches.open(CACHE).then(c => c.addAll([...SHELL, ...MD])).then(() => self.skipWaiting())
   );
 });
 
-// Activate — clean up old caches
 self.addEventListener('activate', e => {
   e.waitUntil(
-    caches.keys().then(keys =>
-      Promise.all(keys.filter(k => k !== CACHE).map(k => caches.delete(k)))
-    ).then(() => self.clients.claim())
+    caches.keys()
+      .then(keys => Promise.all(keys.filter(k => k !== CACHE).map(k => caches.delete(k))))
+      .then(() => self.clients.claim())
   );
 });
 
-// Fetch — serve from cache, fall back to network
 self.addEventListener('fetch', e => {
-  e.respondWith(
-    caches.match(e.request).then(cached => {
-      if (cached) return cached;
-      return fetch(e.request).then(response => {
-        if (!response || response.status !== 200 || response.type !== 'basic') return response;
-        const clone = response.clone();
-        caches.open(CACHE).then(c => c.put(e.request, clone));
-        return response;
-      }).catch(() => caches.match('/alex-travel-china/'));
-    })
-  );
+  if (e.request.method !== 'GET') return;
+  const url = new URL(e.request.url);
+  if (url.origin !== location.origin) return;
+
+  const isContent = url.pathname.endsWith('.md') || url.pathname.endsWith('/') || url.pathname.endsWith('index.html');
+
+  if (isContent) {
+    // Network first, fall back to the saved copy.
+    e.respondWith(
+      fetch(e.request, { cache: 'no-store' })
+        .then(res => {
+          if (res && res.ok) {
+            const copy = res.clone();
+            caches.open(CACHE).then(c => c.put(e.request, copy));
+          }
+          return res;
+        })
+        .catch(() => caches.match(e.request).then(r => r || caches.match('index.html')))
+    );
+  } else {
+    // Static assets: saved copy first.
+    e.respondWith(caches.match(e.request).then(r => r || fetch(e.request)));
+  }
 });

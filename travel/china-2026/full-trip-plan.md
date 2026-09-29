@@ -1,4 +1,4 @@
-# Full Trip Plan — China & Japan 2026
+# Full Trip Plan — China & Bangkok 2026
 
 **Traveller:** Alexandra Segall
 **Total duration:** 25 days (15 Oct – 8 Nov 2026)
