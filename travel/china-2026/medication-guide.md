@@ -21,6 +21,8 @@
 | **Adacel** | Tetanus, diphtheria, pertussis (whooping cough) | 1 |
 | **Vaqta** | Hepatitis A (adult) | 1 |
 
+> 📅 **Hepatitis A booster due Feb–Aug 2027.** One dose protects you for this trip; the second, 6–12 months later, gives long-term protection. Worth a calendar note.
+
 - 📱 **Photo of the vaccine book and the clinic summary** is on your phone, with the insurance documents. The physical book stays home — nothing on this trip requires it
 - 🩹 **Tetanus is covered** — relevant if you cut yourself on the Great Wall or a market stall; tell any doctor it was given in August 2026
 
