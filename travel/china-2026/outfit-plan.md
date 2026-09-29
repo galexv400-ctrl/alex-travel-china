@@ -76,14 +76,14 @@ deliberately rotated. Repeat wears are marked — they are the plan, not an over
 
 | Item | Wears |
 |---|---|
-| Khaki light · Short-sleeve (black) | 3 each · *swap in the grey any time* |
+| Khaki light · Short-sleeve (black) | 3 each · *swap in the swirl one any time* |
 | Wolven flares · Amazon flares · Manners flares | 3 each |
 | Regular leggings · float leggings | 3 each |
 | Merino · BL100 · Mid-warm (black) | 2 each |
 | Asics black · Modal · Mid-warm (pink) | 1 each |
 | BL500 · green leggings | 1 each |
 
-> 👕 **Both short-sleeves are available throughout** — the plan uses the black one in China, but the grey is there if you want a change or the black is dirty.
+> 👕 **Both short-sleeves are available throughout** — the plan uses the plain black one in China, but the black-grey swirl is there if you want a change or the black is dirty.
 
 > ✅ **The Asics, the Modal and the pink mid-warm are worn once each** — that is your spare capacity if something gets soaked in Zhangjiajie.
 
