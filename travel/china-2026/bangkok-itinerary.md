@@ -1,9 +1,9 @@
-# Bangkok Itinerary — 4–8 November 2026
+# Bangkok Itinerary — 15 Oct stopover + 4–8 November 2026
 
 **Hotel:** Sindhorn Midtown, Vignette Collection by IHG
 **Address:** 68 Langsuan Rd, Soi Langsuan, Lumphini, Pathumwan, Bangkok 10330
 **Check-in:** Wed 4 Nov from 15:00 · **Check-out:** Sun 8 Nov by 12:00
-**Booking.com:** 6761.193.363 · PIN 6989 · King Studio, **breakfast included**
+**Booking.com:** 6761.193.363 · PIN 6989 · **upgraded room with private bathroom**, breakfast included · ₪2,771 paid, Israeli card
 **Phone:** +66 2 796 8888
 
 **Facilities:** Infinity pool 18F · Life Fitness gym 19F · two saunas · 24-hour access
@@ -13,9 +13,62 @@
 ## ⚠ Before you fly
 - ⚠ **Thailand Digital Arrival Card (TDAC)** — complete online **within 3 days before landing**. Free, but the QR code is **mandatory at immigration**. Needed for **both** Thai entries: 15 Oct and 4 Nov
 - ⚠ Visa-free **30 days** on a British passport (reduced from 60 on 15 Sept 2026). Exemption capped at **two entries per calendar year** — 15 Oct and 4 Nov are exactly two. **Use the same passport both times**
+- 💳 At every ATM and card terminal, **choose baht, not shekels or pounds** — letting the machine convert costs several percent
 - **Download Grab** — Thailand's Uber/DiDi. Fixed price, English, card on file. Set it up in Israel.
-- **Thai Baht** — ~1,000 for the 15 Oct airport night, then **15,000–20,000** for this leg
+- **Thai Baht** — ✅ **2,000 bought in Israel** at a good rate: ~1,000 for the 15 Oct night, ~1,000 held for arriving on 4 Nov. Then **withdraw ~8,000 on Thu 5 Nov** at a bank ATM — the massage is prepaid and all four dinners take cards, so cash is really just Chatuchak, markets, souvenirs and the Lao Gan Ma
 - ⚠ Thai ATMs charge a **fixed ~220 THB fee per withdrawal** — take out more, less often
+
+---
+
+## Night 0 — Thursday 15 October: Bangkok airport stopover
+
+*One night between Tel Aviv and Hong Kong. Not a Bangkok day — a sleep.*
+
+**Hotel:** Canalis Suvarnabhumi Airport Hotel · 1599/1 Lat Krabang Soi 13, Lat Krabang 10520
+**Booking.com:** 6637.638.401 · PIN 4470 · Deluxe Double · **₪158, no breakfast** · ☎ +66 2 332 1555
+**Check-in** 14:00–00:00 · **Check-out** Fri 16 Oct by 12:00
+
+- **Tue 14 Oct, 22:15** ⚠ Be at **Ben Gurion** — El Al want 3 hrs. You leave the evening of the 14th, not the 15th
+- **01:15** ✈ **El Al LY83** TLV → BKK · 11h 40m · Dreamliner
+- **16:55** Land Suvarnabhumi · **TDAC QR ready** (task due 13 Oct)
+- **~17:40** Immigration + bags
+- 📶 **Switch on the Airalo eSIM here** — first connection, which starts the 30 days
+
+### 🚕 Getting to the hotel — take a taxi, not their car
+
+⚠ **The airport pick-up is NOT free.** Confirmed by the hotel: **THB 350/car or 600/van**, paid on arrival. Meeting point is **Gate 5, 2nd floor, inside the terminal** — look for the hotel logo — then a **10–15 min wait** for the car, because it cannot park at arrivals.
+
+✅ **Metered taxi is cheaper and faster: THB 150–200** plus the airport surcharge.
+- **1st floor, between Gates 4 and 5, outside the terminal**
+- **10–15 min** to the hotel
+- You will have ~1,000 THB cash in hand — more than enough
+
+- **~18:15** Check in. Late arrival is fine — reception runs to midnight
+
+### That evening
+- 🍽 Hotel **room service runs 10:30–21:30**, or 7-Eleven nearby. **Lat Krabang is suburban** — not a night for going out, and you will have been travelling ~20 hrs door to door
+- 🏊 There is a pool and a fitness centre if you want them
+- ⚠ **Book the 07:00 shuttle at reception when you check in** — see below
+- ⚠ **Settle the bill on arrival** — the morning is too tight
+- 🏪 **7-Eleven run before bed** — water for the room and the morning, plus something for breakfast **if** you would rather not wait until airside. Also worth grabbing snacks for the 2h50 flight to Hong Kong
+
+### 🚐 Friday 16 October — the shuttle is 07:00, not 07:45
+
+⚠ **The free hotel→airport shuttle runs only four times: 05:00 · 07:00 · 09:00 · 11:00.** There is no 07:45.
+
+**Take the 07:00.** Your flight is **TG628 at 10:30**:
+- **07:00** → at the airport ~07:15, **3h15 before departure** ✅
+- **09:00** → at the airport ~09:15, only **75 min before** ❌ — too late to check a bag on an international flight
+
+⚠ **Book it at the front desk on check-in.** One van, six people, **one 28-inch case each** — it can fill up.
+
+- **~06:15** Up
+- **07:00** 🚐 Free shuttle to Suvarnabhumi
+- 🍞 **Nothing at the hotel** — room service does not open until 10:30. **Eat airside**, where you have 3 hrs — or use whatever you picked up at 7-Eleven the night before
+- **10:30** ✈ **Thai TG628** BKK → HKG · ref **EASDQZ** · seat 44H · 1pc 23kg + 7kg
+- **14:20** Land Hong Kong **Terminal 1**
+
+> **The point of this night is sleep, nothing else.** You land after ~20 hrs of travel and leave again at 07:00. Do not plan anything.
 
 ---
 
@@ -24,15 +77,30 @@
 - **18:05** Land Suvarnabhumi off CA959 from Beijing · Visa-free, 30 days · **TDAC QR code ready**
 - **~18:50** Immigration + bags
 - **~19:00** 🚕 **Grab** — four official pick-up points on **Level 1 of arrivals**, clearly signed · ~5 min to match, ~15 min for the car · **~£9–15** inc. 50 THB airport fee and tolls · 40–60 min
-- **~20:00** Check in — Sindhorn Midtown, 68 Langsuan Road
-- **🍽 Dinner: August**, Langsuan · 5 min walk · Healthy cuisine, organic vegetables, USDA-certified meats
-  - *Alternative:* **Mozza**, Central Chidlom · salads
+- **~20:00–20:15** Check in — Sindhorn Midtown, 68 Langsuan Road
 
-> **First evening entirely yours.** You wake in Beijing on a group tour and go to sleep with nothing scheduled for three days. Don't over-plan it — the infinity pool on 18 is open late.
+### 🍽 Dinner — decide when you land, nothing booked
+*You will have been travelling since a Beijing hotel this morning. Pick by how you feel, not by a plan.*
+
+| If you want | Go to |
+|---|---|
+| **A proper meal** | **August**, Langsuan · 5 min walk · healthy, organic veg, USDA meats · walk in |
+| **Something lighter** | ⭐ **Gourmet Market, Central Chidlom** · ~10 min walk · supermarket with excellent prepared food — salads, sushi, sandwiches, fruit. Assemble something and take it back to the room. A step up from 7-Eleven without being a sit-down meal *(you are back here on 7 Nov for the Lao Gan Ma)* |
+| **A short walk, undecided** | **Velaa Sindhorn Village** · effectively next door · several restaurants and cafés — walk over and see what appeals |
+| **Sit-down but light** | **Mozza**, Central Chidlom · salads |
+| **Barely anything** | **7-Eleven or FamilyMart** on Langsuan — toasties, fruit, yoghurt, noodles. Open late, and genuinely decent in Thailand |
+| **Not leaving the room** | Hotel room service |
+
+⚠ Central Embassy and Central Chidlom kitchens close around **21:00–22:00** — fine if you are prompt, not if the flight slips. Gourmet Market usually runs later.
+💡 Open Google Maps when you land and filter for *open now* — you will have data from the moment you switch the eSIM on.
+✅ The convenience stores and August are both walkable in a few minutes, so a late arrival costs you nothing.
+
+> **First evening entirely yours — deliberately unbooked.** You wake in Beijing on a group tour and go to sleep with nothing scheduled for three days. The infinity pool on 18 is open late if you would rather swim than eat.
 
 ---
 
 ## Day 2 — Thursday 5 November: Relax + Siam + Hot Stone
+*Massage ✅ BOOKED + PAID — 16:30*
 
 - **No alarm** · Breakfast at the hotel (included)
 - **Morning — nothing.** Pool on 18, gym on 19, two saunas
@@ -42,78 +110,187 @@
 - ☕ **VE/LA**, Central Embassy · award-winning Bangkok coffee, creative matcha drinks
 
 - **13:30** BTS Chit Lom → **Siam** · *one stop*
-- **13:45–15:30 Siam**
+- **13:45–15:45 Siam** — 🎒 **browsing, not shopping.** Bag space is the constraint: 15kg limit, and the return already has to carry Chatuchak souvenirs and glass jars of Lao Gan Ma. Buy only if something is genuinely fun. Nothing here is a must.
   - **Siam Center** — Brandy Melville (first in Thailand), Thai designer labels
   - **Siam Square** — indie boutiques, streetwear, laneways. The hipster bit
   - **Siam Paragon** — Uniqlo
-- **15:40** BTS Siam → **Ploenchit** · *two stops*
+- **15:50** BTS Siam → **Ploenchit** · *two stops* · **take the BTS, do not walk** — not for comfort, but because 25 min on foot leaves you warm and damp for a treatment built around heat. Walk it on the way back instead.
 - 🍵 **Ksana Matcha**, 2F One City Centre, 548 Ploenchit Rd · Japanese matcha importer, Antelope Canyon interior · *on the way*
 
-- **16:00** 🪨 **Hot Stone Massage, 90 min** — Let's Relax, **30th floor, Grande Centre Point, 100 Witthayu Rd** · **~£53**
-  - 10–15 min walk, or BTS Ploenchit Exit 5 then 300m · Open 10:00–24:00
-  - 🔗 [Book online](https://booking.letsrelaxspa.com/book) · ☎ +66 2651 5225
-- **17:30** Finish · back to the hotel
-- **🍽 Dinner: El Gaucho**, Velaa Sindhorn Village · Argentinian grill · effectively next door
+- **16:30** 🪨 **Aromatic Hot Stone Massage, 90 min** — ✅ **BOOKED + PAID**
+  - **Booking no. BLR2611050011** · Let's Relax **Bangkok Ploenchit Grande Centre Point**, 30th floor, 100 Witthayu (Wireless) Rd
+  - **2,300 THB paid in full** 24 Sept · Mastercard ···4615 · ref K-ISBS-2854301645 · *nothing to pay on the day*
+  - BTS Ploenchit Exit 5 then 300m · Open 10:00–24:00 · ☎ +66 2651 5225
+- **18:00** Finish · **walk back to the hotel** — 10–15 min, cooler by then, and downhill
+- **19:30** 🍽 **Dinner: El Gaucho**, Velaa Sindhorn Village · Argentinian grill · effectively next door
+  - 🚶 **Walk-in is the plan — not booked, deliberately.** A solo diner is far easier to seat than a couple: bar seats and two-tops open up that groups cannot use.
+  - ☎ **If you decide you want it, call around 17:00** — you will be finishing the massage five minutes away.
+  - 🔁 **If it is full or you do not fancy it:** **Bisou** (wagyu, Langsuan, walkable) is the same-level steak alternative. Also **Bistrot de la Mer** (boneless fish, 19F Kempinski) or **Sushi Kuuya**, Langsuan.
+  - 👗 Smartest meal of the trip: **H&M cropped + short-sleeve + kimono + black Tevas.** Not flip-flops.
+
+> 🔁 **If the day feels too full, drop in this order:**
+> 1. **A coffee** — VE/LA or Ksana Matcha. Ksana is the squeeze: you reach Ploenchit ~16:00 and need the 30th floor by 16:30.
+> 2. **The pool** — a short swim, not a morning.
+> 3. **The afternoon shopping** — Siam and Central are open until ~22:00, so you can go after dinner instead. **Sun 8 Nov morning is also free** before the 12:00 checkout, with Central Embassy and Chidlom on your doorstep.
+>
+> The massage is the fixed point — paid, and the whole day is shaped around it.
 
 > **Why hot stone, not Thai massage:** Thai is vigorous — stretching and heavy pressure. After three weeks of trains and hiking, sustained heat from the stones does more. It only comes as 90 min because the stones need time to place and work.
 
 ---
 
-## Day 3 — Friday 6 November: Charoenkrung Creative District
+## Day 3 — Friday 6 November: Charoenkrung + Talat Noi + Song Wat
 
-- **08:00** Breakfast at the hotel
-- **09:00** BTS Chit Lom → Siam → change to **Silom Line** → **Saphan Taksin** (~25 min)
-  - Then walk up Charoenkrung, or take the **Chao Phraya ferry** from Sathorn Pier — *going by boat is half the point*
+*Reordered for a later start — and because Song Wat at golden hour beats Song Wat at noon.*
 
-- **09:45 Warehouse 30** — 48 Charoen Krung 30, Bang Rak · **09:00–18:00 daily · FREE**
+- **09:30** Breakfast at the hotel
+- **10:30** BTS Chit Lom → Siam → **Silom Line** → **Saphan Taksin** (~25 min)
+  - Or the **Chao Phraya ferry** from Sathorn Pier — *going by boat is half the point*
+
+- **11:15 Warehouse 30** — 48 Charoen Krung 30, Bang Rak · **09:00–18:00 daily · FREE**
   - 4,000㎡ of restored **WWII warehouses** — burnt orange facades, original steel trusses, wooden floors. Galleries, vintage shops, design stores
-  - ☕ **30, a COFFEE ROASTER by li-bra-ry** — *inside Warehouse 30*, roasted on site, watch the whole process
-- **~11:00 ATT19** — across the street · handicraft exhibitions, vintage shop, café · Soho vibes
-- **Talat Noi** — Bangkok's oldest shophouses, now studios. Street art through the laneways
-  - ☕ **Mother Roaster**, Talat Noi — run by **"Auntie Pim"**, a Bangkok legend who served coffee 30+ years from a shop with two stools before expanding upstairs
-- **12:30** Lunch in the area — Charoenkrung is a specialty coffee and food neighbourhood
-- **14:00 TCDC**, Grand Postal Building, 1160 Charoenkrung Rd · Tue–Sun 10:30–21:00 · **~£2.30**
-- **River City Bangkok** — short walk, on the water, if you want more
-- **~16:00** Ferry or BTS back · **Late afternoon free**
-- **🍽 Dinner: Maison Saigon**, Velaa Sindhorn Village · Vietnamese — grilled chicken and beef, herbs, fresh rolls. Light, nothing oily
+  - ☕ **30, a COFFEE ROASTER by li-bra-ry** — *inside*, roasted on site
+
+- **12:30 ATT19** — across the street · handicraft exhibitions, vintage shop, café · Soho vibes
+
+### 🍽 13:15 Lunch — Charoenkrung
+| | |
+|---|---|
+| ⭐ **Sarnies**, Soi Charoenkrung 44 | Australian-style café, famous for sourdough. Sandwiches, brunch plates, salads, proper coffee. Air-conditioned. **Best fit** — non-Thai, not fried, not oily |
+| **The Warehouse Talat Noi** | Converted warehouse, several venues, French influence. Worth a look on the day |
+| **Sweet Pista**, inside Warehouse 30 | Convenient, but burgers and pasta — mostly off your list |
+
+- **14:30 TCDC**, Grand Postal Building, 1160 Charoenkrung Rd · **Tue–Sun 10:30–21:00** · ~£2.30
+  - Open till 21:00, which is what makes the later start work
+
+- **16:00 Talat Noi** — Bangkok's oldest shophouses, now studios. Street art through the laneways
+  - ☕ **Mother Roaster** — run by **"Auntie Pim"**, a Bangkok legend who served coffee 30+ years from a shop with two stools
+  - ☕ **La Cabra** — Scandinavian-style coffee, the other good stop here
+
+- **~16:45 Song Wat Road** — carry on north along the river, **5–10 min walk**
+  - Bangkok's old rice-trading street: century-old shophouses and godowns now holding cafés, galleries, natural-wine bars and design studios. Same converted-industrial energy as Warehouse 30 but older and more lived-in
+  - ⭐ **Hong Sieng Kong** ~17:00 — restored riverside complex on the Talat Noi/Song Wat edge: antiques, crumbling walls left as found, tables right on the water. **Golden hour. The photograph of the trip.**
+  - Wander rather than tick off. Most places run roughly 10:00–18:00; many close Mondays, so Friday is right
+  - ⚠ Heavily Chinese-Thai food, so most of it is off your list — treat it as coffee, galleries and shophouses
+
+### ☔ If it rains
+Bangkok showers in November are usually short afternoon bursts, not all-day rain. **This is the exposed day** — Talat Noi and Song Wat are outdoor walking.
+- **Sit it out indoors:** TCDC (to 21:00), Warehouse 30, ATT19 and River City are all covered. Reorder rather than cancel — the outdoor stretch can move to whenever it clears
+- **If it settles in:** **ICONSIAM** across the river, free shuttle boat, entirely indoors
+- ⚠ **You have no umbrella** — it was cut from the packing list, and the waterproof jacket is a winter shell you will not be carrying in Bangkok. **7-Eleven sells umbrellas for ~100 THB**; buy one if the sky looks wrong
+
+### ⏱ If you finish early — backups in the area
+| | |
+|---|---|
+| ⭐ **River City Bangkok** | Art and antiques centre on the water, short walk from TCDC. Air-conditioned, galleries and dealers, river views. The natural extension |
+| ⭐ **ICONSIAM** | Across the river — **free shuttle boat** from Si Phraya or Sathorn pier. Enormous riverside mall, excellent food hall, best river views in Bangkok. Good if you want air-con and a change of pace |
+| **Assumption Cathedral + Old Customs House** | Both a few minutes off Charoenkrung. The European-quarter architecture that explains the whole district |
+| **Just stay on the boat** | Ride the Chao Phraya ferry further up or down and get off somewhere you have not been. Cheap, and the river is the point |
+
+- **~18:00** Ferry or BTS back
+- **19:30** 🍽 **Dinner: Maison Saigon**, Velaa Sindhorn Village · Vietnamese — grilled chicken and beef, herbs, fresh rolls. Light, nothing oily
   - *If you want one standout meal instead:* **Bistrot de la Mer**, 19F Sindhorn Kempinski · baked turbot (boneless), bouillabaisse
+
+> **Route:** Warehouse 30 → ATT19 → lunch → TCDC → Talat Noi → Song Wat is one walk north along the river, with TCDC as the air-conditioned middle. No transport needed between them.
+
+> 🌡 **Heat is not the issue for you** — you live in Israel. The reorder is about light, not comfort: the river at 17:00 is worth more than the river at midday.
 
 > **Why this and not a day trip:** every real day trip from Bangkok is 2.5–4 hrs each way. This is the JCCAC / Sham Shui Po energy you enjoyed in Hong Kong — converted industrial buildings, artist studios, an old working neighbourhood with a creative layer — and it's 30 minutes away.
 
 ---
 
-## Day 4 — Saturday 7 November: Chatuchak + Pool
+## Day 4 — Saturday 7 November: Chatuchak + Souvenirs + Pool
 
-- **08:00** Breakfast at the hotel
-- **09:00** BTS Chit Lom → **Mo Chit** · direct on the Sukhumvit line, ~20 min
-- **09:30 Chatuchak** · Sat–Sun 09:00–18:00, all zones open
+> 🎁 **This is souvenir day.** Everything for friends gets bought today or tomorrow morning — not in Hong Kong, where you would then carry it for 16 days and five train legs.
 
-**Go straight to the vintage — skip the rest:**
-  - **Sections 2–3** — Thailand's best vintage Levi's, military jackets, graphic tees, 90s streetwear · **£5–47** a piece
-  - **Sections 5–6** — curated second-hand denim, workwear, rock tees · marked up for collectors, *polite haggling expected*
-  - **Sections 2–6** — independent Thai designers throughout
+- **09:30** Breakfast at the hotel
+- **10:30** Getting there — **two options**
+  - ⭐ **MRT Lumphini → Kamphaeng Phet** · direct on the Blue Line, no change · **Exit 2 leads straight into the market** — no walk at the other end, and the cleanest toilets and the lockers are right there
+  - **BTS Chit Lom → Mo Chit** · fewer stops, but ~10 min walk from the station to the market
+- **11:00 Chatuchak** · Sat–Sun 09:00–18:00, all zones open
+  - ⏱ **Plan for ~3 hrs.** You move fast and the shopping is opportunistic — out by **14:00** is realistic. Everything below is a menu, not a checklist: skip freely.
 
-- **13:00** Lunch — in the market, or ☕ **Mixt Chatuchak** next door for air conditioning
-- **~15:00** Back to the hotel · shower, drop the bags
+**Go straight to the vintage:**
+  - ⭐ **Sections 5–6** — the second-hand and vintage zone. Levi's, military jackets, graphic tees, workwear, rock tees · **£5–47** a piece
+  - **Sections 2 and 4** — teen fashion and accessories · independent Thai designers scattered through 2–6
+  - ℹ *Section numbering varies between sources. 5–6 is consistently the vintage zone; treat the rest as a rough guide and follow the yellow signs with red lettering.*
+
+**More clothing, then small souvenirs. Nothing else.**
+  - ✅ **Sections 12–14 and 21** — the largest clothing area: clothes, bags, shoes
+  - ✅ **Small souvenirs as you go** — canvas bags (~100 THB), passport holders, accessories, keyrings. Flat, light, cheap, and they survive a suitcase
+  - ❌ **Skip:** books · silk · antiques · ceramics · soaps and spa products (section 8) · home décor
+  - *That removes sections 1, 8, 15, 19, 20, 25, 26 and 29 entirely — most of the market. Good.*
+
+- **~14:00** Leave the market. **Not eating inside** — market food is almost all Thai and fried.
+  - 💳 **Cash, in small notes.** Card acceptance is limited; **some stalls take Alipay**, which you have set up
+  - 🚻 Toilets are around the outer perimeter, small coin fee. The two by **MRT Kamphaeng Phet Exit 2** are staffed and cleanest
+  - 🔒 **Lockers by Exit 2** if you buy more than you want to carry
+  - 💱 Currency exchange inside **Mixt Chatuchak** if you run short
+### 🚪 If it is too busy — decide by 11:30, then go
+*Chatuchak peaks roughly 12:00–16:00. You arrive at 11:00, ahead of the worst, but Saturday is the busier of the two market days.*
+
+**The test:** give sections 5–6 **twenty minutes**. If you are shuffling rather than walking, or you cannot stop at a stall without blocking the lane, it is not going to improve — it gets worse from there.
+
+**Then pick one and leave without agonising:**
+
+| Backup | Why |
+|---|---|
+| ⭐ **Union Mall** | **One stop away** (MRT Phahon Yothin / BTS Ladprao). Indoor, air-conditioned, aimed at a young crowd — **trendy clothing at market-ish prices**, not mall prices. The best value escape and the closest to what you actually came for |
+| ⭐ **BTS back to Siam** | Siam Square, Siam Center, Siam Paragon — **the shopping you deferred from Thursday**. Indoor, calm, and it was on your list anyway, so nothing is wasted |
+| **Or Tor Kor Market** | Directly across from Chatuchak (same MRT, Kamphaeng Phet). Bangkok's cleanest and most famous fresh market — premium fruit, produce, covered and calm. **Not clothes shopping**, but a genuinely interesting half hour and zero travel |
+| **Mixt Chatuchak / JJ Mall** | Next door, indoor, similar stock — but ⚠ **noticeably more expensive**, since it is air-conditioned retail rather than market stalls. Comfort, not value |
+| **Abandon shopping entirely** | Back to the hotel, pool on 18, and do **Central Embassy / Chidlom on Sunday morning** before the 12:00 checkout. Already the noted last-chance slot |
+
+> 🎯 **Remember what Chatuchak is actually for here.** Shopping is opportunistic and bag space is the real constraint — you are not going to fill a case. If the vintage in 5–6 is a fight, you lose very little by walking away. Do not spend a good afternoon being uncomfortable for things you did not need.
+
+### 🍽 Lunch — after Chatuchak, two options
+| | |
+|---|---|
+| **Straight away** | ⭐ **Mixt Chatuchak** — next door, not inside the market. Air-conditioned, sit down, then head back |
+| **Back at base first** | BTS to Chit Lom, shower and drop the bags, then eat near the hotel ~15:30 — **Velaa**, **Gourmet Market** or **Central Embassy**. Better if you would rather be clean and unhurried than fed immediately |
+
+- **~15:00** At the hotel · shower, drop the bags. The rest of the day is deliberately empty.
+- **🌶 Before or after dinner — Tops Market, Central Chidlom (basement food hall)**
+  - **Lao Gan Ma chilli crisp** — imported/Chinese section. You are at Central Chidlom for Mozza anyway
+  - Backup if they are out: **Gourmet Market, Siam Paragon** (one BTS stop) or Villa Market
+  - ⚠ Buy AFTER Chatuchak, not before — do not carry glass jars round a market
+  - ⚠ Jars are oil: **checked luggage only**, never hand luggage
+  - ⚠ Wrap each jar in clothing and put them in the **dry bag** — glass breaks, oil leaks
+  - ⚠ 15kg limit on the El Al flight home. Two or three jars is fine; six is not
 - **Afternoon — nothing.** Pool on 18 and a book
   - 🍵 Or **Peace Oriental Teahouse** back on Langsuan
 - **🍽 Dinner: Mozza**, Central Chidlom · Niçoise, crab and mango, raspberry rocket, lobster, beetroot carpaccio · light after five hours in the heat
 
-> **Go early.** Chatuchak is outdoors and becomes unpleasant by midday. It's also 15,000 stalls, most of them souvenirs you don't want — head straight for sections 2–6 rather than wandering in from the entrance.
+> 💡 **Haggling:** less expected here than reputation suggests — **fixed pricing dominates**. The discount comes from volume: buy two or three from one stall and ask for a better price. "Buy more, get one free" signs mark low-margin stock.
+>
+> ☔ **November is the tail of the rainy season** — afternoon thunderstorms are possible, and the market lanes puddle badly. Another reason not to be there at 16:00.
+> **If it is raining:** Mixt Chatuchak next door is indoors, or abandon it for Siam/Central and shop under a roof. Chatuchak is not worth being soaked for.
+>
+> ⚠ **The trade-off of the later start:** Chatuchak is busiest from late morning through mid-afternoon, and the narrow section lanes get slow — which matters more when you move fast. Heat is not your issue; crowds are. Sections 2–6 are where you are headed, so go straight there rather than drifting in from the entrance.
+>
+> ✅ **Closing time is not a risk** — the market runs to 18:00 and you will be out around 14:00. It's also 15,000 stalls, most of them souvenirs you don't want — head straight for sections 2–6 rather than wandering in from the entrance.
 
 ---
 
 ## Day 5 — Sunday 8 November: Bangkok → Tel Aviv
 
 - **Breakfast** at the hotel — last one
-- **Morning free** — pool, or Central Embassy / Central Chidlom on your doorstep
+- ⚠ **Pack first.** You have more than you arrived with — Chatuchak, possibly Siam, and glass jars of Lao Gan Ma that need wrapping in clothing inside the **dry bag**. Not a ten-minute job.
+- **Morning free once packed** — pool, or **Central Embassy / Central Chidlom** on your doorstep
+  - ☕ **Open House, 6F Central Embassy** — bookshop, cafés, big light-filled space. Somewhere to sit with a book rather than shop
+  - 🎁 **Last chance for souvenirs** — air-conditioned, mall prices but zero effort
+  - 🌶 Also the fallback for the chilli crisp if Saturday did not work out
 - **12:00** Check out
 - **12:15** 🚕 **Grab to Suvarnabhumi** · 40–60 min · **~£9–15** · *door to door — you will have more luggage than you arrived with*
-- **~13:15** ✈ **Arrive airport** — 3¼ hrs before departure
+- **12:55–13:15** ✈ **Arrive airport** — El Al desks at BKK open **~3 hrs before** (≈13:30) from your own experience there, so arriving earlier just means waiting with luggage
 - **16:30** ✈ **El Al LY84** · BKK → TLV · seat 34D · 11h 25m
-- **22:55** Land Tel Aviv
+- **22:55** Land Tel Aviv — **same day, Sun 8 November.** Thailand is UTC+7, Israel UTC+2 in November, so the 5-hour difference swallows most of the 11h 25m flight.
 
-> ⚠ **El Al is stricter than other airlines.** They recommend **4 hours** for international flights because security screening happens BEFORE check-in, and their hard deadline for economy is **3 hours**. They state plainly that late passengers are not boarded. Leaving at 12:15 gets you there with 3¼ hours — do not linger.
+> ⚠ **El Al is stricter than other airlines.** Security screening happens BEFORE check-in, they recommend **4 hours**, and their hard deadline for economy is **3 hours** — they state plainly that late passengers are not boarded.
+>
+> ✅ **12:15 is the right departure.** Desks open ~3 hrs before (≈13:30) at this airport. A 40-min run puts you there at 12:55, a bad 60-min run at 13:15 — either way you are there before they open, with traffic absorbed and no standing around.
+>
+> ⚠ **Do not push it later than 12:15.** Their hard cut-off is 3 hrs, so anything later removes your traffic margin entirely.
 
 > **Why Grab and not the Airport Rail Link:** the train is cheaper (~£2) and immune to traffic, but it means BTS Chit Lom → transfer at Phaya Thai → ARL, with a suitcase plus whatever Chatuchak and Siam produced. The downside is asymmetric — £12 costs £12, a missed connection costs a flight home.
 
@@ -122,6 +299,11 @@
 ---
 
 ## Food notes
+
+> 🚶 **Every meal on this trip is a walk-in. Nothing is booked, deliberately.**
+> A solo diner is far easier to seat than a couple — bar seats and two-tops open up that groups cannot use — and every dinner has walkable alternatives.
+> The only optional safety net: **call El Gaucho around 17:00 on Thu 5 Nov** if you decide you want it. You will be five minutes away finishing the massage.
+
 
 **Constraints applied throughout:** no Thai, no Italian, no fried, no oily, no BBQ, no lamb. Chicken, beef, tofu and boneless fish preferred. Light and Mediterranean-leaning.
 
@@ -132,7 +314,9 @@
 | Fri 6 | **Maison Saigon**, Velaa | Vietnamese — grilled chicken/beef |
 | Sat 7 | **Mozza**, Central Chidlom | Salads |
 
-**In reserve, all walkable:** Bisou (wagyu, Langsuan) · Bistrot de la Mer (boneless fish, 19F Kempinski) · Vaso (Spanish tapas, Velaa — *needs booking*) · Sushi Kuuya (Langsuan)
+**In reserve, all walkable:** Bisou (wagyu, Langsuan) · Bistrot de la Mer (boneless fish, 19F Kempinski) · Sushi Kuuya (Langsuan)
+
+*Not Vaso — Spanish tapas is the wrong flavour profile.*
 
 **Coffee / matcha / tea by location:**
 | Where you'll be | |

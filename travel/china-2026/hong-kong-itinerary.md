@@ -7,11 +7,37 @@
 
 ---
 
+> 🚶 **All meals are walk-in — nothing booked.** Only the monastery (Sat 10:30), the massage (Sun 17:00) and the manicure (Mon 12:00) are fixed.
+
+## 👝 What to carry in Hong Kong
+
+*The Uniqlo moon bag is enough here — Octopus is digital and nothing is far. It fits the power bank, which matters more than it sounds.*
+
+- **Phone** — also your Octopus, your maps and your payment
+- **One card** · **HKD cash** for market stalls, the laundry and taxis
+- **Power bank + short cable**
+- Lip balm · pocket tissues · hand sanitiser · sunglasses
+
+> ⚡ **Your phone is your transit card.** A flat battery does not just mean no maps — **you cannot get through an MTR gate.** Specific to Hong Kong, because the Octopus is digital. Charge the power bank nightly.
+
+> 🛂 **Passport stays in the hotel safe** — Hong Kong does not scan it at sites, unlike mainland China where it travels with you daily. Keep a **photo on your phone**.
+
+> ☂ **No umbrella until Monday** — you buy it on the 19th. Fri–Sun, take the **Lululemon jacket** if the sky looks doubtful.
+
+---
+
 ## Day 1 — Friday 16 October: Arrival
 *Gentle day — two flights behind you*
 
-- **14:20** Land at HKIA · UK passport · Top up Octopus card at Airport Express machines
-- **~15:00** **Airport Express** to Kowloon Station (24 min) · Taxi to The Luxe Manor · Octopus already topped up, so tap and go
+- **14:20** Land at HKIA · UK passport
+  - ❌ **Do NOT top up the Octopus.** You have ~HKD 500 on it and the Airport Express is ~105. You need to spend it **down** by the 19th — refunding costs HKD 11 and takes 6–8 weeks
+  - 💵 **You arrive with no HKD cash** (none was available in Israel). Use an **ATM in arrivals** if you want some — not an exchange counter, the airport rates are poor
+- **~15:00** **Airport Express** to Kowloon Station (24 min) · tap the Octopus
+- **Kowloon Station → The Luxe Manor** (~2 km), pick one:
+  - ⭐ **Uber** — operates in HK and **pays by card**, so no cash needed. Best with luggage off two flights
+  - **Free Airport Express shuttle bus** — the K-routes serve TST hotels. ⚠ Check whether The Luxe Manor is a listed stop; if it is, this is free and door to door
+  - **Taxi** — cheapest (~HKD 50) but many drivers want cash
+  - **MTR** — Austin → Tsim Sha Tsui, 5 min walk, pays with the Octopus you need to spend down. Best on any day you are *not* carrying a suitcase
   - *Why the train, not a taxi:* both arrive ~15:45, but a taxi is ~HKD 300–340 vs ~HKD 130, **Friday late afternoon is rush hour into TST**, and HK taxis are often cash-first — you would need to withdraw HKD at the airport first. The train is immune to traffic and already paid for.
 - **~16:00** Check in, freshen up, rest properly — no rush tonight
 - **18:45** Walk to the Avenue of Stars (10 min along the waterfront)
@@ -29,66 +55,99 @@
 ---
 
 ## Day 2 — Saturday 17 October: Monastery + Sheung Wan / Central
-*Monastery ✅ BOOKED · LockCha ✅ BOOKED 13:00*
+*Monastery ✅ BOOKED 10:30 · Lunch and afternoon unbooked*
 
-- **08:15** 🍳 **Breakfast at The Luxe Manor** — included in your rate
-- **09:15** MTR East Rail to Tai Po Market (~45 min) · then to the monastery (show driver / ask for: 慈山寺)
+> ⏰ **The 08:45 start is fixed by the 10:30 monastery booking**, not by choice — it is ~90 min from the hotel including the awkward last leg. **Everything after that is unscheduled:** no lunch booking, no clock, stay at the monastery as long as you like.
+
+- **08:45** 🍳 **Breakfast at The Luxe Manor** — included in your rate
+- **09:45** MTR East Rail to Tai Po Market (~45 min) · then to the monastery (show driver / ask for: 慈山寺)
   - ⚠ **The direct 20T minibus runs WEEKDAYS ONLY** — no good on a Saturday. Options:
     1. **Taxi** — green NT taxi via Fly Taxi, or hail outside the station (~10 min)
     2. **Minibus 20B** — drops at Tong Tsz Road / Universal Gate Road junction, then **10 min walk uphill**
     3. **Bus to Tai Mei Tuk**, alight San Tau Kok — then ~30 min uphill walk. Last resort.
   - *hkbus.app is the best free app for HK bus and minibus live times*
-- **10:00** **Tsz Shan Monastery**, Tung Tsz Road, Tai Po · Free, pre-booked only · Peaceful Buddhist monastery, giant Guanyin statue, wooded grounds · ~2 hrs at your pace · Covered shoulders required · Open Thu–Tue 09:30–17:00
+- **10:30** **Tsz Shan Monastery** ✅ **BOOKED 10:30**, Tung Tsz Road, Tai Po · Free, pre-booked only · Peaceful Buddhist monastery, giant Guanyin statue, wooded grounds · **allow 75–90 min** — large site, 76m Guanyin and wooded grounds, but you move fast · Covered shoulders required · Open Thu–Tue 09:30–17:00
   - 🔗 [Instagram](https://www.instagram.com/tszshanmonastery/) · [Facebook](https://www.facebook.com/tszshanmonastery/) · [Booking](https://www.tszshan.org/home/new/en/visit.php)
-- **11:45** Back to Tai Po Market station · *Getting back is the harder direction — ask monastery reception to call a taxi before you leave the grounds, or walk 10 min down to the Tong Tsz Road junction for the 20B*
-- **12:05** **East Rail Line direct to Admiralty** (~40 min, no changes — the line runs cross-harbour since 2022)
-- **13:00** 🍵 **Lunch: LockCha Tea House — ✅ BOOKED, 1 person** — G/F, The K.S. Lo Gallery, 10 Cotton Tree Drive, Hong Kong Park, Admiralty · 100+ teas, all-vegetarian dim sum made fresh daily · Sat 10:00–21:00 · Stick to the steamed dumplings
-  - 🔗 [Instagram](https://www.instagram.com/lockchahk/) · [Website](https://www.lockcha.com/locations/hong-kong-park/)
-- **14:30** Leave — LockCha sits inside Hong Kong Park, so you pass through it without stopping · MTR Admiralty → Sheung Wan, or walk (~15 min)
+- **~11:45–12:00** Back to Tai Po Market station · *Getting back is the harder direction — ask monastery reception to call a taxi before you leave the grounds, or walk 10 min down to the Tong Tsz Road junction for the 20B*
+- **~12:15** **East Rail Line to Admiralty** (~40 min, no changes — the line runs cross-harbour since 2022), then **Island Line to Sheung Wan** (3 stops, ~6 min) · arrive **~13:10**
+- ❌ **LockCha ✅ cancelled** — expensive, and it was the only thing putting a clock on the day.
+- **~13:15 Lunch in Sheung Wan** — no booking, eat when you feel like it. See options below.
 
-### 🛍 Sheung Wan / Central — the whole afternoon
-*Everything below is within a 10-minute walk of everything else.*
+### 🥗 Lunch in Sheung Wan — ~13:15, nothing booked
 
-- **15:00 Blue Lotus Gallery**, 28 Pound Lane, Sheung Wan · Photography + the mini print vending machine · Tue–Sun 11:00–18:00 — *now with hours to spare rather than 45 min*
+| | |
+|---|---|
+| ⭐ **Purple Tomato**, Jervois St | Fresh salads, generously piled — Niçoise, Greek, Caesar. HK$80–100. Closest match to what you actually eat |
+| **Knead**, Jervois Rd | Sandwiches and salads, fully customisable — pick base, dressing, toppings. From HK$45 |
+| **Monsieur CHATTÉ**, Jervois St | Small French deli — build-your-own salad bar, lentils, goat's cheese, roast beef |
+| **Teakha**, off Tai Ping Shan St | Tea and desserts, outdoor terrace. Not lunch, but a lovely stop — right by Blue Lotus |
+| **Pacific Place**, Admiralty | If you would rather eat before changing trains — directly above the Admiralty platform |
+
+*Skip Samsen — Thai, and there is always a queue.*
+
+### 🛍 Sheung Wan / Central — ~14:30 onwards
+*Everything below is within a 10-minute walk of everything else. **Times are a suggested order, not a schedule** — you arrive earlier than these stops need, so there is slack throughout.*
+
+**Closing times, which is what actually constrains the order:**
+- **Bang Bang 70s** 19:00 · **PMQ shops** 19:00 · **Blue Lotus** 18:00 · **Cat Street** ~18:00
+- **Select 18** runs to **23:00** — always do this one last
+
+- **~14:30 Blue Lotus Gallery**, 28 Pound Lane, Sheung Wan · Photography + the mini print vending machine · Tue–Sun **11:00–18:00**
   - 🔗 [Website](https://bluelotus-gallery.com/about) · [Facebook](https://www.facebook.com/bluelotusgalleryhk/)
-- **15:45 Cat Street** (Upper Lascar Row) — antiques, bric-a-brac · 5 min walk · stalls wind down ~18:00
-- **16:15 PMQ**, 35 Aberdeen Street · Design studios · Shops till 19:00, cafes till 23:00
-- **16:45 Bang Bang 70s**, 1/F, 16A Aberdeen Street — *next door to PMQ* · Daily 14:00–19:00
-- **17:15 Select 18**, Shop A, 18 Bridges Street · Vintage · **Open till 23:00 Saturdays**
-- **17:45 Central Market** + Old Town Central streets — Cochrane, Stanley, Graham, Aberdeen
+- **~15:15 Cat Street** (Upper Lascar Row) — antiques, bric-a-brac · 5 min walk · ⚠ stalls wind down **~18:00**, and rain shuts it — do this before the indoor stops if the sky looks wrong
+- **~16:00 PMQ**, 35 Aberdeen Street · Design studios · Shops till **19:00**, cafés till 23:00
+- **~16:45 Bang Bang 70s**, 1/F, 16A Aberdeen Street — *next door to PMQ* · Daily **14:00–19:00**
+- **~17:15 Select 18**, Shop A, 18 Bridges Street · Vintage · **open till 23:00 Saturdays — the one you can do last, or after dinner**
+- **~17:45 Central Market** + Old Town Central streets — Cochrane, Stanley, Graham, Aberdeen
 - *Also here if you fancy it:* traditional **ear cleaning** on Queen's Road Central · **Moonary** and **Soul Coffee** for a sit-down
 - **19:00** MTR to TST · Dinner ~19:45
 
 *Too tired after the monastery?* Skip the lot — 14:45 MTR straight back to TST and rest.
-- **~19:45** 🍽 Dinner: **Apgujeong Tent Bar** — 1/F Koon Fook Centre, 9 Knutsford Terrace, TST · **5 min walk from hotel** · Korean, relaxed, open late · Best Korean at Foodie Forks 2025 · ☎ +852 3579 2992
-  - 🔗 [OpenRice](https://www.openrice.com/en/hongkong/r-apgujeong-tent-bar-tsim-sha-tsui-korean-wine-r12817)
-  - *Alternative:* **Lamees** (Jordanian) — 145 Pak Tai Street, To Kwa Wan · Mezze, grilled meats · Taxi ~15 min · Book: +852 9181 9600
-  - *Or:* **Goobne Chicken** — 2/F, The Hart, 4 Hart Avenue, TST · **5 min walk from hotel** · **Oven-roasted, not fried** — marinated 24hrs+, 8 flavours · Open 12:00 till past midnight · Walk-in
-    - 🔗 [OpenRice](https://www.openrice.com/en/hongkong/menu/188593/takeaway) · [Time Out](https://www.timeout.com/hong-kong/restaurants/goobne-chicken)
+- **~19:45** 🍽 **Dinner: Goobne Chicken** — 2/F, The Hart, 4 Hart Avenue, TST · **5 min walk from hotel** · **Oven-roasted, not fried** — marinated 24hrs+, 8 flavours · Open 12:00 till past midnight · **Walk-in**
+  - 🔗 [OpenRice](https://www.openrice.com/en/hongkong/menu/188593/takeaway) · [Time Out](https://www.timeout.com/hong-kong/restaurants/goobne-chicken)
+  - *Alternatives, both 5 min from the hotel:* **Apgujeong Tent Bar**, 9 Knutsford Terrace (Korean, relaxed, open late · ☎ +852 3579 2992) · **Lamees** (Jordanian, mezze and grilled meats, To Kwa Wan, taxi ~15 min · ☎ +852 9181 9600)
 
 ---
 
 ## Day 3 — Sunday 18 October: Sham Shui Po day + evening massage
-*Massage booked for 17:00 · Early start, lunch in Sham Shui Po*
+*Massage ✅ BOOKED 17:00 — the only fixed point. Everything before it is yours.*
 
-- **07:30** **Gym** — hotel gym, or Snap Fitness at 27–33 Nathan Road (4 min walk)
-- **08:30** 🍳 **Breakfast at The Luxe Manor** — included
-- **09:00** MTR TST → Sham Shui Po (~15 min, Tsuen Wan Line, no change)
-- **09:30** **Mei Ho House Heritage Museum**, 70 Berwick Street · Restored 1950s public housing · Free · **Opens 09:30 — the earliest thing open, so it goes first** · 45 min
-- **10:15** **JCCAC**, 30 Pak Tin Street · Converted factory, 100+ artist studios · Free · *Opens 10:00 — this is what sets the morning* · ~1.5 hrs
+> 😴 **Later start, and jet lag pushes the same way.** Israel is UTC+3 in October, Hong Kong UTC+8 — you fly **east**, so local time runs ahead of your body clock. Early mornings feel brutal and you tend to sleep and wake **later**, not earlier. By the 18th you are three days in and only partly adjusted.
+> **So 09:30 is the right call, and later is fine too.** Nothing before the 17:00 massage is booked. Mei Ho House opens 09:30 and JCCAC at 10:00, so the morning only compresses, never breaks.
+
+- **Optional 08:30 gym** — hotel gym, or Snap Fitness at 27–33 Nathan Road (4 min walk)
+- **09:30** 🍳 **Breakfast at The Luxe Manor** — included
+- **10:00** 🧺 **Drop the laundry off** on the way out — ask The Luxe Manor front desk for the nearest drop-off shop. Collect Monday morning.
+- **10:15** MTR TST → Sham Shui Po (~15 min, Tsuen Wan Line, no change)
+  - ℹ *REstore opens at 12:00, so not on the way out — do it **this evening after the massage**, or Monday afternoon*
+- **10:30** **Mei Ho House Heritage Museum**, 70 Berwick Street · Restored 1950s public housing · Free · 45 min
+- **11:30** **JCCAC**, 30 Pak Tin Street · Converted factory, 100+ artist studios · Free · ~1.5 hrs
   - 🔗 [Instagram](https://www.instagram.com/jccac_artsvillage/) · [Facebook](https://www.facebook.com/jccacpage/)
-- **11:45** 🍽 **Lunch + snack stops in Sham Shui Po**
-  - **Hop Yik Tai** — 121 Kweilin Street · Michelin-listed cheung fan · **Steamed, not fried** · 06:30–20:30
-  - **Kung Wo Beancurd Factory** — 118 Pei Ho Street, 1 min from MTR Exit B2 · 07:00–21:00 · ⚠ famous dish is deep-fried tofu — have the tofu fa or fresh soy milk
-  - **Heritage Tea House** — ground floor of JCCAC · Dumplings, noodle soup, herbal iced tea
-  - **YEARS** — plant-based, from HKD40 · lightest option
-  - **Lau Sum Kee** — Michelin Bib Gourmand bamboo-pole noodles (tossed, not fried)
-- **13:00** 🛍 **Thrifting block — now a full 3 hrs**
-  - **Apliu Street** flea market · **Sing Jai Kee** vintage · **Fuk Wing Street** and the fabric streets · **Dragon Centre** if you want aircon
+- **13:00** 🍽 **Lunch in Sham Shui Po**
+  - ⭐ **Hop Yik Tai** — 121 Kweilin Street · Michelin-listed cheung fan · **steamed, not fried** · 06:30–20:30
+  - **YEARS** — plant-based, from HKD40 · the lightest option
+  - **Heritage Tea House** — ground floor of JCCAC, so you can eat without moving
+  - *Lau Sum Kee* (bamboo-pole noodles, tossed not fried) · *Kung Wo Beancurd* (⚠ the famous dish is deep-fried — have tofu fa or fresh soy milk instead)
+### ☕ 14:00 — Tai Nan Street: coffee, then thrifting
+*Tai Nan Street is Sham Shui Po's café strip AND the heart of the thrifting area — the same few blocks. Do both at once.*
+
+| | |
+|---|---|
+| ⭐ **Openground**, 198 Tai Nan St | Coffee, books and art over two floors — ground floor café and shop, exhibitions upstairs by local artists. Known for unusual cheesecakes. **The best fit for you** — same appeal as JCCAC and PMQ |
+| **Café Sausalito**, 201 Tai Nan St | Part café, part micro-roaster, part bean supplier. Industrial look, classic coffee |
+| **Flow**, 195 Tai Nan St | Hand-drip specialists who run brewing masterclasses. Known for a vivid green matcha cake |
+| **KOKONI** | Japanese-themed, in-house roasted |
+
+*All three of the first are on one block — 195, 198, 201. **Ki Lung Street** is the other café artery.*
+
+- 🛍 **Thrifting, same area** — **Apliu Street** flea market · **Sing Jai Kee** vintage · **Fuk Wing Street** and the fabric streets · **Dragon Centre** if you want aircon
+  - 🎒 Browsing, not buying — bag space is the constraint, same as Chatuchak
 - **16:00** Leave Sham Shui Po · MTR back to TST (12 min)
 - **16:30** Back at hotel, freshen up
 - **17:00** 💆 **Massage — Tai Pan Reflexology Parlour**, 83 Nathan Road (basement) · **✅ BOOKED — 5:00pm** · 5 min walk · ☎ +852 2301 1990
   - 🔗 [Treatments](https://www.taipanreflexologyparlour.com/experiences)
+- **18:15–19:15** ⭐ **Optional: REstore**, Mong Kok — **3 stops from TST, ~8 min**, open till 21:00. Comfortable in the gap between the massage and dinner
+  - 🏮 **Temple Street Night Market** is at Jordan, one stop back towards TST, running from early evening — easy to combine on the way home
 - **19:30** 🍽 Dinner: **Born Ga**, Tsim Sha Tsui · Hot stone pot bibimbap + soft tofu stew · Single-serving stone pots, ideal for solo · Walk-in
   - Sham Shui Po → TST is **6 stops on the Tsuen Wan Line, ~12 min, no change** — come home on the line you are already on, drop your bag at the hotel, then walk
   - *Backup:* **Hansung Co** — 10 Kimberley Street, TST · Bibimbap, **beef stew**, spicy rice cake · Time Out listed · Walk-in, 5 min from hotel
@@ -101,22 +160,29 @@
 ---
 
 ## Day 4 — Monday 19 October: Manicure + Check Out
-*⚠ Check out by 12:00 · Welcome meeting 6pm at Harbour Plaza North Point*
+*⚠ Check out by 12:00 · Manicure 12:00 · Welcome meeting 18:00 at Harbour Plaza North Point*
 
-- **07:30** Optional hotel gym
-- **08:30** 🍳 **Breakfast at The Luxe Manor** — included · *last one, make it count*
-- **09:30** Pack
-- **10:30** ⚠ **Check out early** — before the manicure, not at 12:00 · Leave luggage with concierge
-- **11:00** Slow brunch nearby in TST
+> 🧳 **Pack the night before.** Then Monday is just a checkout, and the morning stays yours.
+
+- **09:30** 🍳 **Breakfast at The Luxe Manor** — included · *last one, make it count*
+- **10:45** 🧺 **Collect the laundry** (dropped Sunday morning — see below)
+- **11:15** ⚠ **Check out** — before the manicure, not at the 12:00 deadline · leave luggage with the concierge
 - **12:00** 💅 **Nu Nail & Beauty** — Flat 10A, 10/F, Lokville Commercial Building, 27 Lock Road, TST · **3 min walk from hotel** · ✅ **BOOKED** · Open daily 10:00–23:00 · ☎ +852 5323 3617
   - 🔗 [Website](https://www.nunailandbeauty.com/) · [Instagram](https://www.instagram.com/nunailandbeauty/) · [Facebook](https://www.facebook.com/nunailandbeauty/)
-- **~13:30** Done · Free afternoon in TST
+- **~13:30** Done · Free afternoon
+  - ⭐ **REstore**, 1F 618 Shanghai St, **Mong Kok** · ✅ **open 12:00–21:00 daily** — ~8 min on the MTR from TST, then a 5–10 min walk
+    - **Minibus sign keychains** and HK convenience-store goods: flat, light, cheap and unmistakably Hong Kong — the best souvenir on the trip for the brief you set. 🔗 [@restorehkshop](https://www.instagram.com/restorehkshop/)
+    - *Two slots work: **here on Monday afternoon**, or **Sunday 18:15–19:15** between the massage and dinner. Take whichever suits*
+  - 🛒 **Toiletries run — Watsons or Mannings**, both all over TST, both take Octopus. Better range than Israel, and it clears the balance you have to spend anyway:
+    - **Shampoo + conditioner** · **body wash** · **deodorant** (roll-on or stick, ⚠ never aerosol)
+  - ☂ **Buy a small folding umbrella** — same shops, also takes Octopus. It was cut from the packing list, and you are about to spend **16 days in China** including **Zhangjiajie, your wettest leg (22–25 Oct)**. Also covers Bangkok showers in November. Cheap, light, folds into the day pack.
   - 💳 **Spend down the Octopus.** Works in 7-Eleven, Circle K, most cafés, Watsons and Mannings. Buy snacks for the bullet train on the 20th, toiletries, anything else — and walk out at roughly zero. *Refunding instead costs HKD 11 and takes 6–8 weeks.*
   - 🛍 **Mee & Gee** — the big HK vintage chain has a **TST branch**, no harbour crossing · 70s Japanese pieces, leather jackets, denim · *People lose whole afternoons in here*
   - Or the waterfront, K11 MUSEA, or a slow coffee
   - 🚿 Need a shower after checkout? **Snap Fitness**, 27–33 Nathan Road (4 min walk) does day passes. Though you check in at Harbour Plaza at 16:00 with two hours before the meeting, so the hotel shower is simpler unless you actually want to train
-- **15:00** Collect luggage from The Luxe Manor · Taxi direct to Harbour Plaza North Point, 665 King's Road (~25 min, ~HKD 100)
-- **16:00** Check in at Harbour Plaza North Point
+- **15:30** Collect luggage from The Luxe Manor · **Uber to Harbour Plaza North Point**, 665 King's Road (~25 min)
+  - ⭐ **Uber, not a taxi** — pays by card, and cash is the thing you are short of in Hong Kong. A taxi is ~HKD 100 and often cash-only
+- **16:15** Check in at Harbour Plaza North Point · time to shower and change before the meeting
 - **18:00** ✅ Intrepid welcome meeting
 
 > ⚠ Harbour Plaza North Point is on HK Island — NOT Kowloon. Take taxi direct with luggage. Bring insurance details and next of kin info.
@@ -143,7 +209,6 @@
 | Tai Pan massage (Sun 17:00) | ☎ +852 2301 1990 | ✅ **BOOKED** |
 | Lamees dinner (only if choosing it over Flat Iron) | +852 9181 9600 | 1 week before |
 | Apgujeong arrival night | +852 3579 2992 | Optional — walk-in usually fine |
-| LockCha Tea House (Sat 13:00) | ✅ **BOOKED** — 1 person | |
 | Nu Nail & Beauty (Mon 12:00) | ☎ +852 5323 3617 | ✅ **BOOKED** |
 | Big Bus night tour (Fri 19:00) | ✅ **BOOKED — ref XF7MVK0Z** | Arrive Stop #16, Avenue of Stars, by 18:45 |
 
