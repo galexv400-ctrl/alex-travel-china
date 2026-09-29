@@ -14,8 +14,7 @@
 - Waterproof pink jacket (layer)
 - Purple Skechers ✅ **bought and broken in** · wear on plane days
 
-### Day Bag / Plane Bag (bulky items)
-- Uniqlo pink puffer (packable)
+*For what goes in the day bag (also the cabin bag) and the Uniqlo moon bag, see **BAGS** below.*
 
 ---
 

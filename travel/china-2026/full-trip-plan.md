@@ -12,10 +12,10 @@
 |------|-----|----------|--------|--------------|
 | Thu 15 Oct | 1 | Depart Tel Aviv | El Al LY83 TLV → Bangkok · ⚠ **at Ben Gurion by 22:15 on Tue 14 Oct** | Departs TLV **01:15** |
 | Thu 15 Oct | — | Bangkok | Canalis Suvarnabhumi Airport Hotel — check-in runs to midnight, so a later arrival is fine | Arrives BKK 16:55 |
-| Fri 16 Oct | 2 | Bangkok → Hong Kong | Check out Canalis, fly to HK. Thai Airways TG628 departs 10:30, arrives 14:20 | BKK 10:30 → HKG 14:20 |
-| Sat 17 Oct | 3 | Hong Kong | Settle in, recover from jetlag. The Luxe Manor, check in from 14:00 | — |
-| Sun 18 Oct | 4 | Hong Kong | Free day, explore | — |
-| Mon 19 Oct | 5 | Hong Kong | Welcome meeting 6pm — mandatory. Check out hotel by 12:00 | — |
+| Fri 16 Oct | 2 | Bangkok → Hong Kong | **07:00 free shuttle** from Canalis. Thai TG628 10:30 → 14:20. Check in The Luxe Manor. **Big Bus night tour 19:00** | BKK 10:30 → HKG 14:20 |
+| Sat 17 Oct | 3 | Hong Kong | **Tsz Shan Monastery 10:30** (booked). Afternoon in Sheung Wan / Central, unbooked | — |
+| Sun 18 Oct | 4 | Hong Kong | Sham Shui Po — Mei Ho House, JCCAC, Tai Nan St. **Tai Pan massage 17:00** (booked). Laundry drop | — |
+| Mon 19 Oct | 5 | Hong Kong | Check out 11:15. **Manicure 12:00** (booked). REstore, Octopus spend-down. **Welcome meeting 18:00** — mandatory | — |
 | Tue 20 Oct | 6 | → Chongqing | Bullet train ~9hrs | — |
 | Wed 21 Oct | 7 | Chongqing | City tour, hot pot lunch in WWII shelter | — |
 | Thu 22 Oct | 8 | → Zhangjiajie | Bullet train ~4–5hrs | — |
@@ -31,10 +31,10 @@
 | Sun 1 Nov | 18 | → Great Wall | Train to Beijing + transfer ~9hrs. Sunset on the Wall. | — |
 | Mon 2 Nov | 19 | → Beijing | Jinshanling Wall hike ~2hrs. Breakfast included. | — |
 | Tue 3 Nov | 20 | Beijing | Tiananmen Square, Forbidden City. Farewell dinner — Beijing duck! | — |
-| Wed 4 Nov | 21 | Beijing → Bangkok | Tour ends. Air China CA959 dep PEK 14:00, arr BKK 18:05. Grab to hotel. Dinner: August | PEK 14:00 → BKK 18:05 |
-| Thu 5 Nov | 22 | Bangkok | Morning free (pool). Sushi at Honmono. Siam shopping. **Hot stone massage 16:00**, Let's Relax Ploenchit. Dinner: El Gaucho | — |
+| Wed 4 Nov | 21 | Beijing → Bangkok | Tour ends. Air China CA959 dep PEK 14:00, arr BKK 18:05. Grab to hotel. Dinner: decide on landing | PEK 14:00 → BKK 18:05 |
+| Thu 5 Nov | 22 | Bangkok | Morning free (pool). Sushi at Honmono. Siam shopping. **Hot stone massage 16:30** (paid), Let's Relax Ploenchit. Dinner: El Gaucho | — |
 | Fri 6 Nov | 23 | Bangkok | **Charoenkrung creative district** — Warehouse 30, ATT19, Talat Noi, TCDC. Dinner: Maison Saigon | — |
-| Sat 7 Nov | 24 | Bangkok | **Chatuchak** (weekends only), Sections 2–6. Back 15:00, pool. Dinner: Mozza | — |
+| Sat 7 Nov | 24 | Bangkok | **Chatuchak 11:00** — sections 5–6, 2/4, 12–14, 21. Back ~15:00, pool. Dinner: Mozza | — |
 | Sun 8 Nov | 25 | Bangkok → Tel Aviv | Check out 12:00. Grab 12:15 — arrive ~12:55–13:15; desks open ~13:30. **Hard cut-off 3 hrs** | El Al LY84, BKK 16:30 → TLV 22:55 |
 
 ---
@@ -113,7 +113,7 @@
 - China: visa-free 30 days (UK citizens from Feb 2026)
 - Hong Kong: visa-free either passport
 - Thailand: visa-free either passport
-- Complete China Customs digital health declaration (mini-app) before departure
+- ⚠ **China Customs declaration — use the WEBSITE, customsapp.chinaport.gov.cn. NOT the Alipay mini-program** (it triggered an Alipay restriction on 28 Sept). File on Mon 19 Oct in Hong Kong, within 24 hrs of entry
 
 ---
 

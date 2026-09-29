@@ -16,13 +16,13 @@ Nothing here is binding — it is a default so you never stand in front of a sui
 | **Thu 15** | Fly TLV→BKK, airport hotel | Green jumpsuit · waterproof jacket · Skechers *(worn on plane)* → **evening:** bra top + bike shorts |
 | **Fri 16** | Fly to HK · open-top bus 19:00 · Flat Iron | Green playsuit · Skechers → **bus: add the kimono** (open deck, moving air) |
 | **Sat 17** | 🛕 **Monastery** · Sheung Wan · Cat Street | **Uniqlo short-sleeve + H&M cropped trousers** · Skechers · cap → **evening: kimono** |
-| **Sun 18** | Apliu St · massage 17:00 · Born Ga | Red playsuit · Tevas · cap |
-| **Mon 19** | Check out 12:00 · welcome meeting 18:00 | Bra top + cropped trousers + kimono · Tevas |
+| **Sun 18** | Sham Shui Po · massage 17:00 · Born Ga | Red playsuit · **Skechers** *(walking all day)* · cap |
+| **Mon 19** | Check out 11:15 · manicure 12:00 · welcome meeting 18:00 | Bra top + cropped trousers + kimono · Tevas |
 
 > 🛕 **Sat 17 is the shoulder-coverage day.** The short-sleeve and cropped trousers cover shoulders and knees.
-> The short-sleeve lives in the pink cube — pull it out the night before.
+> Wear the **black-grey swirl** short-sleeve — it is in the purple cube.
 
-> 🧺 **Laundry: drop off Sat 17 evening, collect Sun or Mon.** Everything worn 15–17 Oct goes in.
+> 🧺 **Laundry: drop off Sun 18 ~10:00, collect Mon 19 ~10:45.** Everything worn 15–17 Oct goes in.
 > **This is the only wash of the trip** — the warm kit then stays clean and sealed until Bangkok on 4 Nov.
 
 ---
@@ -102,11 +102,11 @@ deliberately rotated. Repeat wears are marked — they are the plan, not an over
 
 | Day | Doing | Wear |
 |---|---|---|
-| **Wed 4** | Fly Beijing→Bangkok · 12°C → 30°C | **Travel: khaki + Amazon flares**, puffer in the day bag → **change at hotel:** bra top + cropped trousers for August |
-| **Thu 5** | Pool · Siam · massage 16:00 · El Gaucho | **Day:** bra top + bike shorts → **dinner: cropped trousers + short-sleeve + kimono + Tevas** |
+| **Wed 4** | Fly Beijing→Bangkok · 12°C → 30°C | **Travel: khaki + Amazon flares**, puffer in the day bag → **change at hotel:** bra top + cropped trousers for dinner |
+| **Thu 5** | Pool · Siam · massage 16:30 · El Gaucho | **Day:** bra top + bike shorts → **dinner: cropped trousers + short-sleeve + kimono + Tevas** |
 | **Fri 6** | Charoenkrung · Talat Noi · Song Wat | Green playsuit · **Skechers** *(walking all day)* · cap |
-| **Sat 7** | Chatuchak 09:30–13:00 · Mozza | Bra top + bike shorts · cap · Skechers *(5 hrs outdoors)* → **dinner: red playsuit** |
-| **Sun 8** | Check out 12:00 · fly 16:30 | Black trousers + short-sleeve + **kimono** *(plane air-con)* · Skechers |
+| **Sat 7** | Chatuchak 11:00–14:00 · Mozza | Bra top + bike shorts · cap · Skechers *(~3 hrs outdoors)* → **dinner: red playsuit** |
+| **Sun 8** | Check out 12:00 · fly 16:30 | H&M cropped + short-sleeve + **kimono** *(plane air-con)* · Skechers |
 
 > 🍽 **Thu 5, El Gaucho is your smartest meal.** Cropped trousers, short-sleeve, kimono, black Tevas.
 > Not flip-flops — upmarket Bangkok venues mind.
