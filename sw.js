@@ -5,7 +5,7 @@
 // signal) the last saved copy is shown. Everything is pre-saved on install, so
 // opening the app once while online makes every tab available offline.
 
-const CACHE = 'trip-2026-v100';
+const CACHE = 'trip-2026-v101';
 
 const MD = [
   'travel/china-2026/full-trip-plan.md',
@@ -13,6 +13,7 @@ const MD = [
   'travel/china-2026/bangkok-itinerary.md',
   'travel/china-2026/outfit-plan.md',
   'travel/china-2026/packing-list.md',
+  'travel/china-2026/medication-guide.md',
   'travel/china-2026/intrepid-trip-notes.md',
 ];
 

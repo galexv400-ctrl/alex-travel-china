@@ -90,6 +90,7 @@
     { id: 'bkk',      label: 'Bangkok',    file: 'bangkok-itinerary.md' },
     { id: 'outfits',  label: 'Outfits',    file: 'outfit-plan.md' },
     { id: 'packing',  label: 'Packing',    file: 'packing-list.md' },
+    { id: 'meds',     label: 'Medication', file: 'medication-guide.md' },
     { id: 'intrepid', label: 'Intrepid',   file: 'intrepid-trip-notes.md' },
   ];
 
@@ -110,6 +111,7 @@
   async function show(id) {
     const tab = TABS.find(t => t.id === id) || TABS[0];
     [...nav.children].forEach(b => b.classList.toggle('on', b.dataset.id === tab.id));
+    nav.querySelector('.on')?.scrollIntoView({ inline: 'center', block: 'nearest' });
     content.innerHTML = '';
     try {
       const res = await fetch(DIR + tab.file);
