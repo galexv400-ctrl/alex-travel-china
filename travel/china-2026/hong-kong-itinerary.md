@@ -98,6 +98,7 @@
 - **~16:00 PMQ**, 35 Aberdeen Street · Design studios · Shops till **19:00**, cafés till 23:00
 - **~16:45 Bang Bang 70s**, 1/F, 16A Aberdeen Street — *next door to PMQ* · Daily **14:00–19:00**
 - **~17:15 Select 18**, Shop A, 18 Bridges Street · Vintage · **open till 23:00 Saturdays — the one you can do last, or after dinner**
+- 🎁 *There is also a **Central branch** of the Hong Kong Souvenir Shop (錦繡唐朝), open till 19:00 — the TST branches near the hotel are open till 23:00, so no need to fit it in here*
 - **~17:45 Central Market** + Old Town Central streets — Cochrane, Stanley, Graham, Aberdeen
 - *Also here if you fancy it:* traditional **ear cleaning** on Queen's Road Central · **Moonary** and **Soul Coffee** for a sit-down
 - **19:00** MTR to TST · Dinner ~19:45
@@ -176,8 +177,9 @@
   - 🎁 **Hong Kong Souvenir Shop 香港紀念品專門店 (錦繡唐朝)** — several branches, **all a few minutes from the hotel**:
     - **Shop 4, G/F, Chungking Mansions**, Nathan Rd — ⭐ same building as the money changers, so pair it with **buying the CNY**
     - **27–33 Nathan Rd**, TST · **Shop A, Bo Fung Building, Haiphong Rd**, TST · also one at **The Peak**
-    - 🔗 [@hksouvenir_eleganttangdynasty](https://www.instagram.com/hksouvenir_eleganttangdynasty/) · ⚠ **no online shop** — in person only. Hours not confirmed; check Instagram
-    - Being this close, it also works **any evening** after dinner
+    - 🔗 [@hksouvenir_eleganttangdynasty](https://www.instagram.com/hksouvenir_eleganttangdynasty/) · ⚠ **no online shop** — in person only
+    - 🕘 **Open daily:** **TST 09:00–23:00** · The Peak 09:00–21:00 · Central 09:00–19:00
+    - TST is open till 23:00, so it works **any evening** after dinner too
   - 🛒 **Toiletries run — Watsons or Mannings**, both all over TST, both take Octopus. Better range than Israel, and it clears the balance you have to spend anyway:
     - **Shampoo + conditioner** · **body wash** · **deodorant** (roll-on or stick, ⚠ never aerosol)
   - ☂ **Buy a small folding umbrella** — same shops, also takes Octopus. It was cut from the packing list, and you are about to spend **16 days in China** including **Zhangjiajie, your wettest leg (22–25 Oct)**. Also covers Bangkok showers in November. Cheap, light, folds into the day pack.
