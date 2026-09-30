@@ -173,6 +173,11 @@
   - ⭐ **REstore**, 1F 618 Shanghai St, **Mong Kok** · ✅ **open 12:00–21:00 daily** — ~8 min on the MTR from TST, then a 5–10 min walk
     - **Minibus sign keychains** and HK convenience-store goods: flat, light, cheap and unmistakably Hong Kong — the best souvenir on the trip for the brief you set. 🔗 [@restorehkshop](https://www.instagram.com/restorehkshop/)
     - *Two slots work: **here on Monday afternoon**, or **Sunday 18:15–19:15** between the massage and dinner. Take whichever suits*
+  - 🎁 **Hong Kong Souvenir Shop 香港紀念品專門店 (錦繡唐朝)** — several branches, **all a few minutes from the hotel**:
+    - **Shop 4, G/F, Chungking Mansions**, Nathan Rd — ⭐ same building as the money changers, so pair it with **buying the CNY**
+    - **27–33 Nathan Rd**, TST · **Shop A, Bo Fung Building, Haiphong Rd**, TST · also one at **The Peak**
+    - 🔗 [@hksouvenir_eleganttangdynasty](https://www.instagram.com/hksouvenir_eleganttangdynasty/) · ⚠ **no online shop** — in person only. Hours not confirmed; check Instagram
+    - Being this close, it also works **any evening** after dinner
   - 🛒 **Toiletries run — Watsons or Mannings**, both all over TST, both take Octopus. Better range than Israel, and it clears the balance you have to spend anyway:
     - **Shampoo + conditioner** · **body wash** · **deodorant** (roll-on or stick, ⚠ never aerosol)
   - ☂ **Buy a small folding umbrella** — same shops, also takes Octopus. It was cut from the packing list, and you are about to spend **16 days in China** including **Zhangjiajie, your wettest leg (22–25 Oct)**. Also covers Bangkok showers in November. Cheap, light, folds into the day pack.
