@@ -98,7 +98,6 @@
 - **~16:00 PMQ**, 35 Aberdeen Street · Design studios · Shops till **19:00**, cafés till 23:00
 - **~16:45 Bang Bang 70s**, 1/F, 16A Aberdeen Street — *next door to PMQ* · Daily **14:00–19:00**
 - **~17:15 Select 18**, Shop A, 18 Bridges Street · Vintage · **open till 23:00 Saturdays — the one you can do last, or after dinner**
-- 🎁 *There is also a **Central branch** of the Hong Kong Souvenir Shop (錦繡唐朝), open till 19:00 — the TST branches near the hotel are open till 23:00, so no need to fit it in here*
 - **~17:45 Central Market** + Old Town Central streets — Cochrane, Stanley, Graham, Aberdeen
 - *Also here if you fancy it:* traditional **ear cleaning** on Queen's Road Central · **Moonary** and **Soul Coffee** for a sit-down
 - **19:00** MTR to TST · Dinner ~19:45
@@ -171,15 +170,13 @@
 - **12:00** 💅 **Nu Nail & Beauty** — Flat 10A, 10/F, Lokville Commercial Building, 27 Lock Road, TST · **3 min walk from hotel** · ✅ **BOOKED** · Open daily 10:00–23:00 · ☎ +852 5323 3617
   - 🔗 [Website](https://www.nunailandbeauty.com/) · [Instagram](https://www.instagram.com/nunailandbeauty/) · [Facebook](https://www.facebook.com/nunailandbeauty/)
 - **~13:30** Done · Free afternoon
+- **~13:45** 🎁 **Hong Kong Souvenir Shop 香港紀念品專門店 (錦繡唐朝)** — **27–33 Nathan Road, TST** · **4 min walk from the hotel** · open **09:00–23:00 daily**
+  - 🔗 [@hksouvenir_eleganttangdynasty](https://www.instagram.com/hksouvenir_eleganttangdynasty/) · no online shop, in person only
+  - *Other TST branches if this one is busy: Shop 4, G/F, **Chungking Mansions** (same building as the money changers) · Shop A, Bo Fung Building, **Haiphong Rd***
+  - *Open till 23:00, so if Monday runs short it works any evening after dinner*
   - ⭐ **REstore**, 1F 618 Shanghai St, **Mong Kok** · ✅ **open 12:00–21:00 daily** — ~8 min on the MTR from TST, then a 5–10 min walk
     - **Minibus sign keychains** and HK convenience-store goods: flat, light, cheap and unmistakably Hong Kong — the best souvenir on the trip for the brief you set. 🔗 [@restorehkshop](https://www.instagram.com/restorehkshop/)
     - *Two slots work: **here on Monday afternoon**, or **Sunday 18:15–19:15** between the massage and dinner. Take whichever suits*
-  - 🎁 **Hong Kong Souvenir Shop 香港紀念品專門店 (錦繡唐朝)** — several branches, **all a few minutes from the hotel**:
-    - **Shop 4, G/F, Chungking Mansions**, Nathan Rd — ⭐ same building as the money changers, so pair it with **buying the CNY**
-    - **27–33 Nathan Rd**, TST · **Shop A, Bo Fung Building, Haiphong Rd**, TST · also one at **The Peak**
-    - 🔗 [@hksouvenir_eleganttangdynasty](https://www.instagram.com/hksouvenir_eleganttangdynasty/) · ⚠ **no online shop** — in person only
-    - 🕘 **Open daily:** **TST 09:00–23:00** · The Peak 09:00–21:00 · Central 09:00–19:00
-    - TST is open till 23:00, so it works **any evening** after dinner too
   - 🛒 **Toiletries run — Watsons or Mannings**, both all over TST, both take Octopus. Better range than Israel, and it clears the balance you have to spend anyway:
     - **Shampoo + conditioner** · **body wash** · **deodorant** (roll-on or stick, ⚠ never aerosol)
   - ☂ **Buy a small folding umbrella** — same shops, also takes Octopus. It was cut from the packing list, and you are about to spend **16 days in China** including **Zhangjiajie, your wettest leg (22–25 Oct)**. Also covers Bangkok showers in November. Cheap, light, folds into the day pack.
