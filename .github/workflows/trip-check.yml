@@ -1,0 +1,14 @@
+name: Trip fact check
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check every trip file against the confirmed facts
+        run: python3 tools/check_trip.py

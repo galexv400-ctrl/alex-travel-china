@@ -1,122 +1,83 @@
-# Outfit Plan — Day by Day
+# Outfits · day by day
 
-25 days, 32°C to 1°C, one bag. Built around the itinerary and the two laundry stops.
-Nothing here is binding — it is a default so you never stand in front of a suitcase deciding.
+A default for every day, so you never stand over a suitcase deciding. Swap freely.
 
-**Two rules the plan assumes:**
-1. Mid-warms are worn **on their own**, not over a thermal.
-2. Thermals are worn **next to skin** on the cold days only.
+- Mid-warm tops are worn **on their own**, not over a thermal
+- Thermals go **next to skin**, on cold days only
 
 ---
 
-## 🌴 Bangkok + Hong Kong · 15–19 Oct · 28–32°C day, 24–26°C night
+## 🌴 Bangkok + Hong Kong · 15–19 Oct · 28–32°C
 
 | Day | Doing | Wear |
 |---|---|---|
-| **Thu 15** | Fly TLV→BKK, airport hotel | Green jumpsuit · waterproof jacket · Skechers *(worn on plane)* → **evening:** bra top + bike shorts |
-| **Fri 16** | Fly to HK · open-top bus 19:00 · Flat Iron | Green playsuit · Skechers → **bus: add the kimono** (open deck, moving air) |
-| **Sat 17** | 🛕 **Monastery** · Sheung Wan · Cat Street | **Uniqlo short-sleeve + H&M cropped trousers** · Skechers · cap → **evening: kimono** |
-| **Sun 18** | Sham Shui Po · massage 17:00 · Born Ga | Red playsuit · **Skechers** *(walking all day)* · cap |
-| **Mon 19** | Check out 11:15 · manicure 12:00 · welcome meeting 18:00 | Bra top + cropped trousers + kimono · Tevas |
+| **Thu 15** | Flight · airport hotel | ✈ Green jumpsuit · waterproof jacket · Skechers → **evening:** bra top + bike shorts |
+| **Fri 16** | Flight · open-top bus · Flat Iron | Green playsuit · Skechers · **kimono for the bus** |
+| **Sat 17** | 🛕 Monastery · Sheung Wan | **Swirl short-sleeve + H&M cropped** · Skechers · cap · kimono for evening |
+| **Sun 18** | Sham Shui Po · massage | Red playsuit · Skechers · cap |
+| **Mon 19** | Manicure · welcome meeting | Bra top + cropped trousers + kimono · Tevas |
 
-> 🛕 **Sat 17 is the shoulder-coverage day.** The short-sleeve and cropped trousers cover shoulders and knees.
-> Wear the **black-grey swirl** short-sleeve — it is in the purple cube.
+> 🛕 **Sat 17 needs shoulders and knees covered** — the swirl short-sleeve and H&M cropped do both.
 
-> 🧺 **Laundry: drop off Sun 18 ~10:00, collect Mon 19 ~10:45.** Everything worn 15–17 Oct goes in.
-> **This is the only wash of the trip** — the warm kit then stays clean and sealed until Bangkok on 4 Nov.
+> 🧺 **Laundry:** drop Sun 18 ~10:00, collect Mon 19 ~10:45. The warm clothes then stay packed until Bangkok.
 
 ---
 
-## 🍂 China · 20 Oct–3 Nov · no laundry
+## 🍂 China · 20 Oct – 3 Nov · no laundry
 
-👕 **Short sleeves are part of the China rotation.** At 18–23°C walking all day, a long sleeve is too warm — wear a short sleeve with the fleece over it for mornings and evenings.
-
-⚠ **One wash only, in Hong Kong.** That makes this **15 days unwashed**, so every item below is
-deliberately rotated. Repeat wears are marked — they are the plan, not an oversight.
+> 👕 **18–23°C days are short-sleeve weather** — fleece over the top for mornings and evenings.
 
 | Day | Doing | Wear |
 |---|---|---|
 | **Tue 20** | 🚄 9 hrs to Chongqing | Khaki · Amazon flares · Skechers |
-| **Wed 21** | Chongqing · hot pot · **23°C** | **Short-sleeve (black)** · Wolven flares · fleece for the evening |
-| **Thu 22** | 🚄 4–5 hrs to Zhangjiajie | Modal · regular leggings · fleece pm |
-| **Fri 23** | ⛰ Tianmen Mtn | BL100 thermal · float leggings · fleece · shell · **Asics** |
-| **Sat 24** | ⛰ 4 hr hike | **Asics black** · regular leggings *(2nd)* · fleece · shell · **Asics** |
-| **Sun 25** | Changsha · night market | Khaki *(2nd)* · Wolven *(2nd)* |
-| **Mon 26** | 🚄 5 hrs · Bund · **22°C** | Short-sleeve (black) *(2nd)* · Amazon flares *(2nd)* · fleece pm |
-| **Tue 27** | French Concession | **Mid-warm (pink)** · Wolven *(3rd)* |
-| **Wed 28** | Shanghai free day | Khaki *(2nd)* over a sports bra · float leggings *(2nd)* |
-| **Thu 29** | Wuxi day trip · **20°C** | Short-sleeve (black) *(3rd)* · Amazon flares *(3rd)* · fleece |
-| **Fri 30** | 🚄 7 hrs to Xi'an | Khaki *(3rd)* · **Manners flares** · fleece pm |
-| **Sat 31** | Terracotta Warriors | **Merino thermal** · Manners *(2nd)* · fleece · neck warmer |
-| **Sun 1 Nov** | 🚄 9 hrs → **Great Wall** | **See below** |
-| **Mon 2** | Jinshanling hike → Beijing | Merino *(2nd — odour-resistant, that is its job)* · float leggings *(3rd)* · fleece · shell · **Asics** |
-| **Tue 3** | Forbidden City · 🦆 farewell | **Mid-warm (black)** *(2nd)* · Manners *(3rd)* · puffer |
+| **Wed 21** | Chongqing · 23°C | Black short-sleeve · Wolven flares · fleece pm |
+| **Thu 22** | 🚄 to Zhangjiajie | Modal top · regular leggings · fleece pm |
+| **Fri 23** | ⛰ Tianmen Mountain | BL100 · float leggings · fleece · shell · **Asics** |
+| **Sat 24** | ⛰ 4 hr hike | Asics top · regular leggings ² · fleece · shell · **Asics** |
+| **Sun 25** | Changsha · night market | Khaki ² · Wolven ² |
+| **Mon 26** | 🚄 to Shanghai · Bund · 22°C | Black short-sleeve ² · Amazon flares ² · fleece pm |
+| **Tue 27** | French Concession | Pink mid-warm · Wolven ³ |
+| **Wed 28** | Shanghai free day | Khaki ² over a Dylan bra · float leggings ² |
+| **Thu 29** | Wuxi · 20°C | Black short-sleeve ³ · Amazon flares ³ · fleece |
+| **Fri 30** | 🚄 7 hrs to Xi'an | Khaki ³ · Manners flares · fleece pm |
+| **Sat 31** | Terracotta Warriors | Merino · Manners ² · fleece · neck warmer |
+| **Sun 1 Nov** | 🚄 → **Great Wall** | *See below* |
+| **Mon 2** | Jinshanling hike | Merino ² · float leggings ³ · fleece · shell · **Asics** |
+| **Tue 3** | Forbidden City · farewell dinner | Black mid-warm ² · Manners ³ · puffer |
 
-> ☔ **Zhangjiajie is the wettest leg.** Leggings, not flares — flares hold water for hours.
+*² ³ = second or third wear.*
 
-### 🥶 Sunday 1 November — the coldest night
+> ☔ **Zhangjiajie is the wettest stretch** — leggings, not flares.
 
-> ⚠ **The chairlift is closed November–March.** You are walking up. That is what the change-before-sunset plan is for.
+### 🥶 Sunday 1 November — Great Wall night
 
-**Travelling (9 hrs):** BL100 *(2nd)* · regular leggings *(3rd)* · fleece
+> ⚠ **The chairlift is closed** — you walk up, so you will arrive warm and damp.
 
-**On arrival, change into dry before sunset:**
-- **BL500 collared** next to skin — kept clean all trip for this
-- **Green leggings** — warmest pair, first wear
-- **Mid-warm (black)** on top · fleece **zipped into the shell** · **puffer** over everything
-- **Warm hat · gloves · neck warmer · thermal socks** · hand warmers in pockets
-
-**Sleeping:** merino + green leggings *(no pyjama bottoms — this is the plan instead)*
-
-> ⚠ Change **before** sunset. A base layer damp from the climb cools you faster than no layer.
-
----
-
-## 📊 Wear counts across the 15 unwashed days
-
-| Item | Wears |
+| When | Wear |
 |---|---|
-| Khaki light · Short-sleeve (black) | 3 each · *swap in the swirl one any time* |
-| Wolven flares · Amazon flares · Manners flares | 3 each |
-| Regular leggings · float leggings | 3 each |
-| Merino · BL100 · Mid-warm (black) | 2 each |
-| Asics black · Modal · Mid-warm (pink) | 1 each |
-| BL500 · green leggings | 1 each |
+| **Travelling** | BL100 ² · regular leggings ³ · fleece |
+| **Before sunset — change into dry** | **BL500** · **green leggings** · black mid-warm · fleece zipped into the shell · **puffer** · warm hat · gloves · neck warmer · thermal socks · hand warmers |
+| **Sleeping** | Merino · green leggings |
 
-> 👕 **Both short-sleeves are available throughout** — the plan uses the plain black one in China, but the black-grey swirl is there if you want a change or the black is dirty.
+> ⚠ **Change before sunset.** A damp layer at 3°C is colder than no layer.
 
-> ✅ **The Asics, the Modal and the pink mid-warm are worn once each** — that is your spare capacity if something gets soaked in Zhangjiajie.
+### Spare capacity
 
-**Knickers:** 20, and the Hong Kong wash returns the early ones to the pool → **~20 for 15 days.** Comfortable.
-**Socks:** 10 regular → 2 wears each. Thermal socks kept dry for the Great Wall.
+**Worn only once:** Asics top · modal top · pink mid-warm · BL500 · green leggings — your reserve if something gets soaked.
+**Plus:** the swirl short-sleeve, if the black one needs a rest.
 
-> ⚠ **This works, but there is no slack.** If anything gets soaked in Zhangjiajie, you are short.
-> Your Intrepid leader can usually arrange a hotel wash — worth asking in Chongqing or Shanghai
-> even if you do not plan on it.
+> 💡 **Something soaked in Zhangjiajie?** Ask your Intrepid leader about a hotel laundry service.
 
 ---
 
 ## 🌴 Bangkok · 4–8 Nov · 30–33°C
 
-*Purple cube comes back out, clean since Hong Kong.*
-
 | Day | Doing | Wear |
 |---|---|---|
-| **Wed 4** | Fly Beijing→Bangkok · 12°C → 30°C | **Travel: khaki + Amazon flares**, puffer in the day bag → **change at hotel:** bra top + cropped trousers for dinner |
-| **Thu 5** | Pool · Siam · massage 16:30 · El Gaucho | **Day:** bra top + bike shorts → **dinner: cropped trousers + short-sleeve + kimono + Tevas** |
-| **Fri 6** | Charoenkrung · Talat Noi · Song Wat | Green playsuit · **Skechers** *(walking all day)* · cap |
-| **Sat 7** | Chatuchak 11:00–14:00 · Mozza | Bra top + bike shorts · cap · Skechers *(~3 hrs outdoors)* → **dinner: red playsuit** |
-| **Sun 8** | Check out 12:00 · fly 16:30 | H&M cropped + short-sleeve + **kimono** *(plane air-con)* · Skechers |
+| **Wed 4** | Flight · 12°C → 30°C | ✈ Khaki + Amazon flares, puffer in the day bag → **change at the hotel** |
+| **Thu 5** | Pool · Siam · massage · El Gaucho | Bra top + bike shorts → **dinner:** cropped trousers + short-sleeve + kimono + Tevas |
+| **Fri 6** | Charoenkrung walk | Green playsuit · Skechers · cap |
+| **Sat 7** | Chatuchak · Mozza | Bra top + bike shorts · cap · Skechers → **dinner:** red playsuit |
+| **Sun 8** | ✈ Home | H&M cropped + short-sleeve + kimono · Skechers |
 
-> 🍽 **Thu 5, El Gaucho is your smartest meal.** Cropped trousers, short-sleeve, kimono, black Tevas.
-> Not flip-flops — upmarket Bangkok venues mind.
-
-> 🌡 **Wed 4 is a 20°C swing in one day.** Dress for Beijing, carry the puffer, change at the hotel.
-
----
-
-## ⚖️ Weight — settled
-
-**✅ Weighed: comfortably under 15kg.** Nothing needs dropping. The list is final.
-
-*(If that ever changes: the Amazon flares go first — Wolven and Manners cover the `[Cool]` phase between them. Sports bras: 4; they double as tops.)*
+> 🍽 **El Gaucho is the smartest meal** — Tevas, not flip-flops.

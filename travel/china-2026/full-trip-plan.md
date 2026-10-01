@@ -1,158 +1,126 @@
-# Full Trip Plan — China & Bangkok 2026
+# China & Bangkok · 15 Oct – 8 Nov 2026
 
-**Traveller:** Alexandra Segall
-**Total duration:** 25 days (15 Oct – 8 Nov 2026)
-**Status:** CONFIRMED ✓
+**25 days** · Bangkok → Hong Kong → Intrepid *China Adventure* → Bangkok
 
----
-
-## Complete Itinerary
-
-| Date | Day | Location | Detail | Flight Times |
-|------|-----|----------|--------|--------------|
-| Thu 15 Oct | 1 | Depart Tel Aviv | El Al LY83 TLV → Bangkok · ⚠ **at Ben Gurion by 22:15 on Tue 14 Oct** | Departs TLV **01:15** |
-| Thu 15 Oct | — | Bangkok | Canalis Suvarnabhumi Airport Hotel — check-in runs to midnight, so a later arrival is fine | Arrives BKK 16:55 |
-| Fri 16 Oct | 2 | Bangkok → Hong Kong | **07:00 free shuttle** from Canalis. Thai TG628 10:30 → 14:20. Check in The Luxe Manor. **Big Bus night tour 19:00** | BKK 10:30 → HKG 14:20 |
-| Sat 17 Oct | 3 | Hong Kong | **Tsz Shan Monastery 10:30** (booked). Afternoon in Sheung Wan / Central, unbooked | — |
-| Sun 18 Oct | 4 | Hong Kong | Sham Shui Po — Mei Ho House, JCCAC, Tai Nan St. **Tai Pan massage 17:00** (booked). Laundry drop | — |
-| Mon 19 Oct | 5 | Hong Kong | Check out 11:15. **Manicure 12:00** (booked). REstore, Octopus spend-down. **Welcome meeting 18:00** — mandatory | — |
-| Tue 20 Oct | 6 | → Chongqing | Bullet train ~9hrs | — |
-| Wed 21 Oct | 7 | Chongqing | City tour, hot pot lunch in WWII shelter | — |
-| Thu 22 Oct | 8 | → Zhangjiajie | Bullet train ~4–5hrs | — |
-| Fri 23 Oct | 9 | Tianmen Mountain | Heaven's Gate, cliff walkways | — |
-| Sat 24 Oct | 10 | Zhangjiajie National Park | Avatar mountains, 4hr hike, Bailong Elevator | — |
-| Sun 25 Oct | 11 | → Changsha | Nvshu script workshop, night market | — |
-| Mon 26 Oct | 12 | → Shanghai | Bullet train ~5hrs, Bund walking tour | — |
-| Tue 27 Oct | 13 | Shanghai | French Concession walk. Breakfast included. | — |
-| Wed 28 Oct | 14 | Shanghai | Free day. New group leg begins 4pm. | — |
-| Thu 29 Oct | 15 | Wuxi day trip | Huishan Ancient Town, Jichang Garden. Breakfast included. | — |
-| Fri 30 Oct | 16 | → Xi'an | Bullet train ~7hrs, Muslim Quarter. Breakfast included. | — |
-| Sat 31 Oct | 17 | Xi'an | Terracotta Warriors | — |
-| Sun 1 Nov | 18 | → Great Wall | Train to Beijing + transfer ~9hrs. Sunset on the Wall. | — |
-| Mon 2 Nov | 19 | → Beijing | Jinshanling Wall hike ~2hrs. Breakfast included. | — |
-| Tue 3 Nov | 20 | Beijing | Tiananmen Square, Forbidden City. Farewell dinner — Beijing duck! | — |
-| Wed 4 Nov | 21 | Beijing → Bangkok | Tour ends. Air China CA959 dep PEK 14:00, arr BKK 18:05. Grab to hotel. Dinner: decide on landing | PEK 14:00 → BKK 18:05 |
-| Thu 5 Nov | 22 | Bangkok | Morning free (pool). Sushi at Honmono. Siam shopping. **Hot stone massage 16:30** (paid), Let's Relax Ploenchit. Dinner: El Gaucho | — |
-| Fri 6 Nov | 23 | Bangkok | **Charoenkrung creative district** — Warehouse 30, ATT19, Talat Noi, TCDC. Dinner: Maison Saigon | — |
-| Sat 7 Nov | 24 | Bangkok | **Chatuchak 11:00** — sections 5–6, 2/4, 12–14, 21. Back ~15:00, pool. Dinner: Mozza | — |
-| Sun 8 Nov | 25 | Bangkok → Tel Aviv | Check out 12:00. Grab 12:15 — arrive ~12:55–13:15; desks open ~13:30. **Hard cut-off 3 hrs** | El Al LY84, BKK 16:30 → TLV 22:55 |
+| | |
+|---|---|
+| Intrepid booking | **#6886724** |
+| Intrepid 24-hr emergency | **+86 17200311621** |
+| Tour starts | Harbour Plaza North Point, Hong Kong · **Mon 19 Oct 18:00** |
+| Tour ends | Beijing Dongfang Hotel · **Wed 4 Nov** |
 
 ---
 
-## Why This Plan Works
+## 🗓 Day by day
 
-- El Al only for all long-haul flights — no reliability risk given Israel security situation
-- UK passport for all mainland China entry — visa-free 30 days from Feb 2026
-- One night Bangkok airport hotel on 15 Oct removes connection stress
-- Arrives Hong Kong 16 Oct — 3 full days before mandatory welcome meeting
-- Bangkok extension gives proper decompression after 19 days of group travel — pool, massage, shopping
-- Return Bangkok → TLV on 8 Nov (Sunday) — El Al Classic
-
----
-
-## Flights — Status
-
-| Flight | Route | Airline | Date | Price | Status |
-|--------|-------|---------|------|-------|--------|
-| Outbound | TLV → BKK | El Al LY83 | Thu 15 Oct | $651.77 | ✅ BOOKED |
-| Connecting | BKK → HKG | Thai Airways TG628 | Fri 16 Oct | $193.78 | ✅ BOOKED |
-| Post-tour | Beijing → BKK | Air China CA959 | Wed 4 Nov | £190 (~$240) | ✅ BOOKED |
-| Return | BKK → TLV | El Al LY84 | Sun 8 Nov | $577.20 | ✅ BOOKED |
-
----
-
----
-
-## Trip Cost Tracker
-
-| Item | Cost | Status |
+| Date | Where | What |
 |---|---|---|
-| **Flights** | | |
-| El Al TLV → BKK (15 Oct) | $651.77 | ✅ Booked |
-| El Al BKK → TLV (8 Nov) | $577.20 | ✅ Booked |
-| BKK → HKG — Thai Airways TG628 (16 Oct) | $193.78 | ✅ Booked |
-| Beijing → BKK — Air China CA959 (4 Nov) | £190 (~$240) | ✅ Booked |
-| **Hotels** | | |
-| Bangkok airport — Canalis (15 Oct) | ₪158 | ✅ Booked |
-| Hong Kong — The Luxe Manor (16–18 Oct) | ₪1,397 | ✅ Booked |
-| Bangkok — Sindhorn Midtown (4–8 Nov) | **₪2,771** | ✅ **Upgraded + charged to Israeli card** |
-| *— room ₪2,354 · 7% VAT ₪165 · 10% service ₪252 · THB 30,498* | | *upgraded: original King Studio had no private bathroom* |
-| *— raised with Booking.com 24 Sep* | *₪751 difference* | *complaint logged; they contacted the hotel. No resolution expected — keeping the upgraded room* |
-| **Other** | | |
-| Travel insurance (PassportCard) | paid | ✅ **PAID** · policy printed · nothing outstanding |
-| Intrepid tour #6886724 | ~$4,000 | ✅ Booked |
-| Airalo eSIM — Asia 50 GB / 30 days | £41.77 | ✅ Paid 24 Sep |
-| Hot stone massage, 5 Nov | 2,300 THB (~£52) | ✅ Paid 24 Sep |
-| **Total paid to date** | **~$6,900** | — |
+| **Wed 14 Oct** | Tel Aviv | At **Ben Gurion by 22:15** |
+| **Thu 15 Oct** | ✈ → Bangkok | LY83 01:15 → 16:55 · Canalis airport hotel |
+| **Fri 16 Oct** | ✈ → Hong Kong | 07:00 shuttle · TG628 10:30 → 14:20 · **Big Bus 19:00** |
+| **Sat 17 Oct** | Hong Kong | **Monastery 10:30** · Sheung Wan |
+| **Sun 18 Oct** | Hong Kong | Sham Shui Po · **massage 17:00** |
+| **Mon 19 Oct** | Hong Kong | **Manicure 12:00** · **welcome meeting 18:00** |
+| **Tue 20 Oct** | 🚄 → Chongqing | ~9 hr train |
+| **Wed 21 Oct** | Chongqing | City tour · hotpot lunch in an old air-raid shelter |
+| **Thu 22 Oct** | 🚄 → Zhangjiajie | ~4–5 hr train |
+| **Fri 23 Oct** | Tianmen Mountain | Heaven's Gate · cliff walkways |
+| **Sat 24 Oct** | Zhangjiajie Park | 4 hr hike · Bailong Elevator |
+| **Sun 25 Oct** | → Changsha | Nüshu script workshop · night market |
+| **Mon 26 Oct** | 🚄 → Shanghai | ~5 hr train · Bund at night |
+| **Tue 27 Oct** | Shanghai | French Concession walk |
+| **Wed 28 Oct** | Shanghai | **Free day** · new group joins 16:00 |
+| **Thu 29 Oct** | Wuxi | Huishan Ancient Town · Jichang Garden |
+| **Fri 30 Oct** | 🚄 → Xi'an | ~7 hr train · Muslim Quarter |
+| **Sat 31 Oct** | Xi'an | Terracotta Warriors |
+| **Sun 1 Nov** | → Great Wall | ~9 hr travel · **sunset on the Wall** |
+| **Mon 2 Nov** | → Beijing | Jinshanling hike |
+| **Tue 3 Nov** | Beijing | Forbidden City · farewell Peking duck |
+| **Wed 4 Nov** | ✈ → Bangkok | Leave hotel **10:30** · CA959 13:45 → 18:05 |
+| **Thu 5 Nov** | Bangkok | Pool · Siam · **hot stone 16:30** |
+| **Fri 6 Nov** | Bangkok | Charoenkrung · Talat Noi · Song Wat |
+| **Sat 7 Nov** | Bangkok | Chatuchak 11:00 · afternoon off |
+| **Sun 8 Nov** | ✈ → Tel Aviv | Leave 12:15 · LY84 16:30 → 22:55 |
 
-### Still to pay during the trip
-| Item | Approx | When |
+> 🍳 **Breakfast included** at The Luxe Manor and Sindhorn Midtown, and on tour on 27, 29, 30 Oct and 2 Nov.
+
+---
+
+## ✈ Flights
+
+| | Flight | Times | Seat | Booking |
+|---|---|---|---|---|
+| **Thu 15 Oct** | El Al **LY83** TLV → BKK | 01:15 → 16:55 · 11h 40m | — | El Al app |
+| **Fri 16 Oct** | Thai **TG628** BKK → HKG | 10:30 → 14:20 · 2h 50m | 44H | **EASDQZ** · e-ticket 2172348955256 |
+| **Wed 4 Nov** | Air China **CA959** PEK → BKK | **13:45** → 18:05 · 5h 20m | 46D | **ECFV7Q** · Air China **MESQ54** · e-ticket 999-2425129533 |
+| **Sun 8 Nov** | El Al **LY84** BKK → TLV | 16:30 → 22:55 · 11h 25m | 34D | El Al app · frequent flyer 12956761 |
+
+- **Baggage:** 23kg checked on every flight · Thai allows 7kg cabin
+- **Terminals:** Hong Kong **T1** · Beijing **T3**
+- ⚠ **El Al:** be there **3 hours** before. Security comes before check-in, and late passengers are not boarded
+
+### 🚕 Beijing hotel → airport, Wed 4 Nov
+*If Intrepid don't arrange it.*
+
+- ⭐ **DiDi at 10:30** · ~45–60 min · ~CNY 120–150 · destination **北京首都国际机场 T3**
+- **Backup:** reception calls a taxi · show **首都国际机场 3号航站楼** · carry CNY 150 cash
+- ⚠ **Capital (PEK), not Daxing (PKX)** — Daxing is 90 min the other way
+
+---
+
+## 🏨 Hotels
+
+| Hotel | Nights | Booking | Cost |
+|---|---|---|---|
+| **Canalis Suvarnabhumi** · 1599/1 Lat Krabang Soi 13 · ☎ +66 2 332 1555 | Thu 15 Oct | **6637.638.401** · PIN 4470 | ₪158 · ✅ prepaid |
+| **The Luxe Manor** · 39 Kimberley Road, TST | 16–19 Oct | **5515516445** | ₪1,397 · ✅ prepaid |
+| *Intrepid tour hotels* | 19 Oct – 4 Nov | — | In the tour |
+| **Sindhorn Midtown** · 68 Langsuan Road · ☎ +66 2 796 8888 | 4–8 Nov | **6761.193.363** · PIN 6989 | THB 30,498.42 · ✅ charged automatically 2 Oct |
+
+---
+
+## 💷 Money
+
+### Paid
+
+| | Cost |
+|---|---|
+| Flights ×4 | ~$1,660 |
+| Intrepid tour | ~$4,000 |
+| Hotels ×3 | ₪1,555 + THB 30,498 |
+| Insurance (PassportCard) | ✅ |
+| Airalo eSIM | £41.77 |
+| Hot stone massage | 2,300 THB |
+| **Total** | **~$6,950 + insurance** |
+
+### Still to spend · Monzo trip pot ~£1,100
+
+| | Estimate |
+|---|---|
+| Bangkok, 15 Oct | ~£20 |
+| Hong Kong, 16–19 Oct | £250–350 |
+| China, 20 Oct – 4 Nov | £360–465 |
+| Bangkok, 4–8 Nov | £250–350 |
+| **Total** | **£880–1,185** |
+
+> 🍽 **The tour includes only 5 meals** — 4 breakfasts and the Chongqing hotpot. Budget about ¥2,400 for the other ~43, plus tipping (¥430–750) and any optional extras.
+
+> ✅ **The big sights are included:** Tianmen Mountain, the Zhangjiajie cable car and Bailong Elevator, the Terracotta Warriors, the Forbidden City and both days on the Great Wall.
+> *Optional extras:* Tang Dynasty Show ¥290 · acrobats ¥290 · Hutong visit ¥150 · Temple of Heaven ¥40
+
+> 💳 Overflow goes on the Israeli card. Cash plan is on the **Packing** tab.
+
+---
+
+## 🛂 Entry
+
+| Country | Passport | Notes |
 |---|---|---|
-| Bangkok, 15 Oct | ~£20 | Airport hotel night |
-| Hong Kong, 16–19 Oct | £250–350 | 4 days |
-| **China, 20 Oct–4 Nov** | **£360–465** | 16 days — see meal note below |
-| Bangkok, 4–8 Nov | £250–350 | 5 days |
-| **Total** | **£880–1,185** | |
-| Shopping | minimal | **Opportunistic only** — bag space and the 15kg limit are the constraint, not budget |
+| Israel | **Israeli** | Required by law to leave and enter Israel — Ben Gurion on 14 Oct and 8 Nov |
+| Thailand | **UK** — both entries | 30 days visa-free · **TDAC QR** needed for 15 Oct and 4 Nov |
+| Hong Kong | **UK** | Visa-free |
+| **Mainland China** | **UK** | 30 days visa-free · customs declaration via **customsapp.chinaport.gov.cn**, never the Alipay mini-program |
 
-> 🍽 **Intrepid includes only 5 meals in 16 days** — 4 breakfasts and 1 lunch (the Chongqing hotpot). That leaves roughly **43 meals you pay for**: ~12 breakfasts, ~15 lunches, ~16 dinners.
-> Budget roughly ¥25 breakfast · ¥55 lunch · ¥80 dinner ≈ **¥2,400 (~£260) on food alone**, plus drinks and snacks.
-> Add tipping (¥430–750) and optional activities (¥0–600) and China lands at **£360–465**, higher than the earlier £300–440 estimate.
+## ✅ Sorted with Intrepid
 
-> ✅ **The expensive sights are included** — Tianmen Mountain, the Zhangjiajie cable car and Bailong Elevator, Terracotta Warriors, Forbidden City, Tiananmen, Jinshanling and the Great Wall sunset are all covered by the 20 included activities. The optional extras are genuinely optional: Tang Dynasty Show ¥290, acrobats ¥290, Temple of Heaven ¥40, Hutong visit ¥150.
-
-> ✅ **All accommodation is now settled** — Sindhorn was the last one, upgraded and charged to the Israeli card. The £1,100 Monzo pot is now for spending only, which it covers.
-> 💡 If the Sindhorn charge is taken at checkout rather than now, choose **THB** at the terminal, not shekels.
-> 📌 **Sindhorn upgrade, for the record:** the reservation page offered an "upgrade for a private bathroom", implying the King Studio had none — unusual for a five-star IHG property. That room type is **no longer bookable on the site**. Complaint raised with Booking.com on 24 Sep; screenshots kept. Decision: **keep the upgraded room** either way — a private bathroom for the last four nights, after 15 nights twin-sharing and a basic Great Wall guesthouse, is worth ₪751.
-
----
-
-## Visa & Entry
-
-- UK passport for ALL mainland China immigration — not Israeli passport
-- China: visa-free 30 days (UK citizens from Feb 2026)
-- Hong Kong: visa-free either passport
-- Thailand: visa-free either passport
-- ⚠ **China Customs declaration — use the WEBSITE, customsapp.chinaport.gov.cn. NOT the Alipay mini-program** (it triggered an Alipay restriction on 28 Sept). File on Mon 19 Oct in Hong Kong, within 24 hrs of entry
-
----
-
-## Key References
-
-- Intrepid booking: #6886724
-- Intrepid emergency number: +86 17200311621
-- Tour finishing point: Beijing Dongfang Hotel, 11 Wanming Road, Xicheng District, Beijing
-- El Al outbound: **LY83, departs TLV 01:15** (retimed from LY85 00:05), arrives BKK **16:55** · 11h 40m · Dreamliner · Economy Classic (H)
-  - ⚠ El Al want you 3 hrs ahead → **be at Ben Gurion by 22:15 on Tue 14 October**. You leave on the evening of the 14th, not the 15th.
-- El Al return: **LY84**, departs BKK 16:30, arrives TLV 22:55, Sun 8 Nov · seat 34D · Economy Classic (N) · 11h 25m · frequent flyer 12956761
-- ⚠ **El Al recommends 4 hrs, hard deadline 3 hrs** — late passengers are not boarded. Leave hotel 12:15.
-- Beijing → BKK: Air China CA959, departs PEK 14:00, arrives BKK 18:05, Wed 4 Nov · 5h 05m · Boeing 777-300ER · Economy Standard (T) · meal served
-- Booking ref: ECFV7Q | Air China confirmation: MESQ54 | E-ticket: 999-2425129533
-- Seat: 46D | Terminal 3 PEK | Economy Standard | 1 bag 23kg included
-- Bangkok airport hotel: Canalis Suvarnabhumi Airport Hotel
-- Address: 1599/1 Lat Krabang Soi 13, Lat Krabang, Bangkok 10520
-- Phone: +66 2 332 1555
-- Booking.com confirmation: 6637.638.401 | PIN: 4470
-- Check-in: Thu 15 Oct 14:00–00:00 | Check-out: Fri 16 Oct by 12:00
-- Room: Deluxe Double, no breakfast, free shuttle to airport. Cancel free before 11 Oct.
-- Total: ₪158 (THB 1,834.30) — **Note: confirm shuttle times with hotel directly**
-- Bangkok hotel: Sindhorn Midtown Hotel Bangkok, Vignette Collection by IHG
-- Address: 68 Langsuan Rd, Soi Langsuan, Lumphini, Pathumwan, Bangkok 10330
-- Phone: +66 2 796 8888
-- Booking.com confirmation: 6761.193.363 | PIN: 6989
-- Check-in: Wed 4 Nov from 15:00 | Check-out: Sun 8 Nov by 12:00
-- Room: **upgraded — private bathroom**, breakfast included
-- Total: **₪2,771** (room ₪2,354 + 7% VAT ₪165 + 10% service ₪252) — ✅ **paid, Israeli card**
-- BKK → HKG: Thai Airways TG628, departs 10:30, arrives 14:20, Fri 16 Oct · 2h 50m · Economy (W) · arrives HKG **Terminal 1**
-  - ⚠ Early start. Canalis shuttle by **07:45**; book it at reception the night before. Check-out is 12:00 so no clash, but settle the bill the evening you arrive.
-- Booking ref: EASDQZ | E-Ticket: 2172348955256
-- Baggage: 1pc 23kg checked + 7kg carry-on | Seat: 44H
-- Hong Kong hotel: The Luxe Manor
-- Address: 39 Kimberley Road, Tsim Sha Tsui, Hong Kong
-- Booking.com confirmation: 5515516445
-- Check-in: Fri 16 Oct from 14:00 | Check-out: Mon 19 Oct by 12:00
-- Room: Superior Double or Twin Room
-- Breakfast: Very good breakfast included
-- Total: ₪1,397 for 3 nights
-- Free cancellation before September 16, 2026
-- Genius discount applied
+Passport details sent · twin-share room · joining the tipping kitty · UK passport valid to 2032 · travel insurance printed for the welcome meeting

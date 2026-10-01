@@ -1,108 +1,78 @@
-# Intrepid Trip Notes — China Adventure
-**Booking:** #6886724 | **Trip code:** CBSHC
+# The tour · Intrepid China Adventure
+
+| | |
+|---|---|
+| Booking | **#6886724** · trip code CBSHC |
+| 24-hr emergency | **+86 17200311621** |
+| Starts | **Mon 19 Oct, 18:00** · Harbour Plaza North Point, 665 King's Road, Hong Kong · ☎ +852 2187 8888 |
+| Ends | **Wed 4 Nov** · Beijing Dongfang Hotel, 11 Wanming Road, Xicheng · ☎ +86 10 6301 4466 |
+| Second welcome meeting | **Wed 28 Oct, 16:00**, Shanghai — new group joins, leader may change |
+
+> ⚠ **Harbour Plaza is on Hong Kong Island**, not Kowloon. Uber from The Luxe Manor, ~25 min.
+
+> 📋 **Bring to the first meeting:** travel insurance details · next-of-kin contact. If you're running late, call hotel reception.
 
 ---
 
-## Joining Point
-**Harbour Plaza North Point**
-665 King's Road, North Point, Hong Kong
-Phone: +852 21878888
-- ~1hr from HKG airport by MTR (change at Hong Kong Station) or Bus A12
+## ✅ What's included
 
-## Finishing Point
-**Beijing Dongfang Hotel**
-11 Wanming Road, Xicheng District, Beijing 100050
-Phone: +86 1063014466
+**Twenty activities**, including every big sight:
 
-## Emergency Contact
-**+86 17200311621**
+| Place | Included |
+|---|---|
+| Hong Kong | Temple Street Night Market |
+| Chongqing | City tour · **hotpot lunch** in an old air-raid shelter |
+| Zhangjiajie | Orientation walk · **Tianmen Mountain** · national park **cable car**, **Bailong Elevator** and hike |
+| Changsha | Night market · Nüshu script writing with a local master |
+| Shanghai | Bund at night · French Concession walk |
+| Wuxi | Huishan Ancient Town · Jichang Garden |
+| Xi'an | Muslim Quarter food walk · **Terracotta Warriors** |
+| Great Wall | **Sunset on the Wall** · **Jinshanling** hike |
+| Beijing | **Forbidden City** · Tiananmen Square |
 
----
+**Meals:** only 5 — breakfast on 27, 29, 30 Oct and 2 Nov, plus the Chongqing hotpot.
+**Transport:** high-speed trains, private vehicle, subway, taxis, public bus.
+**Rooms:** twin-share, 15 nights in hotels and 1 in a guesthouse.
 
-## Critical Reminders
+## 💴 Optional extras
 
-- **Welcome meeting Day 1 at 6pm — MANDATORY.** Bring insurance details and next of kin info. If late, notify hotel reception.
-- **Second welcome meeting Day 10 (Shanghai) at 4pm** — new group joins, leader likely changes
-- **Passport scanned at every tourism site and train station** — allow 20–30 mins for group entry
-- **Send scanned copy of passport details page to Intrepid at least 40 days before departure** (for train ticket booking)
-- **Rooming is twin-share** — ask about single supplement if you want your own room
-
----
-
-## Joining Point — Important Note
-**The welcome meeting hotel (Harbour Plaza North Point) is on Hong Kong Island — NOT in Kowloon.** Your hotel (The Luxe Manor, TST) is in Kowloon. Allow travel time on 19 Oct — take the MTR from Tsim Sha Tsui to Quarry Bay (Exit C), about 20 mins.
-
----
-
-## Apps — Must Set Up Before Leaving Israel
-- **WeChat** — link foreign bank card. Use to message your trip leader.
-- **Alipay** — link foreign bank card
-- **VPN** — install and test before departure (Google, WhatsApp, Instagram all blocked)
-- **Data roaming or e-SIM** — must have data access in China for payment apps to work
-- **Do NOT rely on credit cards in China** — WeChat/Alipay only
-
----
-
-## Money
-- Arrive with CNY 500–750 cash for first day or two, then switch to apps
-- Credit cards not widely accepted in China
-- HK: credit cards fine, HKD currency
-- **Carry $500 USD emergency contingency fund**
-- Tipping kitty likely proposed on Day 1 — optional but recommended
-- Tip group leader: suggested $4–7 USD per day
-
----
-
-## Packing — Key Notes
-- **No aerosol sprays on high-speed trains** — will be confiscated. Bring roll-on/cream sunscreen and insect repellent only
-- **No pocket knives or scissors** in any luggage on trains
-- **Power banks must be CCC/3-C certified** for China flights — others confiscated
-- Aim for luggage under **15kg**
-- Bring a **day pack** for daily excursions
-- Layers essential — northern China cold in early November
-- Modest clothing (cover shoulders and knees) for religious sites
-- Sturdy walking shoes — multiple hikes
-
----
-
-## Great Wall Night (Day 14 of tour — 1 Nov)
-- Guesthouse is **basic** but has private facilities and Wi-Fi
-- In November (winter): may be alternate guesthouse with better heating
-- Sunset Wall hike highly recommended
-- Chairlift likely **closed** November–March
-
----
-
-## Beijing Airport (Day 17 — 4 Nov, your departure day)
-Two airports:
-- **PEK (Capital)** — northeast, 25km from city. Taxi ~45–60 mins, ~CNY120. Or metro + Airport Express from Dongzhimen (CNY25)
-- **PKX (Daxing)** — south, 46km. Taxi ~75–90 mins, ~CNY200. Or Airport Express from Caoqiao (CNY35)
-- Leave hotel **at least 3 hours before flight**
-- Your Air China flight — check which airport it departs from
-
----
-
-## Optional Activities (costs in CNY)
 | Activity | Cost |
 |---|---|
-| Xi'an Great Mosque | CNY25 |
-| Xi'an Bell & Drum Towers | CNY50 |
-| Xi'an City Wall bike hire | CNY45 |
-| Xi'an Tang Dynasty Show | CNY290 |
-| Shanghai Propaganda Poster Art Centre | CNY25 |
-| Shanghai Yuyuan Garden | CNY40 |
+| Xi'an — Great Mosque | ¥25 |
+| Xi'an — Bell & Drum Towers | ¥50 |
+| Xi'an — city wall bike hire | ¥45 |
+| Xi'an — Tang Dynasty Show | ¥290 |
+| Shanghai — Propaganda Poster Art Centre | ¥25 |
+| Shanghai — Yuyuan Garden | ¥40 |
 | Shanghai Museum | Free |
-| Beijing Temple of Heaven | CNY40 |
-| Beijing Hutong family visit | CNY150 |
-| Beijing Lama Temple | CNY25 |
-| Beijing Acrobat show | CNY290 |
+| Beijing — Temple of Heaven | ¥40 |
+| Beijing — Lama Temple | ¥25 |
+| Beijing — Hutong family visit | ¥150 |
+| Beijing — acrobat show | ¥290 |
 
 ---
 
-## Health & Safety Notes
-- Air pollution can be significant in Beijing — Intrepid provides PM face masks
-- China is generally safe — watch for pickpockets at tourist sites
-- **Tea tasting scam** — don't accept invitations from strangers to cafes/bars
-- **Counterfeit RMB100 notes** — check carefully before accepting
-- Use DiDi (not unmarked taxis)
-- Use hotel safety deposit boxes for valuables
+## 🏯 Great Wall night — Sun 1 Nov
+
+- The guesthouse is **basic** — private bathroom and wifi; in November it may be a warmer alternative
+- **The chairlift is closed** — you walk up for sunset
+- Layering plan is on the **Outfits** tab
+
+## 💵 Tipping
+
+- **Group kitty** — collected on day one, in cash. You're joining
+- **Leader** — suggested ~$4–7 a day, paid in yuan · possibly two leaders after Shanghai
+
+## 🚄 On the road
+
+- **Passports are scanned** at every station and site — allow 20–30 min for group entry
+- **No aerosols, no blades** on trains · power banks must be CCC-certified
+- **Modest dress** at religious sites — shoulders and knees covered
+- **Beijing pollution** — Intrepid provide masks
+
+## ⚠ Safety
+
+- 🫖 **Tea-tasting scam** — never go to a café or bar with a stranger who approached you
+- 💴 **Check ¥100 notes** for counterfeits
+- 🚕 **DiDi only** — no unmarked taxis
+- 🏨 Valuables in the hotel safe
