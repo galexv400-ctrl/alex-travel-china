@@ -29,7 +29,7 @@ Booking.com **6637.638.401** · PIN 4470 · no breakfast · reception open till 
   - *Not the hotel's car — THB 350 and a wait at Gate 5, 2nd floor*
 - **~18:15** Check in
   - ⚠ **Book the 07:00 shuttle** at reception
-  - ⚠ **Pay the bill now**, not in the morning
+  - ⚠ **If anything is owed, pay it now**, not in the morning
   - 🏪 **7-Eleven** — water, breakfast, snacks for the flight
   - Room service until 21:30 · pool and gym if you want them
 
