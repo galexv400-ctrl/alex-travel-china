@@ -43,3 +43,4 @@ The website renders `travel/china-2026/*.md` directly — those files are what A
 - **Run the checker before every commit** touching trip files. Never commit while it fails. CI runs it on every PR.
 - Files state the **final position only** — no decision history, no "replaced X because…", no reasoning asides.
 - A QA pass means **reading every file in full** against the facts, not searching for known problems.
+- **Merging:** Alexandra has given standing permission — once the checker passes, commit, push, open/update the PR and **merge it** (squash or merge) without asking. If the designated branch's PR is already merged, restart the branch from `origin/main` for new work.
