@@ -9,7 +9,7 @@
 
 > 🍽 **All meals are walk-in.**
 
-> 🛂 **TDAC QR code needed at both entries** — 15 Oct and 4 Nov. Same passport both times.
+> 🛂 **UK passport at both Thai entries** — 15 Oct and 4 Nov — with the **TDAC QR code** each time.
 
 > 💳 At ATMs and card machines, **always choose baht**. Thai ATMs charge ~220 THB a time — withdraw less often.
 
@@ -18,7 +18,7 @@
 ## Night 0 — Thursday 15 October: airport stopover
 
 **Canalis Suvarnabhumi Airport Hotel** · 1599/1 Lat Krabang Soi 13 · ☎ +66 2 332 1555
-Booking.com **6637.638.401** · PIN 4470 · no breakfast · reception open till midnight
+Booking.com **6637.638.401** · PIN 4470 · prepaid · no breakfast · reception open till midnight
 
 - **Tue 14 Oct, 22:15** Be at **Ben Gurion**
 - **01:15** ✈ **El Al LY83** to Bangkok · 11h 40m
@@ -29,7 +29,6 @@ Booking.com **6637.638.401** · PIN 4470 · no breakfast · reception open till 
   - *Not the hotel's car — THB 350 and a wait at Gate 5, 2nd floor*
 - **~18:15** Check in
   - ⚠ **Book the 07:00 shuttle** at reception
-  - ⚠ **If anything is owed, pay it now**, not in the morning
   - 🏪 **7-Eleven** — water, breakfast, snacks for the flight
   - Room service until 21:30 · pool and gym if you want them
 
@@ -45,7 +44,7 @@ Booking.com **6637.638.401** · PIN 4470 · no breakfast · reception open till 
 ---
 
 **Sindhorn Midtown** · 68 Langsuan Road, Lumphini · ☎ +66 2 796 8888
-Booking.com **6761.193.363** · PIN 6989 · room with private bathroom · breakfast included · paid
+Booking.com **6761.193.363** · PIN 6989 · room with private bathroom · breakfast included · prepaid
 Pool 18F · gym 19F · saunas
 
 ## Day 1 — Wednesday 4 November: Arrival

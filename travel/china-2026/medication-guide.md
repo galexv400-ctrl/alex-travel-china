@@ -2,13 +2,6 @@
 
 *Prescribed at the travel clinic, Bnei Brak, 12 Aug 2026. General guidance only — **the pharmacist's and doctor's instructions override anything here.***
 
-> ⚠ **Still to confirm with the pharmacist when collecting:**
-> 1. Is **Kalbeten** safe with my SSRI? *(bleeding risk)*
-> 2. Is **azithromycin** safe with my SSRI? *(heart rhythm — mainly citalopram / escitalopram)*
-> 3. What is my **azithromycin dose** — a single dose, or over three days?
->
-> *Write the answers here once you have them.*
-
 ---
 
 ## 💉 Vaccinations — done before the trip
@@ -61,8 +54,7 @@
 
 - ❌ **Never take Imodium and Kalbeten together.** Pick one.
 - ❌ **Never take Kalbeten with ibuprofen.** Kalbeten is a salicylate, a relative of aspirin — together they raise the risk of stomach bleeding.
-- ⚠ **Kalbeten + SSRI** — SSRIs also raise bleeding risk with aspirin-type drugs. **Pending pharmacist check.** If in doubt, Imodium is the first choice instead.
-- ⚠ **Azithromycin + SSRI** — **pending pharmacist check.**
+- ⚠ **Kalbeten + SSRI** — SSRIs also raise bleeding risk with aspirin-type drugs, so **Imodium is the first choice**.
 - ⚠ **Azithromycin and magnesium** — take them **at least 2 hours apart.**
 - ⚠ **Thyroid pill** — keep **at least 4 hours** away from iron, magnesium **and Kalbeten.**
 - ⏱ **Imodium: stop after 48 hours.** Still needing it after that means azithromycin, and probably a doctor.
@@ -72,7 +64,7 @@
 
 ## Doses
 
-**Follow the label and the pharmacist.** Write your azithromycin instructions in the box at the top.
+**Follow the label on each box.**
 
 ---
 

@@ -72,8 +72,8 @@
 
 | Hotel | Nights | Booking | Cost |
 |---|---|---|---|
-| **Canalis Suvarnabhumi** · 1599/1 Lat Krabang Soi 13 · ☎ +66 2 332 1555 | Thu 15 Oct | **6637.638.401** · PIN 4470 | ₪158 · ❓ prepaid or pay at hotel? |
-| **The Luxe Manor** · 39 Kimberley Road, TST | 16–19 Oct | **5515516445** | ₪1,397 · ❓ prepaid or pay at hotel? |
+| **Canalis Suvarnabhumi** · 1599/1 Lat Krabang Soi 13 · ☎ +66 2 332 1555 | Thu 15 Oct | **6637.638.401** · PIN 4470 | ₪158 · ✅ prepaid |
+| **The Luxe Manor** · 39 Kimberley Road, TST | 16–19 Oct | **5515516445** | ₪1,397 · ✅ prepaid |
 | *Intrepid tour hotels* | 19 Oct – 4 Nov | — | In the tour |
 | **Sindhorn Midtown** · 68 Langsuan Road · ☎ +66 2 796 8888 | 4–8 Nov | **6761.193.363** · PIN 6989 | ₪2,771 · ✅ paid, Israeli card |
 
@@ -87,12 +87,11 @@
 |---|---|
 | Flights ×4 | ~$1,660 |
 | Intrepid tour | ~$4,000 |
-| Sindhorn | ₪2,771 |
-| Canalis + Luxe Manor | ₪1,555 · ❓ *payment not confirmed* |
+| Hotels ×3 | ₪4,326 |
 | Insurance (PassportCard) | ✅ |
 | Airalo eSIM | £41.77 |
 | Hot stone massage | 2,300 THB |
-| **Total** | **~$6,900** *(if the two ❓ hotels are prepaid)* |
+| **Total** | **~$6,900** |
 
 ### Still to spend · Monzo trip pot ~£1,100
 
@@ -117,8 +116,9 @@
 
 | Country | Passport | Notes |
 |---|---|---|
-| Thailand | Israeli or UK — **same one both times** | 30 days visa-free · **TDAC QR** needed for 15 Oct and 4 Nov |
-| Hong Kong | Either | Visa-free |
+| Israel | **Israeli** | Required by law to leave and enter Israel — Ben Gurion on 14 Oct and 8 Nov |
+| Thailand | **UK** — both entries | 30 days visa-free · **TDAC QR** needed for 15 Oct and 4 Nov |
+| Hong Kong | **UK** | Visa-free |
 | **Mainland China** | **UK** | 30 days visa-free · customs declaration via **customsapp.chinaport.gov.cn**, never the Alipay mini-program |
 
 ## ✅ Sorted with Intrepid

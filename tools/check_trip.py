@@ -43,6 +43,11 @@ FORBIDDEN = [
     (r"Stradivarius",                "Stradivarius bra tops not bringing"),
     (r"[Cc]rocs",                    "Crocs replaced with flip-flops"),
     (r"KOKONI|Vaso",                 "Removed/unverified venue"),
+    (r"❓",                          "Unconfirmed marker left in — resolve it"),
+    (r"Israeli (for|passport —) ?(Hong Kong|HK|Thailand)|Israeli or UK", "UK passport for HK and Thailand; Israeli only at Ben Gurion"),
+    (r"[Pp]ending pharmacist|Still to confirm with the pharmacist", "Pharmacist questions dropped by Alexandra"),
+    (r"(?i)(azithromycin|kalbeten)\W{0,6}🛒|🛒\W{0,6}(azithromycin|kalbeten)", "Azithromycin and Kalbeten are collected"),
+    (r"pay it now|Pay the bill", "Canalis is prepaid"),
     (r"~?10:45.*(Beijing|PEK|DiDi)|(Beijing|PEK|DiDi).*10:45", "Leave Beijing hotel at 10:30"),
 ]
 # 'Japan' is legitimate in these phrases only
@@ -107,6 +112,8 @@ MUST_EXIST = [
     ("packing-list.md",      r"chinaport",                 "Customs declaration website"),
     ("packing-list.md",      r"[Kk]nickers ×20",           "20 knickers"),
     ("packing-list.md",      r"Bras ×4",                   "4 bras"),
+    ("full-trip-plan.md",    r"Israeli.*Ben Gurion|Ben Gurion.*Israeli", "Israeli passport at Ben Gurion"),
+    ("bangkok-itinerary.md", r"UK passport",               "UK passport at both Thai entries"),
 ]
 
 

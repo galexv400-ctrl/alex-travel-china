@@ -11,7 +11,7 @@
 
 | Where | What |
 |---|---|
-| **Pharmacy, Israel** | Azithromycin *(prescription)* · Kalbeten *(prescription)* · antihistamine (non-drowsy) · lip balm |
+| **Pharmacy, Israel** | Antihistamine (non-drowsy) · lip balm |
 | **Decathlon, Israel** | Warm hat · gloves *(touchscreen)* |
 | **Hong Kong, Mon 19 Oct** | Shampoo + conditioner · body wash · deodorant *(roll-on or stick, never aerosol)* · small umbrella — Watsons or Mannings, on the Octopus balance |
 
@@ -135,7 +135,7 @@ Baseball cap ✅ · sunglasses ✅ · neck warmer · **warm hat 🛒** · **glov
 
 ## 💊 Medication
 
-SSRI · thyroid · ibuprofen · back pain meds · iron · magnesium · blister plasters 🎒 · Imodium ✅ · **azithromycin 🛒** · **Kalbeten 🛒** · **antihistamine 🛒** · pill splitter
+SSRI · thyroid · ibuprofen · back pain meds · iron · magnesium · blister plasters 🎒 · Imodium ✅ · azithromycin ✅ · Kalbeten ✅ · **antihistamine 🛒** · pill splitter
 
 > 💡 **When to take what, interactions and vaccinations** are on the **Medication** tab.
 
@@ -157,7 +157,7 @@ Phone + 2 cables · Anker 10,000mAh power bank *(CCC-certified — required on C
 | | Vaccine book + clinic summary |
 | | Hotel addresses in Chinese |
 
-**Passports:** UK for mainland China · Israeli for Hong Kong and Thailand
+**Passports:** **Israeli** at Ben Gurion, out and back · **UK** everywhere in Asia — Thailand, Hong Kong, mainland China
 
 ---
 
