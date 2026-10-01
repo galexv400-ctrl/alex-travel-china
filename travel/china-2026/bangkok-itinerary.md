@@ -117,11 +117,13 @@ A walk along the river — Sarnies is the one backtrack, 10–15 min south.
 - **19:30** 🍽 **Maison Saigon** · Velaa · Vietnamese, grilled chicken and beef
   - *Or:* **Bistrot de la Mer** · 19F Kempinski · baked turbot
 
-| ☔ If it rains | ⏱ If you finish early |
+> ☔ **Raining?** Use the indoor version of this day in the **Rain plan** below.
+
+| ⏱ If you finish early | |
 |---|---|
-| TCDC, Warehouse 30, ATT19 are all indoors — move the walk to when it clears | ⭐ **River City** — art and antiques on the river |
-| **ICONSIAM** — free shuttle boat, all indoors | ⭐ **ICONSIAM** — riverside mall, food hall |
-| Umbrella from Hong Kong | Assumption Cathedral, Old Customs House |
+| ⭐ **River City** | Art and antiques on the river |
+| ⭐ **ICONSIAM** | Riverside mall, food hall |
+| Assumption Cathedral · Old Customs House | Two minutes from Warehouse 30 |
 
 ---
 
@@ -171,6 +173,84 @@ A walk along the river — Sarnies is the one backtrack, 10–15 min south.
 > ⚠ **El Al: hard cut-off is 3 hours** before departure. Do not leave the hotel later than 12:15.
 
 > 💵 Spend leftover baht before the airport.
+
+---
+
+## ☔ Rain plan
+
+Early November is the tail of the rainy season — usually a heavy afternoon storm that clears in an hour or two, not all-day rain. Check the **Rain Radar** in the Thai weather app or Windy each morning.
+
+**Rules for any wet day**
+- ☂ **Umbrella in the moon bag** — from Hong Kong
+- 👡 **Tevas, not Skechers** — streets flood ankle-deep in minutes and dry fast
+- 🚇 **BTS and MRT over Grab** — rain doubles road times, and Grab prices surge
+- ⚡ **Thunder? Out of the pool** — the rooftop pool closes in lightning
+- ⏳ **Wait it out** — a café for 45 minutes usually beats getting soaked
+
+### Wed 4 Nov — arrival
+
+- 🚕 Grab slow or surging? Use the **public taxi queue**, Level 1 · meter + THB 50 airport fee + tolls
+- 🍽 Dinner: **Gourmet Market** or **Mozza**, Central Chidlom — 10 min on foot, take the umbrella
+
+### Thu 5 Nov — Siam and the massage
+
+| | Dry plan | Rain plan |
+|---|---|---|
+| **Morning** | Pool | 🏋 **Gym on 19** and the **sauna** |
+| **Lunch** | Honmono Sushi, Central Chidlom | Same — then go up to the **Ratchaprasong Skywalk** |
+| **Afternoon** | BTS to Siam | 🚶 **Walk the covered skywalk** Chidlom → Gaysorn → CentralWorld → Siam — under cover the whole way |
+| **To the massage** | BTS Siam → Ploenchit | Same · then **4 min** to Grande Centre Point — umbrella |
+| **After** | Walk back, 10–15 min | 🚕 **Grab** — ask reception at Let's Relax to call one |
+| **Dinner** | El Gaucho, Velaa | Same — next door |
+
+### Fri 6 Nov — riverside, indoor version
+
+The dry plan is a long outdoor walk. This keeps the indoor stops and hops between them by Grab.
+
+- **09:30** Breakfast
+- **10:30** 🚇 **BTS to Saphan Taksin** — not the ferry in a storm
+- **11:00** 🚕 Grab · ~5 min · to **Warehouse 30** — indoors · ☕ 30, a COFFEE ROASTER
+- **12:15** **ATT19** — across the street, a 30-second dash
+- **13:00** 🚕 Grab · ~5 min · 🍽 **Sarnies**, Soi 44 · air-con
+- **14:15** 🚕 Grab · ~5 min · 🏛 **TCDC**, Grand Postal Building · open till 21:00 · design library, exhibitions, rooftop café
+- **15:45** 🚕 Grab · ~5 min · ⭐ **River City Bangkok** · art galleries and antiques, indoors
+- **17:00** 🚕 Grab · ~10 min, or the free shuttle boat from Sathorn Pier · ⭐ **ICONSIAM** · riverside mall · **SookSiam** — an indoor floating-market-style food hall
+- **18:30** 🚇 **Gold Line** from ICONSIAM (Charoen Nakhon) → Krung Thon Buri → **Silom Line** → Siam → Chit Lom · ~40 min
+- **19:30** 🍽 **Maison Saigon**, Velaa · next door
+
+> 🌤 **Clears up?** **Talat Noi** is 10 min on foot from TCDC — go back to the dry plan from 16:00.
+
+> ✂ **Skip in rain:** Talat Noi lanes · Song Wat Road · Hong Sieng Kong's waterside tables.
+
+### Sat 7 Nov — Chatuchak
+
+Most stalls are **under roofs**, but the alleys between sections are open, they get crowded and they flood.
+
+| If it's | Do this |
+|---|---|
+| 🌦 **Light rain** | **Go as planned** · Tevas · umbrella · head straight to **sections 5–6** — then leave |
+| 🌧 **Raining hard at 10:00** | Swap the day — see below |
+| ⛈ **Storm while you're there** | Shelter in a covered section or **Mixt Chatuchak** next door — it usually passes in under an hour · then MRT from Kamphaeng Phet, **Exit 2** |
+
+**Hard rain — indoor Saturday**
+
+- **10:30** 🚇 **MRT Lumphini → Phahon Yothin** · 2 stops past Kamphaeng Phet · no change
+- **11:00** 🛍 **Union Mall** — Chatuchak-style clothes at market prices, all indoors
+  - **Central Ladprao** across the road — big mall, food hall
+- **13:30** 🚇 MRT → **Sukhumvit**, change to BTS at Asok → Siam → **National Stadium** · ~40 min
+- **14:15** 🎨 **BACC** — Bangkok Art and Culture Centre · free · skywalk from BTS National Stadium · 10:00–20:00, closed Mon
+  - Small independent shops and cafés on the lower floors — good for souvenirs
+- **16:00** 🚶 Skywalk → **MBK** or **Siam** · 5 min, all covered
+- **17:00** BTS Siam → Chit Lom · hotel · 🌶 **Lao Gan Ma** at Tops, Central Chidlom basement
+- **19:30** 🍽 **Mozza**, Central Chidlom
+
+> 🛍 **Still want Chatuchak?** It is open **Sunday** too. **08:30** MRT, **09:00–10:45** sections 5–6 only, back by **11:30** · pack on Saturday night first.
+
+### Sun 8 Nov — flight day
+
+- 🧳 Morning in **Central Embassy** — Open House, 6F — not the pool
+- 🚕 **Rain = leave at 12:00, not 12:15** · check out at 11:45 · storms add up to an hour to the airport road
+- Grab won't come? Ask the hotel for a taxi straight away
 
 ---
 
