@@ -147,6 +147,32 @@ Uniqlo moon bag: **phone** · one card · some HKD cash · **power bank + cable*
 
 ---
 
+## ☔ Rain plan
+
+Same bookings, indoor swaps. Check **MyObservatory** each morning.
+
+> ☂ **Rain before Sunday?** Buy an umbrella at the first **7-Eleven** — about HKD 30–60. Skip it at Watsons on Sunday.
+
+| Day | If it rains |
+|---|---|
+| **Fri 16** | 🚌 Big Bus runs — **sit on the covered lower deck** · in a downpour, ask Big Bus to move it · dinner at Flat Iron as planned · *after:* **K11 MUSEA**, all indoors |
+| **Sat 17** | 🛕 Monastery as booked — the grounds are open-air, so take the umbrella · *afternoon:* skip **Cat Street** · **PMQ** → **Tai Kwun** (former police station, galleries, free) → **Central Market**, via the covered **Mid-Levels escalator** |
+| **Sun 18** | Mei Ho House and JCCAC are indoors — no change · *afternoon:* skip **Apliu Street** · thrift in **Dragon Centre** · coffee on Tai Nan Street |
+| **Mon 19** | No change — REstore is 3 min from Mong Kok MTR, exit C2 · Uber to Harbour Plaza |
+
+### 🏛 Whole day lost? Swap in
+
+| Place | What | Getting there |
+|---|---|---|
+| ⭐ **M+**, West Kowloon | Asia's big modern design and art museum · harbour views | Uber, ~10 min · closed Mon |
+| **Hong Kong Palace Museum**, West Kowloon | Treasures from Beijing's Palace Museum | Next to M+ · closed Tue |
+| **K11 MUSEA**, TST | Mall built as an art space | 10 min walk |
+| **Elements**, Kowloon Station | Big mall, linked indoors to the MTR | 1 stop |
+
+> 🌀 **Typhoon Signal 8 or a Black Rainstorm:** stay in the hotel. Buses, ferries and most shops and sights shut; the MTR runs reduced. Call the venue about bookings, and the **Intrepid emergency line +86 17200311621** if Monday is affected.
+
+---
+
 ## 🕘 Opening hours
 
 | Place | Hours | Closed |
@@ -157,6 +183,7 @@ Uniqlo moon bag: **phone** · one card · some HKD cash · **power bank + cable*
 | REstore | 12:00–21:00 | — |
 | Souvenir Shop, TST | 09:00–23:00 | — |
 | M+ Museum *(rain plan)* | 10:00–18:00, Fri to 22:00 | Mon |
+| Tai Kwun galleries *(rain plan)* | 11:00–19:00 | Mon |
 
 ## 🚕 Getting around
 
