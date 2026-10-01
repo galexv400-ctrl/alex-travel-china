@@ -112,6 +112,47 @@
 
 ---
 
+## 🚨 If Ben Gurion closes
+
+> 🧭 **You have slack.** You land in Hong Kong on Fri 16 Oct; the tour starts **Mon 19 Oct, 18:00**. Losing two or three days costs the stopover and some of Hong Kong — not the tour.
+
+### Before you do anything
+
+| | |
+|---|---|
+| 1 | **Don't book anything yet.** Check the El Al app for LY83 — on a cancelled flight you choose **rebooking, a refund or a credit voucher** |
+| 2 | **Call PassportCard** — ask if war-related cancellation and rerouting are covered *before* paying for new flights. Keep every receipt |
+| 3 | **Message Intrepid** — booking **#6886724** · emergency **+86 17200311621**. If you can't make the 19th, ask where you can join late |
+| 4 | **Tell The Luxe Manor** (ref **5515516445**) and Canalis if you'll arrive late |
+
+### If you have to leave by land
+
+| | ⭐ Egypt — Taba | Jordan — Eilat/Aqaba |
+|---|---|---|
+| **Crossing** | **Taba** (Menachem Begin) · open 24 hrs | **Yitzhak Rabin** · Sun–Thu 06:30–20:00, Fri–Sat 08:00–20:00 |
+| **Then** | Fly from **Taba airport**, or drive ~4 hrs to **Sharm el-Sheikh** | Aqaba, or ~4 hrs on to **Amman** airport |
+| **On to Bangkok / HK** | One stop — usually via the Gulf or Istanbul | One stop — via the Gulf |
+| **Last time** | Thousands of Israelis left this way in June 2025 | Less used |
+| **⚠ Risk** | Israeli NSC rates Sinai **Level 4** — go straight to the airport, don't stay | NSC warns against Jordan too |
+
+> 🛂 **Passports:** leave Israel on the **Israeli** passport — required by law. Then use the **UK** passport for everything after the border, and the **same UK passport** into Thailand and Hong Kong.
+
+> 💵 **Carry cash** for Egypt: ~USD 25–30 and some Egyptian pounds for border fees and the Sinai tax.
+
+### Getting there late
+
+| You arrive | What you lose |
+|---|---|
+| **Sat 17 or Sun 18 Oct** | Bangkok stopover · Big Bus · maybe the monastery — fly straight to Hong Kong if you can |
+| **Mon 19 Oct**, before 18:00 | Most of Hong Kong · go straight to Harbour Plaza North Point |
+| **After 19 Oct** | Intrepid tells you where to meet the group |
+
+### Coming home on Sun 8 Nov
+
+If Ben Gurion is closed then, **stay in Bangkok** — El Al rebooks you, and your 30 days in Thailand run to **3 December**. Ask Sindhorn about extra nights.
+
+---
+
 ## 🛂 Entry
 
 | Country | Passport | Notes |
