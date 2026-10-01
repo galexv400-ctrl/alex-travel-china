@@ -31,7 +31,7 @@
 | Sun 1 Nov | 18 | → Great Wall | Train to Beijing + transfer ~9hrs. Sunset on the Wall. | — |
 | Mon 2 Nov | 19 | → Beijing | Jinshanling Wall hike ~2hrs. Breakfast included. | — |
 | Tue 3 Nov | 20 | Beijing | Tiananmen Square, Forbidden City. Farewell dinner — Beijing duck! | — |
-| Wed 4 Nov | 21 | Beijing → Bangkok | Tour ends. Air China CA959 dep PEK 14:00, arr BKK 18:05. Grab to hotel. Dinner: decide on landing | PEK 14:00 → BKK 18:05 |
+| Wed 4 Nov | 21 | Beijing → Bangkok | Tour ends. Air China CA959 dep PEK **13:45** *(retimed from 14:00)*, arr BKK 18:05. **Leave the Beijing hotel by ~10:45.** Grab to hotel. Dinner: decide on landing | PEK 13:45 → BKK 18:05 |
 | Thu 5 Nov | 22 | Bangkok | Morning free (pool). Sushi at Honmono. Siam shopping. **Hot stone massage 16:30** (paid), Let's Relax Ploenchit. Dinner: El Gaucho | — |
 | Fri 6 Nov | 23 | Bangkok | **Charoenkrung creative district** — Warehouse 30, ATT19, Talat Noi, TCDC. Dinner: Maison Saigon | — |
 | Sat 7 Nov | 24 | Bangkok | **Chatuchak 11:00** — sections 5–6, 2/4, 12–14, 21. Back ~15:00, pool. Dinner: Mozza | — |
@@ -126,8 +126,10 @@
   - ⚠ El Al want you 3 hrs ahead → **be at Ben Gurion by 22:15 on Tue 14 October**. You leave on the evening of the 14th, not the 15th.
 - El Al return: **LY84**, departs BKK 16:30, arrives TLV 22:55, Sun 8 Nov · seat 34D · Economy Classic (N) · 11h 25m · frequent flyer 12956761
 - ⚠ **El Al recommends 4 hrs, hard deadline 3 hrs** — late passengers are not boarded. Leave hotel 12:15.
-- Beijing → BKK: Air China CA959, departs PEK 14:00, arrives BKK 18:05, Wed 4 Nov · 5h 05m · Boeing 777-300ER · Economy Standard (T) · meal served
+- ⚠ **Retimed by Air China, 1 Oct:** departure moved **14:00 → 13:45**. Arrival unchanged at 18:05. Special services carry over.
+- Beijing → BKK: Air China CA959, departs PEK **13:45**, arrives BKK 18:05, Wed 4 Nov · **5h 20m** · Boeing 777-300ER · Economy Standard (T) · meal served
 - Booking ref: ECFV7Q | Air China confirmation: MESQ54 | E-ticket: 999-2425129533
+- 🚕 **Leave Beijing Dongfang Hotel by ~10:45** — Intrepid advise 3 hrs before the flight, and PEK is 45–60 min away. Terminal 3
 - Seat: 46D | Terminal 3 PEK | Economy Standard | 1 bag 23kg included
 - Bangkok airport hotel: Canalis Suvarnabhumi Airport Hotel
 - Address: 1599/1 Lat Krabang Soi 13, Lat Krabang, Bangkok 10520
