@@ -15,7 +15,7 @@
 
 | Date | Where | What |
 |---|---|---|
-| **Tue 14 Oct** | Tel Aviv | At **Ben Gurion by 22:15** |
+| **Wed 14 Oct** | Tel Aviv | At **Ben Gurion by 22:15** |
 | **Thu 15 Oct** | ✈ → Bangkok | LY83 01:15 → 16:55 · Canalis airport hotel |
 | **Fri 16 Oct** | ✈ → Hong Kong | 07:00 shuttle · TG628 10:30 → 14:20 · **Big Bus 19:00** |
 | **Sat 17 Oct** | Hong Kong | **Monastery 10:30** · Sheung Wan |
@@ -91,7 +91,7 @@
 | Insurance (PassportCard) | ✅ |
 | Airalo eSIM | £41.77 |
 | Hot stone massage | 2,300 THB |
-| **Total** | **~$6,900** |
+| **Total** | **~$6,950 + insurance** |
 
 ### Still to spend · Monzo trip pot ~£1,100
 

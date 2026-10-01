@@ -20,7 +20,7 @@
 **Canalis Suvarnabhumi Airport Hotel** · 1599/1 Lat Krabang Soi 13 · ☎ +66 2 332 1555
 Booking.com **6637.638.401** · PIN 4470 · prepaid · no breakfast · reception open till midnight
 
-- **Tue 14 Oct, 22:15** Be at **Ben Gurion**
+- **Wed 14 Oct, 22:15** Be at **Ben Gurion**
 - **01:15** ✈ **El Al LY83** to Bangkok · 11h 40m
 - **16:55** Land · **TDAC QR ready**
 - 📶 **Turn on the Airalo eSIM** — data line on, Israeli roaming off
@@ -93,7 +93,7 @@ Pool 18F · gym 19F · saunas
 
 ## Day 3 — Friday 6 November: Charoenkrung, Talat Noi, Song Wat
 
-One walk north along the river.
+A walk along the river — Sarnies is the one backtrack, 10–15 min south.
 
 - **09:30** Breakfast
 - **10:30** BTS to **Saphan Taksin** (change to the Silom Line at Siam) · ~25 min
@@ -145,7 +145,7 @@ One walk north along the river.
 - 💡 Prices are mostly fixed — buy two or three from one stall and ask for a better price
 
 > 🚪 **Too busy?** Give sections 5–6 twenty minutes. Still shuffling? Leave:
-> ⭐ **Union Mall** — one stop away, trendy clothes at market prices · ⭐ **Siam** · **Or Tor Kor** fresh market, across the road · or give up and use Sunday morning
+> ⭐ **Union Mall** — two MRT stops north, Phahon Yothin, trendy clothes at market prices · ⭐ **Siam** · **Or Tor Kor** fresh market, across the road · or give up and use Sunday morning
 
 - **~14:00** Leave · 🍽 lunch at **Mixt Chatuchak** next door, or back near the hotel
 - **~15:00** Hotel · shower · **afternoon off** — pool, or Peace Oriental Teahouse

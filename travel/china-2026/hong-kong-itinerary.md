@@ -47,8 +47,8 @@ Uniqlo moon bag: **phone** · one card · some HKD cash · **power bank + cable*
 
 ## Day 2 — Saturday 17 October: Monastery + Sheung Wan
 
-- **08:45** 🍳 Breakfast at the hotel
-- **09:45** MTR to **Tai Po Market** · ~45 min
+- **08:15** 🍳 Breakfast at the hotel
+- **09:15** MTR to **Tai Po Market** · ~45 min
   - Then to the monastery: **taxi** from outside the station (~10 min) — show the driver **慈山寺**
   - ⚠ The 20T minibus does not run on Saturdays. Backup: minibus **20B** to Tong Tsz Road, then 10 min uphill
 - **10:30** 🛕 **Tsz Shan Monastery** · booked · giant Guanyin statue, wooded grounds · **allow 75–90 min**
@@ -133,14 +133,15 @@ Uniqlo moon bag: **phone** · one card · some HKD cash · **power bank + cable*
 - **12:00** 💅 **Nu Nail & Beauty** · Flat 10A, 10/F, Lokville Commercial Building, 27 Lock Road · 3 min walk · ☎ +852 5323 3617
 - **~13:30** 🎁 **Hong Kong Souvenir Shop 香港紀念品專門店** · **27–33 Nathan Road** · 4 min walk · 09:00–23:00
   - Other TST branches: Chungking Mansions, Shop 4 G/F · Bo Fung Building, Haiphong Road
-- **~14:15** ⭐ **REstore** · 1F 618 Shanghai Street, Mong Kok · 12:00–21:00 · ~8 min by MTR
+- **~13:50** 💱 **CNY** — ATM, then a money changer at **Chungking Mansions**, across the road
+- **~14:15** ⭐ *Optional:* **REstore** · 1F 618 Shanghai Street, Mong Kok · 12:00–21:00 · ~8 min by MTR · back by ~15:15
   - Minibus-sign keychains and HK convenience-store goods · [@restorehkshop](https://www.instagram.com/restorehkshop/)
-- **~14:45** 🛒 **Watsons or Mannings** — pay with the Octopus
+  - Short of time? Skip it — Sunday 18:15 works too
+- **~15:15** 🛒 **Watsons or Mannings** — pay with the Octopus
   - Shampoo + conditioner · body wash · deodorant *(never aerosol)* · **small umbrella**
   - **Spend the Octopus down to zero** — snacks for tomorrow's 9-hour train
-- **~15:00** 💱 **CNY** — ATM, then a money changer at **Chungking Mansions**
-- **15:30** Collect luggage · **Uber to Harbour Plaza North Point**, 665 King's Road · ~25 min
-- **16:15** Check in · shower, change
+- **15:45** Collect luggage · **Uber to Harbour Plaza North Point**, 665 King's Road · ~25 min
+- **~16:15** Check in · shower, change
 - **18:00** 👋 **Intrepid welcome meeting** · bring insurance and next-of-kin details
 - **Evening** 📋 **China customs declaration** · **customsapp.chinaport.gov.cn** — *never* the Alipay mini-program · screenshot the QR code for tomorrow's crossing
 

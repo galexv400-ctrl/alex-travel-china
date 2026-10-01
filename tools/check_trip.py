@@ -48,6 +48,9 @@ FORBIDDEN = [
     (r"[Pp]ending pharmacist|Still to confirm with the pharmacist", "Pharmacist questions dropped by Alexandra"),
     (r"(?i)(azithromycin|kalbeten)\W{0,6}🛒|🛒\W{0,6}(azithromycin|kalbeten)", "Azithromycin and Kalbeten are collected"),
     (r"pay it now|Pay the bill", "Canalis is prepaid"),
+    (r"Tue 14 Oct",                  "14 Oct 2026 is a Wednesday"),
+    (r"(?i)union mall.{0,20}one stop", "Union Mall is two MRT stops from Kamphaeng Phet"),
+    (r"One walk north",              "Sarnies is a backtrack south"),
     (r"~?10:45.*(Beijing|PEK|DiDi)|(Beijing|PEK|DiDi).*10:45", "Leave Beijing hotel at 10:30"),
 ]
 # 'Japan' is legitimate in these phrases only
@@ -69,6 +72,7 @@ LINE_RULES = [
     (r"Nu Nail",                     r"12:00",  "Manicure is 12:00"),
     (r"Big Bus",                     r"19:00",  "Big Bus is 19:00"),
     (r"Tsz Shan|[Mm]onastery",       r"10:30|09:30|17:00|75", "Monastery booked 10:30"),
+    (r"Tai Po Market",               r"09:15|11:45|12:15|13:00|\b~?1[0-9]:", "Leave for the monastery 09:15 to make 10:30"),
     (r"(?<![Ss]econd )[Ww]elcome meeting", r"18:00", "First welcome meeting Mon 19 Oct 18:00"),
     (r"[Ss]econd welcome meeting",   r"16:00",  "Shanghai welcome meeting Wed 28 Oct 16:00"),
     (r"[Ss]huttle.*(Canalis|airport)|Canalis.*[Ss]huttle", r"07:00|05:00", "Canalis shuttle 07:00"),
@@ -117,12 +121,26 @@ MUST_EXIST = [
 ]
 
 
+DAYS = ["Mon","Tue","Wed","Thu","Fri","Sat","Sun"]
+MONTHS = {"Oct": 10, "Nov": 11}
+WEEKDAY_DATE = re.compile(r"\b(Mon|Tue|Wed|Thu|Fri|Sat|Sun)[a-z]*\.?,? (\d{1,2})(?:st|nd|rd|th)? (Oct|Nov)")
+
+
+def check_weekdays(name, n, line, problems):
+    import datetime
+    for m in WEEKDAY_DATE.finditer(line):
+        d = datetime.date(2026, MONTHS[m.group(3)], int(m.group(2)))
+        if DAYS[d.weekday()] != m.group(1):
+            problems.append((f"{name}:{n}", f"{m.group(2)} {m.group(3)} 2026 is a {DAYS[d.weekday()]}, not {m.group(1)}", line))
+
+
 def main():
     problems = []
     texts = {f.name: f.read_text(encoding="utf-8") for f in FILES}
     for name, text in texts.items():
         for n, line in enumerate(text.splitlines(), 1):
             where = f"{name}:{n}"
+            check_weekdays(name, n, line, problems)
             clean = line
             for a in ALLOW:
                 clean = re.sub(a, "", clean)
