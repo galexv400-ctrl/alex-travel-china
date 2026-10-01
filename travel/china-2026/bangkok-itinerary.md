@@ -44,7 +44,7 @@ Booking.com **6637.638.401** · PIN 4470 · prepaid · no breakfast · reception
 ---
 
 **Sindhorn Midtown** · 68 Langsuan Road, Lumphini · ☎ +66 2 796 8888
-Booking.com **6761.193.363** · PIN 6989 · room with private bathroom · breakfast included · prepaid
+Booking.com **6761.193.363** · PIN 6989 · room with private bathroom · breakfast included · THB 30,498.42, charged automatically 2 Oct
 Pool 18F · gym 19F · saunas
 
 ## Day 1 — Wednesday 4 November: Arrival

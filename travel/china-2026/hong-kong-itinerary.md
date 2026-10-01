@@ -21,7 +21,7 @@ Uniqlo moon bag: **phone** · one card · some HKD cash · **power bank + cable*
 
 > 🛂 **Passport stays in the hotel safe** in Hong Kong — keep a photo on your phone.
 
-> ☂ **No umbrella until Monday.** Take the Lululemon jacket if it looks like rain.
+> ☂ **No umbrella until Sunday evening.** Take the Lululemon jacket if it looks like rain.
 
 ---
 
@@ -117,7 +117,8 @@ Uniqlo moon bag: **phone** · one card · some HKD cash · **power bank + cable*
   - 🛍 **Thrifting:** Apliu Street flea market · Sing Jai Kee vintage · Fuk Wing Street · Dragon Centre for air-con
 - **16:00** MTR back to TST · ~12 min
 - **17:00** 💆 **Tai Pan Reflexology** · 83 Nathan Road, basement · booked · 5 min walk · ☎ +852 2301 1990
-- **18:15** ⭐ *Optional:* **REstore**, Mong Kok — 3 stops away, open till 21:00 · Temple Street Night Market is on the way back
+- **18:15** 🛒 **Watsons or Mannings**, TST — pay with the Octopus
+  - Shampoo + conditioner · body wash · deodorant *(never aerosol)* · **small umbrella**
 - **19:30** 🍽 **Born Ga**, TST · stone-pot bibimbap, soft tofu stew · good for one
   - *Or:* **Hansung Co**, 10 Kimberley Street — bibimbap, beef stew · 5 min from the hotel
 
@@ -134,12 +135,9 @@ Uniqlo moon bag: **phone** · one card · some HKD cash · **power bank + cable*
 - **~13:30** 🎁 **Hong Kong Souvenir Shop 香港紀念品專門店** · **27–33 Nathan Road** · 4 min walk · 09:00–23:00
   - Other TST branches: Chungking Mansions, Shop 4 G/F · Bo Fung Building, Haiphong Road
 - **~13:50** 💱 **CNY** — ATM, then a money changer at **Chungking Mansions**, across the road
-- **~14:15** ⭐ *Optional:* **REstore** · 1F 618 Shanghai Street, Mong Kok · 12:00–21:00 · ~8 min by MTR · back by ~15:15
+- **~14:15** ⭐ **REstore** · 1F 618 Shanghai Street, Mong Kok · 12:00–21:00 · ~8 min by MTR · back by ~15:15
   - Minibus-sign keychains and HK convenience-store goods · [@restorehkshop](https://www.instagram.com/restorehkshop/)
-  - Short of time? Skip it — Sunday 18:15 works too
-- **~15:15** 🛒 **Watsons or Mannings** — pay with the Octopus
-  - Shampoo + conditioner · body wash · deodorant *(never aerosol)* · **small umbrella**
-  - **Spend the Octopus down to zero** — snacks for tomorrow's 9-hour train
+- **~15:15** 🍫 **Spend the Octopus down to zero** — snacks for tomorrow's 9-hour train, any 7-Eleven
 - **15:45** Collect luggage · **Uber to Harbour Plaza North Point**, 665 King's Road · ~25 min
 - **~16:15** Check in · shower, change
 - **18:00** 👋 **Intrepid welcome meeting** · bring insurance and next-of-kin details

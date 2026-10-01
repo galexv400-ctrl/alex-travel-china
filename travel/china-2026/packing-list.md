@@ -13,7 +13,7 @@
 |---|---|
 | **Pharmacy, Israel** | Antihistamine (non-drowsy) · lip balm |
 | **Decathlon, Israel** | Warm hat · gloves *(touchscreen)* |
-| **Hong Kong, Mon 19 Oct** | Shampoo + conditioner · body wash · deodorant *(roll-on or stick, never aerosol)* · small umbrella — Watsons or Mannings, on the Octopus balance |
+| **Hong Kong, Sun 18 Oct** | Shampoo + conditioner · body wash · deodorant *(roll-on or stick, never aerosol)* · small umbrella — Watsons or Mannings, on the Octopus balance |
 
 ---
 
