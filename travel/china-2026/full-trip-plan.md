@@ -31,7 +31,7 @@
 | Sun 1 Nov | 18 | → Great Wall | Train to Beijing + transfer ~9hrs. Sunset on the Wall. | — |
 | Mon 2 Nov | 19 | → Beijing | Jinshanling Wall hike ~2hrs. Breakfast included. | — |
 | Tue 3 Nov | 20 | Beijing | Tiananmen Square, Forbidden City. Farewell dinner — Beijing duck! | — |
-| Wed 4 Nov | 21 | Beijing → Bangkok | Tour ends. Air China CA959 dep PEK **13:45** *(retimed from 14:00)*, arr BKK 18:05. **Leave the Beijing hotel by ~10:45.** Grab to hotel. Dinner: decide on landing | PEK 13:45 → BKK 18:05 |
+| Wed 4 Nov | 21 | Beijing → Bangkok | Tour ends. Air China CA959 dep PEK **13:45** *(retimed from 14:00)*, arr BKK 18:05. **Leave the Beijing hotel by ~10:30 — DiDi to PEK T3.** Grab to hotel. Dinner: decide on landing | PEK 13:45 → BKK 18:05 |
 | Thu 5 Nov | 22 | Bangkok | Morning free (pool). Sushi at Honmono. Siam shopping. **Hot stone massage 16:30** (paid), Let's Relax Ploenchit. Dinner: El Gaucho | — |
 | Fri 6 Nov | 23 | Bangkok | **Charoenkrung creative district** — Warehouse 30, ATT19, Talat Noi, TCDC. Dinner: Maison Saigon | — |
 | Sat 7 Nov | 24 | Bangkok | **Chatuchak 11:00** — sections 5–6, 2/4, 12–14, 21. Back ~15:00, pool. Dinner: Mozza | — |
@@ -129,7 +129,11 @@
 - ⚠ **Retimed by Air China, 1 Oct:** departure moved **14:00 → 13:45**. Arrival unchanged at 18:05. Special services carry over.
 - Beijing → BKK: Air China CA959, departs PEK **13:45**, arrives BKK 18:05, Wed 4 Nov · **5h 20m** · Boeing 777-300ER · Economy Standard (T) · meal served
 - Booking ref: ECFV7Q | Air China confirmation: MESQ54 | E-ticket: 999-2425129533
-- 🚕 **Leave Beijing Dongfang Hotel by ~10:45** — Intrepid advise 3 hrs before the flight, and PEK is 45–60 min away. Terminal 3
+- 🚕 **Getting to the airport on 4 Nov — if Intrepid do not arrange it:**
+  - ⭐ **DiDi, leave at 10:30** — door to door, ~45–60 min, ~CNY 120–150, paid in the app. Destination: **北京首都国际机场 T3** — check it shows **Terminal 3**. 10:30 not 10:45: a Wednesday late morning can stretch to 75 min
+  - **Backup: hotel reception calls a taxi.** Show the driver **首都国际机场 3号航站楼** (Capital International Airport, Terminal 3). Carry **CNY 150 cash** — not every driver takes Alipay
+  - ⚠ **Capital (PEK), NOT Daxing (PKX)** — Daxing is 90 min the other way. Always show the Chinese text rather than just saying "airport"
+  - ❌ Not the Airport Express — a metro journey and a change at Dongzhimen first, 75–90 min with a suitcase
 - Seat: 46D | Terminal 3 PEK | Economy Standard | 1 bag 23kg included
 - Bangkok airport hotel: Canalis Suvarnabhumi Airport Hotel
 - Address: 1599/1 Lat Krabang Soi 13, Lat Krabang, Bangkok 10520
