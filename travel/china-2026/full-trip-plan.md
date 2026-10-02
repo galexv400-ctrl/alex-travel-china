@@ -116,6 +116,17 @@
 
 > 🧭 **You have slack.** You land in Hong Kong on Fri 16 Oct; the tour starts **Mon 19 Oct, 18:00**. Losing two or three days costs the stopover and some of Hong Kong — not the tour.
 
+### ⏰ When to decide
+
+| When | Decide |
+|---|---|
+| **Now – Tue 13 Oct** | Watch only. Nothing to decide unless Ben Gurion actually closes |
+| **Wed 14 Oct, afternoon** | Check LY83 in the El Al app before leaving for the airport |
+| **LY83 cancelled** | Give El Al **24 hours** to offer a new flight |
+| ⚠ **Fri 16 Oct, midday** | **Last safe moment.** No confirmed flight by then → leave by land for Taba. Shabbat starts that evening and transport stops |
+
+> 🧭 Taba to Hong Kong takes roughly **1½–2 days** with the drive, the crossing and a one-stop flight. Leaving Friday midday gets you to the welcome meeting on **Mon 19 Oct, 18:00**, with little to spare.
+
 ### Before you do anything
 
 > 🚨 **Protect the flight home.** If LY83 and LY84 are on one return ticket, missing LY83 without telling El Al **cancels LY84 automatically** — the no-show rule.
