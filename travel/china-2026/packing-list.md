@@ -47,7 +47,7 @@
 |---|---|
 | 🟣 **Purple** — warm | Bike shorts · Shein shorts · green + red playsuits · H&M cropped · kimono · Uniqlo bra tops ×2 · swirl short-sleeve |
 | 🩷 **Pink** — cool/cold, largest | Fleece · mid-warms ×2 · khaki · Asics top · modal top · thermals ×3 · black short-sleeve |
-| 🟤 **Brown** | Leggings ×3 ✅ · flares ×3 *(Wolven ✅)* · pyjama tops ×2 · bras ×3 · swimming costume |
+| 🟤 **Brown** | Leggings ×3 ✅ · flares ×3 *(Wolven ✅ · Manners ✅)* · pyjama tops ×2 ✅ · bras ×3 · swimming costume ✅ |
 | ❤️ **Red-pink** — smallest | Knickers ×20 · socks ×10 ✅ · thermal socks ×2 ✅ · Paloma bra (grey) — *keep near the top* |
 | 👟 **Shoe organiser** | Asics trainers · black Tevas *(flip-flops loose in the case)* |
 
@@ -92,7 +92,7 @@
 | Playsuits ×2 — green, red | Warm | Bangkok, Hong Kong |
 | Wolven flares ✅ | Cool | Thinnest |
 | Amazon flares | Cool | Mid-weight |
-| Manners London flares | Cool · Cold | Warmest · cold evenings |
+| Manners London flares ✅ | Cool · Cold | Warmest · cold evenings |
 | GF leggings — float ✅ | Cool | Thin |
 | GF leggings — regular ✅ | Cool · Cold | Hikes |
 | GF leggings — green ✅ | Cold | Warmest · Great Wall night, sleeping |
@@ -114,8 +114,8 @@
 - **Bras ×4, all wireless**
   - **Dylan ×2** (black, green) — the only ones worn **as tops**; cut high enough for temples and mainland China
   - **Paloma** (grey) and **Float** (black, small) — under-layers only
-- Swimming costume — Sindhorn pool, 18th floor
-- **Pyjama tops ×2** (BCCA) — bottoms: sleep in leggings. **Great Wall night:** merino + green leggings
+- Swimming costume ✅ — Sindhorn pool, 18th floor
+- **Pyjama tops ×2** ✅ (BCCA) — bottoms: sleep in leggings. **Great Wall night:** merino + green leggings
 
 ## 🧢 Accessories & comfort
 
