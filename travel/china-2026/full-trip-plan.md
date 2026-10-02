@@ -118,6 +118,11 @@
 
 ### Before you do anything
 
+> 🚨 **Protect the flight home.** If LY83 and LY84 are on one return ticket, missing LY83 without telling El Al **cancels LY84 automatically** — the no-show rule.
+> - **El Al cancels LY83** → the rule doesn't apply. When you choose your option, ask them to **keep LY84 on 8 Nov**. Don't take a full refund — it can refund the return too
+> - **You choose not to fly**, and LY83 still operates → call El Al **before LY83 departs** and ask them to keep the flight home · get it in writing
+> - **Either way:** check the El Al app afterwards — LY84 should still show seat **34D**
+
 | | |
 |---|---|
 | 1 | **Don't book anything yet.** Check the El Al app for LY83 — on a cancelled flight you choose **rebooking, a refund or a credit voucher** |
