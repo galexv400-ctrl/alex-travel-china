@@ -46,8 +46,8 @@
 | Cube | Contents |
 |---|---|
 | 🟣 **Purple** — warm | Bike shorts · Shein shorts · green + red playsuits · H&M cropped · kimono · Uniqlo bra tops ×2 · swirl short-sleeve |
-| 🩷 **Pink** — cool/cold, largest | Fleece · mid-warms ×2 · khaki · Asics top · modal top · thermals ×3 · leggings ×3 · black short-sleeve |
-| 🟤 **Brown** | Flares ×3 · pyjama tops ×2 · bras ×3 · swimming costume |
+| 🩷 **Pink** — cool/cold, largest | Fleece · mid-warms ×2 · khaki · Asics top · modal top · thermals ×3 · leggings ×3 ✅ · black short-sleeve |
+| 🟤 **Brown** | Flares ×3 *(Wolven ✅)* · pyjama tops ×2 · bras ×3 · swimming costume |
 | ❤️ **Red-pink** — smallest | Knickers ×20 · socks ×10 ✅ · thermal socks ×2 ✅ · Paloma bra (grey) — *keep near the top* |
 | 👟 **Shoe organiser** | Asics trainers · black Tevas *(flip-flops loose in the case)* |
 
@@ -90,12 +90,12 @@
 | Shein loose shorts, black & white | Warm | Smart enough for Bangkok dinners |
 | Girlfriend Collective bike shorts | Warm | Gym · Chatuchak |
 | Playsuits ×2 — green, red | Warm | Bangkok, Hong Kong |
-| Wolven flares | Cool | Thinnest |
+| Wolven flares ✅ | Cool | Thinnest |
 | Amazon flares | Cool | Mid-weight |
 | Manners London flares | Cool · Cold | Warmest · cold evenings |
-| GF leggings — float | Cool | Thin |
-| GF leggings — regular | Cool · Cold | Hikes |
-| GF leggings — green | Cold | Warmest · Great Wall night, sleeping |
+| GF leggings — float ✅ | Cool | Thin |
+| GF leggings — regular ✅ | Cool · Cold | Hikes |
+| GF leggings — green ✅ | Cold | Warmest · Great Wall night, sleeping |
 
 > ☔ **In rain, wear leggings, not flares** — flares stay wet for hours. Zhangjiajie is the wettest stretch.
 
