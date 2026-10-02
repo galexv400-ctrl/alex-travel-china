@@ -48,7 +48,7 @@
 | 🟣 **Purple** — warm | Bike shorts · Shein shorts · green + red playsuits · H&M cropped · kimono · Uniqlo bra tops ×2 · swirl short-sleeve |
 | 🩷 **Pink** — cool/cold, largest | Fleece · mid-warms ×2 · khaki · Asics top · modal top · thermals ×3 · black short-sleeve |
 | 🟤 **Brown** | Leggings ×3 ✅ · flares ×3 *(Wolven ✅ · Manners ✅)* · pyjama tops ×2 ✅ · bras ×3 · swimming costume ✅ |
-| ❤️ **Red-pink** — smallest | Knickers ×20 · socks ×10 ✅ · thermal socks ×2 ✅ · Paloma bra (grey) ✅ — *keep near the top* |
+| ❤️ **Red-pink** — smallest | Knickers ×20 *(10 packed, 10 to go)* · socks ×10 ✅ · thermal socks ×2 ✅ · Paloma bra (grey) ✅ — *keep near the top* |
 | 👟 **Shoe organiser** | Asics trainers · black Tevas *(flip-flops loose in the case)* |
 
 > ✈️ **Worn on the plane:** green thin jumpsuit · waterproof pink jacket · purple Skechers
