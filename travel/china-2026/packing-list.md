@@ -25,9 +25,9 @@
 
 ### 2 · Day bag — also the cabin bag
 - **All medication on travel days** — original packaging, prescriptions photographed
-- Uniqlo pink puffer
+- Uniqlo pink puffer 🎒
 - Anker power bank *(lithium — cabin only, never the hold)*
-- Wallet · toilet paper 🎒 · wipes
+- Wallet 🎒 · toilet paper 🎒 · wipes 🎒
 
 **On excursions add:** Lululemon jacket · umbrella · sunscreen · water
 **Great Wall, 1 Nov:** dry BL500 thermal · warm hat · gloves · neck warmer
@@ -77,7 +77,7 @@
 | **Wedze BL100**, black 🎒 | Cool | Everyday base · hike layer |
 | Waterproof pink shell | Cold | Worn on plane days |
 | Gillet fleece 🎒 | Cool · Cold | Alone, or zipped into the shell |
-| Uniqlo pink puffer | Cold | Great Wall and Beijing evenings |
+| Uniqlo pink puffer 🎒 | Cold | Great Wall and Beijing evenings |
 | Lululemon packable jacket 🎒 | Warm · Cool | Light rain · water-resistant, not waterproof |
 
 ## 👖 Bottoms
@@ -117,7 +117,7 @@
 
 ## 🧢 Accessories & comfort
 
-Baseball cap ✅ · **black sunglasses** ✅ · neck warmer 🎒 · **warm hat 🛒** · **gloves 🛒** · earplugs 🎒 · eye mask 🎒 · hair ties ×3 · hair brush 🎒 · scarf *(optional)*
+Baseball cap ✅ · **black sunglasses** ✅ · neck warmer 🎒 · **warm hat 🛒** · **gloves 🛒** · earplugs 🎒 · eye mask 🎒 · hair ties ×3 · hair brush 🎒
 
 ---
 
