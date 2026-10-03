@@ -117,7 +117,7 @@
 
 ## 🧢 Accessories & comfort
 
-Baseball cap ✅ · sunglasses ✅ · neck warmer 🎒 · **warm hat 🛒** · **gloves 🛒** · hand warmers ✅ · earplugs 🎒 · eye mask 🎒 · hair ties ×3 · hair brush 🎒 · scarf *(optional)*
+Baseball cap ✅ · **black sunglasses** ✅ · neck warmer 🎒 · **warm hat 🛒** · **gloves 🛒** · hand warmers ✅ · earplugs 🎒 · eye mask 🎒 · hair ties ×3 · hair brush 🎒 · scarf *(optional)*
 
 ---
 
