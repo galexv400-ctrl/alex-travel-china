@@ -46,12 +46,10 @@
 | Cube | Contents |
 |---|---|
 | 🟣 **Purple** — warm | Bike shorts 🎒 · Shein shorts 🎒 · green + red playsuits 🎒 · kimono 🎒 · Uniqlo bra tops ×2 🎒 · swirl short-sleeve 🎒 · Asics black long-sleeve 🎒 · Dylan bra, black 🎒 · regular bra 🎒 |
-| 🩷 **Pink** — cool/cold, largest | Fleece · mid-warms ×2 · khaki · Eden striped shirt · thermals ×3 · grey short-sleeve 🎒 |
+| 🩷 **Pink** — cool/cold, largest | Fleece 🎒 · mid-warms ×2 🎒 · khaki 🎒 · Eden striped shirt 🎒 · thermals ×3 🎒 · grey short-sleeve 🎒 · H&M cropped trousers 🎒 |
 | 🟤 **Brown** | Leggings ×3 🎒 · flares ×3 *(Wolven 🎒 · Manners 🎒)* · pyjama tops ×2 🎒 · Dylan bra, green · swimming costume 🎒 |
 | ❤️ **Red-pink** — smallest | Knickers ×20 *(10 packed, 10 to go)* · socks ×10 🎒 · thermal socks ×2 🎒 · Paloma bra (grey) 🎒 — *keep near the top* |
 | 👟 **Shoe organiser** | Asics trainers · black Tevas *(flip-flops loose in the case)* |
-
-> 📦 **Cube still to decide:** H&M cropped trousers
 
 > ✈️ **Worn on the plane:** green thin jumpsuit · waterproof pink jacket · purple Skechers
 
@@ -65,20 +63,20 @@
 | Uniqlo short-sleeve — **black-grey swirl** 🎒 | Warm | Hong Kong, Bangkok dinners |
 | Uniqlo short-sleeve — **plain grey** 🎒 | Warm · Cool | China's warm days: Chongqing, Shanghai, Wuxi |
 | Kimono 🎒 | Warm | Covers shoulders at temples · dresses up for dinner |
-| Uniqlo khaki long-sleeve (light) | Cool | 18–23°C days — most of China |
-| Uniqlo mid-warm long-sleeve ×2 — pink, black | Cool · Cold | 12–17°C days |
-| **Eden** brown & white striped shirt | Cool | Mid-warm days on its own, sports bra underneath · or open as a layer |
+| Uniqlo khaki long-sleeve (light) 🎒 | Cool | 18–23°C days — most of China |
+| Uniqlo mid-warm long-sleeve ×2 — pink, black 🎒 | Cool · Cold | 12–17°C days |
+| **Eden** brown & white striped shirt 🎒 | Cool | Mid-warm days on its own, sports bra underneath · or open as a layer |
 | Asics black long-sleeve 🎒 | Cool | Gym, hikes · fast-drying |
 
 ## 🧥 Thermals & outerwear
 
 | Item | Weather | Use |
 |---|---|---|
-| **TRAVEL 100 merino**, black | Cool · Cold | Long train days · odour-resistant · hand wash 30°C, dry flat |
-| **Wedze BL500 collared**, blue | Cold | Warmest · **kept dry for the Great Wall night** |
-| **Wedze BL100**, black | Cool | Everyday base · hike layer |
+| **TRAVEL 100 merino**, black 🎒 | Cool · Cold | Long train days · odour-resistant · hand wash 30°C, dry flat |
+| **Wedze BL500 collared**, blue 🎒 | Cold | Warmest · **kept dry for the Great Wall night** |
+| **Wedze BL100**, black 🎒 | Cool | Everyday base · hike layer |
 | Waterproof pink shell | Cold | Worn on plane days |
-| Gillet fleece | Cool · Cold | Alone, or zipped into the shell |
+| Gillet fleece 🎒 | Cool · Cold | Alone, or zipped into the shell |
 | Uniqlo pink puffer | Cold | Great Wall and Beijing evenings |
 | Lululemon packable jacket | Warm · Cool | Light rain · water-resistant, not waterproof |
 
@@ -86,7 +84,7 @@
 
 | Item | Weather | Use |
 |---|---|---|
-| H&M cropped trousers | Warm | Temples (covers knees) · smart dinners |
+| H&M cropped trousers 🎒 | Warm | Temples (covers knees) · smart dinners |
 | Shein loose shorts, black & white 🎒 | Warm | Smart enough for Bangkok dinners |
 | Girlfriend Collective bike shorts 🎒 | Warm | Gym · Chatuchak |
 | Playsuits ×2 — green, red 🎒 | Warm | Bangkok, Hong Kong |
