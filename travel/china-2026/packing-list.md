@@ -30,7 +30,7 @@
 - Wallet · toilet paper · wipes
 
 **On excursions add:** Lululemon jacket · umbrella · sunscreen · water
-**Great Wall, 1 Nov:** dry BL500 thermal · warm hat · gloves · neck warmer · hand warmers
+**Great Wall, 1 Nov:** dry BL500 thermal · warm hat · gloves · neck warmer
 
 ### 3 · Uniqlo moon bag — worn
 - **Both passports**
@@ -117,7 +117,7 @@
 
 ## 🧢 Accessories & comfort
 
-Baseball cap ✅ · **black sunglasses** ✅ · neck warmer 🎒 · **warm hat 🛒** · **gloves 🛒** · hand warmers ✅ · earplugs 🎒 · eye mask 🎒 · hair ties ×3 · hair brush 🎒 · scarf *(optional)*
+Baseball cap ✅ · **black sunglasses** ✅ · neck warmer 🎒 · **warm hat 🛒** · **gloves 🛒** · earplugs 🎒 · eye mask 🎒 · hair ties ×3 · hair brush 🎒 · scarf *(optional)*
 
 ---
 
@@ -135,7 +135,7 @@ Baseball cap ✅ · **black sunglasses** ✅ · neck warmer 🎒 · **warm hat �
 
 ## 💊 Medication
 
-SSRI · thyroid · ibuprofen · back pain meds · iron · magnesium · blister plasters 🎒 · Imodium ✅ · azithromycin ✅ · Kalbeten ✅ · **antihistamine 🛒** · pill splitter
+SSRI · thyroid · ibuprofen · back pain meds · iron · magnesium · blister plasters 🎒 · Imodium 🎒 · azithromycin 🎒 · Kalbeten 🎒 · **antihistamine 🛒** · pill splitter *(front section of the main case — blade)*
 
 > 💡 **When to take what, interactions and vaccinations** are on the **Medication** tab.
 
