@@ -49,7 +49,7 @@
 | 🩷 **Pink** — cool/cold, largest | Fleece 🎒 · mid-warms ×2 🎒 · khaki 🎒 · Eden striped shirt 🎒 · thermals ×3 🎒 · grey short-sleeve 🎒 · H&M cropped trousers ✂ *at the tailor* · Lululemon jacket 🎒 · knickers ×10 *(the rest — no room elsewhere)* |
 | 🟤 **Brown** | Leggings ×3 🎒 · flares ×3 *(Wolven 🎒 · Manners 🎒 · Amazon ✂ at the tailor)* · pyjama tops ×2 🎒 · Dylan bra, green · swimming costume 🎒 · neck warmer 🎒 |
 | ❤️ **Red-pink** — smallest | Knickers ×10 🎒 *(other 10 in the pink cube)* · socks ×10 🎒 · thermal socks ×2 🎒 · Paloma bra (grey) 🎒 — *keep near the top* |
-| 👟 **Shoe organiser** | Asics trainers · black Tevas *(Crocs loose in the case)* |
+| 👟 **Shoe organiser** | Asics trainers 🎒 · black Tevas 🎒 *(Crocs loose in the case)* |
 
 > ✈️ **Worn on the plane:** green thin jumpsuit · waterproof pink jacket · purple Skechers
 
@@ -102,8 +102,8 @@
 | | Use |
 |---|---|
 | Purple Skechers ✅ | Worn on plane days · walking |
-| Asics trainers ✅ | Both hikes · wet-day backup |
-| Black Tevas ✅ | Bangkok dinners · warm days |
+| Asics trainers 🎒 | Both hikes · wet-day backup |
+| Black Tevas 🎒 | Bangkok dinners · warm days |
 | Crocs | Hotel · pool · Great Wall shower |
 
 ## 👙 Underwear & sleep
