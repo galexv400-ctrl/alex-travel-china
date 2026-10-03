@@ -28,8 +28,8 @@
 - Uniqlo pink puffer 🎒
 - Anker power bank 🎒 *(lithium — cabin only, never the hold)*
 - Wallet 🎒 · toilet paper 🎒 · wipes 🎒
-- **Brown bag, for the plane:** AirPods 🎒 · black sunglasses 🎒 · USB-C phone cable
   - **Into the wallet:** credit cards — Israeli, UK · **UK driving licence** · **Israeli ID (teudat zehut)**
+- **Brown bag, for the plane:** AirPods 🎒 · black sunglasses 🎒 · USB-C phone cable
 
 **On excursions add:** Lululemon jacket · umbrella · sunscreen · water
 **Great Wall, 1 Nov:** dry BL500 thermal · warm hat · gloves · neck warmer
