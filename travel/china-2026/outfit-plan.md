@@ -56,7 +56,7 @@ A default for every day, so you never stand over a suitcase deciding. Swap freel
 | When | Wear |
 |---|---|
 | **Travelling** | BL100 ² · regular leggings ³ · fleece |
-| **Before sunset — change into dry** | **BL500** · **green leggings** · black mid-warm · fleece zipped into the shell · **puffer** · warm hat · gloves · neck warmer · thermal socks · hand warmers |
+| **Before sunset — change into dry** | **BL500** · **green leggings** · black mid-warm · fleece zipped into the shell · **puffer** · warm hat · gloves · neck warmer · thermal socks |
 | **Sleeping** | Merino · green leggings |
 
 > ⚠ **Change before sunset.** A damp layer at 3°C is colder than no layer.
