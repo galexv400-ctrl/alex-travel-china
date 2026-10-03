@@ -13,7 +13,7 @@
 |---|---|
 | **Pharmacy, Israel** | Antihistamine (non-drowsy) · lip balm |
 | **Decathlon, Israel** | Warm hat · gloves *(touchscreen)* |
-| **Hong Kong, Sun 18 Oct** | Shampoo + conditioner · body wash · deodorant *(roll-on or stick, never aerosol)* · small umbrella — Watsons or Mannings, on the Octopus balance |
+| **Hong Kong, Sun 18 Oct** | Shampoo + conditioner · body wash · moisturiser · deodorant *(roll-on or stick, never aerosol)* · small umbrella — Watsons or Mannings, on the Octopus balance |
 
 ---
 
@@ -128,10 +128,10 @@ Baseball cap ✅ · **black sunglasses** ✅ · neck warmer 🎒 · **warm hat �
 > ♻ **Use up and leave behind** — sunscreen, toothpaste, wipes, tissues, sanitiser. The space they free is room for souvenirs and the Lao Gan Ma jars on the way home.
 
 - Sunscreen stick 🎒
-- Moisturiser · toothbrush + toothpaste 🎒 · anti-chafe balm 🎒
+- Toothbrush + toothpaste 🎒 · anti-chafe balm 🎒
 - Pads ×7 🎒 *(then buy locally)* · sanitiser wipes 🎒
 - **Pocket tissues** 🎒 — one pack in every bag; Chinese public toilets often have no paper
-- 🛒 Lip balm · 🇭🇰 shampoo, conditioner, body wash, deodorant
+- 🛒 Lip balm · 🇭🇰 shampoo, conditioner, body wash, moisturiser, deodorant
 
 ## 💊 Medication
 
