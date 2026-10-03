@@ -45,10 +45,10 @@
 
 | Cube | Contents |
 |---|---|
-| 🟣 **Purple** — warm | Bike shorts ✅ · Shein shorts ✅ · green + red playsuits ✅ · kimono ✅ · Uniqlo bra tops ×2 ✅ · swirl short-sleeve ✅ · Asics black long-sleeve ✅ · Dylan bra, black ✅ · regular bra ✅ |
+| 🟣 **Purple** — warm | Bike shorts 🎒 · Shein shorts 🎒 · green + red playsuits 🎒 · kimono 🎒 · Uniqlo bra tops ×2 🎒 · swirl short-sleeve 🎒 · Asics black long-sleeve 🎒 · Dylan bra, black 🎒 · regular bra 🎒 |
 | 🩷 **Pink** — cool/cold, largest | Fleece · mid-warms ×2 · khaki · modal top · thermals ×3 · grey short-sleeve |
-| 🟤 **Brown** | Leggings ×3 ✅ · flares ×3 *(Wolven ✅ · Manners ✅)* · pyjama tops ×2 ✅ · Dylan bra, green · swimming costume ✅ |
-| ❤️ **Red-pink** — smallest | Knickers ×20 *(10 packed, 10 to go)* · socks ×10 ✅ · thermal socks ×2 ✅ · Paloma bra (grey) ✅ — *keep near the top* |
+| 🟤 **Brown** | Leggings ×3 🎒 · flares ×3 *(Wolven 🎒 · Manners 🎒)* · pyjama tops ×2 🎒 · Dylan bra, green · swimming costume 🎒 |
+| ❤️ **Red-pink** — smallest | Knickers ×20 *(10 packed, 10 to go)* · socks ×10 🎒 · thermal socks ×2 🎒 · Paloma bra (grey) 🎒 — *keep near the top* |
 | 👟 **Shoe organiser** | Asics trainers · black Tevas *(flip-flops loose in the case)* |
 
 > 📦 **Cube still to decide:** H&M cropped trousers
@@ -61,13 +61,13 @@
 
 | Item | Weather | Use |
 |---|---|---|
-| Uniqlo sports bra tops ×2 — blue, black ✅ | Warm | Bangkok, Hong Kong |
-| Uniqlo short-sleeve — **black-grey swirl** ✅ | Warm | Hong Kong, Bangkok dinners |
+| Uniqlo sports bra tops ×2 — blue, black 🎒 | Warm | Bangkok, Hong Kong |
+| Uniqlo short-sleeve — **black-grey swirl** 🎒 | Warm | Hong Kong, Bangkok dinners |
 | Uniqlo short-sleeve — **plain grey** | Warm · Cool | China's warm days: Chongqing, Shanghai, Wuxi |
-| Kimono ✅ | Warm | Covers shoulders at temples · dresses up for dinner |
+| Kimono 🎒 | Warm | Covers shoulders at temples · dresses up for dinner |
 | Uniqlo khaki long-sleeve (light) | Cool | 18–23°C days — most of China |
 | Uniqlo mid-warm long-sleeve ×2 — pink, black | Cool · Cold | 12–17°C days |
-| Asics black long-sleeve ✅ | Cool | Gym, hikes · fast-drying |
+| Asics black long-sleeve 🎒 | Cool | Gym, hikes · fast-drying |
 | Amazon modal black long-sleeve | Warm · Cool | Mild days · dries overnight |
 
 > ⚠ **The modal top holds sweat.** Never next to skin on a cold hike — wear a thermal under it.
@@ -89,15 +89,15 @@
 | Item | Weather | Use |
 |---|---|---|
 | H&M cropped trousers | Warm | Temples (covers knees) · smart dinners |
-| Shein loose shorts, black & white ✅ | Warm | Smart enough for Bangkok dinners |
-| Girlfriend Collective bike shorts ✅ | Warm | Gym · Chatuchak |
-| Playsuits ×2 — green, red ✅ | Warm | Bangkok, Hong Kong |
-| Wolven flares ✅ | Cool | Thinnest |
+| Shein loose shorts, black & white 🎒 | Warm | Smart enough for Bangkok dinners |
+| Girlfriend Collective bike shorts 🎒 | Warm | Gym · Chatuchak |
+| Playsuits ×2 — green, red 🎒 | Warm | Bangkok, Hong Kong |
+| Wolven flares 🎒 | Cool | Thinnest |
 | Amazon flares | Cool | Mid-weight |
-| Manners London flares ✅ | Cool · Cold | Warmest · cold evenings |
-| GF leggings — float ✅ | Cool | Thin |
-| GF leggings — regular ✅ | Cool · Cold | Hikes |
-| GF leggings — green ✅ | Cold | Warmest · Great Wall night, sleeping |
+| Manners London flares 🎒 | Cool · Cold | Warmest · cold evenings |
+| GF leggings — float 🎒 | Cool | Thin |
+| GF leggings — regular 🎒 | Cool · Cold | Hikes |
+| GF leggings — green 🎒 | Cold | Warmest · Great Wall night, sleeping |
 
 > ☔ **In rain, wear leggings, not flares** — flares stay wet for hours. Zhangjiajie is the wettest stretch.
 
@@ -116,8 +116,8 @@
 - **Bras ×4**
   - **Dylan ×2** (black, green) — the only ones worn **as tops**; cut high enough for temples and mainland China
   - **Paloma** (grey) and a **regular bra** — under-layers only
-- Swimming costume ✅ — Sindhorn pool, 18th floor
-- **Pyjama tops ×2** ✅ (BCCA) — bottoms: sleep in leggings. **Great Wall night:** merino + green leggings
+- Swimming costume 🎒 — Sindhorn pool, 18th floor
+- **Pyjama tops ×2** 🎒 (BCCA) — bottoms: sleep in leggings. **Great Wall night:** merino + green leggings
 
 ## 🧢 Accessories & comfort
 
