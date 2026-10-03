@@ -34,7 +34,7 @@ FORBIDDEN = [
     (r"Uniqlo long black",           "Uniqlo long black trousers were cut"),
     (r"\b[Nn]avy\b",                 "Navy top was swapped for the Asics"),
     (r"[Cc]omfy bra",                "Wired comfy bra was cut — 4 bras"),
-    (r"[Ss]unscreen lotion",         "Lotion replaced by roll-on"),
+    (r"[Ss]unscreen lotion|roll-on sunscreen", "Sunscreen stick only — lotion and roll-on cut"),
     (r"2-in-1",                      "Buying shampoo + conditioner in HK"),
     (r"500[–-]750",                  "CNY plan is 1,200–1,500"),
     (r"\$500",                       "Not carrying a USD fund"),
