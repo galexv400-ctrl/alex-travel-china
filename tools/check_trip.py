@@ -41,7 +41,7 @@ FORBIDDEN = [
     (r"15,000[–-]20,000|10,000 THB|~10,000", "Bangkok withdrawal is ~8,000 THB"),
     (r"09:30[–-]13:00",              "Chatuchak is 11:00–14:00"),
     (r"Stradivarius",                "Stradivarius bra tops not bringing"),
-    (r"[Cc]rocs",                    "Crocs replaced with flip-flops"),
+    (r"(?i)flip-?flops",             "Flip-flops replaced with Crocs"),
     (r"KOKONI|Vaso",                 "Removed/unverified venue"),
     (r"❓",                          "Unconfirmed marker left in — resolve it"),
     (r"Israeli (for|passport —) ?(Hong Kong|HK|Thailand)|Israeli or UK", "UK passport for HK and Thailand; Israeli only at Ben Gurion"),
