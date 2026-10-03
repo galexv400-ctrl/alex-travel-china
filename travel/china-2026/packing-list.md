@@ -27,17 +27,17 @@
 - **All medication on travel days** — original packaging, prescriptions photographed
 - Uniqlo pink puffer
 - Anker power bank *(lithium — cabin only, never the hold)*
-- Wallet · toilet paper · wipes
+- Wallet · toilet paper 🎒 · wipes
 
 **On excursions add:** Lululemon jacket · umbrella · sunscreen · water
 **Great Wall, 1 Nov:** dry BL500 thermal · warm hat · gloves · neck warmer
 
 ### 3 · Uniqlo moon bag — worn
 - **Both passports**
-- Phone · one card · day cash
-- Hand sanitiser 🎒 *(pump spray, in a plastic bag)* · spare toilet paper
+- Phone · one card · day cash 🎒
+- Hand sanitiser 🎒 *(pump spray, in a plastic bag)* · spare toilet paper 🎒
 
-> 💡 **Liners, not bags:** the **dry bag** (damp layers, swimwear, Lao Gan Ma jars on the way home) and the **tote** (Chatuchak and markets).
+> 💡 **Liners, not bags:** the **dry bag** 🎒 (damp layers, swimwear, Lao Gan Ma jars on the way home) and the **tote** 🎒 (Chatuchak and markets).
 
 ---
 
@@ -149,10 +149,10 @@ Phone + 2 cables · Anker 10,000mAh power bank *(CCC-certified — required on C
 
 | Printed 🖨 | On phone 📱 |
 |---|---|
-| Travel insurance (PassportCard) | Intrepid booking #6886724 *(Intrepid app)* |
-| Flight confirmations | Intrepid emergency line **+86 17200311621** |
-| Hotel confirmations | Next of kin |
-| UK passport copy | Hong Kong booking refs *(Big Bus XF7MVK0Z)* |
+| Travel insurance (PassportCard) 🎒 | Intrepid booking #6886724 *(Intrepid app)* |
+| Flight confirmations 🎒 | Intrepid emergency line **+86 17200311621** |
+| Hotel confirmations 🎒 | Next of kin |
+| UK passport copy 🎒 | Hong Kong booking refs *(Big Bus XF7MVK0Z)* |
 | | TDAC QR codes ×2 *(13 Oct, 2 Nov)* |
 | | Vaccine book + clinic summary |
 | | Hotel addresses in Chinese |
