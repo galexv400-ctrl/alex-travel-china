@@ -35,7 +35,7 @@
 ### 3 · Uniqlo moon bag — worn
 - **Both passports**
 - Phone · one card · day cash
-- Hand sanitiser *(pump spray, in a plastic bag)* · spare toilet paper
+- Hand sanitiser 🎒 *(pump spray, in a plastic bag)* · spare toilet paper
 
 > 💡 **Liners, not bags:** the **dry bag** (damp layers, swimwear, Lao Gan Ma jars on the way home) and the **tote** (Chatuchak and markets).
 
@@ -124,6 +124,8 @@ Baseball cap ✅ · **black sunglasses** ✅ · neck warmer 🎒 · **warm hat �
 ## 🧴 Toiletries
 
 **Front section of the backpack, wrapped.**
+
+> ♻ **Use up and leave behind** — sunscreen, toothpaste, wipes, tissues, sanitiser. The space they free is room for souvenirs and the Lao Gan Ma jars on the way home.
 
 - Sunscreen stick 🎒 · **roll-on sunscreen** 📍 *in the Lego bag*
 - Moisturiser · toothbrush + toothpaste 🎒 · anti-chafe balm 🎒
