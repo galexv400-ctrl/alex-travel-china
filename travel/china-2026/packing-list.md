@@ -11,7 +11,7 @@
 
 | Where | What |
 |---|---|
-| **Pharmacy, Israel** | Antihistamine (non-drowsy) · lip balm |
+| **Pharmacy, Israel** | Lip balm |
 | **Decathlon, Israel** | Warm hat · gloves *(touchscreen)* |
 | **Hong Kong, Sun 18 Oct** | Shampoo + conditioner · body wash · moisturiser · deodorant *(roll-on or stick, never aerosol)* · small umbrella — Watsons or Mannings, on the Octopus balance |
 
@@ -26,7 +26,7 @@
 ### 2 · Day bag — also the cabin bag
 - **All medication on travel days** — original packaging, prescriptions photographed
 - Uniqlo pink puffer 🎒
-- Anker power bank *(lithium — cabin only, never the hold)*
+- Anker power bank 🎒 *(lithium — cabin only, never the hold)*
 - Wallet 🎒 · toilet paper 🎒 · wipes 🎒
 
 **On excursions add:** Lululemon jacket · umbrella · sunscreen · water
@@ -135,13 +135,13 @@ Baseball cap ✅ · **black sunglasses** ✅ · neck warmer 🎒 · **warm hat �
 
 ## 💊 Medication
 
-SSRI · thyroid · ibuprofen · back pain meds · iron · magnesium · blister plasters 🎒 · Imodium 🎒 · azithromycin 🎒 · Kalbeten 🎒 · **antihistamine 🛒** · pill splitter 🎒 *(front section of the main case — blade)*
+SSRI · thyroid · ibuprofen · back pain meds · iron · magnesium · blister plasters 🎒 · Imodium 🎒 · azithromycin 🎒 · Kalbeten 🎒 · pill splitter 🎒 *(front section of the main case — blade)*
 
 > 💡 **When to take what, interactions and vaccinations** are on the **Medication** tab.
 
 ## 🔌 Tech
 
-Phone + 2 cables · Anker 10,000mAh power bank *(CCC-certified — required on Chinese flights)* · universal adapter · AirPods · cable organiser
+Phone + 2 cables · **extra USB-C cable** — brown bag, for the plane · Anker 10,000mAh power bank 🎒 *(CCC-certified — required on Chinese flights)* · universal adapter 🎒 · AirPods
 
 ---
 
