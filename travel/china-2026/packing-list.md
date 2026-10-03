@@ -131,7 +131,7 @@ Baseball cap ✅ · **black sunglasses** ✅ *(brown bag)* · neck warmer 🎒 �
 
 - Sunscreen stick 🎒
 - Toothbrush + toothpaste 🎒 · anti-chafe balm 🎒
-- Pads ×7 🎒 *(then buy locally)* · sanitiser wipes 🎒
+- Pads ×7 — **pack last** *(then buy locally)* · sanitiser wipes 🎒
 - **Pocket tissues** 🎒 — one pack in every bag; Chinese public toilets often have no paper
 - 🛒 Lip balm · 🇭🇰 shampoo, conditioner, body wash, moisturiser, deodorant
 
