@@ -21,7 +21,7 @@
 
 ### 1 · Main case (backpack) — hold luggage
 **Main compartment:** four packing cubes + shoe organiser *(below)*
-**Front section:** toiletries bag, everything wrapped · spare tissues · pads · **pill splitter** *(blade — case only on flights)*
+**Front section:** toiletries bag, everything wrapped · spare tissues · pads · **pill splitter** 🎒 *(blade — case only on flights)*
 
 ### 2 · Day bag — also the cabin bag
 - **All medication on travel days** — original packaging, prescriptions photographed
@@ -135,7 +135,7 @@ Baseball cap ✅ · **black sunglasses** ✅ · neck warmer 🎒 · **warm hat �
 
 ## 💊 Medication
 
-SSRI · thyroid · ibuprofen · back pain meds · iron · magnesium · blister plasters 🎒 · Imodium 🎒 · azithromycin 🎒 · Kalbeten 🎒 · **antihistamine 🛒** · pill splitter *(front section of the main case — blade)*
+SSRI · thyroid · ibuprofen · back pain meds · iron · magnesium · blister plasters 🎒 · Imodium 🎒 · azithromycin 🎒 · Kalbeten 🎒 · **antihistamine 🛒** · pill splitter 🎒 *(front section of the main case — blade)*
 
 > 💡 **When to take what, interactions and vaccinations** are on the **Medication** tab.
 
