@@ -45,9 +45,9 @@
 
 | Cube | Contents |
 |---|---|
-| 🟣 **Purple** — warm | Bike shorts ✅ · Shein shorts ✅ · green + red playsuits ✅ · kimono ✅ · Uniqlo bra tops ×2 ✅ · swirl short-sleeve ✅ · Asics black long-sleeve ✅ · Dylan bra, black ✅ |
+| 🟣 **Purple** — warm | Bike shorts ✅ · Shein shorts ✅ · green + red playsuits ✅ · kimono ✅ · Uniqlo bra tops ×2 ✅ · swirl short-sleeve ✅ · Asics black long-sleeve ✅ · Dylan bra, black ✅ · regular bra ✅ |
 | 🩷 **Pink** — cool/cold, largest | Fleece · mid-warms ×2 · khaki · modal top · thermals ×3 · grey short-sleeve |
-| 🟤 **Brown** | Leggings ×3 ✅ · flares ×3 *(Wolven ✅ · Manners ✅)* · pyjama tops ×2 ✅ · bras ×2 *(Dylan green, Float)* · swimming costume ✅ |
+| 🟤 **Brown** | Leggings ×3 ✅ · flares ×3 *(Wolven ✅ · Manners ✅)* · pyjama tops ×2 ✅ · Dylan bra, green · swimming costume ✅ |
 | ❤️ **Red-pink** — smallest | Knickers ×20 *(10 packed, 10 to go)* · socks ×10 ✅ · thermal socks ×2 ✅ · Paloma bra (grey) ✅ — *keep near the top* |
 | 👟 **Shoe organiser** | Asics trainers · black Tevas *(flip-flops loose in the case)* |
 
@@ -113,9 +113,9 @@
 ## 👙 Underwear & sleep
 
 - **Knickers ×20** · **socks ×10** (incl. long) · **thermal socks ×2** — one dry spare for the Great Wall
-- **Bras ×4, all wireless**
+- **Bras ×4**
   - **Dylan ×2** (black, green) — the only ones worn **as tops**; cut high enough for temples and mainland China
-  - **Paloma** (grey) and **Float** (black, small) — under-layers only
+  - **Paloma** (grey) and a **regular bra** — under-layers only
 - Swimming costume ✅ — Sindhorn pool, 18th floor
 - **Pyjama tops ×2** ✅ (BCCA) — bottoms: sleep in leggings. **Great Wall night:** merino + green leggings
 

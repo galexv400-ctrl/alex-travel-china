@@ -50,6 +50,7 @@ FORBIDDEN = [
     (r"(?i)(azithromycin|kalbeten)\W{0,6}🛒|🛒\W{0,6}(azithromycin|kalbeten)", "Azithromycin and Kalbeten are collected"),
     (r"pay it now|Pay the bill", "Canalis is prepaid"),
     (r"(?i)black short-sleeve|plain black\*\*|black one needs", "Plain short-sleeve is now grey, not black"),
+    (r"\bFloat\*\* \(black|Float\)|Dylan green, Float", "Float bra replaced by a regular bra"),
     (r"Tue 14 Oct",                  "14 Oct 2026 is a Wednesday"),
     (r"(?i)union mall.{0,20}one stop", "Union Mall is two MRT stops from Kamphaeng Phet"),
     (r"One walk north",              "Sarnies is a backtrack south"),
