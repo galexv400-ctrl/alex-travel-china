@@ -46,7 +46,7 @@
 | Cube | Contents |
 |---|---|
 | 🟣 **Purple** — warm | Bike shorts 🎒 · Shein shorts 🎒 · green + red playsuits 🎒 · kimono 🎒 · Uniqlo bra tops ×2 🎒 · swirl short-sleeve 🎒 · Asics black long-sleeve 🎒 · Dylan bra, black 🎒 · regular bra 🎒 |
-| 🩷 **Pink** — cool/cold, largest | Fleece 🎒 · mid-warms ×2 🎒 · khaki 🎒 · Eden striped shirt 🎒 · thermals ×3 🎒 · grey short-sleeve 🎒 · H&M cropped trousers 🎒 · knickers ×10 *(the rest — no room elsewhere)* |
+| 🩷 **Pink** — cool/cold, largest | Fleece 🎒 · mid-warms ×2 🎒 · khaki 🎒 · Eden striped shirt 🎒 · thermals ×3 🎒 · grey short-sleeve 🎒 · H&M cropped trousers 📍 · Lululemon jacket 📍 · knickers ×10 *(the rest — no room elsewhere)* |
 | 🟤 **Brown** | Leggings ×3 🎒 · flares ×3 *(Wolven 🎒 · Manners 🎒)* · pyjama tops ×2 🎒 · Dylan bra, green · swimming costume 🎒 · neck warmer 🎒 |
 | ❤️ **Red-pink** — smallest | Knickers ×10 🎒 *(other 10 in the pink cube)* · socks ×10 🎒 · thermal socks ×2 🎒 · Paloma bra (grey) 🎒 — *keep near the top* |
 | 👟 **Shoe organiser** | Asics trainers · black Tevas *(Crocs loose in the case)* |
@@ -78,13 +78,13 @@
 | Waterproof pink shell | Cold | Worn on plane days |
 | Gillet fleece 🎒 | Cool · Cold | Alone, or zipped into the shell |
 | Uniqlo pink puffer | Cold | Great Wall and Beijing evenings |
-| Lululemon packable jacket | Warm · Cool | Light rain · water-resistant, not waterproof |
+| Lululemon packable jacket 📍 *to collect* | Warm · Cool | Light rain · water-resistant, not waterproof |
 
 ## 👖 Bottoms
 
 | Item | Weather | Use |
 |---|---|---|
-| H&M cropped trousers 🎒 | Warm | Temples (covers knees) · smart dinners |
+| H&M cropped trousers 📍 *to collect* | Warm | Temples (covers knees) · smart dinners |
 | Shein loose shorts, black & white 🎒 | Warm | Smart enough for Bangkok dinners |
 | Girlfriend Collective bike shorts 🎒 | Warm | Gym · Chatuchak |
 | Playsuits ×2 — green, red 🎒 | Warm | Bangkok, Hong Kong |
