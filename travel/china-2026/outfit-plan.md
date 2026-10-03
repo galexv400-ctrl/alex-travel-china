@@ -31,9 +31,9 @@ A default for every day, so you never stand over a suitcase deciding. Swap freel
 |---|---|---|
 | **Tue 20** | 🚄 9 hrs to Chongqing | Khaki · Amazon flares · Skechers |
 | **Wed 21** | Chongqing · 23°C | Grey short-sleeve · Wolven flares · fleece pm |
-| **Thu 22** | 🚄 to Zhangjiajie | Asics top · regular leggings · fleece pm |
+| **Thu 22** | 🚄 to Zhangjiajie | Eden striped shirt + Dylan bra · regular leggings · fleece pm |
 | **Fri 23** | ⛰ Tianmen Mountain | BL100 · float leggings · fleece · shell · **Asics** |
-| **Sat 24** | ⛰ 4 hr hike | Asics top ² · regular leggings ² · fleece · shell · **Asics** |
+| **Sat 24** | ⛰ 4 hr hike | Asics top · regular leggings ² · fleece · shell · **Asics** |
 | **Sun 25** | Changsha · night market | Khaki ² · Wolven ² |
 | **Mon 26** | 🚄 to Shanghai · Bund · 22°C | Grey short-sleeve ² · Amazon flares ² · fleece pm |
 | **Tue 27** | French Concession | Pink mid-warm · Wolven ³ |
@@ -63,7 +63,7 @@ A default for every day, so you never stand over a suitcase deciding. Swap freel
 
 ### Spare capacity
 
-**Worn only once:** pink mid-warm · BL500 · green leggings — your reserve if something gets soaked.
+**Worn only once:** Asics top · Eden striped shirt · pink mid-warm · BL500 · green leggings — your reserve if something gets soaked.
 **Plus:** the swirl short-sleeve, if the grey one needs a rest.
 
 > 💡 **Something soaked in Zhangjiajie?** Ask your Intrepid leader about a hotel laundry service.

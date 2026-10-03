@@ -31,7 +31,6 @@ FORBIDDEN = [
     (r"Japan",                       "Trip is China & Bangkok — check any 'Japan' is a brand, then allowlist"),
     (r"Quarry Bay",                  "Going to Harbour Plaza by Uber, not MTR"),
     (r"\bTala\b",                    "Tala flares were cut"),
-    (r"striped shirt",               "Striped shirt was cut"),
     (r"Uniqlo long black",           "Uniqlo long black trousers were cut"),
     (r"\b[Nn]avy\b",                 "Navy top was swapped for the Asics"),
     (r"[Cc]omfy bra",                "Wired comfy bra was cut — 4 bras"),
@@ -120,6 +119,7 @@ MUST_EXIST = [
     ("packing-list.md",      r"chinaport",                 "Customs declaration website"),
     ("packing-list.md",      r"[Kk]nickers ×20",           "20 knickers"),
     ("packing-list.md",      r"Bras ×4",                   "4 bras"),
+    ("packing-list.md",      r"Eden.*striped",             "Eden brown & white striped shirt is packed for China"),
     ("full-trip-plan.md",    r"Israeli.*Ben Gurion|Ben Gurion.*Israeli", "Israeli passport at Ben Gurion"),
     ("bangkok-itinerary.md", r"UK passport",               "UK passport at both Thai entries"),
 ]

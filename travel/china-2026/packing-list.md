@@ -46,7 +46,7 @@
 | Cube | Contents |
 |---|---|
 | 🟣 **Purple** — warm | Bike shorts 🎒 · Shein shorts 🎒 · green + red playsuits 🎒 · kimono 🎒 · Uniqlo bra tops ×2 🎒 · swirl short-sleeve 🎒 · Asics black long-sleeve 🎒 · Dylan bra, black 🎒 · regular bra 🎒 |
-| 🩷 **Pink** — cool/cold, largest | Fleece · mid-warms ×2 · khaki · thermals ×3 · grey short-sleeve 🎒 |
+| 🩷 **Pink** — cool/cold, largest | Fleece · mid-warms ×2 · khaki · Eden striped shirt · thermals ×3 · grey short-sleeve 🎒 |
 | 🟤 **Brown** | Leggings ×3 🎒 · flares ×3 *(Wolven 🎒 · Manners 🎒)* · pyjama tops ×2 🎒 · Dylan bra, green · swimming costume 🎒 |
 | ❤️ **Red-pink** — smallest | Knickers ×20 *(10 packed, 10 to go)* · socks ×10 🎒 · thermal socks ×2 🎒 · Paloma bra (grey) 🎒 — *keep near the top* |
 | 👟 **Shoe organiser** | Asics trainers · black Tevas *(flip-flops loose in the case)* |
@@ -67,6 +67,7 @@
 | Kimono 🎒 | Warm | Covers shoulders at temples · dresses up for dinner |
 | Uniqlo khaki long-sleeve (light) | Cool | 18–23°C days — most of China |
 | Uniqlo mid-warm long-sleeve ×2 — pink, black | Cool · Cold | 12–17°C days |
+| **Eden** brown & white striped shirt | Cool | Mid-warm days on its own, sports bra underneath · or open as a layer |
 | Asics black long-sleeve 🎒 | Cool | Gym, hikes · fast-drying |
 
 ## 🧥 Thermals & outerwear
