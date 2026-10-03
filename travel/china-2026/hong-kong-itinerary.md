@@ -15,7 +15,7 @@
 
 ## 👝 What to carry
 
-Uniqlo moon bag: **phone** · one card · some HKD cash · **power bank + cable** · tissues · sanitiser · sunglasses
+Uniqlo moon bag: **phone** · one card · some HKD cash · **power bank + cable** · tissues · sanitiser · black sunglasses
 
 > ⚡ **Your phone is your Octopus.** A flat battery means you cannot get through an MTR gate. Charge the power bank every night.
 
