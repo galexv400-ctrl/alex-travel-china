@@ -52,6 +52,7 @@ FORBIDDEN = [
     (r"\bFloat\*\* \(black|Float\)|Dylan green, Float", "Float bra replaced by a regular bra"),
     (r"(?i)\bmodal\b", "Amazon modal top was cut"),
     (r"(?i)hand warmers?",           "Hand warmers not bringing"),
+    (r"(?i)antihistamine|cable organiser", "Not bringing: antihistamine, cable organiser"),
     (r"Tue 14 Oct",                  "14 Oct 2026 is a Wednesday"),
     (r"(?i)union mall.{0,20}one stop", "Union Mall is two MRT stops from Kamphaeng Phet"),
     (r"One walk north",              "Sarnies is a backtrack south"),
