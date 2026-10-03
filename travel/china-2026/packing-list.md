@@ -45,7 +45,7 @@
 
 | Cube | Contents |
 |---|---|
-| 🟣 **Purple** — warm | Bike shorts · Shein shorts ✅ · green + red playsuits ✅ · H&M cropped · kimono ✅ · Uniqlo bra tops ×2 · swirl short-sleeve ✅ |
+| 🟣 **Purple** — warm | Bike shorts ✅ · Shein shorts ✅ · green + red playsuits ✅ · H&M cropped · kimono ✅ · Uniqlo bra tops ×2 ✅ · swirl short-sleeve ✅ |
 | 🩷 **Pink** — cool/cold, largest | Fleece · mid-warms ×2 · khaki · Asics top · modal top · thermals ×3 · grey short-sleeve |
 | 🟤 **Brown** | Leggings ×3 ✅ · flares ×3 *(Wolven ✅ · Manners ✅)* · pyjama tops ×2 ✅ · bras ×3 · swimming costume ✅ |
 | ❤️ **Red-pink** — smallest | Knickers ×20 *(10 packed, 10 to go)* · socks ×10 ✅ · thermal socks ×2 ✅ · Paloma bra (grey) ✅ — *keep near the top* |
@@ -59,7 +59,7 @@
 
 | Item | Weather | Use |
 |---|---|---|
-| Uniqlo sports bra tops ×2 — blue, black | Warm | Bangkok, Hong Kong |
+| Uniqlo sports bra tops ×2 — blue, black ✅ | Warm | Bangkok, Hong Kong |
 | Uniqlo short-sleeve — **black-grey swirl** ✅ | Warm | Hong Kong, Bangkok dinners |
 | Uniqlo short-sleeve — **plain grey** | Warm · Cool | China's warm days: Chongqing, Shanghai, Wuxi |
 | Kimono ✅ | Warm | Covers shoulders at temples · dresses up for dinner |
@@ -88,7 +88,7 @@
 |---|---|---|
 | H&M cropped trousers | Warm | Temples (covers knees) · smart dinners |
 | Shein loose shorts, black & white ✅ | Warm | Smart enough for Bangkok dinners |
-| Girlfriend Collective bike shorts | Warm | Gym · Chatuchak |
+| Girlfriend Collective bike shorts ✅ | Warm | Gym · Chatuchak |
 | Playsuits ×2 — green, red ✅ | Warm | Bangkok, Hong Kong |
 | Wolven flares ✅ | Cool | Thinnest |
 | Amazon flares | Cool | Mid-weight |
