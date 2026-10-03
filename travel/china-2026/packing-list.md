@@ -28,6 +28,7 @@
 - Uniqlo pink puffer 🎒
 - Anker power bank 🎒 *(lithium — cabin only, never the hold)*
 - Wallet 🎒 · toilet paper 🎒 · wipes 🎒
+- **Brown bag, for the plane:** AirPods 🎒 · black sunglasses 🎒 · USB-C phone cable
   - **Into the wallet:** credit cards — Israeli, UK · **UK driving licence** · **Israeli ID (teudat zehut)**
 
 **On excursions add:** Lululemon jacket · umbrella · sunscreen · water
@@ -118,7 +119,7 @@
 
 ## 🧢 Accessories & comfort
 
-Baseball cap ✅ · **black sunglasses** ✅ · neck warmer 🎒 · **warm hat 🛒** · **gloves 🛒** · earplugs 🎒 · eye mask 🎒 · hair ties ×3 · hair brush 🎒
+Baseball cap ✅ · **black sunglasses** 🎒 *(brown bag)* · neck warmer 🎒 · **warm hat 🛒** · **gloves 🛒** · earplugs 🎒 · eye mask 🎒 · hair ties ×3 · hair brush 🎒
 
 ---
 
@@ -142,7 +143,7 @@ SSRI · thyroid · ibuprofen · back pain meds · iron · magnesium · blister p
 
 ## 🔌 Tech
 
-Phone · **USB-C phone cable ×1** — brown bag, for the plane · Anker 10,000mAh power bank 🎒 *(CCC-certified — required on Chinese flights)* · universal adapter 🎒 · AirPods
+Phone · **USB-C phone cable ×1** — brown bag, for the plane · Anker 10,000mAh power bank 🎒 *(CCC-certified — required on Chinese flights)* · universal adapter 🎒 · AirPods 🎒 *(brown bag)*
 
 ---
 
