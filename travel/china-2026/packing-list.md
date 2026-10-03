@@ -28,6 +28,7 @@
 - Uniqlo pink puffer 🎒
 - Anker power bank 🎒 *(lithium — cabin only, never the hold)*
 - Wallet 🎒 · toilet paper 🎒 · wipes 🎒
+  - **Into the wallet:** credit cards — Monzo, Israeli, UK · **UK driving licence** · **Israeli ID (teudat zehut)**
 
 **On excursions add:** Lululemon jacket · umbrella · sunscreen · water
 **Great Wall, 1 Nov:** dry BL500 thermal · warm hat · gloves · neck warmer
