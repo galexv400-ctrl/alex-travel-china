@@ -46,7 +46,7 @@
 | Cube | Contents |
 |---|---|
 | 🟣 **Purple** — warm | Bike shorts 🎒 · Shein shorts 🎒 · green + red playsuits 🎒 · kimono 🎒 · Uniqlo bra tops ×2 🎒 · swirl short-sleeve 🎒 · Asics black long-sleeve 🎒 · Dylan bra, black 🎒 · regular bra 🎒 |
-| 🩷 **Pink** — cool/cold, largest | Fleece 🎒 · mid-warms ×2 🎒 · khaki 🎒 · Eden striped shirt 🎒 · thermals ×3 🎒 · grey short-sleeve 🎒 · H&M cropped trousers 🎒 · neck warmer |
+| 🩷 **Pink** — cool/cold, largest | Fleece 🎒 · mid-warms ×2 🎒 · khaki 🎒 · Eden striped shirt 🎒 · thermals ×3 🎒 · grey short-sleeve 🎒 · H&M cropped trousers 🎒 · neck warmer 🎒 |
 | 🟤 **Brown** | Leggings ×3 🎒 · flares ×3 *(Wolven 🎒 · Manners 🎒)* · pyjama tops ×2 🎒 · Dylan bra, green · swimming costume 🎒 |
 | ❤️ **Red-pink** — smallest | Knickers ×20 *(10 packed, 10 to go)* · socks ×10 🎒 · thermal socks ×2 🎒 · Paloma bra (grey) 🎒 — *keep near the top* |
 | 👟 **Shoe organiser** | Asics trainers · black Tevas *(Crocs loose in the case)* |
@@ -117,7 +117,7 @@
 
 ## 🧢 Accessories & comfort
 
-Baseball cap ✅ · sunglasses ✅ · neck warmer · **warm hat 🛒** · **gloves 🛒** · hand warmers ✅ · earplugs 🎒 · eye mask 🎒 · hair ties ×3 · hair brush 🎒 · scarf *(optional)*
+Baseball cap ✅ · sunglasses ✅ · neck warmer 🎒 · **warm hat 🛒** · **gloves 🛒** · hand warmers ✅ · earplugs 🎒 · eye mask 🎒 · hair ties ×3 · hair brush 🎒 · scarf *(optional)*
 
 ---
 
