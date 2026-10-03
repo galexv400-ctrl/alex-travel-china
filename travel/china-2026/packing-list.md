@@ -127,7 +127,7 @@ Baseball cap ✅ · **black sunglasses** ✅ · neck warmer 🎒 · **warm hat �
 
 > ♻ **Use up and leave behind** — sunscreen, toothpaste, wipes, tissues, sanitiser. The space they free is room for souvenirs and the Lao Gan Ma jars on the way home.
 
-- Sunscreen stick 🎒 · **roll-on sunscreen** 📍 *in the Lego bag*
+- Sunscreen stick 🎒
 - Moisturiser · toothbrush + toothpaste 🎒 · anti-chafe balm 🎒
 - Pads ×7 🎒 *(then buy locally)* · sanitiser wipes 🎒
 - **Pocket tissues** 🎒 — one pack in every bag; Chinese public toilets often have no paper
@@ -206,7 +206,7 @@ Phone + 2 cables · Anker 10,000mAh power bank *(CCC-certified — required on C
 
 ## 🚄 China train rules — five legs, airport-style security
 
-- ❌ **No aerosols** — your kit is clear: sanitiser is a pump spray, deodorant and sunscreen are roll-on or stick
+- ❌ **No aerosols** — your kit is clear: sanitiser is a pump spray, deodorant is roll-on or stick, sunscreen is a stick
 - ❌ **No blades** — except the **pill splitter**: keep it with the medication packaging so it reads as medical
 - ✅ Power bank must be **CCC-certified** — the Anker is
 - ⏱ Passports scanned at every station and site — allow **20–30 min** for group entry
