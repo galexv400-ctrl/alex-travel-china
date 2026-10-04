@@ -14,6 +14,14 @@ import re, sys, pathlib
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 TRIP = ROOT / "travel" / "china-2026"
 FILES = sorted(TRIP.glob("*.md"))
+FAMILY = ROOT / "family" / "where-alexandra-is.md"   # shared with family — no private info
+
+# Never on the family page: (regex, why)
+PRIVATE = [
+    (r"PIN|\b\d{4}\.\d{3}\.\d{3}\b|\b5515\d+|BLR\d+|XF7\w+|EASDQZ|ECFV7Q|MESQ54|e-ticket|[Ss]eat \d|12956761|99987084", "Booking refs, PINs and seats stay private"),
+    (r"₪|\$\d|£|THB|HKD|CNY|¥|[Pp]aid|[Cc]ost", "Money stays private"),
+    (r"(?i)passport|alipay|monzo|card|ssri|medication|pill|azithro|imodium|kalbeten|vaccin|packing|outfit|bra\b|knickers", "Personal details stay private"),
+]
 
 # ---------------------------------------------------------------------------
 # 1. Values that must never appear anywhere: old, cancelled or wrong.
@@ -144,6 +152,14 @@ def check_weekdays(name, n, line, problems):
 def main():
     problems = []
     texts = {f.name: f.read_text(encoding="utf-8") for f in FILES}
+    if FAMILY.exists():
+        texts["family/" + FAMILY.name] = FAMILY.read_text(encoding="utf-8")
+        for n, line in enumerate(texts["family/" + FAMILY.name].splitlines(), 1):
+            for rx, why in PRIVATE:
+                if re.search(rx, line):
+                    problems.append((f"family/{FAMILY.name}:{n}", "PRIVATE: " + why, line))
+    else:
+        problems.append(("family/", "MISSING: family page", ""))
     for name, text in texts.items():
         for n, line in enumerate(text.splitlines(), 1):
             where = f"{name}:{n}"
