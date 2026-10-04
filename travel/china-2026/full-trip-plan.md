@@ -72,10 +72,10 @@
 
 | Hotel | Nights | Booking | Cost |
 |---|---|---|---|
-| **Canalis Suvarnabhumi** · 1599/1 Lat Krabang Soi 13 · ☎ +66 2 332 1555 | Thu 15 Oct | **6637.638.401** · PIN 4470 | ₪158 · ✅ prepaid |
+| **Canalis Suvarnabhumi** · 1599/1 Lat Krabang Soi 13 · ☎ +66 2 332 1555 | Thu 15 Oct | **6637.638.401** · PIN 4470 | ₪158 · ⚠ **pay at check-in** |
 | **The Luxe Manor** · 39 Kimberley Road, TST | 16–19 Oct | **5515516445** | ₪1,397 · ✅ prepaid |
 | *Intrepid tour hotels* | 19 Oct – 4 Nov | — | In the tour |
-| **Sindhorn Midtown** · 68 Langsuan Road · ☎ +66 2 796 8888 | 4–8 Nov | **6761.193.363** · PIN 6989 | THB 30,498.42 · ✅ charged automatically 2 Oct |
+| **Sindhorn Midtown** · 68 Langsuan Road · ☎ +66 2 796 8888 | 4–8 Nov | **6761.193.363** · PIN 6989 | THB 30,498.42 · ✅ paid |
 
 ---
 
@@ -87,7 +87,7 @@
 |---|---|
 | Flights ×4 | ~$1,660 |
 | Intrepid tour | ~$4,000 |
-| Hotels ×3 | ₪1,555 + THB 30,498 |
+| Hotels | ₪1,397 + THB 30,498 · Canalis ₪158 at check-in |
 | Insurance (PassportCard) | ✅ |
 | Airalo eSIM | £41.77 |
 | Hot stone massage | 2,300 THB |

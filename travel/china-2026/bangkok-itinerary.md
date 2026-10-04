@@ -18,7 +18,7 @@
 ## Night 0 — Thursday 15 October: airport stopover
 
 **Canalis Suvarnabhumi Airport Hotel** · 1599/1 Lat Krabang Soi 13 · ☎ +66 2 332 1555
-Booking.com **6637.638.401** · PIN 4470 · prepaid · no breakfast · reception open till midnight
+Booking.com **6637.638.401** · PIN 4470 · ⚠ **pay at check-in, ₪158** · no breakfast · reception open till midnight
 
 - **Wed 14 Oct, 22:15** Be at **Ben Gurion**
 - **01:15** ✈ **El Al LY83** to Bangkok · 11h 40m
@@ -44,7 +44,7 @@ Booking.com **6637.638.401** · PIN 4470 · prepaid · no breakfast · reception
 ---
 
 **Sindhorn Midtown** · 68 Langsuan Road, Lumphini · ☎ +66 2 796 8888
-Booking.com **6761.193.363** · PIN 6989 · room with private bathroom · breakfast included · THB 30,498.42, charged automatically 2 Oct
+Booking.com **6761.193.363** · PIN 6989 · room with private bathroom · breakfast included · ✅ paid
 Pool 18F · gym 19F · saunas
 
 ## Day 1 — Wednesday 4 November: Arrival
