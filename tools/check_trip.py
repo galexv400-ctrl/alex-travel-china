@@ -66,7 +66,8 @@ FORBIDDEN = [
     (r"Sheung Wan.{0,5}3 stops|Island Line to Sheung Wan · 3", "Admiralty → Sheung Wan is 2 stops"),
     (r"Elements.*1 stop", "Elements is not 1 MTR stop from TST"),
     (r"twin-sharing for 15", "Twin-share all 16 tour nights"),
-    (r"Khaki ² over", "Wed 28 is the Eden shirt — khaki would be a 4th wear"),
+    (r"Khaki ² over", "Wed 28 is the Shein striped shirt — khaki would be a 4th wear"),
+    (r"Eden",                        "The striped shirt is Shein, not Eden"),
     (r"Tue 14 Oct",                  "14 Oct 2026 is a Wednesday"),
     (r"(?i)union mall.{0,20}one stop", "Union Mall is two MRT stops from Kamphaeng Phet"),
     (r"One walk north",              "Sarnies is a backtrack south"),
@@ -135,7 +136,7 @@ MUST_EXIST = [
     ("packing-list.md",      r"chinaport",                 "Customs declaration website"),
     ("packing-list.md",      r"[Kk]nickers ×20",           "20 knickers"),
     ("packing-list.md",      r"Bras ×4",                   "4 bras"),
-    ("packing-list.md",      r"Eden.*striped",             "Eden brown & white striped shirt is packed for China"),
+    ("packing-list.md",      r"Shein.*striped",            "Shein brown & white striped shirt is packed for China"),
     ("full-trip-plan.md",    r"Israeli.*Ben Gurion|Ben Gurion.*Israeli", "Israeli passport at Ben Gurion"),
     ("bangkok-itinerary.md", r"UK passport",               "UK passport at both Thai entries"),
 ]
