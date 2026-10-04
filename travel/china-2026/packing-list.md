@@ -12,8 +12,7 @@
 | Where | What |
 |---|---|
 | **Pharmacy, Israel** | Lip balm |
-| **Decathlon, Israel** | Warm hat · gloves *(touchscreen)* |
-| **Hong Kong, Sun 18 Oct** | Shampoo + conditioner · body wash · moisturiser · deodorant *(roll-on or stick, never aerosol)* · small umbrella — Watsons or Mannings, on the Octopus balance |
+| **Hong Kong, Sun 18 Oct** | Shampoo + conditioner · body wash · moisturiser · deodorant *(roll-on or stick, never aerosol)* · small umbrella — Watsons or Mannings, on the Octopus balance · **warm hat + touchscreen gloves** — Uniqlo, TST · *backup: Xi'an, 30–31 Oct* |
 
 ---
 
