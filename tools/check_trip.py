@@ -68,6 +68,7 @@ FORBIDDEN = [
     (r"twin-sharing for 15", "Twin-share all 16 tour nights"),
     (r"Khaki ² over", "Wed 28 is the Shein striped shirt — khaki would be a 4th wear"),
     (r"Eden",                        "The striped shirt is Shein, not Eden"),
+    (r"Decathlon, Israel", "Warm hat and gloves bought in Hong Kong, not Israel"),
     (r"Tue 14 Oct",                  "14 Oct 2026 is a Wednesday"),
     (r"(?i)union mall.{0,20}one stop", "Union Mall is two MRT stops from Kamphaeng Phet"),
     (r"One walk north",              "Sarnies is a backtrack south"),
