@@ -148,7 +148,7 @@
   const FAMILY = new URLSearchParams(location.search).has('family');
   // Each tab is one markdown file. Add a file here and it becomes a tab.
   const DIR = FAMILY ? 'family/' : 'travel/china-2026/';
-  const TABS = FAMILY ? [{ id: 'family', label: 'Where she is', file: 'where-alexandra-is.md' }] : [
+  const TABS = FAMILY ? [{ id: 'family', label: 'Where is Alexandra?', file: 'where-alexandra-is.md' }] : [
     { id: 'plan',     label: 'Overview',   file: 'full-trip-plan.md' },
     { id: 'hk',       label: 'Hong Kong',  file: 'hong-kong-itinerary.md' },
     { id: 'bkk',      label: 'Bangkok',    file: 'bangkok-itinerary.md' },
@@ -332,7 +332,7 @@
   window.addEventListener('hashchange', () => show(location.hash.slice(1)));
   show(location.hash.slice(1));
 
-  if (FAMILY) { nav.style.display = 'none'; document.querySelector('header h1').textContent = 'Where Alexandra is'; }
+  if (FAMILY) { nav.style.display = 'none'; document.querySelector('header h1').textContent = 'Where is Alexandra?'; }
   if (!FAMILY && 'serviceWorker' in navigator) {
     navigator.serviceWorker.register('sw.js');
   }
