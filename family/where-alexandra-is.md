@@ -1,6 +1,6 @@
 # Where Alexandra is · 15 Oct – 8 Nov 2026
 
-> 📵 **20 Oct – 4 Nov she is in mainland China.** WhatsApp, Google and Instagram are blocked there and her VPN may not always work — a quiet day or two is normal. **No word for 48 hours?** Call the Intrepid emergency line below.
+> 📵 **20 Oct – 4 Nov she is in mainland China.** WhatsApp, Google and Instagram are blocked there and her VPN may not always work.
 
 | | |
 |---|---|
@@ -31,9 +31,9 @@
 | **Thu 29 Oct** | **Wuxi** | Intrepid group hotel |
 | **Fri 30 Oct** | 🚄 → **Xi'an** · ~7 hrs | Intrepid group hotel |
 | **Sat 31 Oct** | Xi'an · Terracotta Warriors | Intrepid group hotel |
-| **Sun 1 Nov** | → **Great Wall** · ~9 hrs | Guesthouse by the Wall · wifi may be poor |
-| **Mon 2 Nov** | Great Wall hike → **Beijing** | Intrepid group hotel |
-| **Tue 3 Nov** | Beijing | Beijing Dongfang Hotel |
+| **Sun 1 Nov** | → **Great Wall** · ~9 hrs | Guesthouse by the Wall |
+| **Mon 2 Nov** | Great Wall hike → **Beijing** | Intrepid group hotel, Beijing |
+| **Tue 3 Nov** | Beijing | Intrepid group hotel, Beijing |
 | **Wed 4 Nov** | ✈ Air China **CA959** 13:45 → Bangkok 18:05 | Sindhorn Midtown, Bangkok |
 | **Thu 5 Nov** | Bangkok | Sindhorn Midtown |
 | **Fri 6 Nov** | Bangkok | Sindhorn Midtown |
@@ -51,7 +51,7 @@
 | Canalis Suvarnabhumi Airport Hotel, Bangkok | 15 Oct | +66 2 332 1555 |
 | The Luxe Manor, 39 Kimberley Road, Tsim Sha Tsui, Hong Kong | 16–19 Oct | — |
 | Harbour Plaza North Point, 665 King's Road, Hong Kong | 19 Oct | +852 2187 8888 |
-| Beijing Dongfang Hotel, 11 Wanming Road, Xicheng | 3 Nov | +86 10 6301 4466 |
+| Beijing Dongfang Hotel, 11 Wanming Road, Xicheng — where the tour ends | 4 Nov | +86 10 6301 4466 |
 | Sindhorn Midtown, 68 Langsuan Road, Bangkok | 4–8 Nov | +66 2 796 8888 |
 
-*Tour hotels between 20 Oct and 2 Nov are arranged by Intrepid — call the emergency line to reach her.*
+*Tour hotels from 20 Oct to 3 Nov are arranged by Intrepid — call the emergency line to reach her.*
