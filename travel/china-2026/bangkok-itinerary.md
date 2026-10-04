@@ -237,7 +237,7 @@ Most stalls are **under roofs**, but the alleys between sections are open, they 
 - **10:30** 🚇 **MRT Lumphini → Phahon Yothin** · 2 stops past Kamphaeng Phet · no change
 - **11:00** 🛍 **Union Mall** — Chatuchak-style clothes at market prices, all indoors
   - **Central Ladprao** across the road — big mall, food hall
-- **13:30** 🚇 MRT → **Sukhumvit**, change to BTS at Asok → Siam → **National Stadium** · ~40 min
+- **13:30** 🚇 MRT → **Sukhumvit**, change to BTS at Asok → **Siam**, change → **National Stadium** · ~40 min
 - **14:15** 🎨 **BACC** — Bangkok Art and Culture Centre · free · skywalk from BTS National Stadium · 10:00–20:00, closed Mon
   - Small independent shops and cafés on the lower floors — good for souvenirs
 - **16:00** 🚶 Skywalk → **MBK** or **Siam** · 5 min, all covered

@@ -91,7 +91,7 @@
 | Insurance (PassportCard) | ✅ |
 | Airalo eSIM | £41.77 |
 | Hot stone massage | 2,300 THB |
-| **Total** | **~$6,950 + insurance** |
+| **Total** | **~$7,100 + insurance** |
 
 ### Still to spend · Monzo trip pot ~£1,100
 

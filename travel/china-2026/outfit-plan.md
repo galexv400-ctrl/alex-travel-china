@@ -37,12 +37,12 @@ A default for every day, so you never stand over a suitcase deciding. Swap freel
 | **Sun 25** | Changsha · night market | Khaki ² · Wolven ² |
 | **Mon 26** | 🚄 to Shanghai · Bund · 22°C | Grey short-sleeve ² · Amazon flares ² · fleece pm |
 | **Tue 27** | French Concession | Pink mid-warm · Wolven ³ |
-| **Wed 28** | Shanghai free day | Khaki ² over a Dylan bra · float leggings ² |
+| **Wed 28** | Shanghai free day | Eden striped shirt ² over a Dylan bra · float leggings ² |
 | **Thu 29** | Wuxi · 20°C | Grey short-sleeve ³ · Amazon flares ³ · fleece |
 | **Fri 30** | 🚄 7 hrs to Xi'an | Khaki ³ · Manners flares · fleece pm |
 | **Sat 31** | Terracotta Warriors | Merino · Manners ² · fleece · neck warmer |
 | **Sun 1 Nov** | 🚄 → **Great Wall** | *See below* |
-| **Mon 2** | Jinshanling hike | Merino ² · float leggings ³ · fleece · shell · **Asics** |
+| **Mon 2** | Jinshanling hike | Merino ³ · float leggings ³ · fleece · shell · **Asics** |
 | **Tue 3** | Forbidden City · farewell dinner | Black mid-warm ² · Manners ³ · puffer |
 
 *² ³ = second or third wear.*
@@ -63,7 +63,7 @@ A default for every day, so you never stand over a suitcase deciding. Swap freel
 
 ### Spare capacity
 
-**Worn only once:** Asics top · Eden striped shirt · pink mid-warm · BL500 · green leggings — your reserve if something gets soaked.
+**Worn only once:** Asics top · pink mid-warm · BL500 · green leggings — your reserve if something gets soaked.
 **Plus:** the swirl short-sleeve, if the grey one needs a rest.
 
 > 💡 **Something soaked in Zhangjiajie?** Ask your Intrepid leader about a hotel laundry service.
