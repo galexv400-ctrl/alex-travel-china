@@ -44,3 +44,4 @@ The website renders `travel/china-2026/*.md` directly — those files are what A
 - Files state the **final position only** — no decision history, no "replaced X because…", no reasoning asides.
 - A QA pass means **reading every file in full** against the facts, not searching for known problems.
 - **Merging:** Alexandra has given standing permission — once the checker passes, commit, push, open/update the PR and **merge it** (squash or merge) without asking. If the designated branch's PR is already merged, restart the branch from `origin/main` for new work.
+- **Family page:** `family/where-alexandra-is.md`, shown at `/?family`, is shared with family. It holds where she is and when, flights, hotels and the Intrepid emergency line only — never booking refs, PINs, money, passports, medication or packing. When dates, flights or hotels change, update it too; the checker scans it and blocks private details.
