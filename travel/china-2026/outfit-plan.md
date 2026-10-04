@@ -31,13 +31,13 @@ A default for every day, so you never stand over a suitcase deciding. Swap freel
 |---|---|---|
 | **Tue 20** | 🚄 9 hrs to Chongqing | Khaki · Amazon flares · Skechers |
 | **Wed 21** | Chongqing · 23°C | Grey short-sleeve · Wolven flares · fleece pm |
-| **Thu 22** | 🚄 to Zhangjiajie | Eden striped shirt + Dylan bra · regular leggings · fleece pm |
+| **Thu 22** | 🚄 to Zhangjiajie | Shein striped shirt + Dylan bra · regular leggings · fleece pm |
 | **Fri 23** | ⛰ Tianmen Mountain | BL100 · float leggings · fleece · shell · **Asics** |
 | **Sat 24** | ⛰ 4 hr hike | Asics top · regular leggings ² · fleece · shell · **Asics** |
 | **Sun 25** | Changsha · night market | Khaki ² · Wolven ² |
 | **Mon 26** | 🚄 to Shanghai · Bund · 22°C | Grey short-sleeve ² · Amazon flares ² · fleece pm |
 | **Tue 27** | French Concession | Pink mid-warm · Wolven ³ |
-| **Wed 28** | Shanghai free day | Eden striped shirt ² over a Dylan bra · float leggings ² |
+| **Wed 28** | Shanghai free day | Shein striped shirt ² over a Dylan bra · float leggings ² |
 | **Thu 29** | Wuxi · 20°C | Grey short-sleeve ³ · Amazon flares ³ · fleece |
 | **Fri 30** | 🚄 7 hrs to Xi'an | Khaki ³ · Manners flares · fleece pm |
 | **Sat 31** | Terracotta Warriors | Merino · Manners ² · fleece · neck warmer |
