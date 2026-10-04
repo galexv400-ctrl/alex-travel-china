@@ -1,4 +1,4 @@
-# Where Alexandra is · 15 Oct – 8 Nov 2026
+# Where is Alexandra? · 15 Oct – 8 Nov 2026
 
 > 📵 **20 Oct – 4 Nov she is in mainland China.** WhatsApp, Google and Instagram are blocked there and her VPN may not always work.
 
