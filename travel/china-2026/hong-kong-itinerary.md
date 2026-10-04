@@ -15,7 +15,7 @@
 
 ## 👝 What to carry
 
-Uniqlo moon bag: **phone** · one card · some HKD cash · **power bank + cable** · tissues · sanitiser · black sunglasses
+Uniqlo moon bag: **phone** · Monzo card · some HKD cash · **power bank + cable** · tissues · sanitiser · black sunglasses
 
 > ⚡ **Your phone is your Octopus.** A flat battery means you cannot get through an MTR gate. Charge the power bank every night.
 
@@ -30,7 +30,7 @@ Uniqlo moon bag: **phone** · one card · some HKD cash · **power bank + cable*
 - **14:20** Land at HKIA, Terminal 1 · UK passport
   - ❌ Do not top up the Octopus — it already has ~HKD 500
   - 💵 For cash, use an **ATM in arrivals**, not an exchange counter
-- **~15:00** **Airport Express** to Kowloon Station · 24 min · tap the Octopus
+- **~15:00** **Airport Express** to Kowloon Station · ~21 min · tap the Octopus
 - **Kowloon Station → hotel** (~2 km)
   - ⭐ **Uber** — pays by card
   - Free Airport Express shuttle bus — check if The Luxe Manor is a stop
@@ -56,7 +56,7 @@ Uniqlo moon bag: **phone** · one card · some HKD cash · **power bank + cable*
   - [Booking](https://www.tszshan.org/home/new/en/visit.php) · [Instagram](https://www.instagram.com/tszshanmonastery/)
 - **~11:45** Ask reception to **call a taxi** back to Tai Po Market — the return is the harder direction
 - **~12:15** **East Rail Line to Admiralty** · ~40 min
-- **~13:00** **Island Line to Sheung Wan** · 3 stops
+- **~13:00** **Island Line to Sheung Wan** · 2 stops
 - **~13:15** 🍽 **Lunch in Sheung Wan**
 
 | Lunch | |
@@ -167,7 +167,7 @@ Same bookings, indoor swaps. Check **MyObservatory** each morning.
 | ⭐ **M+**, West Kowloon | Asia's big modern design and art museum · harbour views | Uber, ~10 min · closed Mon |
 | **Hong Kong Palace Museum**, West Kowloon | Treasures from Beijing's Palace Museum | Next to M+ · closed Tue |
 | **K11 MUSEA**, TST | Mall built as an art space | 10 min walk |
-| **Elements**, Kowloon Station | Big mall, linked indoors to the MTR | 1 stop |
+| **Elements**, Kowloon Station | Big mall, linked indoors to the station | Uber, ~10 min |
 
 > 🌀 **Typhoon Signal 8 or a Black Rainstorm:** stay in the hotel. Buses, ferries and most shops and sights shut; the MTR runs reduced. Call the venue about bookings, and the **Intrepid emergency line +86 17200311621** if Monday is affected.
 

@@ -218,7 +218,7 @@ Phone · **USB-C phone cable ×1** — brown bag, for the plane · Anker 10,000m
 - 🫖 **Tea-tasting scam** — never accept an invitation from a stranger who approaches you. Worst in Beijing, Shanghai, Xi'an
 - 💴 **Check RMB100 notes** before accepting — counterfeits circulate
 - 🚕 **DiDi only** — never an unmarked taxi
-- 🏨 **Hotel safe** — you are twin-sharing for 15 nights
+- 🏨 **Hotel safe** — you are twin-sharing for 16 nights
 - 😷 Pollution masks for Beijing are provided by Intrepid
 
 ## 🥶 Great Wall layering — 1 Nov
