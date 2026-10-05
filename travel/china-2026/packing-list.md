@@ -11,7 +11,6 @@
 
 | Where | What |
 |---|---|
-| **Pharmacy, Israel** | Lip balm |
 | **Hong Kong, Sun 18 Oct** | Shampoo + conditioner · body wash · moisturiser · deodorant *(roll-on or stick, never aerosol)* · small umbrella — Watsons or Mannings, on the Octopus balance · **warm hat + touchscreen gloves** — Uniqlo, TST — **the only chance**, there's no shopping time in China |
 
 ---
@@ -132,7 +131,7 @@ Baseball cap ✅ · **black sunglasses** 🎒 *(brown bag)* · neck warmer 🎒 
 - Toothbrush + toothpaste 🎒 · anti-chafe balm 🎒
 - Pads ×7 — **pack last** *(then buy locally)* · sanitiser wipes 🎒
 - **Pocket tissues** 🎒 — one pack in every bag; Chinese public toilets often have no paper
-- 🛒 Lip balm · 🇭🇰 shampoo, conditioner, body wash, moisturiser, deodorant
+- Lip balm 🎒 · 🇭🇰 shampoo, conditioner, body wash, moisturiser, deodorant
 
 ## 💊 Medication
 
