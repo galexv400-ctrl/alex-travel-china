@@ -35,3 +35,10 @@ Leave Israel on the **Israeli** passport; **UK** passport after the border.
 3. Intrepid #6886724 · +86 17200311621
 4. Tell the hotels
 5. **Last safe moment to leave by land: Fri 16 Oct, midday**
+
+## TDAC if LY83 is cancelled
+- Fill it in **from anywhere** — it's online; Jordan is fine
+- Already submitted for LY83? Use **update** on the official site — new flight, new arrival date, departure country (Jordan or the connection). If updating fails, submit a new one — free
+- The 3-day window counts from the **new** arrival date
+- **Screenshot the new QR**; show the latest one at immigration
+- **Flying Amman → Hong Kong direct?** Skip Bangkok — no TDAC needed until the **4 Nov** arrival
