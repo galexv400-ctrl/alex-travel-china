@@ -117,7 +117,7 @@
 
 ## 🧢 Accessories & comfort
 
-Black baseball cap 🎒 · **black sunglasses** 🎒 *(brown bag)* · neck warmer 🎒 · **warm hat 🛒** · **gloves 🛒** · earplugs 🎒 · eye mask 🎒 · hair ties ×3 · hair brush 🎒
+Black baseball cap 🎒 · **black sunglasses** 🎒 *(brown bag)* · neck warmer 🎒 · **warm hat 🛒** · **gloves 🛒** · earplugs 🎒 · eye mask 🎒 · hair ties ×3 🎒 · hair brush 🎒
 
 ---
 
@@ -135,7 +135,7 @@ Black baseball cap 🎒 · **black sunglasses** 🎒 *(brown bag)* · neck warme
 
 ## 💊 Medication
 
-SSRI 🎒 · thyroid 🎒 · ibuprofen · back pain meds 🎒 · iron 🎒 · magnesium 🎒 · blister plasters 🎒 · Imodium 🎒 · azithromycin 🎒 · Kalbeten 🎒 · pill splitter 🎒 *(front section of the main case — blade)*
+SSRI 🎒 · thyroid 🎒 · ibuprofen 🎒 · back pain meds 🎒 · iron 🎒 · magnesium 🎒 · blister plasters 🎒 · Imodium 🎒 · azithromycin 🎒 · Kalbeten 🎒 · pill splitter 🎒 *(front section of the main case — blade)*
 
 > 💡 **When to take what, interactions and vaccinations** are on the **Medication** tab.
 
