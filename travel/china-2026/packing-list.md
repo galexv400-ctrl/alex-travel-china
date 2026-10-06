@@ -19,7 +19,7 @@
 
 ### 1 · Main case (backpack) — hold luggage
 **Main compartment:** four packing cubes + shoe organiser *(below)*
-**Front section:** toiletries bag, everything wrapped · spare tissues · pads · **pill splitter** 🎒 *(blade — case only on flights)*
+**Front section:** toiletries bag, everything wrapped · spare tissues · **pill splitter** 🎒 *(blade — case only on flights)*
 
 ### 2 · Day bag — also the cabin bag
 - **All medication on travel days** — original packaging, prescriptions photographed
@@ -129,7 +129,7 @@ Baseball cap ✅ · **black sunglasses** 🎒 *(brown bag)* · neck warmer 🎒 
 
 - Sunscreen stick 🎒
 - Toothbrush + toothpaste 🎒 · anti-chafe balm 🎒
-- Pads ×7 — **pack last** *(then buy locally)* · sanitiser wipes 🎒
+- Sanitiser wipes 🎒
 - **Pocket tissues** 🎒 — one pack in every bag; Chinese public toilets often have no paper
 - Lip balm 🎒 · 🇭🇰 shampoo, conditioner, body wash, moisturiser, deodorant
 
