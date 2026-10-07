@@ -129,6 +129,7 @@ Black baseball cap 🎒 · **black sunglasses** 🎒 *(brown bag)* · neck warme
 
 - Sunscreen stick 🎒
 - Toothbrush + toothpaste 🎒 · anti-chafe balm 🎒
+- **Razor** *(disposable or cartridge — no loose blades)* · **tweezers**
 - Sanitiser wipes 🎒
 - **Pocket tissues** 🎒 — one pack in every bag; Chinese public toilets often have no paper
 - Lip balm 🎒 · 🇭🇰 shampoo, conditioner, body wash, moisturiser, deodorant
@@ -207,7 +208,7 @@ Phone · **USB-C phone cable ×1** — brown bag, for the plane · Anker 10,000m
 ## 🚄 China train rules — five legs, airport-style security
 
 - ❌ **No aerosols** — your kit is clear: sanitiser is a pump spray, deodorant is roll-on or stick, sunscreen is a stick
-- ❌ **No blades** — except the **pill splitter**: keep it with the medication packaging so it reads as medical
+- ❌ **No blades over 6 cm** — a disposable or cartridge razor and tweezers are fine · keep the **pill splitter** with the medication packaging so it reads as medical
 - ✅ Power bank must be **CCC-certified** — the Anker is
 - ⏱ Passports scanned at every station and site — allow **20–30 min** for group entry
 
