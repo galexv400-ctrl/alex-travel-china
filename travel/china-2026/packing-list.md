@@ -11,7 +11,7 @@
 
 | Where | What |
 |---|---|
-| **Hong Kong, Sun 18 Oct** | Shampoo + conditioner · body wash · moisturiser · deodorant *(roll-on or stick, never aerosol)* · small umbrella — Watsons or Mannings, on the Octopus balance · **warm hat + touchscreen gloves** — Uniqlo, TST — **the only chance**, there's no shopping time in China |
+| **Hong Kong, Sun 18 Oct** | Shampoo + conditioner · body wash · moisturiser · deodorant *(roll-on or stick, never aerosol)* · small umbrella — Watsons or Mannings, on the Octopus balance |
 
 ---
 
@@ -117,7 +117,7 @@
 
 ## 🧢 Accessories & comfort
 
-Black baseball cap 🎒 · **black sunglasses** 🎒 *(brown bag)* · neck warmer 🎒 · **warm hat 🛒** · **gloves 🛒** · earplugs 🎒 · eye mask 🎒 · hair ties ×3 🎒 · hair brush 🎒
+Black baseball cap 🎒 · **black sunglasses** 🎒 *(brown bag)* · neck warmer 🎒 · **warm hat** ✅ · **gloves** ✅ · earplugs 🎒 · eye mask 🎒 · hair ties ×3 🎒 · hair brush 🎒
 
 ---
 
