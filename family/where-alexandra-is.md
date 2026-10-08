@@ -50,7 +50,7 @@
 
 | Hotel | Dates | Phone |
 |---|---|---|
-| Pullman Bangkok Hotel G, 188 Silom Road, Bangkok | 11–15 Oct | — |
+| Pullman Bangkok Hotel G, 188 Silom Road, Bangkok | 11–15 Oct | +66 2 352 4000 |
 | Canalis Suvarnabhumi Airport Hotel, Bangkok | 15 Oct | +66 2 332 1555 |
 | The Luxe Manor, 39 Kimberley Road, Tsim Sha Tsui, Hong Kong | 16–19 Oct | — |
 | Harbour Plaza North Point, 665 King's Road, Hong Kong | 19 Oct | +852 2187 8888 |

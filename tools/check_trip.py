@@ -73,6 +73,7 @@ FORBIDDEN = [
     (r"(?i)backup: Xi'an", "Hat and gloves: Hong Kong only — no shopping time in China"),
     (r"(?i)uniqlo.{0,10}TST|warm hat 🛒|gloves 🛒", "Hat and gloves already bought in Israel"),
     (r"(?i)hotel.{0,5}(—|\()?\s*to book|details to follow", "Bangkok hotel 11–15 Oct is booked: Pullman G"),
+    (r"(?i)pullman.{0,80}free cancellation until 9 Oct", "Pullman G: full refund only until 23:59 on 8 Oct"),
     (r"Tue 14 Oct",                  "14 Oct 2026 is a Wednesday"),
     (r"(?i)union mall.{0,20}one stop", "Union Mall is two MRT stops from Kamphaeng Phet"),
     (r"One walk north",              "Sarnies is a backtrack south"),
@@ -116,8 +117,8 @@ SAFETY_RULES = [
 #    these exact values.
 # ---------------------------------------------------------------------------
 REFS = [
-    (r"\b\d{4}\.\d{3}\.\d{3}\b",  {"6637.638.401", "6761.193.363"},  "Booking.com refs: Canalis 6637.638.401, Sindhorn 6761.193.363"),
-    (r"PIN\s*(\d{4})",            {"4470", "6989"},                  "PINs: Canalis 4470, Sindhorn 6989"),
+    (r"\b\d{4}\.\d{3}\.\d{3}\b",  {"6637.638.401", "6761.193.363", "6810.593.634"},  "Booking.com refs: Canalis 6637.638.401, Sindhorn 6761.193.363, Pullman G 6810.593.634"),
+    (r"PIN\s*(\d{4})",            {"4470", "6989", "4301"},          "PINs: Canalis 4470, Sindhorn 6989, Pullman G 4301"),
     (r"#(\d{7})",                 {"6886724"},                       "Intrepid booking #6886724"),
     (r"\+86 1720\d+",             {"+86 17200311621"},               "Intrepid emergency +86 17200311621"),
     (r"\bZUM\w+",                {"ZUMSQL"},                        "El Al booking ZUMSQL"),
