@@ -14,8 +14,8 @@
 | Date | Where | Staying |
 |---|---|---|
 | **Sat 10 Oct** | Leaves home · Ben Gurion | — |
-| **Sun 11 Oct** | ✈ El Al **LY85** 00:05 → Bangkok 15:45 | Bangkok hotel *(details to follow)* |
-| **Mon 12 – Wed 14 Oct** | Bangkok | Bangkok hotel *(details to follow)* |
+| **Sun 11 Oct** | ✈ El Al **LY85** 00:05 → Bangkok 15:45 | Pullman Bangkok Hotel G, Silom |
+| **Mon 12 – Wed 14 Oct** | Bangkok | Pullman Bangkok Hotel G |
 | **Thu 15 Oct** | Bangkok | Canalis Suvarnabhumi Airport Hotel |
 | **Fri 16 Oct** | ✈ Thai **TG628** 10:30 → Hong Kong 14:20 | The Luxe Manor, Tsim Sha Tsui |
 | **Sat 17 Oct** | Hong Kong | The Luxe Manor |
@@ -50,6 +50,7 @@
 
 | Hotel | Dates | Phone |
 |---|---|---|
+| Pullman Bangkok Hotel G, 188 Silom Road, Bangkok | 11–15 Oct | — |
 | Canalis Suvarnabhumi Airport Hotel, Bangkok | 15 Oct | +66 2 332 1555 |
 | The Luxe Manor, 39 Kimberley Road, Tsim Sha Tsui, Hong Kong | 16–19 Oct | — |
 | Harbour Plaza North Point, 665 King's Road, Hong Kong | 19 Oct | +852 2187 8888 |
