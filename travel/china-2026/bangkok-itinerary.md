@@ -24,7 +24,6 @@
 - **00:05** ✈ **El Al LY85** to Bangkok · seat **26B**, extra legroom · Dreamliner · 11h 40m
 - **15:45** Land · 🇬🇧 **UK passport + TDAC QR** (3B6E45A) at immigration
 - 📶 **Turn on the Airalo eSIM** as you land — Airalo line ON for **data**, Israeli SIM for **voice**, **data roaming OFF** on the Israeli line · 30 days from now runs to ~10 Nov, past your flight home
-- 💵 **ATM in arrivals** — Monzo, **choose baht** · take ~5,000–8,000 THB in one go
 - 🚕 **Grab** to the Pullman G · pick-up points on Level 1 · 40–60 min
   - *Backup:* public taxi queue, Level 1 · meter + THB 50 airport fee + tolls
 - **~17:30** Check in · photo ID + credit card · **THB 1,000 cash deposit**
@@ -40,6 +39,7 @@ Rooftop **Scarlett** for an evening after work
 > 💻 **Work 13:00–21:00** = the full Israeli day, 09:00–17:00. Mornings are yours.
 
 ### Sunday 11 · arrival
+- 💵 **ATM near the hotel** on Silom Road — Monzo, **choose baht** · take ~5,000–8,000 THB in one go
 - Easy dinner nearby · early night
 
 ### Monday 12 · Jim Thompson House
