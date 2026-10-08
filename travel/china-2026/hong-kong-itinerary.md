@@ -21,7 +21,7 @@ Uniqlo moon bag: **phone** · Monzo card · some HKD cash · **power bank + cabl
 
 > 🛂 **Passport stays in the hotel safe** in Hong Kong — keep a photo on your phone.
 
-> ☂ **No umbrella until Sunday evening.** Take the Lululemon jacket if it looks like rain.
+> ☂ **Umbrella from Bangkok** in the moon bag · Lululemon jacket as backup.
 
 ---
 
@@ -117,8 +117,6 @@ Uniqlo moon bag: **phone** · Monzo card · some HKD cash · **power bank + cabl
   - 🛍 **Thrifting:** Apliu Street flea market · Sing Jai Kee vintage · Fuk Wing Street · Dragon Centre for air-con
 - **16:00** MTR back to TST · ~12 min
 - **17:00** 💆 **Tai Pan Reflexology** · 83 Nathan Road, basement · booked · 5 min walk · ☎ +852 2301 1990
-- **18:15** 🛒 **Watsons or Mannings**, TST — pay with the Octopus
-  - Shampoo + conditioner · body wash · moisturiser · deodorant *(never aerosol)* · razor · tweezers · **small umbrella**
 - **19:30** 🍽 **Born Ga**, TST · stone-pot bibimbap, soft tofu stew · good for one
   - *Or:* **Hansung Co**, 10 Kimberley Street — bibimbap, beef stew · 5 min from the hotel
 
@@ -150,8 +148,6 @@ Uniqlo moon bag: **phone** · Monzo card · some HKD cash · **power bank + cabl
 ## ☔ Rain plan
 
 Same bookings, indoor swaps. Check **MyObservatory** each morning.
-
-> ☂ **Rain before Sunday?** Buy an umbrella at the first **7-Eleven** — about HKD 30–60. Skip it at Watsons on Sunday.
 
 | Day | If it rains |
 |---|---|

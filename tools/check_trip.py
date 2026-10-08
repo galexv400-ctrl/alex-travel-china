@@ -76,6 +76,7 @@ FORBIDDEN = [
     (r"(?i)pullman.{0,80}free cancellation until 9 Oct", "Pullman G: full refund only until 23:59 on 8 Oct"),
     (r"(?i)not insured for theft|10 Oct – 8 Nov", "PassportCard 11 Oct – 8 Nov, laptop theft now covered"),
     (r"(?i)skywalk.{0,40}(21|22|23):\d\d|(21|22|23):\d\d.{0,40}skywalk", "Mahanakhon SkyWalk closes 19:00"),
+    (r"(?i)watsons or mannings|Hong Kong, Sun 18 Oct|🇭🇰 shampoo", "Toiletries bought in Bangkok on Wed 14 Oct, not Hong Kong"),
     (r"Tue 14 Oct",                  "14 Oct 2026 is a Wednesday"),
     (r"(?i)union mall.{0,20}one stop", "Union Mall is two MRT stops from Kamphaeng Phet"),
     (r"One walk north",              "Sarnies is a backtrack south"),
