@@ -70,7 +70,6 @@ FORBIDDEN = [
     (r"Eden",                        "The striped shirt is Shein, not Eden"),
     (r"Decathlon, Israel", "Warm hat and gloves bought in Hong Kong, not Israel"),
     (r"(?i)backup: Xi'an", "Hat and gloves: Hong Kong only — no shopping time in China"),
-    (r"\b[Pp]ads\b", "Pads not bringing"),
     (r"(?i)uniqlo.{0,10}TST|warm hat 🛒|gloves 🛒", "Hat and gloves already bought in Israel"),
     (r"Tue 14 Oct",                  "14 Oct 2026 is a Wednesday"),
     (r"(?i)union mall.{0,20}one stop", "Union Mall is two MRT stops from Kamphaeng Phet"),
