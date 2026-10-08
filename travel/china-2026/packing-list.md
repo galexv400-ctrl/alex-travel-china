@@ -232,14 +232,15 @@ Phone · **USB-C phone cable ×1** — brown bag, for the plane · Anker 10,000m
 
 ---
 
-## 🧺 Laundry — one wash, Hong Kong
+## 🧺 Laundry — one wash, Bangkok
 
 | | |
 |---|---|
-| **Drop off** | Sun 18 Oct ~10:00, on the way to Sham Shui Po |
-| **Collect** | Mon 19 Oct ~10:45, before checkout |
-| **Where** | A local drop-off shop — ask the Luxe Manor desk · ~HKD 40–70 a load |
-| **What** | Knickers, socks, warm clothes from 15–18 Oct, the plane outfit |
+| **Drop off** | Wed 14 Oct ~11:30, after Wat Pho |
+| **Collect** | Thu 15 Oct ~09:30, before checkout |
+| **Where** | A wash-and-fold shop near the Pullman G — ask reception · ~THB 40–60 per kg |
+| **What** | Everything worn 11–14 Oct, the plane outfit |
+| **Hong Kong** | *Optional* — only if there's a cheap same-day shop near the Luxe Manor |
 
 > ⚠ **Never put the merino or the GF leggings in a commercial machine** — merino shrinks, elastane degrades.
 

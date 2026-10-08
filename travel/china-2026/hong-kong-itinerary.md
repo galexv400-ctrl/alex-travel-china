@@ -94,7 +94,6 @@ Uniqlo moon bag: **phone** · Monzo card · some HKD cash · **power bank + cabl
 > 😴 **Jet lag makes you later, not earlier** — you flew east. Take the morning slowly; nothing is booked before 17:00.
 
 - **09:30** 🍳 Breakfast at the hotel
-- **10:00** 🧺 **Drop the laundry** at a nearby shop — ask the front desk
 - **10:15** MTR to **Sham Shui Po** · ~15 min, Tsuen Wan Line, no change
 - **10:30** 🏛 **Mei Ho House** · 70 Berwick Street · restored 1950s housing · free · 45 min
 - **11:30** 🎨 **JCCAC** · 30 Pak Tin Street · converted factory, 100+ artist studios · free · ~1.5 hrs · [Instagram](https://www.instagram.com/jccac_artsvillage/)
@@ -127,7 +126,6 @@ Uniqlo moon bag: **phone** · Monzo card · some HKD cash · **power bank + cabl
 > 🧳 **Pack on Sunday night.**
 
 - **09:30** 🍳 Breakfast at the hotel
-- **10:45** 🧺 **Collect the laundry**
 - **11:15** **Check out** · leave luggage with the concierge
 - **12:00** 💅 **Nu Nail & Beauty** · Flat 10A, 10/F, Lokville Commercial Building, 27 Lock Road · 3 min walk · ☎ +852 5323 3617
 - **~13:30** 🎁 **Hong Kong Souvenir Shop 香港紀念品專門店** · **27–33 Nathan Road** · 4 min walk · 09:00–23:00
