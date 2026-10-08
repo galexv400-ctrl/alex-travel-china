@@ -6,7 +6,7 @@
 |---|---|
 | Intrepid booking | **#6886724** |
 | Intrepid 24-hr emergency | **+86 17200311621** |
-| Insurance · PassportCard 24/7 | **+972-9-8920930** · WhatsApp +972-50-670-8544 · policy **310732884** · 10 Oct – 8 Nov |
+| Insurance · PassportCard 24/7 | **+972-9-8920930** · WhatsApp +972-50-670-8544 · policy **310732884** · 11 Oct – 8 Nov · phone and laptop theft covered |
 | Tour starts | Harbour Plaza North Point, Hong Kong · **Mon 19 Oct 18:00** |
 | Tour ends | Beijing Dongfang Hotel · **Wed 4 Nov** |
 
@@ -93,7 +93,7 @@
 | El Al change to 11 Oct · Flex | $680 |
 | Intrepid tour | ~$4,000 |
 | Hotels | ₪1,397 + ₪1,552 + THB 30,498 · Canalis ₪158 at check-in |
-| Insurance (PassportCard) | ✅ start moved to 10 Oct |
+| Insurance (PassportCard) | $229 · 11 Oct – 8 Nov |
 | Airalo eSIM | £41.77 |
 | Hot stone massage | 2,300 THB |
 | **Total** | **~$7,780 + insurance** |

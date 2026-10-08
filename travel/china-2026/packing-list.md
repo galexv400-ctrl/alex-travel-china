@@ -29,7 +29,7 @@
   - 💳 **Check where the new HSBC credit and debit cards are**
   - **Into the wallet:** credit cards — Israeli, UK · **UK driving licence** · **Israeli ID (teudat zehut)**
 - 🩸 A few pads — day bag
-- 💻 Laptop + charger — tote bag, padded sleeve, **cabin only** · *not insured for theft*
+- 💻 Laptop + charger — tote bag, padded sleeve, **cabin only** · insured for theft up to $1,500 — police report needed
 - **Brown bag, for the plane:** AirPods · black sunglasses 🎒 · USB-C phone cable
 
 **On excursions add:** Lululemon jacket · umbrella · sunscreen · water

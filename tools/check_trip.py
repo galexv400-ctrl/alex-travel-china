@@ -74,6 +74,7 @@ FORBIDDEN = [
     (r"(?i)uniqlo.{0,10}TST|warm hat 🛒|gloves 🛒", "Hat and gloves already bought in Israel"),
     (r"(?i)hotel.{0,5}(—|\()?\s*to book|details to follow", "Bangkok hotel 11–15 Oct is booked: Pullman G"),
     (r"(?i)pullman.{0,80}free cancellation until 9 Oct", "Pullman G: full refund only until 23:59 on 8 Oct"),
+    (r"(?i)not insured for theft|10 Oct – 8 Nov", "PassportCard 11 Oct – 8 Nov, laptop theft now covered"),
     (r"Tue 14 Oct",                  "14 Oct 2026 is a Wednesday"),
     (r"(?i)union mall.{0,20}one stop", "Union Mall is two MRT stops from Kamphaeng Phet"),
     (r"One walk north",              "Sarnies is a backtrack south"),
