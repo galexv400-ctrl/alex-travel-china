@@ -18,8 +18,10 @@
 |---|---|---|
 | **Sat 10 Oct** | Tel Aviv | At **Ben Gurion by 21:05** |
 | **Sun 11 Oct** | ✈ → Bangkok | LY85 00:05 → 15:45 · Pullman G, Silom |
-| **Mon 12 – Wed 14 Oct** | Bangkok | Work deadline · Pullman G |
-| **Thu 15 Oct** | Bangkok | Move to the Canalis airport hotel |
+| **Mon 12 Oct** | Bangkok | Lumphini Park · **work 13:00–21:00** |
+| **Tue 13 Oct** | Bangkok | Jim Thompson House · **work 13:00–21:00** |
+| **Wed 14 Oct** | Bangkok | Wat Pho · **work 13:00–21:00** |
+| **Thu 15 Oct** | Bangkok | Mahanakhon SkyWalk · Canalis airport hotel |
 | **Fri 16 Oct** | ✈ → Hong Kong | 07:00 shuttle · TG628 10:30 → 14:20 · **Big Bus 19:00** |
 | **Sat 17 Oct** | Hong Kong | **Monastery 10:30** · Sheung Wan |
 | **Sun 18 Oct** | Hong Kong | Sham Shui Po · **massage 17:00** |
