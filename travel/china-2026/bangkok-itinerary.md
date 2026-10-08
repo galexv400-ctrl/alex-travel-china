@@ -19,12 +19,15 @@
 
 ## Arrival — Sunday 11 October
 
-- **Sat 10 Oct, 21:05** Be at **Ben Gurion** · Shabbat ends ~18:30 — book the taxi in advance
+- **Sat 10 Oct, 20:00** 🚕 Taxi booked · **Ben Gurion, Terminal 3, by 21:05**
+  - 🇮🇱 **Israeli passport** at Israeli border control · 🇬🇧 **UK passport** for El Al and Thailand
 - **00:05** ✈ **El Al LY85** to Bangkok · seat **26B**, extra legroom · Dreamliner · 11h 40m
-- **15:45** Land · **TDAC QR ready**
-- 📶 **Turn on the Airalo eSIM** — data line on, Israeli roaming off
-- 💵 **ATM in arrivals** — Monzo, choose baht
+- **15:45** Land · 🇬🇧 **UK passport + TDAC QR** (3B6E45A) at immigration
+- 📶 **Turn on the Airalo eSIM** as you land — Airalo line ON for **data**, Israeli SIM for **voice**, **data roaming OFF** on the Israeli line · 30 days from now runs to ~10 Nov, past your flight home
+- 💵 **ATM in arrivals** — Monzo, **choose baht** · take ~5,000–8,000 THB in one go
 - 🚕 **Grab** to the Pullman G · pick-up points on Level 1 · 40–60 min
+  - *Backup:* public taxi queue, Level 1 · meter + THB 50 airport fee + tolls
+- **~17:30** Check in · photo ID + credit card · **THB 1,000 cash deposit**
 
 ## Sun 11 – Thu 15 October — Pullman G, Silom
 
@@ -37,7 +40,7 @@ Rooftop **Scarlett** for an evening after work
 > 💻 **Work 13:00–21:00** = the full Israeli day, 09:00–17:00. Mornings are yours.
 
 ### Sunday 11 · arrival
-- **~17:30** Check in · easy dinner nearby · early night
+- Easy dinner nearby · early night
 
 ### Monday 12 · Jim Thompson House
 - Sleep in · breakfast at the hotel
