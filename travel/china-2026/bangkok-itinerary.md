@@ -3,7 +3,7 @@
 | Booked | When |
 |---|---|
 | ✈ El Al LY85 to Bangkok | Sun 11 Oct 00:05 |
-| 🏨 Bangkok hotel — to book | 11–15 Oct |
+| 🏨 Pullman Bangkok Hotel G | Sun 11 – Thu 15 Oct |
 | 🏨 Canalis airport hotel | Thu 15 Oct |
 | 🏨 Sindhorn Midtown | Wed 4 – Sun 8 Nov |
 | 🪨 Hot stone massage · **BLR2611050011** · paid | Thu 5 Nov 16:30 |
@@ -24,11 +24,13 @@
 - **15:45** Land · **TDAC QR ready**
 - 📶 **Turn on the Airalo eSIM** — data line on, Israeli roaming off
 - 💵 **ATM in arrivals** — Monzo, choose baht
-- 🚕 **Grab** to the Bangkok hotel · pick-up points on Level 1 · 40–60 min
+- 🚕 **Grab** to the Pullman G · pick-up points on Level 1 · 40–60 min
 
 ## Mon 12 – Wed 14 October — work days
 
-🏨 **Bangkok hotel — to book** · desk and good wifi · free cancellation
+🏨 **Pullman Bangkok Hotel G** · 188 Silom Road, Bang Rak · near BTS Chong Nonsi
+Booking.com · breakfast included · high-speed internet · paid · free cancellation until 9 Oct
+Rooftop **Scarlett** for an evening after work
 - 💻 Finish the work deadline · Bangkok is **4 hours ahead** of Israel
 - Then rest — the Bangkok days at the end of the trip are planned
 
