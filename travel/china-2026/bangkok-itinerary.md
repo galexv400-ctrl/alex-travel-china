@@ -1,7 +1,9 @@
-# Bangkok · 15 Oct stopover + 4–8 November
+# Bangkok · 11–16 October + 4–8 November
 
 | Booked | When |
 |---|---|
+| ✈ El Al LY85 to Bangkok | Sun 11 Oct 00:05 |
+| 🏨 Bangkok hotel — to book | 11–15 Oct |
 | 🏨 Canalis airport hotel | Thu 15 Oct |
 | 🏨 Sindhorn Midtown | Wed 4 – Sun 8 Nov |
 | 🪨 Hot stone massage · **BLR2611050011** · paid | Thu 5 Nov 16:30 |
@@ -9,28 +11,36 @@
 
 > 🍽 **All meals are walk-in.**
 
-> 🛂 **UK passport at both Thai entries** — 15 Oct and 4 Nov — with the **TDAC QR code** each time.
+> 🛂 **UK passport at both Thai entries** — 11 Oct and 4 Nov — with the **TDAC QR code** each time.
 
 > 💳 At ATMs and card machines, **always choose baht**. Thai ATMs charge ~220 THB a time — withdraw less often.
 
 ---
 
-## Night 0 — Thursday 15 October: airport stopover
+## Arrival — Sunday 11 October
+
+- **Sat 10 Oct, 21:05** Be at **Ben Gurion** · Shabbat ends ~18:30 — book the taxi in advance
+- **00:05** ✈ **El Al LY85** to Bangkok · 11h 40m · Flex fare
+- **15:45** Land · **TDAC QR ready**
+- 📶 **Turn on the Airalo eSIM** — data line on, Israeli roaming off
+- 💵 **ATM in arrivals** — Monzo, choose baht
+- 🚕 **Grab** to the Bangkok hotel · pick-up points on Level 1 · 40–60 min
+
+## Mon 12 – Wed 14 October — work days
+
+🏨 **Bangkok hotel — to book** · desk and good wifi · free cancellation
+- 💻 Finish the work deadline · Bangkok is **4 hours ahead** of Israel
+- Then rest — the Bangkok days at the end of the trip are planned
+
+## Thursday 15 October — move to the airport hotel
 
 **Canalis Suvarnabhumi Airport Hotel** · 1599/1 Lat Krabang Soi 13 · ☎ +66 2 332 1555
 Booking.com **6637.638.401** · PIN 4470 · ⚠ **pay at check-in, ₪158** · no breakfast · reception open till midnight
 
-- **Wed 14 Oct, 22:15** Be at **Ben Gurion**
-- **01:15** ✈ **El Al LY83** to Bangkok · 11h 40m
-- **16:55** Land · **TDAC QR ready**
-- 📶 **Turn on the Airalo eSIM** — data line on, Israeli roaming off
-- **~17:40** Through immigration
-- 🚕 **Metered taxi** · 1st floor, between Gates 4 and 5, outside · THB 150–200 · 10–15 min
-  - *Not the hotel's car — THB 350 and a wait at Gate 5, 2nd floor*
-- **~18:15** Check in
-  - ⚠ **Book the 07:00 shuttle** at reception
-  - 🏪 **7-Eleven** — water, breakfast, snacks for the flight
-  - Room service until 21:30 · pool and gym if you want them
+- 🚕 **Grab** from the city · 40–60 min · check in from the afternoon
+- ⚠ **Book the 07:00 shuttle** at reception
+- 🏪 **7-Eleven** — water, breakfast, snacks for the flight
+- Room service until 21:30 · pool and gym if you want them
 
 ### Friday 16 October
 

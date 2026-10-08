@@ -1,4 +1,4 @@
-# Where is Alexandra? · 15 Oct – 8 Nov 2026
+# Where is Alexandra? · 11 Oct – 8 Nov 2026
 
 > 📵 **20 Oct – 4 Nov she is in mainland China.** WhatsApp, Google and Instagram are blocked there and her VPN may not always work.
 
@@ -13,8 +13,10 @@
 
 | Date | Where | Staying |
 |---|---|---|
-| **Wed 14 Oct** | Leaves home · Ben Gurion | — |
-| **Thu 15 Oct** | ✈ El Al **LY83** 01:15 → Bangkok 16:55 | Canalis Suvarnabhumi Airport Hotel |
+| **Sat 10 Oct** | Leaves home · Ben Gurion | — |
+| **Sun 11 Oct** | ✈ El Al **LY85** 00:05 → Bangkok 15:45 | Bangkok hotel *(details to follow)* |
+| **Mon 12 – Wed 14 Oct** | Bangkok | Bangkok hotel *(details to follow)* |
+| **Thu 15 Oct** | Bangkok | Canalis Suvarnabhumi Airport Hotel |
 | **Fri 16 Oct** | ✈ Thai **TG628** 10:30 → Hong Kong 14:20 | The Luxe Manor, Tsim Sha Tsui |
 | **Sat 17 Oct** | Hong Kong | The Luxe Manor |
 | **Sun 18 Oct** | Hong Kong | The Luxe Manor |

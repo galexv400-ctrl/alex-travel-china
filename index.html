@@ -134,7 +134,7 @@
 <body>
 <header>
   <h1>China & Bangkok 2026</h1>
-  <p>15 Oct – 8 Nov · Bangkok · Hong Kong · China · Bangkok</p>
+  <p>11 Oct – 8 Nov · Bangkok · Hong Kong · China · Bangkok</p>
   <span id="countdown"></span>
 </header>
 <nav id="tabs"></nav>
@@ -158,8 +158,8 @@
     { id: 'intrepid', label: 'Tour',       file: 'intrepid-trip-notes.md' },
   ];
   const YEAR = 2026;
-  const DEPART     = new Date(YEAR, 9, 14);   // 14 Oct, Ben Gurion — the countdown
-  const TRIP_START = new Date(YEAR, 9, 15);   // 15 Oct
+  const DEPART     = new Date(YEAR, 9, 10);   // Sat 10 Oct, Ben Gurion — the countdown
+  const TRIP_START = new Date(YEAR, 9, 11);   // 11 Oct
   const TRIP_END   = new Date(YEAR, 10, 8);   // 8 Nov
 
   marked.setOptions({ gfm: true, breaks: true });
@@ -178,8 +178,8 @@
     const n = Math.round((DEPART - today) / DAY);
     if (n > 1) el.textContent = n + ' days to go';
     else if (n === 1) el.textContent = 'Ben Gurion tomorrow';
-    else if (n === 0) el.textContent = 'Today · Ben Gurion by 22:15';
-    else if (today <= TRIP_END) el.textContent = 'Day ' + (Math.round((today - TRIP_START) / DAY) + 1) + ' of 25';
+    else if (n === 0) el.textContent = 'Today · Ben Gurion by 21:05';
+    else if (today <= TRIP_END) el.textContent = 'Day ' + (Math.round((today - TRIP_START) / DAY) + 1) + ' of 29';
     else el.textContent = 'Welcome home';
   })();
 
