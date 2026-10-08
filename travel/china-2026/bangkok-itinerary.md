@@ -36,7 +36,7 @@ Booking.com **6810.593.634** · PIN 4301 · Deluxe Twin with desk · breakfast i
 > 💵 **THB 1,000 cash deposit** at check-in — refunded in cash at check-out. Keep it separate from spending money.
 Rooftop **Scarlett** for an evening after work
 
-> 💻 **Work 13:00–21:00** = the full Israeli day, 09:00–17:00. Mornings are yours.
+> 💻 **Work 13:00–21:00** = the full Israeli day, 09:00–17:00. Mornings are yours. Meeting times below are **Bangkok time** (Israel + 4).
 
 ### Sunday 11 · arrival
 - 💵 **ATM near the hotel** on Silom Road — Monzo, **choose baht** · take ~5,000–8,000 THB in one go
@@ -49,6 +49,7 @@ Rooftop **Scarlett** for an evening after work
 - **10:00** 🏡 **Jim Thompson House** — teak house and garden, Thai silk and art · guided tour · ~1 hr · open 10:00–17:00 · **tickets at the door only**
 - **~12:30** Back at the hotel · lunch
 - **13:00–21:00** 💻 Work · dinner after, then bed
+  - **18:30–20:00** 📅 Data results update · Boaz Chemtob
 
 ### Tuesday 13 · aromatherapy massage
 - **09:00** 💆 **Aromatherapy massage** · **Health Land Sathorn**, North Sathorn Road · ~10 min from the hotel · **book ahead**
@@ -56,6 +57,9 @@ Rooftop **Scarlett** for an evening after work
 - **~11:00** 🌳 **Lumphini Park** — slow walk, nearby
 - **~12:15** 🧺 **Collect laundry** · back at the hotel · lunch
 - **13:00–21:00** 💻 Work
+  - **15:00–16:30** 📅 HaFifa · Teams *(EcoVadis 15:00–15:30 alongside)*
+  - **17:00–17:30** 📅 WEEE weekly status
+  - **17:30–18:30** 📅 Team meeting · Ivri Verbin · Teams
 
 ### Wednesday 14 · Wat Pho
 - **~07:30** Grab to **Wat Pho** — go early, before the heat
@@ -64,7 +68,7 @@ Rooftop **Scarlett** for an evening after work
   - *Optional:* ferry across the river to **Wat Arun** · ~30 min
 - **~11:30** 🛒 **Watsons or Boots, Silom** on the way back — shampoo + conditioner · body wash · moisturiser · deodorant *(never aerosol)* · razor · tweezers · **small umbrella**
 - **~12:15** Back at the hotel
-- **13:00–21:00** 💻 Work · **deadline done** 🎉
+- **13:00–21:00** 💻 Work · no meetings · **deadline done** 🎉
 
 ## Thursday 15 October — free day, then the airport hotel
 
