@@ -53,7 +53,7 @@
 
 | | Flight | Times | Seat | Booking |
 |---|---|---|---|---|
-| **Sun 11 Oct** | El Al **LY85** TLV → BKK | **00:05** → 15:45 · 11h 40m | *choose* | **ZUMSQL** · e-ticket 1142496363725 · **Flex** · 2 bags |
+| **Sun 11 Oct** | El Al **LY85** TLV → BKK | **00:05** → 15:45 · 11h 40m | 26B · extra legroom | **ZUMSQL** · e-ticket 1142496363725 · **Flex** · 2 bags |
 | **Fri 16 Oct** | Thai **TG628** BKK → HKG | 10:30 → 14:20 · 2h 50m | 44H | **EASDQZ** · e-ticket 2172348955256 |
 | **Wed 4 Nov** | Air China **CA959** PEK → BKK | **13:45** → 18:05 · 5h 20m | 46D | **ECFV7Q** · Air China **MESQ54** · e-ticket 999-2425129533 |
 | **Sun 8 Nov** | El Al **LY84** BKK → TLV | 16:30 → 22:55 · 11h 25m | 34D | **ZUMSQL** · frequent flyer 12956761 |

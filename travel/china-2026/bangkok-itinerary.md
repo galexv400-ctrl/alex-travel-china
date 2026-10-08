@@ -20,7 +20,7 @@
 ## Arrival — Sunday 11 October
 
 - **Sat 10 Oct, 21:05** Be at **Ben Gurion** · Shabbat ends ~18:30 — book the taxi in advance
-- **00:05** ✈ **El Al LY85** to Bangkok · 11h 40m · Flex fare
+- **00:05** ✈ **El Al LY85** to Bangkok · seat **26B**, extra legroom · Dreamliner · 11h 40m
 - **15:45** Land · **TDAC QR ready**
 - 📶 **Turn on the Airalo eSIM** — data line on, Israeli roaming off
 - 💵 **ATM in arrivals** — Monzo, choose baht
