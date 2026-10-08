@@ -39,6 +39,7 @@ Rooftop **Scarlett** for an evening after work
 > 💻 **Work 13:00–21:00** = the full Israeli day, 09:00–17:00. Mornings are yours. Meeting times below are **Bangkok time** (Israel + 4).
 
 ### Sunday 11 · arrival
+- 📱 **Set up ClassPass** — book Wednesday's Pilates, and check classes for Hong Kong too
 - 💵 **ATM near the hotel** on Silom Road — Monzo, **choose baht** · take ~5,000–8,000 THB in one go
 - Easy dinner nearby · early night
 
