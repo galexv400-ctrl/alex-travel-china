@@ -60,13 +60,11 @@ Rooftop **Scarlett** for an evening after work
   - **17:00–17:30** 📅 WEEE weekly status
   - **17:30–18:30** 📅 Team meeting · Ivri Verbin · Teams
 
-### Wednesday 14 · Wat Pho
-- **~07:30** Grab to **Wat Pho** — go early, before the heat
-- **08:00** 🛕 **Wat Pho** — the giant reclining Buddha · ~1½ hrs · opens 08:00
-  - ⚠ **Shoulders and knees covered** — H&M cropped + kimono
-  - *Optional:* ferry across the river to **Wat Arun** · ~30 min
+### Wednesday 14 · Pilates
+- **~08:30** 🧘 **Reformer Pilates** · near the hotel — e.g. **Isora Wellness**, Sathorn Soi 12 · book on **ClassPass** · check drop-in + English
+- Slow breakfast after
 - **~11:30** 🧺 **Drop laundry** at a wash-and-fold shop near the hotel — ask reception · ~THB 40–60 per kg · ready Thursday morning
-- 🛒 **Watsons or Boots, Silom** on the way back — shampoo + conditioner · body wash · moisturiser · deodorant *(never aerosol)* · razor · tweezers · **small umbrella**
+- 🛒 **Watsons or Boots, Silom** — shampoo + conditioner · body wash · moisturiser · deodorant *(never aerosol)* · razor · tweezers · **small umbrella**
 - **~12:15** Back at the hotel
 - **13:00–21:00** 💻 Work · no meetings · **deadline done** 🎉
 
