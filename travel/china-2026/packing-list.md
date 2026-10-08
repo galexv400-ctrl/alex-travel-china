@@ -26,9 +26,10 @@
 - Uniqlo pink puffer 🎒
 - Anker power bank 🎒 *(lithium — cabin only, never the hold)*
 - Wallet 🎒 · toilet paper 🎒 · wipes 🎒
+  - 💳 **Check where the new HSBC credit and debit cards are**
   - **Into the wallet:** credit cards — Israeli, UK · **UK driving licence** · **Israeli ID (teudat zehut)**
-- 🩸 **If the flight moves earlier:** a few pads — day bag
-- 💻 **If the flight moves earlier:** laptop + charger — tote bag, padded sleeve, **cabin only** · *not insured for theft*
+- 🩸 A few pads — day bag
+- 💻 Laptop + charger — tote bag, padded sleeve, **cabin only** · *not insured for theft*
 - **Brown bag, for the plane:** AirPods · black sunglasses 🎒 · USB-C phone cable
 
 **On excursions add:** Lululemon jacket · umbrella · sunscreen · water
@@ -155,7 +156,7 @@ Phone · **USB-C phone cable ×1** — brown bag, for the plane · Anker 10,000m
 | Flight confirmations 🎒 | Intrepid emergency line **+86 17200311621** |
 | Hotel confirmations 🎒 | Next of kin |
 | UK passport copy 🎒 | Hong Kong booking refs *(Big Bus XF7MVK0Z)* |
-| | TDAC QR codes ×2 *(12 Oct, 2 Nov)* |
+| | TDAC QR codes ×2 *(by 10 Oct, 2 Nov)* |
 | | Vaccine book + clinic summary |
 | | Hotel addresses in Chinese |
 
@@ -177,7 +178,7 @@ Phone · **USB-C phone cable ×1** — brown bag, for the plane · Anker 10,000m
 | Google Translate | 🛒 | Download the Chinese offline pack |
 | Podcasts + audiobook | Started | Test in airplane mode |
 
-> 📲 **Landing in Bangkok, 15 Oct:** Airalo line ON as **data** · Israeli SIM as **voice** · **data roaming OFF** on the Israeli line.
+> 📲 **Landing in Bangkok, 11 Oct:** Airalo line ON as **data** · Israeli SIM as **voice** · **data roaming OFF** on the Israeli line.
 
 > 🚨 **China customs declaration: website only — customsapp.chinaport.gov.cn.** Never the Alipay mini-program; it got your account restricted on 28 Sept. File on **Mon 19 Oct** in Hong Kong, screenshot the QR code. Free; paper forms at the border if it fails.
 
@@ -189,8 +190,8 @@ Phone · **USB-C phone cable ×1** — brown bag, for the plane · Anker 10,000m
 
 | Currency | Plan |
 |---|---|
-| **THB** | ✅ 2,000 in hand — 1,000 for 15 Oct, 1,000 for 4 Nov · withdraw **~8,000 on Thu 5 Nov** |
-| **HKD** | Change ~300 NIS at Ben Gurion on 14 Oct · then a **TST ATM** |
+| **THB** | ✅ 2,000 in hand — 1,000 for 11–15 Oct, 1,000 for 4 Nov · ATM on arrival 11 Oct for the extra days · withdraw **~8,000 on Thu 5 Nov** |
+| **HKD** | Change ~300 NIS at Ben Gurion on 10 Oct · then a **TST ATM** |
 | **CNY 1,200–1,500** | Buy in Hong Kong before 20 Oct — ATM, then a Chungking Mansions changer · covers tipping |
 | **Octopus** | ~HKD 500 · spend it down by Mon 19 Oct |
 

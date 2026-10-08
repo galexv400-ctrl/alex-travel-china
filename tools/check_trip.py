@@ -29,7 +29,8 @@ PRIVATE = [
 #    (regex, why it is wrong)
 # ---------------------------------------------------------------------------
 FORBIDDEN = [
-    (r"\bLY85\b",                    "Outbound flight is LY83, not LY85"),
+    (r"\bLY83\b",                    "Outbound changed to LY85, Sun 11 Oct 00:05"),
+    (r"Wed 14 Oct.{0,20}Ben Gurion|Ben Gurion.{0,20}14 Oct|22:15", "At Ben Gurion Sat 10 Oct by 21:05, not 14 Oct"),
     (r"07:45",                       "Canalis shuttle is 07:00 — there is no 07:45"),
     (r"LockCha",                     "LockCha was cancelled"),
     (r"King Studio",                 "Sindhorn room was upgraded"),
@@ -87,7 +88,7 @@ TIME = re.compile(r"\b\d{1,2}:\d{2}\b")
 LINE_RULES = [
     (r"CA959",                       r"13:45|18:05", "CA959 departs PEK 13:45, lands 18:05"),
     (r"CA959.*14:00|14:00.*CA959",   r"$^",     "CA959 no longer departs 14:00 — it is 13:45"),
-    (r"\bLY83\b",                    r"01:15|16:55", "LY83 departs 01:15, lands 16:55"),
+    (r"\bLY85\b",                    r"00:05|15:45|21:05", "LY85 departs 00:05 Sun 11 Oct, lands 15:45"),
     (r"\bLY84\b",                    r"16:30|22:55", "LY84 departs 16:30, lands 22:55"),
     (r"TG628",                       r"10:30|14:20", "TG628 departs 10:30, lands 14:20"),
     (r"[Hh]ot stone|Let's Relax",    r"16:30",  "Hot stone massage is 16:30"),
@@ -131,7 +132,8 @@ MUST_EXIST = [
     ("full-trip-plan.md",    r"CA959.*13:45",              "CA959 13:45 in the flight table"),
     ("full-trip-plan.md",    r"6886724",                   "Intrepid booking number"),
     ("full-trip-plan.md",    r"17200311621",               "Intrepid emergency number"),
-    ("full-trip-plan.md",    r"22:15",                     "At Ben Gurion by 22:15 on 14 Oct"),
+    ("full-trip-plan.md",    r"21:05",                     "At Ben Gurion by 21:05 on Sat 10 Oct"),
+    ("full-trip-plan.md",    r"LY85.*00:05",               "LY85 00:05 in the flight table"),
     ("bangkok-itinerary.md", r"07:00",                     "Canalis 07:00 shuttle"),
     ("bangkok-itinerary.md", r"12:15",                     "Leave Sindhorn 12:15 on 8 Nov"),
     ("bangkok-itinerary.md", r"BLR2611050011",             "Massage booking ref"),

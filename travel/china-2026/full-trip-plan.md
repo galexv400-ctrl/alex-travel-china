@@ -1,6 +1,6 @@
-# China & Bangkok · 15 Oct – 8 Nov 2026
+# China & Bangkok · 11 Oct – 8 Nov 2026
 
-**25 days** · Bangkok → Hong Kong → Intrepid *China Adventure* → Bangkok
+**29 days** · Bangkok → Hong Kong → Intrepid *China Adventure* → Bangkok
 
 | | |
 |---|---|
@@ -15,8 +15,10 @@
 
 | Date | Where | What |
 |---|---|---|
-| **Wed 14 Oct** | Tel Aviv | At **Ben Gurion by 22:15** |
-| **Thu 15 Oct** | ✈ → Bangkok | LY83 01:15 → 16:55 · Canalis airport hotel |
+| **Sat 10 Oct** | Tel Aviv | At **Ben Gurion by 21:05** |
+| **Sun 11 Oct** | ✈ → Bangkok | LY85 00:05 → 15:45 · Bangkok hotel *(to book)* |
+| **Mon 12 – Wed 14 Oct** | Bangkok | Work deadline · Bangkok hotel *(to book)* |
+| **Thu 15 Oct** | Bangkok | Move to the Canalis airport hotel |
 | **Fri 16 Oct** | ✈ → Hong Kong | 07:00 shuttle · TG628 10:30 → 14:20 · **Big Bus 19:00** |
 | **Sat 17 Oct** | Hong Kong | **Monastery 10:30** · Sheung Wan |
 | **Sun 18 Oct** | Hong Kong | Sham Shui Po · **massage 17:00** |
@@ -50,7 +52,7 @@
 
 | | Flight | Times | Seat | Booking |
 |---|---|---|---|---|
-| **Thu 15 Oct** | El Al **LY83** TLV → BKK | 01:15 → 16:55 · 11h 40m | — | El Al app |
+| **Sun 11 Oct** | El Al **LY85** TLV → BKK | **00:05** → 15:45 · 11h 40m | — | El Al app · **Flex** fare |
 | **Fri 16 Oct** | Thai **TG628** BKK → HKG | 10:30 → 14:20 · 2h 50m | 44H | **EASDQZ** · e-ticket 2172348955256 |
 | **Wed 4 Nov** | Air China **CA959** PEK → BKK | **13:45** → 18:05 · 5h 20m | 46D | **ECFV7Q** · Air China **MESQ54** · e-ticket 999-2425129533 |
 | **Sun 8 Nov** | El Al **LY84** BKK → TLV | 16:30 → 22:55 · 11h 25m | 34D | El Al app · frequent flyer 12956761 |
@@ -74,6 +76,7 @@
 |---|---|---|---|
 | **Canalis Suvarnabhumi** · 1599/1 Lat Krabang Soi 13 · ☎ +66 2 332 1555 | Thu 15 Oct | **6637.638.401** · PIN 4470 | ₪158 · ⚠ **pay at check-in** |
 | **The Luxe Manor** · 39 Kimberley Road, TST | 16–19 Oct | **5515516445** | ₪1,397 · ✅ prepaid |
+| *Bangkok hotel — to book* | 11–15 Oct | — | — |
 | *Intrepid tour hotels* | 19 Oct – 4 Nov | — | In the tour |
 | **Sindhorn Midtown** · 68 Langsuan Road · ☎ +66 2 796 8888 | 4–8 Nov | **6761.193.363** · PIN 6989 | THB 30,498.42 · ✅ paid |
 
@@ -86,18 +89,19 @@
 | | Cost |
 |---|---|
 | Flights ×4 | ~$1,660 |
+| El Al change to 11 Oct · Flex | $680 |
 | Intrepid tour | ~$4,000 |
 | Hotels | ₪1,397 + THB 30,498 · Canalis ₪158 at check-in |
 | Insurance (PassportCard) | ✅ |
 | Airalo eSIM | £41.77 |
 | Hot stone massage | 2,300 THB |
-| **Total** | **~$7,100 + insurance** |
+| **Total** | **~$7,780 + insurance** |
 
 ### Still to spend · Monzo trip pot ~£1,100
 
 | | Estimate |
 |---|---|
-| Bangkok, 15 Oct | ~£20 |
+| Bangkok, 11–15 Oct + hotel | *to add* |
 | Hong Kong, 16–19 Oct | £250–350 |
 | China, 20 Oct – 4 Nov | £360–465 |
 | Bangkok, 4–8 Nov | £250–350 |
@@ -114,29 +118,29 @@
 
 ## 🚨 If Ben Gurion closes
 
-> 🧭 **You have slack.** You land in Hong Kong on Fri 16 Oct; the tour starts **Mon 19 Oct, 18:00**. Losing two or three days costs the stopover and some of Hong Kong — not the tour.
+> 🧭 **You have slack.** You land in Bangkok on Sun 11 Oct and Hong Kong on Fri 16 Oct; the tour starts **Mon 19 Oct, 18:00**. Losing a few days costs Bangkok work days, maybe some of Hong Kong — not the tour.
 
 ### ⏰ When to decide
 
 | When | Decide |
 |---|---|
-| **Now – Tue 13 Oct** | Watch only. Nothing to decide unless Ben Gurion actually closes |
-| **Wed 14 Oct, afternoon** | Check LY83 in the El Al app before leaving for the airport |
-| **LY83 cancelled** | Give El Al **24 hours** to offer a new flight |
+| **Now – Fri 9 Oct** | Watch only. Nothing to decide unless Ben Gurion actually closes |
+| **Sat 10 Oct, after Shabbat** | Check LY85 in the El Al app before leaving for the airport |
+| **LY85 cancelled** | Give El Al **24 hours** to offer a new flight |
 | ⚠ **Fri 16 Oct, midday** | **Last safe moment.** No confirmed flight by then → leave by land for Taba. Shabbat starts that evening and transport stops |
 
 > 🧭 Taba to Hong Kong takes roughly **1½–2 days** with the drive, the crossing and a one-stop flight. Leaving Friday midday gets you to the welcome meeting on **Mon 19 Oct, 18:00**, with little to spare.
 
 ### Before you do anything
 
-> 🚨 **Protect the flight home.** If LY83 and LY84 are on one return ticket, missing LY83 without telling El Al **cancels LY84 automatically** — the no-show rule.
-> - **El Al cancels LY83** → the rule doesn't apply. When you choose your option, ask them to **keep LY84 on 8 Nov**. Don't take a full refund — it can refund the return too
-> - **You choose not to fly**, and LY83 still operates → call El Al **before LY83 departs** and ask them to keep the flight home · get it in writing
+> 🚨 **Protect the flight home.** If LY85 and LY84 are on one return ticket, missing LY85 without telling El Al **cancels LY84 automatically** — the no-show rule.
+> - **El Al cancels LY85** → the rule doesn't apply. When you choose your option, ask them to **keep LY84 on 8 Nov**. Don't take a full refund — it can refund the return too
+> - **You choose not to fly**, and LY85 still operates → call El Al **before LY85 departs** and ask them to keep the flight home · get it in writing
 > - **Either way:** check the El Al app afterwards — LY84 should still show seat **34D**
 
 | | |
 |---|---|
-| 1 | **Don't book anything yet.** Check the El Al app for LY83 — on a cancelled flight you choose **rebooking, a refund or a credit voucher** |
+| 1 | **Don't book anything yet.** Check the El Al app for LY85 — on a cancelled flight you choose **rebooking, a refund or a credit voucher** |
 | 2 | **Call PassportCard** — ask if war-related cancellation and rerouting are covered *before* paying for new flights. Keep every receipt |
 | 3 | **Message Intrepid** — booking **#6886724** · emergency **+86 17200311621**. If you can't make the 19th, ask where you can join late |
 | 4 | **Tell The Luxe Manor** (ref **5515516445**) and Canalis if you'll arrive late |
@@ -159,7 +163,8 @@
 
 | You arrive | What you lose |
 |---|---|
-| **Sat 17 or Sun 18 Oct** | Bangkok stopover · Big Bus · maybe the monastery — fly straight to Hong Kong if you can |
+| **Mon 12 – Fri 16 Oct** | Bangkok days only — nothing booked · fly straight to Hong Kong if it's late |
+| **Sat 17 or Sun 18 Oct** | Big Bus · maybe the monastery — fly straight to Hong Kong if you can |
 | **Mon 19 Oct**, before 18:00 | Most of Hong Kong · go straight to Harbour Plaza North Point |
 | **After 19 Oct** | Intrepid tells you where to meet the group |
 
@@ -173,8 +178,8 @@ If Ben Gurion is closed then, **stay in Bangkok** — El Al rebooks you, and you
 
 | Country | Passport | Notes |
 |---|---|---|
-| Israel | **Israeli** | Required by law to leave and enter Israel — Ben Gurion on 14 Oct and 8 Nov |
-| Thailand | **UK** — both entries | 30 days visa-free · **TDAC QR** needed for 15 Oct and 4 Nov |
+| Israel | **Israeli** | Required by law to leave and enter Israel — Ben Gurion on 10 Oct and 8 Nov |
+| Thailand | **UK** — both entries | 30 days visa-free · **TDAC QR** needed for 11 Oct and 4 Nov |
 | Hong Kong | **UK** | Visa-free |
 | **Mainland China** | **UK** | 30 days visa-free · customs declaration via **customsapp.chinaport.gov.cn**, never the Alipay mini-program |
 

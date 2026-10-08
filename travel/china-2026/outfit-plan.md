@@ -7,11 +7,12 @@ A default for every day, so you never stand over a suitcase deciding. Swap freel
 
 ---
 
-## 🌴 Bangkok + Hong Kong · 15–19 Oct · 28–32°C
+## 🌴 Bangkok + Hong Kong · 11–19 Oct · 28–32°C
 
 | Day | Doing | Wear |
 |---|---|---|
-| **Thu 15** | Flight · airport hotel | ✈ Green jumpsuit · waterproof jacket · Skechers → **evening:** bra top + bike shorts |
+| **Sun 11** | Flight · Bangkok hotel | ✈ Green jumpsuit · waterproof jacket · Skechers → **evening:** bra top + bike shorts |
+| **Mon 12 – Thu 15** | Working in Bangkok · airport hotel on the 15th | Purple cube — bra tops, shorts, playsuits, swirl short-sleeve · repeat freely |
 | **Fri 16** | Flight · open-top bus · Flat Iron | Green playsuit · Skechers · **kimono for the bus** |
 | **Sat 17** | 🛕 Monastery · Sheung Wan | **Swirl short-sleeve + H&M cropped** · Skechers · cap · kimono for evening |
 | **Sun 18** | Sham Shui Po · massage | Red playsuit · Skechers · cap |
