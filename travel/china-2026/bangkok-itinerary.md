@@ -44,7 +44,6 @@ Rooftop **Scarlett** for an evening after work
 
 ### Monday 12 · Jim Thompson House
 - Sleep in · breakfast at the hotel
-- 🧺 **Drop laundry** at a wash-and-fold shop near the hotel — ask reception · ~THB 40–60 per kg · back next day
 - **~09:45** Grab or BTS to **National Stadium**
 - **10:00** 🏡 **Jim Thompson House** — teak house and garden, Thai silk and art · guided tour · ~1 hr · open 10:00–17:00 · **tickets at the door only**
 - **~12:30** Back at the hotel · lunch
@@ -55,7 +54,7 @@ Rooftop **Scarlett** for an evening after work
 - **09:00** 💆 **Aromatherapy massage** · **Health Land Sathorn**, North Sathorn Road · ~10 min from the hotel · **book ahead**
   - Say: *"Aromatherapy oil massage, gentle pressure, no Thai stretching"* · 1½–2 hrs
 - **~11:00** 🌳 **Lumphini Park** — slow walk, nearby
-- **~12:15** 🧺 **Collect laundry** · back at the hotel · lunch
+- **~12:15** Back at the hotel · lunch
 - **13:00–21:00** 💻 Work
   - **15:00–16:30** 📅 HaFifa · Teams *(EcoVadis 15:00–15:30 alongside)*
   - **17:00–17:30** 📅 WEEE weekly status
@@ -66,7 +65,8 @@ Rooftop **Scarlett** for an evening after work
 - **08:00** 🛕 **Wat Pho** — the giant reclining Buddha · ~1½ hrs · opens 08:00
   - ⚠ **Shoulders and knees covered** — H&M cropped + kimono
   - *Optional:* ferry across the river to **Wat Arun** · ~30 min
-- **~11:30** 🛒 **Watsons or Boots, Silom** on the way back — shampoo + conditioner · body wash · moisturiser · deodorant *(never aerosol)* · razor · tweezers · **small umbrella**
+- **~11:30** 🧺 **Drop laundry** at a wash-and-fold shop near the hotel — ask reception · ~THB 40–60 per kg · ready Thursday morning
+- 🛒 **Watsons or Boots, Silom** on the way back — shampoo + conditioner · body wash · moisturiser · deodorant *(never aerosol)* · razor · tweezers · **small umbrella**
 - **~12:15** Back at the hotel
 - **13:00–21:00** 💻 Work · no meetings · **deadline done** 🎉
 
@@ -75,6 +75,7 @@ Rooftop **Scarlett** for an evening after work
 **Canalis Suvarnabhumi Airport Hotel** · 1599/1 Lat Krabang Soi 13 · ☎ +66 2 332 1555
 Booking.com **6637.638.401** · PIN 4470 · ⚠ **pay at check-in, ₪158** · no breakfast · reception open till midnight
 
+- **09:30** 🧺 **Collect laundry**
 - **10:00** 🏙 **Mahanakhon SkyWalk** — glass-floor rooftop · 5 min walk from the Pullman G · open 10:00–19:00 · ~1 hr
 - **12:00** Check out of the Pullman G · ask about a late checkout, or leave bags at the desk
 - 🚕 **Grab** from the city · 40–60 min · check in from the afternoon
