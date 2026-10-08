@@ -11,7 +11,7 @@
 
 | Where | What |
 |---|---|
-| **Hong Kong, Sun 18 Oct** | Shampoo + conditioner · body wash · moisturiser · deodorant *(roll-on or stick, never aerosol)* · small umbrella — Watsons or Mannings, on the Octopus balance |
+| **Hong Kong, Sun 18 Oct** | Shampoo + conditioner · body wash · moisturiser · deodorant *(roll-on or stick, never aerosol)* · small umbrella · razor *(disposable or cartridge)* · tweezers — Watsons or Mannings, on the Octopus balance |
 
 ---
 
@@ -27,6 +27,7 @@
 - Anker power bank 🎒 *(lithium — cabin only, never the hold)*
 - Wallet 🎒 · toilet paper 🎒 · wipes 🎒
   - **Into the wallet:** credit cards — Israeli, UK · **UK driving licence** · **Israeli ID (teudat zehut)**
+- 💻 **If the flight moves earlier:** laptop + charger — tote bag, padded sleeve, **cabin only** · *not insured for theft*
 - **Brown bag, for the plane:** AirPods · black sunglasses 🎒 · USB-C phone cable
 
 **On excursions add:** Lululemon jacket · umbrella · sunscreen · water
@@ -117,7 +118,7 @@
 
 ## 🧢 Accessories & comfort
 
-Black baseball cap 🎒 · **black sunglasses** 🎒 *(brown bag)* · neck warmer 🎒 · **warm hat** ✅ · **gloves** ✅ · earplugs 🎒 · eye mask 🎒 · hair ties ×3 🎒 · hair brush 🎒
+Black baseball cap 🎒 · **black sunglasses** 🎒 *(brown bag)* · neck warmer 🎒 · **warm hat** 🎒 · **gloves** 🎒 · earplugs 🎒 · eye mask 🎒 · hair ties ×3 🎒 · hair brush 🎒
 
 ---
 
@@ -129,10 +130,9 @@ Black baseball cap 🎒 · **black sunglasses** 🎒 *(brown bag)* · neck warme
 
 - Sunscreen stick 🎒
 - Toothbrush + toothpaste 🎒 · anti-chafe balm 🎒
-- **Razor** *(disposable or cartridge — no loose blades)* · **tweezers**
 - Sanitiser wipes 🎒
 - **Pocket tissues** 🎒 — one pack in every bag; Chinese public toilets often have no paper
-- Lip balm 🎒 · 🇭🇰 shampoo, conditioner, body wash, moisturiser, deodorant
+- Lip balm 🎒 · 🇭🇰 shampoo, conditioner, body wash, moisturiser, deodorant, razor, tweezers
 
 ## 💊 Medication
 

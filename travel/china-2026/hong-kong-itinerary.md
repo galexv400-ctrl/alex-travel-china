@@ -118,7 +118,7 @@ Uniqlo moon bag: **phone** · Monzo card · some HKD cash · **power bank + cabl
 - **16:00** MTR back to TST · ~12 min
 - **17:00** 💆 **Tai Pan Reflexology** · 83 Nathan Road, basement · booked · 5 min walk · ☎ +852 2301 1990
 - **18:15** 🛒 **Watsons or Mannings**, TST — pay with the Octopus
-  - Shampoo + conditioner · body wash · moisturiser · deodorant *(never aerosol)* · **small umbrella**
+  - Shampoo + conditioner · body wash · moisturiser · deodorant *(never aerosol)* · razor · tweezers · **small umbrella**
 - **19:30** 🍽 **Born Ga**, TST · stone-pot bibimbap, soft tofu stew · good for one
   - *Or:* **Hansung Co**, 10 Kimberley Street — bibimbap, beef stew · 5 min from the hotel
 
