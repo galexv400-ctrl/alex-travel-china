@@ -39,15 +39,18 @@ Rooftop **Scarlett** for an evening after work
 ### Sunday 11 · arrival
 - **~17:30** Check in · easy dinner nearby · early night
 
-### Monday 12 · gentle morning
+### Monday 12 · Jim Thompson House
 - Sleep in · breakfast at the hotel
-- **~09:30** 🌳 **Lumphini Park** — short, flat walk · 10 min from the hotel
-- **13:00–21:00** 💻 Work · dinner after, then bed
-
-### Tuesday 13 · Jim Thompson House
 - **~09:45** Grab or BTS to **National Stadium**
 - **10:00** 🏡 **Jim Thompson House** — teak house and garden, Thai silk and art · guided tour · ~1 hr · open 10:00–17:00 · **tickets at the door only**
 - **~12:30** Back at the hotel · lunch
+- **13:00–21:00** 💻 Work · dinner after, then bed
+
+### Tuesday 13 · aromatherapy massage
+- **09:00** 💆 **Aromatherapy massage** · **Health Land Sathorn**, North Sathorn Road · ~10 min from the hotel · **book ahead**
+  - Say: *"Aromatherapy oil massage, gentle pressure, no Thai stretching"* · 1½–2 hrs
+- **~11:00** 🌳 **Lumphini Park** — slow walk, nearby
+- **~12:15** Back at the hotel · lunch
 - **13:00–21:00** 💻 Work
 
 ### Wednesday 14 · Wat Pho
@@ -58,7 +61,6 @@ Rooftop **Scarlett** for an evening after work
 - **~11:30** 🛒 **Watsons or Boots, Silom** on the way back — shampoo + conditioner · body wash · moisturiser · deodorant *(never aerosol)* · razor · tweezers · **small umbrella**
 - **~12:15** Back at the hotel
 - **13:00–21:00** 💻 Work · **deadline done** 🎉
-- **21:15** 💆 *Optional:* massage at **Health Land Sathorn** · open till 23:00 · **book ahead** for a late slot
 
 ## Thursday 15 October — free day, then the airport hotel
 
