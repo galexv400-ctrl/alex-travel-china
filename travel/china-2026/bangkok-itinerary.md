@@ -42,11 +42,9 @@ Rooftop **Scarlett** for an evening after work
 - 💵 **ATM near the hotel** on Silom Road — Monzo, **choose baht** · take ~5,000–8,000 THB in one go
 - Easy dinner nearby · early night
 
-### Monday 12 · Jim Thompson House
+### Monday 12 · slow morning
 - Sleep in · breakfast at the hotel
-- **~09:45** Grab or BTS to **National Stadium**
-- **10:00** 🏡 **Jim Thompson House** — teak house and garden, Thai silk and art · guided tour · ~1 hr · open 10:00–17:00 · **tickets at the door only**
-- **~12:30** Back at the hotel · lunch
+- Pool or gym · get over the flight
 - **13:00–21:00** 💻 Work · dinner after, then bed
   - **18:30–20:00** 📅 Data results update · Boaz Chemtob
 
