@@ -26,21 +26,45 @@
 - 💵 **ATM in arrivals** — Monzo, choose baht
 - 🚕 **Grab** to the Pullman G · pick-up points on Level 1 · 40–60 min
 
-## Mon 12 – Wed 14 October — work days
+## Sun 11 – Thu 15 October — Pullman G, Silom
 
 🏨 **Pullman Bangkok Hotel G** · 188 Silom Road, Bang Rak · ☎ +66 2 352 4000 · near BTS Chong Nonsi
 **Check-in** Sun 11 Oct from 15:00 · **Check-out** Thu 15 Oct by 12:00
 Booking.com **6810.593.634** · PIN 4301 · Deluxe Twin with desk · breakfast included · paid
 > 💵 **THB 1,000 cash deposit** at check-in — refunded in cash at check-out. Keep it separate from spending money.
 Rooftop **Scarlett** for an evening after work
-- 💻 Finish the work deadline · Bangkok is **4 hours ahead** of Israel
-- Then rest — the Bangkok days at the end of the trip are planned
 
-## Thursday 15 October — move to the airport hotel
+> 💻 **Work 13:00–21:00** = the full Israeli day, 09:00–17:00. Mornings are yours.
+
+### Sunday 11 · arrival
+- **~17:30** Check in · easy dinner nearby · early night
+
+### Monday 12 · gentle morning
+- Sleep in · breakfast at the hotel
+- **~09:30** 🌳 **Lumphini Park** — short, flat walk · 10 min from the hotel
+- **13:00–21:00** 💻 Work · dinner after, then bed
+
+### Tuesday 13 · Jim Thompson House
+- **~09:45** Grab or BTS to **National Stadium**
+- **10:00** 🏡 **Jim Thompson House** — teak house and garden, Thai silk and art · guided tour · ~1 hr · open 10:00–17:00 · **tickets at the door only**
+- **~12:30** Back at the hotel · lunch
+- **13:00–21:00** 💻 Work
+
+### Wednesday 14 · Wat Pho
+- **~07:30** Grab to **Wat Pho** — go early, before the heat
+- **08:00** 🛕 **Wat Pho** — the giant reclining Buddha · ~1½ hrs · opens 08:00
+  - ⚠ **Shoulders and knees covered** — H&M cropped + kimono
+  - *Optional:* ferry across the river to **Wat Arun** · ~30 min
+- **~11:30** Back at the hotel
+- **13:00–21:00** 💻 Work · **deadline done** 🎉
+- **21:15** 💆 *Optional:* massage at **Health Land Sathorn** · open till 23:00 · **book ahead** for a late slot
+
+## Thursday 15 October — free day, then the airport hotel
 
 **Canalis Suvarnabhumi Airport Hotel** · 1599/1 Lat Krabang Soi 13 · ☎ +66 2 332 1555
 Booking.com **6637.638.401** · PIN 4470 · ⚠ **pay at check-in, ₪158** · no breakfast · reception open till midnight
 
+- **10:00** 🏙 **Mahanakhon SkyWalk** — glass-floor rooftop · 5 min walk from the Pullman G · open 10:00–19:00 · ~1 hr
 - **12:00** Check out of the Pullman G · ask about a late checkout, or leave bags at the desk
 - 🚕 **Grab** from the city · 40–60 min · check in from the afternoon
 - ⚠ **Book the 07:00 shuttle** at reception
