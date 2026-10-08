@@ -27,6 +27,7 @@
 - Anker power bank 🎒 *(lithium — cabin only, never the hold)*
 - Wallet 🎒 · toilet paper 🎒 · wipes 🎒
   - **Into the wallet:** credit cards — Israeli, UK · **UK driving licence** · **Israeli ID (teudat zehut)**
+- 🩸 **If the flight moves earlier:** a few pads — day bag
 - 💻 **If the flight moves earlier:** laptop + charger — tote bag, padded sleeve, **cabin only** · *not insured for theft*
 - **Brown bag, for the plane:** AirPods · black sunglasses 🎒 · USB-C phone cable
 
