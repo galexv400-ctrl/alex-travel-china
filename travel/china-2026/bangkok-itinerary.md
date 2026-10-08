@@ -29,6 +29,7 @@
 ## Mon 12 – Wed 14 October — work days
 
 🏨 **Pullman Bangkok Hotel G** · 188 Silom Road, Bang Rak · near BTS Chong Nonsi
+**Check-in** Sun 11 Oct from 15:00 · **Check-out** Thu 15 Oct by 12:00
 Booking.com · breakfast included · high-speed internet · paid · free cancellation until 9 Oct
 Rooftop **Scarlett** for an evening after work
 - 💻 Finish the work deadline · Bangkok is **4 hours ahead** of Israel
@@ -39,6 +40,7 @@ Rooftop **Scarlett** for an evening after work
 **Canalis Suvarnabhumi Airport Hotel** · 1599/1 Lat Krabang Soi 13 · ☎ +66 2 332 1555
 Booking.com **6637.638.401** · PIN 4470 · ⚠ **pay at check-in, ₪158** · no breakfast · reception open till midnight
 
+- **12:00** Check out of the Pullman G · ask about a late checkout, or leave bags at the desk
 - 🚕 **Grab** from the city · 40–60 min · check in from the afternoon
 - ⚠ **Book the 07:00 shuttle** at reception
 - 🏪 **7-Eleven** — water, breakfast, snacks for the flight
