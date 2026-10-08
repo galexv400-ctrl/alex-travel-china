@@ -44,6 +44,7 @@ Rooftop **Scarlett** for an evening after work
 
 ### Monday 12 · Jim Thompson House
 - Sleep in · breakfast at the hotel
+- 🧺 **Drop laundry** at a wash-and-fold shop near the hotel — ask reception · ~THB 40–60 per kg · back next day
 - **~09:45** Grab or BTS to **National Stadium**
 - **10:00** 🏡 **Jim Thompson House** — teak house and garden, Thai silk and art · guided tour · ~1 hr · open 10:00–17:00 · **tickets at the door only**
 - **~12:30** Back at the hotel · lunch
@@ -53,7 +54,7 @@ Rooftop **Scarlett** for an evening after work
 - **09:00** 💆 **Aromatherapy massage** · **Health Land Sathorn**, North Sathorn Road · ~10 min from the hotel · **book ahead**
   - Say: *"Aromatherapy oil massage, gentle pressure, no Thai stretching"* · 1½–2 hrs
 - **~11:00** 🌳 **Lumphini Park** — slow walk, nearby
-- **~12:15** Back at the hotel · lunch
+- **~12:15** 🧺 **Collect laundry** · back at the hotel · lunch
 - **13:00–21:00** 💻 Work
 
 ### Wednesday 14 · Wat Pho
