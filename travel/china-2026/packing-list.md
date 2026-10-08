@@ -26,8 +26,7 @@
 - Uniqlo pink puffer 🎒
 - Anker power bank 🎒 *(lithium — cabin only, never the hold)*
 - Wallet 🎒 · toilet paper 🎒 · wipes 🎒
-  - 💳 **Check where the new HSBC credit and debit cards are**
-  - **Into the wallet:** credit cards — Israeli, UK · **UK driving licence** · **Israeli ID (teudat zehut)**
+  - **Wallet:** new HSBC credit card 🎒 · **UK driving licence** 🎒 · **Israeli ID (teudat zehut)** 🎒 · Israeli credit card · HSBC debit card
 - 🩸 A few pads — day bag
 - 💻 Laptop + charger — tote bag, padded sleeve, **cabin only** · insured for theft up to $1,500 — police report needed
 - **Brown bag, for the plane:** AirPods · black sunglasses 🎒 · USB-C phone cable
@@ -37,7 +36,7 @@
 
 ### 3 · Uniqlo moon bag — worn
 - **Both passports**
-- Phone · **Monzo card** · day cash 🎒
+- Phone · **Monzo card** 🎒 · day cash 🎒
 - Hand sanitiser 🎒 *(pump spray, in a plastic bag)* · spare toilet paper 🎒
 
 > 💡 **Liners, not bags:** the **dry bag** 🎒 (damp layers, swimwear, Lao Gan Ma jars on the way home) and the **tote** 🎒 (Chatuchak and markets).
@@ -191,7 +190,7 @@ Phone · **USB-C phone cable ×1** — brown bag, for the plane · Anker 10,000m
 
 | Currency | Plan |
 |---|---|
-| **THB** | ✅ 2,000 in hand — **1,000 for the Pullman G cash deposit** (back at check-out on 15 Oct, then keep it for 4 Nov), 1,000 for taxis and food · **ATM near the Pullman G on 11 Oct** for the rest of 11–15 Oct · withdraw **~8,000 on Thu 5 Nov** |
+| **THB** | 🎒 2,000 packed — **1,000 for the Pullman G cash deposit** (back at check-out on 15 Oct, then keep it for 4 Nov), 1,000 for taxis and food · **ATM near the Pullman G on 11 Oct** for the rest of 11–15 Oct · withdraw **~8,000 on Thu 5 Nov** |
 | **HKD** | Change ~300 NIS at Ben Gurion on 10 Oct · then a **TST ATM** |
 | **CNY 1,200–1,500** | Buy in Hong Kong before 20 Oct — ATM, then a Chungking Mansions changer · covers tipping |
 | **Octopus** | ~HKD 500 · spend it down by Mon 19 Oct |
