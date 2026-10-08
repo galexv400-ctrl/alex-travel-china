@@ -77,7 +77,7 @@
 |---|---|---|---|
 | **Canalis Suvarnabhumi** · 1599/1 Lat Krabang Soi 13 · ☎ +66 2 332 1555 | Thu 15 Oct | **6637.638.401** · PIN 4470 | ₪158 · ⚠ **pay at check-in** |
 | **The Luxe Manor** · 39 Kimberley Road, TST | 16–19 Oct | **5515516445** | ₪1,397 · ✅ prepaid |
-| **Pullman Bangkok Hotel G** · 188 Silom Road, Bang Rak | 11–15 Oct | Booking.com | ₪1,552 · breakfast · ✅ paid · free cancellation until 9 Oct |
+| **Pullman Bangkok Hotel G** · 188 Silom Road, Bang Rak · ☎ +66 2 352 4000 | 11–15 Oct | **6810.593.634** · PIN 4301 | ₪1,552 · breakfast · ✅ paid |
 | *Intrepid tour hotels* | 19 Oct – 4 Nov | — | In the tour |
 | **Sindhorn Midtown** · 68 Langsuan Road · ☎ +66 2 796 8888 | 4–8 Nov | **6761.193.363** · PIN 6989 | THB 30,498.42 · ✅ paid |
 

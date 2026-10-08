@@ -28,9 +28,10 @@
 
 ## Mon 12 – Wed 14 October — work days
 
-🏨 **Pullman Bangkok Hotel G** · 188 Silom Road, Bang Rak · near BTS Chong Nonsi
+🏨 **Pullman Bangkok Hotel G** · 188 Silom Road, Bang Rak · ☎ +66 2 352 4000 · near BTS Chong Nonsi
 **Check-in** Sun 11 Oct from 15:00 · **Check-out** Thu 15 Oct by 12:00
-Booking.com · breakfast included · high-speed internet · paid · free cancellation until 9 Oct
+Booking.com **6810.593.634** · PIN 4301 · Deluxe Twin with desk · breakfast included · paid
+> 💵 **THB 1,000 cash deposit** at check-in — refunded in cash at check-out. Keep it separate from spending money.
 Rooftop **Scarlett** for an evening after work
 - 💻 Finish the work deadline · Bangkok is **4 hours ahead** of Israel
 - Then rest — the Bangkok days at the end of the trip are planned
