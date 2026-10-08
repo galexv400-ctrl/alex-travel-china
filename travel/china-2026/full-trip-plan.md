@@ -21,7 +21,7 @@
 | **Mon 12 Oct** | Bangkok | Slow morning · **work 13:00–21:00** |
 | **Tue 13 Oct** | Bangkok | Aromatherapy massage · Lumphini Park · **work 13:00–21:00** |
 | **Wed 14 Oct** | Bangkok | Pilates · laundry + shopping · **work 13:00–21:00** |
-| **Thu 15 Oct** | Bangkok | Mahanakhon SkyWalk · Canalis airport hotel |
+| **Thu 15 Oct** | Bangkok | Free morning · Canalis airport hotel |
 | **Fri 16 Oct** | ✈ → Hong Kong | 07:00 shuttle · TG628 10:30 → 14:20 · **Big Bus 19:00** |
 | **Sat 17 Oct** | Hong Kong | **Monastery 10:30** · Sheung Wan |
 | **Sun 18 Oct** | Hong Kong | Sham Shui Po · **massage 17:00** |

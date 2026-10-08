@@ -73,7 +73,7 @@ Rooftop **Scarlett** for an evening after work
 Booking.com **6637.638.401** · PIN 4470 · ⚠ **pay at check-in, ₪158** · no breakfast · reception open till midnight
 
 - **09:30** 🧺 **Collect laundry**
-- **10:00** 🏙 **Mahanakhon SkyWalk** — glass-floor rooftop · 5 min walk from the Pullman G · open 10:00–19:00 · ~1 hr
+- Slow breakfast · pool · pack
 - **12:00** Check out of the Pullman G · ask about a late checkout, or leave bags at the desk
 - 🚕 **Grab** from the city · 40–60 min · check in from the afternoon
 - ⚠ **Book the 07:00 shuttle** at reception
