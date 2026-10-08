@@ -55,7 +55,8 @@ Rooftop **Scarlett** for an evening after work
 - **08:00** 🛕 **Wat Pho** — the giant reclining Buddha · ~1½ hrs · opens 08:00
   - ⚠ **Shoulders and knees covered** — H&M cropped + kimono
   - *Optional:* ferry across the river to **Wat Arun** · ~30 min
-- **~11:30** Back at the hotel
+- **~11:30** 🛒 **Watsons or Boots, Silom** on the way back — shampoo + conditioner · body wash · moisturiser · deodorant *(never aerosol)* · razor · tweezers · **small umbrella**
+- **~12:15** Back at the hotel
 - **13:00–21:00** 💻 Work · **deadline done** 🎉
 - **21:15** 💆 *Optional:* massage at **Health Land Sathorn** · open till 23:00 · **book ahead** for a late slot
 
@@ -220,7 +221,7 @@ A walk along the river — Sarnies is the one backtrack, 10–15 min south.
 Early November is the tail of the rainy season — usually a heavy afternoon storm that clears in an hour or two, not all-day rain. Check the **Rain Radar** in the Thai weather app or Windy each morning.
 
 **Rules for any wet day**
-- ☂ **Umbrella in the moon bag** — from Hong Kong
+- ☂ **Umbrella in the moon bag** — bought in Bangkok, 14 Oct
 - 👡 **Tevas, not Skechers** — streets flood ankle-deep in minutes and dry fast
 - 🚇 **BTS and MRT over Grab** — rain doubles road times, and Grab prices surge
 - ⚡ **Thunder? Out of the pool** — the rooftop pool closes in lightning
