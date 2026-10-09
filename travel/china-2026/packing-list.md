@@ -28,7 +28,7 @@
 - Wallet 🎒 · toilet paper 🎒 · wipes 🎒
   - **Wallet:** new HSBC credit card 🎒 · **UK driving licence** 🎒 · **Israeli ID (teudat zehut)** 🎒 · Israeli credit card 🎒 · HSBC debit card 🎒
 - 🩸 A few pads 🎒 — day bag
-- 💻 Laptop + charger — tote bag, padded sleeve, **cabin only** · insured for theft up to $1,500 — police report needed
+- 💻 **Laptop bag** — laptop + charger, padded sleeve, **cabin only** (personal item) · insured for theft up to $1,500 — police report needed
 - **Brown bag, for the plane:** AirPods · black sunglasses 🎒 · USB-C phone cable 🎒
 
 **On excursions add:** Lululemon jacket · umbrella · sunscreen · water
