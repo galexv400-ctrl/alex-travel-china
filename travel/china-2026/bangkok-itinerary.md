@@ -36,7 +36,7 @@ Booking.com **6810.593.634** · PIN 4301 · Deluxe Twin with desk · breakfast i
 > 💵 **THB 1,000 cash deposit** at check-in — refunded in cash at check-out. Keep it separate from spending money.
 Rooftop **Scarlett** for an evening after work
 
-> 💻 **Work 13:00–21:00** = the full Israeli day, 09:00–17:00. Mornings are yours. Meeting times below are **Bangkok time** (Israel + 4).
+> 💻 **Work 13:30–21:30** = Israel 09:30–17:30. Mornings are yours. Meeting times below are **Bangkok time** (Israel + 4).
 
 ### Sunday 11 · arrival
 - 📱 **Set up ClassPass** — book Wednesday's Pilates, and check classes for Hong Kong too
@@ -52,7 +52,7 @@ Rooftop **Scarlett** for an evening after work
   - **Ceresia Coffee Roasters**, Tisco Tower, Sathorn · from 07:00 weekdays
 - **~11:30** 🥗 **Lunch: Farm Factory**, Silom Complex 2F · BTS Sala Daeng, near Dusit · build-your-own salad from ~THB 120
 - **~12:30** Back at the hotel
-- **13:00–21:00** 💻 Work · dinner after, then bed
+- **13:30–21:30** 💻 Work · dinner after, then bed
   - **18:30–20:00** 📅 Data results update · Boaz Chemtob
 
 ### Tuesday 13 · aromatherapy massage
@@ -61,7 +61,7 @@ Rooftop **Scarlett** for an evening after work
 - **~11:00** 🌳 **Lumphini Park** — slow walk, nearby
 - **~12:00** 🥗 **Lunch: Pimp My Salad**, 56–58 Soi Sathon 8 · salads and poke bowls · ~THB 250–380
 - **~12:45** Back at the hotel
-- **13:00–21:00** 💻 Work
+- **13:30–21:30** 💻 Work
   - **15:00–16:30** 📅 HaFifa · Teams *(EcoVadis 15:00–15:30 alongside)*
   - **17:00–17:30** 📅 WEEE weekly status
   - **17:30–18:30** 📅 Team meeting · Ivri Verbin · Teams
@@ -73,7 +73,7 @@ Rooftop **Scarlett** for an evening after work
 - 🛒 **Watsons or Boots, Silom** — shampoo + conditioner · body wash · moisturiser · deodorant *(never aerosol)* · razor · tweezers · **small umbrella**
 - **~12:00** 🥗 **Lunch: Farm Factory**, Sathorn Square G/F · BTS Chong Nonsi, by the hotel · salads from ~THB 135
 - **~12:45** Back at the hotel
-- **13:00–21:00** 💻 Work · no meetings · **deadline done** 🎉
+- **13:30–21:30** 💻 Work · no meetings · **deadline done** 🎉
 
 ## Thursday 15 October — free day, then the airport hotel
 
