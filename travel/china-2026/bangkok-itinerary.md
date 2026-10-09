@@ -21,7 +21,7 @@
 
 - **Sat 10 Oct, 20:00** 🚕 Taxi booked · **Ben Gurion, Terminal 3, by 21:05**
   - 🇮🇱 **Israeli passport** at Israeli border control · 🇬🇧 **UK passport** for El Al and Thailand
-- **00:05** ✈ **El Al LY85** to Bangkok · seat **26B**, extra legroom · Dreamliner · 11h 40m
+- **00:05** ✈ **El Al LY85** to Bangkok · seat **49G**, aisle · Dreamliner · check-in done · bag drop counters 78–99, Zone D · 11h 40m
 - **15:45** Land · 🇬🇧 **UK passport + TDAC QR** (3B6E45A) at immigration
 - 📶 **Turn on the Airalo eSIM** as you land — Airalo line ON for **data**, Israeli SIM for **voice**, **data roaming OFF** on the Israeli line · 30 days from now runs to ~10 Nov, past your flight home
 - 🚕 **Grab** to the Pullman G · pick-up points on Level 1 · 40–60 min
