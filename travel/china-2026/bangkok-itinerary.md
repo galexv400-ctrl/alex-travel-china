@@ -56,7 +56,7 @@ Rooftop **Scarlett** for an evening after work
   - **18:30–20:00** 📅 Data results update · Boaz Chemtob
 
 ### Tuesday 13 · aromatherapy massage
-- **09:00** 💆 **Aromatherapy massage** · **Health Land Sathorn**, North Sathorn Road · ~10 min from the hotel · **book ahead**
+- **09:00** 💆 **Aromatherapy massage** · **Health Land Sathorn**, North Sathorn Road · ~10 min by Grab · **cheapest: buy a Klook voucher, then reserve 09:00 with the branch** (check the voucher covers Sathorn)
   - Say: *"Aromatherapy oil massage, gentle pressure, no Thai stretching"* · 1½–2 hrs
 - **~11:00** 🌳 **Lumphini Park** — slow walk, nearby
 - **~12:00** 🥗 **Lunch: Pimp My Salad**, 56–58 Soi Sathon 8 · salads and poke bowls · ~THB 250–380
