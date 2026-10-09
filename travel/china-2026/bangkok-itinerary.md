@@ -50,7 +50,8 @@ Rooftop **Scarlett** for an evening after work
   - ⭐ **ONIBUS Coffee**, inside Dusit Central Park · pour-over · from 10:00
   - **TFD Coffee**, Convent Road · from 07:00
   - **Ceresia Coffee Roasters**, Tisco Tower, Sathorn · from 07:00 weekdays
-- **~11:30** Back at the hotel · lunch
+- **~11:30** 🥗 **Lunch: Farm Factory**, Silom Complex 2F · BTS Sala Daeng, near Dusit · build-your-own salad from ~THB 120
+- **~12:30** Back at the hotel
 - **13:00–21:00** 💻 Work · dinner after, then bed
   - **18:30–20:00** 📅 Data results update · Boaz Chemtob
 
@@ -58,7 +59,8 @@ Rooftop **Scarlett** for an evening after work
 - **09:00** 💆 **Aromatherapy massage** · **Health Land Sathorn**, North Sathorn Road · ~10 min from the hotel · **book ahead**
   - Say: *"Aromatherapy oil massage, gentle pressure, no Thai stretching"* · 1½–2 hrs
 - **~11:00** 🌳 **Lumphini Park** — slow walk, nearby
-- **~12:15** Back at the hotel · lunch
+- **~12:00** 🥗 **Lunch: Pimp My Salad**, 56–58 Soi Sathon 8 · salads and poke bowls · ~THB 250–380
+- **~12:45** Back at the hotel
 - **13:00–21:00** 💻 Work
   - **15:00–16:30** 📅 HaFifa · Teams *(EcoVadis 15:00–15:30 alongside)*
   - **17:00–17:30** 📅 WEEE weekly status
@@ -69,7 +71,8 @@ Rooftop **Scarlett** for an evening after work
 - Slow breakfast after
 - **~11:30** 🧺 **Drop laundry** at a wash-and-fold shop near the hotel — ask reception · ~THB 40–60 per kg · ready Thursday morning
 - 🛒 **Watsons or Boots, Silom** — shampoo + conditioner · body wash · moisturiser · deodorant *(never aerosol)* · razor · tweezers · **small umbrella**
-- **~12:15** Back at the hotel
+- **~12:00** 🥗 **Lunch: Farm Factory**, Sathorn Square G/F · BTS Chong Nonsi, by the hotel · salads from ~THB 135
+- **~12:45** Back at the hotel
 - **13:00–21:00** 💻 Work · no meetings · **deadline done** 🎉
 
 ## Thursday 15 October — free day, then the airport hotel
