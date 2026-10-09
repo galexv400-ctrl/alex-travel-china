@@ -327,3 +327,4 @@ Most stalls are **under roofs**, but the alleys between sections are open, they 
 | Ploenchit | Ksana Matcha |
 | Charoenkrung | 30, a COFFEE ROASTER |
 | Talat Noi | Mother Roaster · La Cabra |
+| *Maybe* · Ratchathewi | **Stockroom** · 119/80 Soi Phetchaburi 18 · glass-roofed sunroom, cup-decorating · ~09:00–17:00, check hours · ~10 min from the Sindhorn, ~25 from Silom |
