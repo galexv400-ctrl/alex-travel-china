@@ -47,9 +47,9 @@
 
 | Cube | Contents |
 |---|---|
-| 🟣 **Purple** — warm | Bike shorts 🎒 · Shein shorts 🎒 · sports shorts *(to pack)* · green + red playsuits 🎒 · kimono 🎒 · Uniqlo bra tops ×2 🎒 · swirl short-sleeve 🎒 · Asics black long-sleeve 🎒 · Dylan bra, black 🎒 · regular bra 🎒 |
-| 🩷 **Pink** — cool/cold, largest | Fleece 🎒 · mid-warms ×2 🎒 · khaki 🎒 · Shein striped shirt 🎒 · thermals ×3 🎒 · grey short-sleeve 🎒 · H&M cropped trousers ✅ *(to pack)* · Lululemon jacket 🎒 · knickers ×10 🎒 |
-| 🟤 **Brown** | Leggings ×3 🎒 · flares ×3 *(Wolven 🎒 · Manners 🎒 · Amazon ✅ to pack)* · pyjama tops ×2 🎒 · Dylan bra, green 🎒 · swimming costume 🎒 · neck warmer 🎒 |
+| 🟣 **Purple** — warm | Bike shorts 🎒 · Shein shorts 🎒 · sports shorts 🎒 · green + red playsuits 🎒 · kimono 🎒 · Uniqlo bra tops ×2 🎒 · swirl short-sleeve 🎒 · Asics black long-sleeve 🎒 · Dylan bra, black 🎒 · regular bra 🎒 |
+| 🩷 **Pink** — cool/cold, largest | Fleece 🎒 · mid-warms ×2 🎒 · khaki 🎒 · Shein striped shirt 🎒 · thermals ×3 🎒 · grey short-sleeve 🎒 · H&M cropped trousers 🎒 · Lululemon jacket 🎒 · knickers ×10 🎒 |
+| 🟤 **Brown** | Leggings ×3 🎒 · flares ×3 *(Wolven 🎒 · Manners 🎒 · Amazon 🎒)* · pyjama tops ×2 🎒 · Dylan bra, green 🎒 · swimming costume 🎒 · neck warmer 🎒 |
 | ❤️ **Red-pink** — smallest | Knickers ×10 🎒 *(other 10 in the pink cube)* · socks ×10 🎒 · thermal socks ×2 🎒 · Paloma bra (grey) 🎒 — *keep near the top* |
 | 👟 **Shoe organiser** | Asics trainers 🎒 · black Tevas 🎒 *(flip-flops loose in the case)* |
 
@@ -86,13 +86,13 @@
 
 | Item | Weather | Use |
 |---|---|---|
-| H&M cropped trousers ✅ | Warm | Temples (covers knees) · smart dinners |
+| H&M cropped trousers 🎒 | Warm | Temples (covers knees) · smart dinners |
 | Shein loose shorts, black & white 🎒 | Warm | Smart enough for Bangkok dinners |
 | Girlfriend Collective bike shorts 🎒 | Warm | Gym · Chatuchak |
-| Sports shorts, extra pair | Warm | Gym · Bangkok work days |
+| Sports shorts, extra pair 🎒 | Warm | Gym · Bangkok work days |
 | Playsuits ×2 — green, red 🎒 | Warm | Bangkok, Hong Kong |
 | Wolven flares 🎒 | Cool | Thinnest |
-| Amazon flares ✅ | Cool | Mid-weight |
+| Amazon flares 🎒 | Cool | Mid-weight |
 | Manners London flares 🎒 | Cool · Cold | Warmest · cold evenings |
 | GF leggings — float 🎒 | Cool | Thin |
 | GF leggings — regular 🎒 | Cool · Cold | Hikes |
