@@ -43,9 +43,14 @@ Rooftop **Scarlett** for an evening after work
 - 💵 **ATM near the hotel** on Silom Road — Monzo, **choose baht** · take ~5,000–8,000 THB in one go
 - Easy dinner nearby · early night
 
-### Monday 12 · slow morning
+### Monday 12 · Dusit Arun rooftop park
 - Sleep in · breakfast at the hotel
-- Pool or gym · get over the flight
+- **~09:00** 🌿 **Dusit Arun** — rooftop park on floors 4–7 of Dusit Central Park, 946 Rama IV Road, opposite Lumphini Park · gardens, waterfalls, two viewpoints · open 06:00–22:00 · ~10 min by Grab · near MRT Silom / BTS Sala Daeng
+- **~10:00** ☕ Coffee nearby:
+  - ⭐ **ONIBUS Coffee**, inside Dusit Central Park · pour-over · from 10:00
+  - **TFD Coffee**, Convent Road · from 07:00
+  - **Ceresia Coffee Roasters**, Tisco Tower, Sathorn · from 07:00 weekdays
+- **~11:30** Back at the hotel · lunch
 - **13:00–21:00** 💻 Work · dinner after, then bed
   - **18:30–20:00** 📅 Data results update · Boaz Chemtob
 
