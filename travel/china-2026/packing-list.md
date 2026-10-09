@@ -27,7 +27,7 @@
 - Anker power bank 🎒 *(lithium — cabin only, never the hold)*
 - Wallet 🎒 · toilet paper 🎒 · wipes 🎒
   - **Wallet:** new HSBC credit card 🎒 · **UK driving licence** 🎒 · **Israeli ID (teudat zehut)** 🎒 · Israeli credit card 🎒 · HSBC debit card 🎒
-- 🩸 A few pads — day bag
+- 🩸 A few pads 🎒 — day bag
 - 💻 Laptop + charger — tote bag, padded sleeve, **cabin only** · insured for theft up to $1,500 — police report needed
 - **Brown bag, for the plane:** AirPods · black sunglasses 🎒 · USB-C phone cable
 
