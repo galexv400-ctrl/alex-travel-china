@@ -36,6 +36,7 @@
 
 ### 3 · Uniqlo moon bag — worn
 - **Both passports** 🎒
+- **House keys**
 - Phone · **Monzo card** 🎒 · day cash 🎒
 - Hand sanitiser 🎒 *(pump spray, in a plastic bag)* · spare toilet paper 🎒
 
