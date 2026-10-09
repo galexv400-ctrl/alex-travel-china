@@ -204,6 +204,7 @@ A walk along the river — Sarnies is the one backtrack, 10–15 min south.
 
 - **~14:00** Leave · 🍽 lunch at **Mixt Chatuchak** next door, or back near the hotel
 - **~15:00** Hotel · shower · **afternoon off** — pool, or Peace Oriental Teahouse
+  - *Or:* ☕ **Stockroom** · 119/80 Soi Phetchaburi 18, Ratchathewi · glass sunroom, cup-decorating · ~10 min by Grab from the Sindhorn · open till ~17:00, check hours
 - 🌶 **Lao Gan Ma** · **Tops Market**, Central Chidlom basement
   - Wrap each jar in clothing, inside the **dry bag** · checked luggage only
 - **19:30** 🍽 **Mozza** · Central Chidlom · salads — Niçoise, crab and mango, beetroot carpaccio
