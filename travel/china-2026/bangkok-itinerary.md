@@ -46,7 +46,7 @@ Rooftop **Scarlett** for an evening after work
 
 ### Sunday 11 · arrival
 - 💵 **ATM near the hotel** on Silom Road — Monzo, **choose baht** · take ~5,000–8,000 THB in one go
-- 💆 **Evening:** ask reception or call **G Spa** — free 90-min aromatherapy slot **Tue 13 Oct ~09:30**? If yes, buy the **Gowabi voucher** (฿1,290) and book it
+- 💆 **~18:00, on the way out:** ask reception or call **G Spa** — free 90-min aromatherapy slot **Tue 13 Oct ~09:30**? If yes, buy the **Gowabi voucher** (฿1,290) and book it
 - 🧳 **~18:30 Suitcase · Central Chidlom** — biggest luggage section · ~15 min by Grab · open till ~22:00 · fixed prices · ask for a **promotion**
   - Ask at **information**: *"travel luggage department"* · show **แผนกกระเป๋าเดินทาง** · then ask for **American Tourister Instagon 69**, ≥ 75 L
   - 🎒 **Bring the 4 cubes + shoe organiser in the tote** — pack them into the case in the shop before paying · must close with room to spare
