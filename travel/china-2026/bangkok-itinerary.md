@@ -223,9 +223,10 @@ A walk along the river — Sarnies is the one backtrack, 10–15 min south.
 > 🚪 **Too busy?** Give sections 5–6 twenty minutes. Still shuffling? Leave:
 > ⭐ **Union Mall** — two MRT stops north, Phahon Yothin, trendy clothes at market prices · ⭐ **Siam** · **Or Tor Kor** fresh market, across the road · or give up and use Sunday morning
 
-- **~14:00** Leave · 🍽 lunch at **Mixt Chatuchak** next door, or back near the hotel
-- **~15:00** Hotel · shower · **afternoon off** — pool, or Peace Oriental Teahouse
-  - *Or:* ☕ **Stockroom** · 119/80 Soi Phetchaburi 18, Ratchathewi · glass sunroom, cup-decorating · ~10 min by Grab from the Sindhorn · open till ~17:00, check hours
+- **~14:00** Leave · **BTS Mo Chit → Ari** · 2 stops, ~5 min
+- **~14:15** 🌿 **Ari** · leafy sois, independent cafés, small boutiques · lunch here
+  - 🍽 **Lay Lao**, Phahon Yothin Soi 7 · Isan food, seafood · or any café on Soi Ari 1
+- **~16:00** **BTS Ari → Chit Lom** · ~20 min · hotel · shower · rest
 - 🌶 **Lao Gan Ma** · **Tops Market**, Central Chidlom basement
   - Wrap each jar in clothing, inside the **dry bag** · checked luggage only
 - **19:30** 🍽 **Mozza** · Central Chidlom · salads — Niçoise, crab and mango, beetroot carpaccio

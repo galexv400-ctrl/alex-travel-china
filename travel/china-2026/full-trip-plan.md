@@ -44,7 +44,7 @@
 | **Wed 4 Nov** | ✈ → Bangkok | Leave hotel **10:30** · CA959 13:45 → 18:05 |
 | **Thu 5 Nov** | Bangkok | Pool · Siam · **hot stone 16:30** |
 | **Fri 6 Nov** | Bangkok | Charoenkrung · Talat Noi · Song Wat |
-| **Sat 7 Nov** | Bangkok | Chatuchak 11:00 · afternoon off |
+| **Sat 7 Nov** | Bangkok | Chatuchak 11:00 · Ari lunch + wander |
 | **Sun 8 Nov** | ✈ → Tel Aviv | Leave 12:15 · LY84 16:30 → 22:55 |
 
 > 🍳 **Breakfast included** at The Luxe Manor and Sindhorn Midtown, and on tour on 27, 29, 30 Oct and 2 Nov.
