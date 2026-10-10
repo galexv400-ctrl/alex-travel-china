@@ -40,13 +40,13 @@
 **Check-in** Sun 11 Oct from 15:00 · **Check-out** Thu 15 Oct by 12:00
 Booking.com **6810.593.634** · PIN 4301 · Deluxe Twin with desk · breakfast included · paid
 > 💵 **THB 1,000 cash deposit** at check-in — refunded in cash at check-out. Keep it separate from spending money.
-> 💆 **At check-in:** ask if **G Spa** has a 90-min aromatherapy slot **Tue 13 Oct ~09:30** for a Gowabi voucher.
 Rooftop **Scarlett** for an evening after work
 
 > 💻 **Work 13:30–21:30** = Israel 09:30–17:30. Mornings are yours. Meeting times below are **Bangkok time** (Israel + 4).
 
 ### Sunday 11 · arrival
 - 💵 **ATM near the hotel** on Silom Road — Monzo, **choose baht** · take ~5,000–8,000 THB in one go
+- 💆 **Evening:** ask reception or call **G Spa** — free 90-min aromatherapy slot **Tue 13 Oct ~09:30**? If yes, buy the **Gowabi voucher** (฿1,290) and book it
 - Easy dinner nearby · early night
 
 ### Monday 12 · Dusit Arun rooftop park
