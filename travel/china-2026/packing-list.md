@@ -1,6 +1,6 @@
 # Packing List
 
-> ✅ **Weighed after the trial pack — under 15kg.**
+> ✅ **Weighed — under 15kg.**
 
 **Key:** 🎒 packed · ✅ have · 🛒 to buy · 📱 on phone · 📍 find it
 **Weather:** `Warm` 25–32°C (Bangkok, Hong Kong) · `Cool` 14–23°C (Chongqing → Shanghai) · `Cold` 1–15°C (Xi'an, Great Wall, Beijing)

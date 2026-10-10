@@ -53,7 +53,7 @@ Rooftop **Scarlett** for an evening after work
   - **4 spinner wheels** · **≥ 75 litres on the tag** (backpack is 70 L) · ≤4 kg empty
   - ⭐ **American Tourister Instagon Spinner 69 EXP** · 80 L, 89 L expanded · 3.7 kg
   - *Or:* **American Tourister Linex Spinner 76** · 102 L · 4 kg · roomier, bulkier
-  - *Or:* **Samsonite C-Lite / Cosmolite 75 cm** · lightest · pricey
+  - *Or:* **Samsonite C-Lite / Cosmolite 75 cm** · ~90 L+ · under 3 kg · lightest · pricey · check the tag
   - ❌ **Too small:** Linex 66 (63 L) · Curio 69 (69 L) · Cosmolite / C-Lite 69 (68 L)
   - Check: double wheels · **TSA lock** · top + side handles · telescopic handle barely wobbles
   - **Fair prices:** American Tourister THB 4,000–7,000 · Samsonite 75 cm THB 15,000–25,000 · ask for a promotion
@@ -99,7 +99,7 @@ Rooftop **Scarlett** for an evening after work
 ### ☔ If it rains in the morning · 11–15 Oct
 | Day | Outdoor part | Instead |
 |---|---|---|
-| **Sun 11** | Walk to dinner | **Grab Food** sushi to the hotel, or Grab to Thaniya Road |
+| **Sun 11** | Central Chidlom | **Grab** both ways · dinner in the mall |
 | **Mon 12** | Dusit Arun rooftop | **Dusit Central Park mall** — same building, indoors · ONIBUS coffee · Silom Complex lunch, linked to BTS Sala Daeng |
 | **Tue 13** | Lumphini Park | Skip it · long coffee after the massage · **Grab** to Pimp My Salad |
 | **Wed 14** | Walk to Watsons | **BTS or Grab** |

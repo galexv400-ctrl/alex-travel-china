@@ -47,7 +47,7 @@
 | **Sat 7 Nov** | Bangkok | Chatuchak 11:00 · Ari lunch + wander |
 | **Sun 8 Nov** | ✈ → Tel Aviv | Leave 12:15 · LY84 16:30 → 22:55 |
 
-> 🍳 **Breakfast included** at The Luxe Manor and Sindhorn Midtown, and on tour on 27, 29, 30 Oct and 2 Nov.
+> 🍳 **Breakfast included** at the Pullman G, The Luxe Manor and Sindhorn Midtown, and on tour on 27, 29, 30 Oct and 2 Nov.
 
 ---
 

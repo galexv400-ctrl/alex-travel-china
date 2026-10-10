@@ -4,7 +4,7 @@
 
 | | |
 |---|---|
-| 🆘 **Intrepid 24-hr emergency** | **+86 17200311621** · booking **#6886724** |
+| 🆘 **Intrepid 24-hr emergency** | **+86 17200311621** |
 | Tour | Intrepid *China Adventure* · group tour with a local leader |
 
 ---
