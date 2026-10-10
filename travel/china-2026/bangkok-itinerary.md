@@ -59,7 +59,7 @@ Rooftop **Scarlett** for an evening after work
   - **Fair prices:** American Tourister THB 4,000–7,000 · Samsonite 75 cm THB 15,000–25,000 · ask for a promotion
   - 🧾 **VAT refund form** at the counter (spend ≥ THB 2,000) · **UK passport** · stamp it at Suvarnabhumi on 16 Oct
   - Not there → **CentralWorld** · ~10 min walk on the covered skywalk from Chit Lom · biggest choice · check the directory screens
-  - Tired? **Central Department Store, Silom Complex** · next to the hotel · smaller choice
+  - Tired? **Central Department Store, Silom Complex** · ~10 min by Grab, or BTS Chong Nonsi → Sala Daeng, 1 stop · smaller choice
 - Easy dinner in the mall or nearby · repack · early night
 
 ### Monday 12 · Dusit Arun rooftop park
