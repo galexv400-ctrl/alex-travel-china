@@ -113,8 +113,12 @@ Rooftop **Scarlett** for an evening after work
 Booking.com **6637.638.401** · PIN 4470 · ⚠ **pay at check-in, ₪158** · no breakfast · reception open till midnight
 
 - Slow breakfast · pool · pack
+- 🎒 **Backpack + laptop → storage until 4 Nov**
+  - 📧 **Email Sindhorn Midtown by Mon 12** · ☎ +66 2 796 8888 · *"Hello, I have a booking from 4 to 8 November (Booking.com 6761.193.363). Could you store one bag for me from 15 October until my check-in on 4 November? Thank you, Alexandra Segall"*
+  - **Yes →** Grab to the Sindhorn, 68 Langsuan Road, after check-out · ~20 min · get a **receipt** · laptop: back it up, sign out of work, password on, photograph it
+  - **No →** **Suvarnabhumi left-luggage** on Fri 16 Oct before the flight · 24 h · ~THB 2,000 for 20 days · ask if electronics are accepted
 - **12:00** Check out of the Pullman G · ask about a late checkout, or leave bags at the desk
-- 🚕 **Grab** from the city · 40–60 min · check in from the afternoon
+- 🚕 **Grab** to the Canalis · 40–60 min · check in from the afternoon
 - ⚠ **Book the 07:00 shuttle** at reception
 - 🏪 **7-Eleven** — water, breakfast, snacks for the flight
 - Room service until 21:30 · pool and gym if you want them
