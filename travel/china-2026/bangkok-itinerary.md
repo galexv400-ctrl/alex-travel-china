@@ -47,7 +47,10 @@ Rooftop **Scarlett** for an evening after work
 ### Sunday 11 · arrival
 - 💵 **ATM near the hotel** on Silom Road — Monzo, **choose baht** · take ~5,000–8,000 THB in one go
 - 💆 **Evening:** ask reception or call **G Spa** — free 90-min aromatherapy slot **Tue 13 Oct ~09:30**? If yes, buy the **Gowabi voucher** (฿1,290) and book it
-- Easy dinner nearby · early night
+- 🧳 **~18:30 Suitcase · Central Department Store, Silom Complex** — luggage section · BTS Sala Daeng · mall open till 22:00 · **American Tourister, polycarbonate, 24"** · ~THB 3,000–4,000 · ask for a promotion
+  - Check: **≤3 kg** empty · **4 double spinner wheels** · **TSA lock** · top + side handles · telescopic handle barely wobbles
+  - Not there → **Central Chidlom**, open till ~22:00
+- Easy dinner in the mall or nearby · repack · early night
 
 ### Monday 12 · Dusit Arun rooftop park
 - Sleep in · breakfast at the hotel
