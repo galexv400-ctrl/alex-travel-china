@@ -73,7 +73,7 @@ Rooftop **Scarlett** for an evening after work
   - **17:30–18:30** 📅 Team meeting · Ivri Verbin · Teams
 
 ### Wednesday 14 · Pilates
-- **~08:30** 🧘 **Reformer Pilates** · near the hotel — e.g. **Isora Wellness**, Sathorn Soi 12 · book on **ClassPass** · check drop-in + English
+- **~08:30** 🧘 **Reformer Pilates** · near the hotel — e.g. **Isora Wellness**, Sathorn Soi 12 · message the studio or ask reception · **grip socks needed** — buy at the studio, ~THB 200–400
 - Slow breakfast after
 - 🛒 **Watsons or Boots, Silom** — shampoo + conditioner · body wash · moisturiser · deodorant *(never aerosol)* · razor · tweezers · **small umbrella**
 - **~12:00** 🥗 **Lunch: Farm Factory**, Sathorn Square G/F · BTS Chong Nonsi, by the hotel · salads from ~THB 135
