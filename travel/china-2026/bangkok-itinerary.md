@@ -49,9 +49,13 @@ Rooftop **Scarlett** for an evening after work
 - 💆 **Evening:** ask reception or call **G Spa** — free 90-min aromatherapy slot **Tue 13 Oct ~09:30**? If yes, buy the **Gowabi voucher** (฿1,290) and book it
 - 🧳 **~18:30 Suitcase · Central Chidlom** — biggest luggage section · ~15 min by Grab · open till ~22:00 · fixed prices · ask for a **promotion**
   - 🎒 **Bring the 4 cubes + shoe organiser in the tote** — pack them into the case in the shop before paying · must close with room to spare
-  - **4 spinner wheels**, **≥ 75 litres on the tag** (backpack is 70 L) · usually **26" / 69–72 cm** · not 28" · ⭐ **American Tourister Linex** · or **Instagon / Curio** · **Samsonite Cosmolite** if on sale
-  - Check: **≤3.5 kg** empty · double wheels · **TSA lock** · top + side handles · telescopic handle barely wobbles
-  - **Fair prices:** AT Linex THB 3,500–6,000 · Instagon / Curio 3,000–5,500 · Cosmolite 12,000–20,000 · Caggioni 1,500–3,500 · 26" a little more · **aim for ~3,500–5,000**
+  - **4 spinner wheels** · **≥ 75 litres on the tag** (backpack is 70 L) · ≤4 kg empty
+  - ⭐ **American Tourister Instagon Spinner 69 EXP** · 80 L, 89 L expanded · 3.7 kg
+  - *Or:* **American Tourister Linex Spinner 76** · 102 L · 4 kg · roomier, bulkier
+  - *Or:* **Samsonite C-Lite / Cosmolite 75 cm** · lightest · pricey
+  - ❌ **Too small:** Linex 66 (63 L) · Curio 69 (69 L) · Cosmolite / C-Lite 69 (68 L)
+  - Check: double wheels · **TSA lock** · top + side handles · telescopic handle barely wobbles
+  - **Fair prices:** American Tourister THB 4,000–7,000 · Samsonite 75 cm THB 15,000–25,000 · ask for a promotion
   - 🧾 **VAT refund form** at the counter (spend ≥ THB 2,000) · **UK passport** · stamp it at Suvarnabhumi on 16 Oct
   - Tired? **Central Department Store, Silom Complex** · next to the hotel · smaller choice
 - Easy dinner in the mall or nearby · repack · early night
