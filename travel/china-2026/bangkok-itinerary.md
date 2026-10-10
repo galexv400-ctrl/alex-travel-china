@@ -81,6 +81,7 @@ Rooftop **Scarlett** for an evening after work
 - **~12:15** 🥗 **Lunch: Farm Factory**, Sathorn Square G/F · BTS Chong Nonsi, by the hotel · salads from ~THB 135
 - **~13:00** Back at the hotel
 - **13:30–21:30** 💻 Work · no meetings · **deadline done** 🎉
+  - **~18:45** 🥩 **Dinner break: Meatchop**, Sala Daeng · steak + tapas · check hours · *or:* **Santa Fe' Steak / Sizzler**, Silom Complex
 
 ### ☔ If it rains in the morning · 11–15 Oct
 | Day | Outdoor part | Instead |
