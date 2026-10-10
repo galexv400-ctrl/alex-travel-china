@@ -48,6 +48,7 @@ Rooftop **Scarlett** for an evening after work
 - 💵 **ATM near the hotel** on Silom Road — Monzo, **choose baht** · take ~5,000–8,000 THB in one go
 - 💆 **Evening:** ask reception or call **G Spa** — free 90-min aromatherapy slot **Tue 13 Oct ~09:30**? If yes, buy the **Gowabi voucher** (฿1,290) and book it
 - 🧳 **~18:30 Suitcase · Central Chidlom** — biggest luggage section · ~15 min by Grab · open till ~22:00 · fixed prices · ask for a **promotion**
+  - Ask at **information**: *"travel luggage department"* · show **แผนกกระเป๋าเดินทาง** · then ask for **American Tourister Instagon 69**, ≥ 75 L
   - 🎒 **Bring the 4 cubes + shoe organiser in the tote** — pack them into the case in the shop before paying · must close with room to spare
   - **4 spinner wheels** · **≥ 75 litres on the tag** (backpack is 70 L) · ≤4 kg empty
   - ⭐ **American Tourister Instagon Spinner 69 EXP** · 80 L, 89 L expanded · 3.7 kg
@@ -57,6 +58,7 @@ Rooftop **Scarlett** for an evening after work
   - Check: double wheels · **TSA lock** · top + side handles · telescopic handle barely wobbles
   - **Fair prices:** American Tourister THB 4,000–7,000 · Samsonite 75 cm THB 15,000–25,000 · ask for a promotion
   - 🧾 **VAT refund form** at the counter (spend ≥ THB 2,000) · **UK passport** · stamp it at Suvarnabhumi on 16 Oct
+  - Not there → **CentralWorld** · ~10 min walk on the covered skywalk from Chit Lom · biggest choice · check the directory screens
   - Tired? **Central Department Store, Silom Complex** · next to the hotel · smaller choice
 - Easy dinner in the mall or nearby · repack · early night
 
