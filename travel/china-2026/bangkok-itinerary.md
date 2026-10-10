@@ -73,7 +73,7 @@ Rooftop **Scarlett** for an evening after work
 
 ### Wednesday 14 · Pilates
 - **~08:30** 🍳 Slow breakfast
-- **~09:30** 🛒 **Watsons or Boots, Silom** — shampoo + conditioner · body wash · moisturiser · deodorant *(never aerosol)* · razor · tweezers · **small umbrella**
+- **~09:30** 🛒 **Watsons, Silom** *(Boots in Silom Complex opens ~10:30)* — shampoo + conditioner · body wash · moisturiser · deodorant *(never aerosol)* · razor · tweezers · **small umbrella**
 - **~10:30** Leave for Pilates · Grab ~10 min
 - **11:00** 🧘 **Reformer Pilates · Isora Wellness**, Sathorn Soi 12 · **3-class trial pack, THB 2,550** — two classes left for 4–8 Nov · **grip socks needed** — buy at the studio, ~THB 200–400
 - **~12:15** 🥗 **Lunch: Farm Factory**, Sathorn Square G/F · BTS Chong Nonsi, by the hotel · salads from ~THB 135
@@ -115,10 +115,10 @@ Booking.com **6637.638.401** · PIN 4470 · ⚠ **pay at check-in, ₪158** · n
 ---
 
 **Sindhorn Midtown** · 68 Langsuan Road, Lumphini · ☎ +66 2 796 8888
-
-🧘 **2 Pilates classes left** on the Isora trial pack · Sathorn Soi 12 · ~10–15 min by Grab, 20–25 at rush hour · or BTS Chit Lom/Ratchadamri → Chong Nonsi
 Booking.com **6761.193.363** · PIN 6989 · room with private bathroom · breakfast included · ✅ paid
 Pool 18F · gym 19F · saunas
+
+🧘 **2 Pilates classes left** on the Isora trial pack · Sathorn Soi 12 · ~10–15 min by Grab, 20–25 at rush hour · or BTS Chit Lom/Ratchadamri → Chong Nonsi
 
 ## Day 1 — Wednesday 4 November: Arrival
 
