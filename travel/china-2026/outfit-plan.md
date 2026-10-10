@@ -20,7 +20,7 @@ A default for every day, so you never stand over a suitcase deciding. Swap freel
 
 > 🛕 **Sat 17 needs shoulders and knees covered** — the swirl short-sleeve and H&M cropped do both.
 
-> 🧺 **Laundry:** Bangkok, drop Wed 14 · collect Thu 15. *Optional in Hong Kong* only if there's a cheap same-day shop near the hotel.
+> 🧺 **Laundry:** one wash, Hong Kong — drop Sun 18 ~10:00, collect Mon 19 ~10:45. Then into China clean.
 
 ---
 
