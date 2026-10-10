@@ -75,18 +75,27 @@ Rooftop **Scarlett** for an evening after work
 ### Wednesday 14 · Pilates
 - **~08:30** 🧘 **Reformer Pilates** · near the hotel — e.g. **Isora Wellness**, Sathorn Soi 12 · book on **ClassPass** · check drop-in + English
 - Slow breakfast after
-- **~11:30** 🧺 **Drop laundry** at a wash-and-fold shop near the hotel — ask reception · ~THB 40–60 per kg · ready Thursday morning
 - 🛒 **Watsons or Boots, Silom** — shampoo + conditioner · body wash · moisturiser · deodorant *(never aerosol)* · razor · tweezers · **small umbrella**
 - **~12:00** 🥗 **Lunch: Farm Factory**, Sathorn Square G/F · BTS Chong Nonsi, by the hotel · salads from ~THB 135
 - **~12:45** Back at the hotel
 - **13:30–21:30** 💻 Work · no meetings · **deadline done** 🎉
+
+### ☔ If it rains in the morning · 11–15 Oct
+| Day | Outdoor part | Instead |
+|---|---|---|
+| **Sun 11** | Walk to dinner | **Grab Food** sushi to the hotel, or Grab to Thaniya Road |
+| **Mon 12** | Dusit Arun rooftop | **Dusit Central Park mall** — same building, indoors · ONIBUS coffee · Silom Complex lunch, linked to BTS Sala Daeng |
+| **Tue 13** | Lumphini Park | Skip it · long coffee after the massage · **Grab** to Pimp My Salad |
+| **Wed 14** | Walk to Watsons | **BTS or Grab** |
+| **Thu 15** | Grab to Canalis | **Leave 30 min earlier** — rain slows the roads |
+
+> ☂ **No umbrella until Wednesday** — if rain is forecast sooner, any 7-Eleven, ~THB 100 · Tevas, not trainers · storms usually pass in 1–2 hrs
 
 ## Thursday 15 October — free day, then the airport hotel
 
 **Canalis Suvarnabhumi Airport Hotel** · 1599/1 Lat Krabang Soi 13 · ☎ +66 2 332 1555
 Booking.com **6637.638.401** · PIN 4470 · ⚠ **pay at check-in, ₪158** · no breakfast · reception open till midnight
 
-- **09:30** 🧺 **Collect laundry**
 - Slow breakfast · pool · pack
 - **12:00** Check out of the Pullman G · ask about a late checkout, or leave bags at the desk
 - 🚕 **Grab** from the city · 40–60 min · check in from the afternoon
