@@ -75,7 +75,7 @@ Rooftop **Scarlett** for an evening after work
 - **~08:00** 🍳 Breakfast
 - **~09:00** 🛒 **Watsons, Silom** *(Boots in Silom Complex opens ~10:30)* — shampoo + conditioner · body wash · moisturiser · deodorant *(never aerosol)* · **small umbrella**
 - **~10:10** Leave for Pilates · Grab ~10 min · **be at the studio by 10:30**
-- **11:00** 🧘 **Reformer Pilates · Isora Wellness**, Sathorn Soi 12 · **drop-in, THB 950** · **grip socks needed** — buy at the studio, ~THB 200–400
+- **11:00** 🧘 **Reformer Pilates · Isora Wellness**, Sathorn Soi 12 · **drop-in ✅ paid** (THB 978.50, Monzo) · **grip socks needed** — buy at the studio, ~THB 200–400
 - **~12:15** 🥗 **Lunch: Farm Factory**, Sathorn Square G/F · BTS Chong Nonsi, by the hotel · salads from ~THB 135
 - **~13:00** Back at the hotel
 - **13:30–21:30** 💻 Work · no meetings · **deadline done** 🎉
