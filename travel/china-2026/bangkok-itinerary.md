@@ -48,9 +48,10 @@ Rooftop **Scarlett** for an evening after work
 - 💵 **ATM near the hotel** on Silom Road — Monzo, **choose baht** · take ~5,000–8,000 THB in one go
 - 💆 **Evening:** ask reception or call **G Spa** — free 90-min aromatherapy slot **Tue 13 Oct ~09:30**? If yes, buy the **Gowabi voucher** (฿1,290) and book it
 - 🧳 **~18:30 Suitcase · Central Chidlom** — biggest luggage section · ~15 min by Grab · open till ~22:00 · fixed prices · ask for a **promotion**
-  - **4 spinner wheels**, 24" / 66–69 cm · ⭐ **American Tourister Linex** · or **Instagon / Curio** · **Samsonite Cosmolite** if on sale
-  - Check: **≤3 kg** empty · double wheels · **TSA lock** · top + side handles · telescopic handle barely wobbles
-  - **Fair prices:** AT Linex THB 3,500–6,000 · Instagon / Curio 3,000–5,500 · Cosmolite 12,000–20,000 · Caggioni 1,500–3,500 · **aim for ~3,000–4,500**
+  - 🎒 **Bring the 4 cubes + shoe organiser in the tote** — pack them into the case in the shop before paying · must close with room to spare
+  - **4 spinner wheels**, **26" / 68–72 cm** · not 28" · ⭐ **American Tourister Linex** · or **Instagon / Curio** · **Samsonite Cosmolite** if on sale
+  - Check: **≤3.5 kg** empty · double wheels · **TSA lock** · top + side handles · telescopic handle barely wobbles
+  - **Fair prices:** AT Linex THB 3,500–6,000 · Instagon / Curio 3,000–5,500 · Cosmolite 12,000–20,000 · Caggioni 1,500–3,500 · 26" a little more · **aim for ~3,500–5,000**
   - 🧾 **VAT refund form** at the counter (spend ≥ THB 2,000) · **UK passport** · stamp it at Suvarnabhumi on 16 Oct
   - Tired? **Central Department Store, Silom Complex** · next to the hotel · smaller choice
 - Easy dinner in the mall or nearby · repack · early night
