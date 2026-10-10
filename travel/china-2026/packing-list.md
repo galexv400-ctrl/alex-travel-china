@@ -29,14 +29,14 @@
   - **Wallet:** new HSBC credit card 🎒 · **UK driving licence** 🎒 · **Israeli ID (teudat zehut)** 🎒 · Israeli credit card 🎒 · HSBC debit card 🎒
 - 🩸 A few pads 🎒 — day bag
 - 💻 **Laptop bag** — laptop + charger 🎒, padded sleeve, **cabin only** (personal item) · insured for theft up to $1,500 — police report needed
-- **Brown bag, for the plane:** AirPods · black sunglasses 🎒 · USB-C phone cable 🎒
+- **Brown bag, for the plane:** AirPods 🎒 · black sunglasses 🎒 · USB-C phone cable 🎒
 
 **On excursions add:** Lululemon jacket · umbrella · sunscreen · water
 **Great Wall, 1 Nov:** dry BL500 thermal · warm hat · gloves · neck warmer
 
 ### 3 · Uniqlo moon bag — worn
 - **Both passports** 🎒
-- **House keys**
+- **House keys** 🎒
 - Phone · **Monzo card** 🎒 · day cash 🎒
 - Hand sanitiser 🎒 *(pump spray, in a plastic bag)* · spare toilet paper 🎒
 
@@ -145,7 +145,7 @@ SSRI 🎒 · thyroid 🎒 · ibuprofen 🎒 · back pain meds 🎒 · iron 🎒 
 
 ## 🔌 Tech
 
-Phone · **USB-C phone cable ×1** 🎒 — brown bag, for the plane · Anker 10,000mAh power bank 🎒 *(CCC-certified — required on Chinese flights)* · universal adapter 🎒 · AirPods *(brown bag)*
+Phone · **USB-C phone cable ×1** 🎒 — brown bag, for the plane · Anker 10,000mAh power bank 🎒 *(CCC-certified — required on Chinese flights)* · universal adapter 🎒 · AirPods 🎒 *(brown bag)*
 
 ---
 
