@@ -45,7 +45,7 @@ Rooftop **Scarlett** for an evening after work
 > 💻 **Work 13:30–21:30** = Israel 09:30–17:30. Mornings are yours. Meeting times below are **Bangkok time** (Israel + 4).
 
 ### Sunday 11 · arrival
-- 💵 **ATM near the hotel** on Silom Road — Monzo, **choose baht** · take ~5,000–8,000 THB in one go
+- 💵 **Cash:** ~5,500 THB with you — enough for 11–15 Oct · no ATM needed
 - 💆 **~18:00, on the way out:** ask reception or call **G Spa** — free 90-min aromatherapy slot **Tue 13 Oct ~09:30**? If yes, buy the **Gowabi voucher** (฿1,290) and book it
 - 🧳 **~18:30 Suitcase · Central Chidlom** — biggest luggage section · ~15 min by Grab · open till ~22:00 · fixed prices · ask for a **promotion**
   - Ask at **information**: *"travel luggage department"* · show **แผนกกระเป๋าเดินทาง** · then ask for **American Tourister Instagon 69**, ≥ 75 L
