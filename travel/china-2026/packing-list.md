@@ -11,7 +11,7 @@
 
 | Where | What |
 |---|---|
-| **Bangkok, Wed 14 Oct** | Shampoo + conditioner · body wash · moisturiser · deodorant *(roll-on or stick, never aerosol)* · small umbrella · razor *(disposable or cartridge)* · tweezers — Watsons or Boots, Silom |
+| **Bangkok, Wed 14 Oct** | Shampoo + conditioner · body wash · moisturiser · deodorant *(roll-on or stick, never aerosol)* · small umbrella — Watsons, Silom |
 
 ---
 
@@ -135,7 +135,7 @@ Black baseball cap 🎒 · **black sunglasses** 🎒 *(brown bag)* · neck warme
 - Toothbrush + toothpaste 🎒 · anti-chafe balm 🎒
 - Sanitiser wipes 🎒
 - **Pocket tissues** 🎒 — one pack in every bag; Chinese public toilets often have no paper
-- Lip balm 🎒 · 🇹🇭 shampoo, conditioner, body wash, moisturiser, deodorant, razor, tweezers
+- Lip balm 🎒 · 🇹🇭 shampoo, conditioner, body wash, moisturiser, deodorant · razor 🎒 · tweezers 🎒
 
 ## 💊 Medication
 
