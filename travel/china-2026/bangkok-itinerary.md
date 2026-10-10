@@ -40,6 +40,7 @@
 **Check-in** Sun 11 Oct from 15:00 · **Check-out** Thu 15 Oct by 12:00
 Booking.com **6810.593.634** · PIN 4301 · Deluxe Twin with desk · breakfast included · paid
 > 💵 **THB 1,000 cash deposit** at check-in — refunded in cash at check-out. Keep it separate from spending money.
+> 💆 **At check-in:** ask if **G Spa** has a 90-min aromatherapy slot **Tue 13 Oct ~09:30** for a Gowabi voucher.
 Rooftop **Scarlett** for an evening after work
 
 > 💻 **Work 13:30–21:30** = Israel 09:30–17:30. Mornings are yours. Meeting times below are **Bangkok time** (Israel + 4).
@@ -61,9 +62,10 @@ Rooftop **Scarlett** for an evening after work
   - **18:30–20:00** 📅 Data results update · Boaz Chemtob
 
 ### Tuesday 13 · aromatherapy massage
-- **09:00** 💆 **Aromatherapy massage** · **Health Land Sathorn**, North Sathorn Road · ~10 min by Grab · **cheapest: buy a Klook voucher, then reserve 09:00 with the branch** (check the voucher covers Sathorn)
-  - Say: *"Aromatherapy oil massage, gentle pressure, no Thai stretching"* · 1½–2 hrs
-- **~11:00** 🌳 **Lumphini Park** — slow walk, nearby
+- **~09:30** 💆 **Hot oil aromatherapy massage, 90 min** · **G Spa, in the hotel** · **Gowabi voucher ฿1,290** — ask reception on Sunday if Tuesday morning is free, then buy
+  - *If not:* **Health Land Sathorn**, North Sathorn Road · ~10 min by Grab · from 09:00
+  - Say: *"Aromatherapy oil massage, gentle pressure, no Thai stretching"*
+- **~11:15** 🌳 **Lumphini Park** — short slow walk, nearby
 - **~12:00** 🥗 **Lunch: Pimp My Salad**, 56–58 Soi Sathon 8 · salads and poke bowls · ~THB 250–380
 - **~12:45** Back at the hotel
 - **13:30–21:30** 💻 Work
