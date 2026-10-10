@@ -47,9 +47,12 @@ Rooftop **Scarlett** for an evening after work
 ### Sunday 11 · arrival
 - 💵 **ATM near the hotel** on Silom Road — Monzo, **choose baht** · take ~5,000–8,000 THB in one go
 - 💆 **Evening:** ask reception or call **G Spa** — free 90-min aromatherapy slot **Tue 13 Oct ~09:30**? If yes, buy the **Gowabi voucher** (฿1,290) and book it
-- 🧳 **~18:30 Suitcase · Central Department Store, Silom Complex** — luggage section · BTS Sala Daeng · mall open till 22:00 · **American Tourister, polycarbonate, 24"** · ~THB 3,000–4,000 · ask for a promotion
-  - Check: **≤3 kg** empty · **4 double spinner wheels** · **TSA lock** · top + side handles · telescopic handle barely wobbles
-  - Not there → **Central Chidlom**, open till ~22:00
+- 🧳 **~18:30 Suitcase · Central Chidlom** — biggest luggage section · ~15 min by Grab · open till ~22:00 · fixed prices · ask for a **promotion**
+  - **4 spinner wheels**, 24" / 66–69 cm · ⭐ **American Tourister Linex** · or **Instagon / Curio** · **Samsonite Cosmolite** if on sale
+  - Check: **≤3 kg** empty · double wheels · **TSA lock** · top + side handles · telescopic handle barely wobbles
+  - **Fair prices:** AT Linex THB 3,500–6,000 · Instagon / Curio 3,000–5,500 · Cosmolite 12,000–20,000 · Caggioni 1,500–3,500 · **aim for ~3,000–4,500**
+  - 🧾 **VAT refund form** at the counter (spend ≥ THB 2,000) · **UK passport** · stamp it at Suvarnabhumi on 16 Oct
+  - Tired? **Central Department Store, Silom Complex** · next to the hotel · smaller choice
 - Easy dinner in the mall or nearby · repack · early night
 
 ### Monday 12 · Dusit Arun rooftop park
