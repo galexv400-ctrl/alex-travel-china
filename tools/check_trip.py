@@ -18,7 +18,7 @@ FAMILY = ROOT / "family" / "where-alexandra-is.md"   # shared with family — no
 
 # Never on the family page: (regex, why)
 PRIVATE = [
-    (r"PIN|\b\d{4}\.\d{3}\.\d{3}\b|\b5515\d+|BLR\d+|XF7\w+|EASDQZ|ECFV7Q|MESQ54|e-ticket|[Ss]eat \d|12956761|99987084", "Booking refs, PINs and seats stay private"),
+    (r"PIN|\b\d{4}\.\d{3}\.\d{3}\b|\b5515\d+|BLR\d+|XF7\w+|EASDQZ|ECFV7Q|MESQ54|e-ticket|[Ss]eat \d|12956761|99987084|6886724", "Booking refs, PINs and seats stay private"),
     (r"₪|\$\d|£|THB|HKD|CNY|¥|[Pp]aid|[Cc]ost", "Money stays private"),
     (r"(?i)48 hours|no word", "No 48-hour rule on the family page"),
     (r"(?i)passport|alipay|monzo|card|ssri|medication|pill|azithro|imodium|kalbeten|vaccin|packing|outfit|bra\b|knickers", "Personal details stay private"),
