@@ -72,6 +72,7 @@ Rooftop **Scarlett** for an evening after work
 - **~11:30** 🥗 **Lunch: Farm Factory**, Silom Complex 2F · BTS Sala Daeng, near Dusit · build-your-own salad from ~THB 120
 - **~12:30** Back at the hotel
 - **13:30–21:30** 💻 Work · dinner after, then bed
+  - **15:00** 📅 Meeting *(11:00 Israel)*
   - **18:30–20:00** 📅 Data results update · Boaz Chemtob
 
 ### Tuesday 13 · aromatherapy massage
