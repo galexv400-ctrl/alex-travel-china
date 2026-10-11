@@ -42,6 +42,8 @@ Booking.com **6810.593.634** · PIN 4301 · Deluxe Twin with desk · breakfast i
 > 💵 **THB 1,000 cash deposit** at check-in — refunded in cash at check-out. Keep it separate from spending money.
 Rooftop **Scarlett** for an evening after work
 
+> 🚕 **Grab takes 10–15 min to arrive** — book it before you're ready to leave. No car after 5 min? Public taxi.
+
 > 💻 **Work 13:30–21:30** = Israel 09:30–17:30. Mornings are yours. Meeting times below are **Bangkok time** (Israel + 4).
 
 ### Sunday 11 · arrival
@@ -78,7 +80,7 @@ Rooftop **Scarlett** for an evening after work
 ### Wednesday 14 · Pilates
 - **~08:00** 🍳 Breakfast
 - **~09:00** 🛒 **Watsons, Silom** *(Boots in Silom Complex opens ~10:30)* — shampoo + conditioner · body wash · moisturiser · deodorant *(never aerosol)* · **small umbrella**
-- **~10:10** Leave for Pilates · Grab ~10 min · **be at the studio by 10:30**
+- **~09:55** Book the Grab · **~10:10** leave · ~10 min ride · **be at the studio by 10:30**
 - **11:00** 🧘 **Reformer Pilates · Isora Wellness**, Sathorn Soi 12 · **drop-in ✅ paid** (THB 978.50, Monzo) · **grip socks needed** — buy at the studio, ~THB 200–400
 - **~12:15** 🥗 **Lunch: Farm Factory**, Sathorn Square G/F · BTS Chong Nonsi, by the hotel · salads from ~THB 135
 - **~13:00** Back at the hotel
