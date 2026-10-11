@@ -45,6 +45,7 @@ Rooftop **Scarlett** for an evening after work
 > 🚕 **Grab takes 10–15 min to arrive** — book it before you're ready to leave. No car after 5 min? Public taxi.
 
 > 💻 **Work 13:30–21:30** = Israel 09:30–17:30. Mornings are yours. Meeting times below are **Bangkok time** (Israel + 4).
+> 🪑 **Change of scene:** meetings from the room · solo work at the **hotel lobby or pool**, a café until close, or ⭐ **Samyan CO-OP**, Samyan Mitrtown, MRT Sam Yan · free, 24 h · register with ID · use your eSIM hotspot
 
 ### Sunday 11 · arrival
 - 💵 **Cash:** ~5,500 THB with you — enough for 11–15 Oct · no ATM needed
@@ -60,6 +61,7 @@ Rooftop **Scarlett** for an evening after work
   - **TFD Coffee**, Convent Road · from 07:00
   - **Ceresia Coffee Roasters**, Tisco Tower, Sathorn · from 07:00 weekdays
 - **~11:30** 🥗 **Lunch: Farm Factory**, Silom Complex 2F · BTS Sala Daeng, near Dusit · build-your-own salad from ~THB 120
+- 🏪 **7-Eleven** on the way back · sleep gummies
 - **~12:30** Back at the hotel
 - **13:30–21:30** 💻 Work · dinner after, then bed
   - **15:00–15:30** 📅 Hannah – Alex · Teams
