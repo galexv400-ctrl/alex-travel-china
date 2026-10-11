@@ -73,6 +73,7 @@ Rooftop **Scarlett** for an evening after work
 - **~12:30** Back at the hotel
 - **13:30–21:30** 💻 Work · dinner after, then bed
   - **15:00** 📅 Meeting *(11:00 Israel)*
+  - **18:00** 📅 Meeting *(14:00 Israel)*
   - **18:30–20:00** 📅 Data results update · Boaz Chemtob
 
 ### Tuesday 13 · aromatherapy massage
