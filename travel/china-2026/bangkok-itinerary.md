@@ -236,6 +236,7 @@ A walk along the river — Sarnies is the one backtrack, 10–15 min south.
 - **~14:15** 🌿 **Ari** · leafy sois, independent cafés, small boutiques · lunch here
   - 🍽 **Lay Lao**, Phahon Yothin Soi 7 · Isan food, seafood · or any café on Soi Ari 1
 - **~16:00** **BTS Ari → Chit Lom** · ~20 min · hotel · shower · rest
+- 🎒 **Backpack home:** check LY84 baggage in the El Al app — buy a 2nd checked bag online, or fold the empty backpack into the suitcase (expansion zip) · ≤23 kg · laptop in the cabin
 - 🌶 **Lao Gan Ma** · **Tops Market**, Central Chidlom basement
   - Wrap each jar in clothing, inside the **dry bag** · checked luggage only
 - **19:30** 🍽 **Mozza** · Central Chidlom · salads — Niçoise, crab and mango, beetroot carpaccio
