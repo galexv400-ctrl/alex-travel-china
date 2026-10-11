@@ -17,9 +17,9 @@
 
 ## 🧳 The three bags
 
-### 1 · Main case (backpack) — hold luggage
-**Main compartment:** four packing cubes + shoe organiser *(below)*
-**Front section:** toiletries bag, everything wrapped · spare tissues · **pill splitter** 🎒 *(blade — case only on flights)*
+### 1 · Main case — American Tourister Instagon 69 spinner, hold luggage
+**Bottom half:** shoe organiser + two cubes · **lid half:** two cubes under the straps · expansion zip kept for souvenirs
+**Zip pocket:** toiletries bag, everything wrapped · spare tissues · **pill splitter** 🎒 *(blade — case only on flights)*
 
 ### 2 · Day bag — also the cabin bag
 - **All medication on travel days** — original packaging, prescriptions photographed
@@ -127,7 +127,7 @@ Black baseball cap 🎒 · **black sunglasses** 🎒 *(brown bag)* · neck warme
 
 ## 🧴 Toiletries
 
-**Front section of the backpack, wrapped.**
+**Toiletries bag, inside the main case, wrapped.**
 
 > ♻ **Use up and leave behind** — sunscreen, toothpaste, wipes, tissues, sanitiser. The space they free is room for souvenirs and the Lao Gan Ma jars on the way home.
 
@@ -139,7 +139,7 @@ Black baseball cap 🎒 · **black sunglasses** 🎒 *(brown bag)* · neck warme
 
 ## 💊 Medication
 
-SSRI 🎒 · thyroid 🎒 · ibuprofen 🎒 · back pain meds 🎒 · iron 🎒 · magnesium 🎒 · blister plasters 🎒 · Imodium 🎒 · azithromycin 🎒 · Kalbeten 🎒 · pill splitter 🎒 *(front section of the main case — blade)*
+SSRI 🎒 · thyroid 🎒 · ibuprofen 🎒 · back pain meds 🎒 · iron 🎒 · magnesium 🎒 · blister plasters 🎒 · Imodium 🎒 · azithromycin 🎒 · Kalbeten 🎒 · pill splitter 🎒 *(main case zip pocket — blade)*
 
 > 💡 **When to take what, interactions and vaccinations** are on the **Medication** tab.
 
