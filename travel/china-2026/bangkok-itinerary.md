@@ -72,9 +72,8 @@ Rooftop **Scarlett** for an evening after work
 - **~11:30** 🥗 **Lunch: Farm Factory**, Silom Complex 2F · BTS Sala Daeng, near Dusit · build-your-own salad from ~THB 120
 - **~12:30** Back at the hotel
 - **13:30–21:30** 💻 Work · dinner after, then bed
-  - **15:00** 📅 Meeting *(11:00 Israel)*
-  - **18:00** 📅 Meeting *(14:00 Israel)*
-  - **18:30–20:00** 📅 Data results update · Boaz Chemtob
+  - **15:00–15:30** 📅 Hannah – Alex · Teams
+  - **18:00–19:00** 📅 Data results update · Boaz Chemtob
 
 ### Tuesday 13 · aromatherapy massage
 - **~09:30** 💆 **Hot oil aromatherapy massage, 90 min** · **G Spa, in the hotel** · **Gowabi voucher ฿1,290** — ask reception on Sunday if Tuesday morning is free, then buy
@@ -95,8 +94,9 @@ Rooftop **Scarlett** for an evening after work
 - **11:00** 🧘 **Reformer Pilates · Isora Wellness**, Sathorn Soi 12 · **drop-in ✅ paid** (THB 978.50, Monzo) · **grip socks needed** — buy at the studio, ~THB 200–400
 - **~12:15** 🥗 **Lunch: Farm Factory**, Sathorn Square G/F · BTS Chong Nonsi, by the hotel · salads from ~THB 135
 - **~13:00** Back at the hotel
-- **13:30–21:30** 💻 Work · no meetings · **deadline done** 🎉
-  - **~18:45** 🥩 **Dinner break: Meatchop**, Sala Daeng · steak + tapas · check hours · *or:* **Santa Fe' Steak / Sizzler**, Silom Complex
+- **13:30–21:30** 💻 Work · **deadline done** 🎉
+  - **~18:00** 🥩 **Dinner break: Meatchop**, Sala Daeng · steak + tapas · check hours · back by 19:20 · *or:* **Santa Fe' Steak / Sizzler**, Silom Complex
+  - **19:30–20:00** 📅 Data collection – climate risks
 
 ### ☔ If it rains in the morning · 11–15 Oct
 | Day | Outdoor part | Instead |
