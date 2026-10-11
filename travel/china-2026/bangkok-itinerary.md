@@ -49,12 +49,11 @@ Rooftop **Scarlett** for an evening after work
 
 ### Sunday 11 · arrival
 - 💵 **Cash:** ~5,500 THB with you — enough for 11–15 Oct · no ATM needed
-- 💆 **~18:00, on the way out:** ask reception or call **G Spa** — free 90-min aromatherapy slot **Tue 13 Oct ~09:30**? If yes, buy the **Gowabi voucher** (฿1,290) and book it
 - 🧳 ✅ **Suitcase bought** · American Tourister Instagon 69 · Central Chidlom
 - Easy dinner in the mall or nearby · repack · early night
 
 ### Monday 12 · Dusit Arun rooftop park
-- Sleep in · breakfast at the hotel
+- Sleep in · breakfast at the hotel · ask reception: **G Spa Tue ~09:30** and **dentist today ~15:45** if the tooth isn't better
 - **~09:00** 🌿 **Dusit Arun** — rooftop park on floors 4–7 of Dusit Central Park, 946 Rama IV Road, opposite Lumphini Park · gardens, waterfalls, two viewpoints · open 06:00–22:00 · ~10 min by Grab · near MRT Silom / BTS Sala Daeng
 - **~10:00** ☕ Coffee nearby:
   - ⭐ **ONIBUS Coffee**, inside Dusit Central Park · pour-over · from 10:00
@@ -65,10 +64,11 @@ Rooftop **Scarlett** for an evening after work
 - **~12:30** Back at the hotel
 - **13:30–21:30** 💻 Work · dinner after, then bed
   - **15:00–15:30** 📅 Hannah – Alex · Teams
+  - **~15:45** 🦷 **Dentist** if the wisdom tooth isn't better · ask reception in the morning to book a clinic nearby · back by ~17:15 · itemised receipt for PassportCard
   - **18:00–19:00** 📅 Data results update · Boaz Chemtob
 
 ### Tuesday 13 · aromatherapy massage
-- **~09:30** 💆 **Hot oil aromatherapy massage, 90 min** · **G Spa, in the hotel** · **Gowabi voucher ฿1,290** — ask reception on Sunday if Tuesday morning is free, then buy
+- **~09:30** 💆 **Hot oil aromatherapy massage, 90 min** · **G Spa, in the hotel** · **Gowabi voucher ฿1,290** — ask reception on Monday morning if Tuesday ~09:30 is free, then buy the voucher and book
   - *If not:* **Health Land Sathorn**, North Sathorn Road · ~10 min by Grab · from 09:00
   - Say: *"Aromatherapy oil massage, gentle pressure, no Thai stretching"*
 - **~11:15** 🌳 **Lumphini Park** — short slow walk, nearby
