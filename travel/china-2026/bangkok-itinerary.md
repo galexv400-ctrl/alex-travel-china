@@ -49,7 +49,6 @@ Rooftop **Scarlett** for an evening after work
 
 ### Sunday 11 · arrival
 - 💵 **Cash:** ~5,500 THB with you — enough for 11–15 Oct · no ATM needed
-- 💆 **~18:00, on the way out:** ask reception or call **G Spa** — free 90-min aromatherapy slot **Tue 13 Oct ~09:30**? If yes, buy the **Gowabi voucher** (฿1,290) and book it
 - 🧳 ✅ **Suitcase bought** · American Tourister Instagon 69 · Central Chidlom
 - Easy dinner in the mall or nearby · repack · early night
 
@@ -69,7 +68,7 @@ Rooftop **Scarlett** for an evening after work
   - **18:00–19:00** 📅 Data results update · Boaz Chemtob
 
 ### Tuesday 13 · aromatherapy massage
-- **~09:30** 💆 **Hot oil aromatherapy massage, 90 min** · **G Spa, in the hotel** · **Gowabi voucher ฿1,290** — ask reception on Sunday if Tuesday morning is free, then buy
+- **~09:30** 💆 **Hot oil aromatherapy massage, 90 min** · **G Spa, in the hotel** · **Gowabi voucher ฿1,290** — ask reception on Monday morning if Tuesday ~09:30 is free, then buy the voucher and book
   - *If not:* **Health Land Sathorn**, North Sathorn Road · ~10 min by Grab · from 09:00
   - Say: *"Aromatherapy oil massage, gentle pressure, no Thai stretching"*
 - **~11:15** 🌳 **Lumphini Park** — short slow walk, nearby
