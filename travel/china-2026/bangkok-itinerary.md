@@ -52,14 +52,13 @@ Rooftop **Scarlett** for an evening after work
 - 🧳 ✅ **Suitcase bought** · American Tourister Instagon 69 · Central Chidlom
 - Easy dinner in the mall or nearby · repack · early night
 
-### Monday 12 · Dusit Arun rooftop park
-- Sleep in · **call reception** to book a **dentist today ~15:45**
-- **~10:45** Book the Grab · **~11:00** ☕ **Brunch at ONIBUS Coffee**, inside Dusit Central Park, 946 Rama IV Road · pour-over · from 10:00
-- **~12:00** 🌿 **Dusit Arun** — rooftop park on floors 4–7 · gardens, waterfalls, two viewpoints · open 06:00–22:00
-- **~12:45** Grab back · at the hotel by ~13:15
+### Monday 12 · dentist
+- Sleep in · light breakfast or coffee before leaving
+- **~10:55** Book the Grab · ~10 min
+- **11:30** 🦷 **Dentist · Silom Dental Building Clinic**, 439 Naradhiwas Rajanagarindra Rd, Si Lom · ☎ 02 636 9091 · wisdom tooth · ask for an **itemised receipt** for PassportCard
+- **~12:30** 🥗 Lunch nearby, soft food if the tooth is sore · Grab back by ~13:20
 - **13:30–21:30** 💻 Work · then dinner · 🏪 **7-Eleven** for sleep gummies · bed
   - **15:00–15:30** 📅 Hannah – Alex · Teams
-  - **~15:45** 🦷 **Dentist** · wisdom tooth · ask reception in the morning to book a clinic nearby · back by ~17:15 · itemised receipt for PassportCard
   - **18:00–19:00** 📅 Data results update · Boaz Chemtob
 
 ### Tuesday 13 · aromatherapy massage
@@ -89,7 +88,7 @@ Rooftop **Scarlett** for an evening after work
 | Day | Outdoor part | Instead |
 |---|---|---|
 | **Sun 11** | Central Chidlom | **Grab** both ways · dinner in the mall |
-| **Mon 12** | Dusit Arun rooftop | **Dusit Central Park mall** — same building, indoors · ONIBUS coffee brunch |
+| **Mon 12** | Walk to lunch | **Grab** both ways · lunch near the clinic |
 | **Tue 13** | Lumphini Park | Skip it · long coffee after the massage · **Grab** to Pimp My Salad |
 | **Wed 14** | Walk to Watsons | **BTS or Grab** |
 | **Thu 15** | Grab to Canalis | **Leave 30 min earlier** — rain slows the roads |
