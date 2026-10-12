@@ -18,7 +18,7 @@
 |---|---|---|
 | **Sat 10 Oct** | Tel Aviv | At **Ben Gurion by 21:05** |
 | **Sun 11 Oct** | ✈ → Bangkok | LY85 00:05 → 15:45 · Pullman G, Silom |
-| **Mon 12 Oct** | Bangkok | Dusit Arun rooftop park · coffee · **work 13:30–21:30** |
+| **Mon 12 Oct** | Bangkok | Brunch · Dusit Arun rooftop park · dentist 15:45 · **work 13:30–21:30** |
 | **Tue 13 Oct** | Bangkok | Aromatherapy massage · Lumphini Park · **work 13:30–21:30** |
 | **Wed 14 Oct** | Bangkok | Shopping · Pilates 11:00 · **work 13:30–21:30** |
 | **Thu 15 Oct** | Bangkok | Free morning · Canalis airport hotel |
