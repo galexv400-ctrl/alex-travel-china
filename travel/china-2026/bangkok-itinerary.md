@@ -53,16 +53,11 @@ Rooftop **Scarlett** for an evening after work
 - Easy dinner in the mall or nearby · repack · early night
 
 ### Monday 12 · Dusit Arun rooftop park
-- Sleep in · breakfast at the hotel · ask reception to book a **dentist today ~15:45**
-- **~09:00** 🌿 **Dusit Arun** — rooftop park on floors 4–7 of Dusit Central Park, 946 Rama IV Road, opposite Lumphini Park · gardens, waterfalls, two viewpoints · open 06:00–22:00 · ~10 min by Grab · near MRT Silom / BTS Sala Daeng
-- **~10:00** ☕ Coffee nearby:
-  - ⭐ **ONIBUS Coffee**, inside Dusit Central Park · pour-over · from 10:00
-  - **TFD Coffee**, Convent Road · from 07:00
-  - **Ceresia Coffee Roasters**, Tisco Tower, Sathorn · from 07:00 weekdays
-- **~11:30** 🥗 **Lunch: Farm Factory**, Silom Complex 2F · BTS Sala Daeng, near Dusit · build-your-own salad from ~THB 120
-- 🏪 **7-Eleven** on the way back · sleep gummies
-- **~12:30** Back at the hotel
-- **13:30–21:30** 💻 Work · dinner after, then bed
+- Sleep in · **call reception** to book a **dentist today ~15:45**
+- **~10:45** Book the Grab · **~11:00** ☕ **Brunch at ONIBUS Coffee**, inside Dusit Central Park, 946 Rama IV Road · pour-over · from 10:00
+- **~12:00** 🌿 **Dusit Arun** — rooftop park on floors 4–7 · gardens, waterfalls, two viewpoints · open 06:00–22:00
+- **~12:45** Grab back · at the hotel by ~13:15
+- **13:30–21:30** 💻 Work · then dinner · 🏪 **7-Eleven** for sleep gummies · bed
   - **15:00–15:30** 📅 Hannah – Alex · Teams
   - **~15:45** 🦷 **Dentist** · wisdom tooth · ask reception in the morning to book a clinic nearby · back by ~17:15 · itemised receipt for PassportCard
   - **18:00–19:00** 📅 Data results update · Boaz Chemtob
@@ -94,7 +89,7 @@ Rooftop **Scarlett** for an evening after work
 | Day | Outdoor part | Instead |
 |---|---|---|
 | **Sun 11** | Central Chidlom | **Grab** both ways · dinner in the mall |
-| **Mon 12** | Dusit Arun rooftop | **Dusit Central Park mall** — same building, indoors · ONIBUS coffee · Silom Complex lunch, linked to BTS Sala Daeng |
+| **Mon 12** | Dusit Arun rooftop | **Dusit Central Park mall** — same building, indoors · ONIBUS coffee brunch |
 | **Tue 13** | Lumphini Park | Skip it · long coffee after the massage · **Grab** to Pimp My Salad |
 | **Wed 14** | Walk to Watsons | **BTS or Grab** |
 | **Thu 15** | Grab to Canalis | **Leave 30 min earlier** — rain slows the roads |
