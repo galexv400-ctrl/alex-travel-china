@@ -44,7 +44,7 @@ Rooftop **Scarlett** for an evening after work
 
 > 🚕 **Grab takes 10–15 min to arrive** — book it before you're ready to leave. No car after 5 min? Public taxi.
 
-> 💻 **Work 13:30–21:30** = Israel 09:30–17:30. Mornings are yours. Meeting times below are **Bangkok time** (Israel + 4).
+> 💻 **Work 13:30–21:30** = Israel 09:30–17:30 · Tue 13 from 14:00. Mornings are yours. Meeting times below are **Bangkok time** (Israel + 4).
 > 🪑 **Change of scene:** meetings from the room · solo work at the **hotel lobby or pool**, a café until close, or ⭐ **Samyan CO-OP**, Samyan Mitrtown, MRT Sam Yan · free, 24 h · register with ID · use your eSIM hotspot
 
 ### Sunday 11 · arrival
@@ -53,63 +53,71 @@ Rooftop **Scarlett** for an evening after work
 - Easy dinner in the mall or nearby · repack · early night
 
 ### Monday 12 · dentist
-- Sleep in · light breakfast or coffee before leaving
-- **~10:55** Book the Grab · ~10 min
-- **11:30** 🦷 **Dentist · Silom Dental Building Clinic**, 439 Naradhiwas Rajanagarindra Rd, Si Lom · ☎ 02 636 9091 · wisdom tooth · ask for an **itemised receipt** for PassportCard
-- **~12:30** 🥗 Lunch nearby, soft food if the tooth is sore · Grab back by ~13:20
-- **13:30–21:30** 💻 Work · then dinner · 🏪 **7-Eleven** for sleep gummies · bed
+- **11:30** 🦷 **Dentist consult done** · Silom Dental Building · broken wisdom tooth
+  - 💊 **Amoxicillin 500mg + ibuprofen 400mg** · 1 each, 3× a day, after food · **no naproxen or Kalbeten** meanwhile
+- **13:30–21:30** 💻 Work
   - **15:00–15:30** 📅 Hannah – Alex · Teams
   - **18:00–19:00** 📅 Data results update · Boaz Chemtob
 
-### Tuesday 13 · aromatherapy massage
-- **~09:30** 💆 **Hot oil aromatherapy massage, 90 min** · **G Spa, in the hotel** · **Gowabi voucher ฿1,290** — ask reception on Monday morning if Tuesday ~09:30 is free, then buy the voucher and book
-  - *If not:* **Health Land Sathorn**, North Sathorn Road · ~10 min by Grab · from 09:00
-  - Say: *"Aromatherapy oil massage, gentle pressure, no Thai stretching"*
-- **~11:15** 🌳 **Lumphini Park** — short slow walk, nearby
-- **~12:00** 🥗 **Lunch: Pimp My Salad**, 56–58 Soi Sathon 8 · salads and poke bowls · ~THB 250–380
-- **~12:45** Back at the hotel
-- **13:30–21:30** 💻 Work
-  - **15:00–16:30** 📅 HaFifa · Teams *(EcoVadis 15:00–15:30 alongside)*
+### Tuesday 13 · Dusit Arun rooftop
+- **~09:30** ☕ **ONIBUS Coffee** · Dusit Central Park
+- **~10:30** 🌿 **Dusit Arun rooftop garden** · floors 4–7, Dusit Central Park, 946 Rama IV Road
+  - *Optional:* slow walk in **Lumphini Park**, across the road
+- **~12:15** 🥗 **Lunch** · Dusit Central Park mall restaurants · *or* **Farm Factory**, Silom Complex 2F
+- **On the way back** 💊 **Pharmacy (Watsons / Boots)**
+  - Reusable **gel cold pack** · ~THB 100–250
+  - **Universal travel adapter** — Hong Kong UK-style plug + China flat 2-pin · ideally with USB-C
+- **~13:30** Back at the hotel
+- **14:00–21:30** 💻 Work · **hotel library** — quiet, plugs
+  - **15:00–16:30** 📅 HaFifa · Teams *(EcoVadis submission 15:00–15:30 alongside)*
+  - **16:30–17:00** 📤 **Submit S&P** · deadline 19:00
   - **17:00–17:30** 📅 WEEE weekly status
-  - **17:30–18:30** 📅 Team meeting · Ivri Verbin · Teams
+  - **17:30–18:30** 📅 Team meeting · Ivri Verbin · Teams · may not go ahead
+- **~18:45** 🥩 **Steak dinner** · **Meatchop**, Sala Daeng *(check hours)* · *or* **Santa Fe' Steak / Sizzler**, Silom Complex · cut small, chew on the good side
+- **After dinner** 🏪 **7-Eleven / Tops** — soft food for Wed–Thu, into the fridge: yoghurt · protein shakes / soy milk *(no straws)* · jok / congee cups · smooth soups · pudding · bananas · water
 
-### Wednesday 14 · Pilates
-- **~08:00** 🍳 Breakfast
-- **~09:00** 🛒 **Watsons, Silom** *(Boots in Silom Complex opens ~10:30)* — shampoo + conditioner · body wash · moisturiser · deodorant *(never aerosol)* · **small umbrella**
-- **~09:55** Book the Grab · **~10:10** leave · ~10 min ride · **be at the studio by 10:30**
-- **11:00** 🧘 **Reformer Pilates · Isora Wellness**, Sathorn Soi 12 · **drop-in ✅ paid** (THB 978.50, Monzo) · **grip socks needed** — buy at the studio, ~THB 200–400
-- **~12:15** 🥗 **Lunch: Farm Factory**, Sathorn Square G/F · BTS Chong Nonsi, by the hotel · salads from ~THB 135
-- **~13:00** Back at the hotel
-- **13:30–21:30** 💻 Work · **deadline done** 🎉
-  - **~18:00** 🥩 **Dinner break: Meatchop**, Sala Daeng · steak + tapas · check hours · back by 19:20 · *or:* **Santa Fe' Steak / Sizzler**, Silom Complex
-  - **19:30–20:00** 📅 Data collection – climate risks
+### Wednesday 14 · Pilates + wisdom tooth out
+- **~08:30** 🍳 Breakfast
+- **09:55** Book the Grab · **10:10** leave · **at Isora by 10:30**
+- **11:00** 🧘 **Reformer Pilates · Isora Wellness**, Sathorn Soi 12 · **drop-in ✅ paid** (THB 978.50, Monzo) · **grip socks needed** — buy at the studio, ~THB 200–400 · gentle
+- **~12:00** 🚕 Grab straight back · quick lunch · 💊 tablets after food
+- **~12:30–14:35** 💻 Work · hotel library
+- **~14:35** 🚶 Walk to the dentist · 12–15 min
+- **15:00** 🦷 **Wisdom tooth extraction** · specialist · **Silom Dental Building Clinic**, 439 Naradhiwas Rajanagarindra Rd · ☎ 02 636 9091
+  - Ask: OK to fly Fri? · dissolvable stitches? · more antibiotics? · which mouthwash? · what to do if it bleeds in HK/China · **itemised receipt** · a **note / X-ray** for the Hong Kong dentist
+- **~16:30** Back · rest · 🧊 **cold pack** 15–20 min on / off, wrapped in cloth · work as able
+- **19:30–20:00** 📅 Data collection – climate risks · camera off
+- 🍲 **Soft food dinner** · no straws · no hot drinks
 
 ### ☔ If it rains in the morning · 11–15 Oct
 | Day | Outdoor part | Instead |
 |---|---|---|
 | **Sun 11** | Central Chidlom | **Grab** both ways · dinner in the mall |
-| **Mon 12** | Walk to lunch | **Grab** both ways · lunch near the clinic |
-| **Tue 13** | Lumphini Park | Skip it · long coffee after the massage · **Grab** to Pimp My Salad |
-| **Wed 14** | Walk to Watsons | **BTS or Grab** |
-| **Thu 15** | Grab to Canalis | **Leave 30 min earlier** — rain slows the roads |
+| **Tue 13** | Lumphini walk | Skip it · stay in Dusit Central Park — coffee, rooftop garden, lunch in the mall |
+| **Wed 14** | Walk to the dentist | **Grab** · ~10 min |
+| **Thu 15** | Watsons · physio · Grab to Canalis | **Grab** to Watsons and physio · **leave for Canalis 30 min earlier** — rain slows the roads |
 
-> ☂ **No umbrella until Wednesday** — if rain is forecast sooner, any 7-Eleven, ~THB 100 · Tevas, not trainers · storms usually pass in 1–2 hrs
+> ☂ **No umbrella until Thursday** — if rain is forecast sooner, any 7-Eleven, ~THB 100 · Tevas, not trainers · storms usually pass in 1–2 hrs
 
-## Thursday 15 October — free day, then the airport hotel
+## Thursday 15 October — Watsons, physio, then the airport hotel
 
 **Canalis Suvarnabhumi Airport Hotel** · 1599/1 Lat Krabang Soi 13 · ☎ +66 2 332 1555
 Booking.com **6637.638.401** · PIN 4470 · ⚠ **pay at check-in, ₪158** · no breakfast · reception open till midnight
 
-- Slow breakfast · pool · pack
+> 🍲 **Soft food all day.**
+
+- Slow morning · breakfast · pack
+- **~10:00** 🛒 **Watsons, Silom** *(check Google Maps)* — shampoo + conditioner · body wash · moisturiser · **small umbrella** · the **mouthwash the specialist recommends**
 - 🎒 **Backpack + laptop → storage until 4 Nov**
-  - 📧 **Email Sindhorn Midtown by Mon 12** · ☎ +66 2 796 8888 · *"Hello, I have a booking from 4 to 8 November (Booking.com 6761.193.363). Could you store one bag for me from 15 October until my check-in on 4 November? Thank you, Alexandra Segall"*
-  - **Yes →** Grab to the Sindhorn, 68 Langsuan Road, after check-out · ~20 min · get a **receipt** · laptop: back it up, sign out of work, password on, photograph it
+  - 📧 **Email Sindhorn Midtown by Tue 13** · ☎ +66 2 796 8888 · *"Hello, I have a booking from 4 to 8 November (Booking.com 6761.193.363). Could you store one bag for me from 15 October until my check-in on 4 November? Thank you, Alexandra Segall"*
+  - **Yes →** Grab to the Sindhorn, 68 Langsuan Road, on the way to the Canalis · ~20 min · get a **receipt** · laptop: back it up, sign out of work, password on, photograph it
   - **No →** **Suvarnabhumi left-luggage** on Fri 16 Oct before the flight · 24 h · ~THB 2,000 for 20 days · ask if electronics are accepted
-- **12:00** Check out of the Pullman G · ask about a late checkout, or leave bags at the desk
-- 🚕 **Grab** to the Canalis · 40–60 min · check in from the afternoon
+- **12:00** Check out of the Pullman G · **leave bags with the concierge**
+- **~13:00** 🩺 **Physio, Silom** · lower back / right SI-glute · **to book** — **BNH Hospital rehabilitation**, Convent Road · *or* **Saladaeng Physiotherapy**, Silom Grand Terrace
+- **~14:30** Collect bags · 🚕 **Grab** to the Canalis · **leave Silom by 15:00–15:30** · 40–60 min
 - ⚠ **Book the 07:00 shuttle** at reception
 - 🏪 **7-Eleven** — water, breakfast, snacks for the flight
-- Room service until 21:30 · pool and gym if you want them
+- Room service until 21:30
 
 ### Friday 16 October
 
@@ -263,7 +271,7 @@ A walk along the river — Sarnies is the one backtrack, 10–15 min south.
 Early November is the tail of the rainy season — usually a heavy afternoon storm that clears in an hour or two, not all-day rain. Check the **Rain Radar** in the Thai weather app or Windy each morning.
 
 **Rules for any wet day**
-- ☂ **Umbrella in the moon bag** — bought in Bangkok, 14 Oct
+- ☂ **Umbrella in the moon bag** — bought in Bangkok, 15 Oct
 - 👡 **Tevas, not Skechers** — streets flood ankle-deep in minutes and dry fast
 - 🚇 **BTS and MRT over Grab** — rain doubles road times, and Grab prices surge
 - ⚡ **Thunder? Out of the pool** — the rooftop pool closes in lightning
