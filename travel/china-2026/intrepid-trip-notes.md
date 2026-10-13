@@ -54,14 +54,14 @@
 
 ## 🏯 Great Wall night — Sun 1 Nov
 
-- The guesthouse is **basic** — private bathroom and wifi; in November it may be a warmer alternative
+- The guesthouse is **basic** — private bathroom and wifi; in November it may be a warmer alternative — if the alternate guesthouse is used, the sunset may not happen
 - **The chairlift is closed** — you walk up for sunset
 - Layering plan is on the **Outfits** tab
 
 ## 💵 Tipping
 
 - **Group kitty** — collected on day one, in cash. You're joining
-- **Leader** — suggested ~$4–7 a day, paid in yuan · possibly two leaders after Shanghai
+- **Leader** — suggested ~$4–7 a day, paid in yuan
 
 ## 🚄 On the road
 

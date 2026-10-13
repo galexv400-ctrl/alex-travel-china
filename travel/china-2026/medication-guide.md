@@ -52,6 +52,7 @@
 
 ## The rules
 
+- 🦷 **Current dental course:** amoxicillin + ibuprofen 400mg, 3× a day after food · **no naproxen or Kalbeten** meanwhile · paracetamol is fine.
 - ❌ **Never take Imodium and Kalbeten together.** Pick one.
 - ❌ **Never take Kalbeten with ibuprofen.** Kalbeten is a salicylate, a relative of aspirin — together they raise the risk of stomach bleeding.
 - ⚠ **Kalbeten + SSRI** — SSRIs also raise bleeding risk with aspirin-type drugs, so **Imodium is the first choice**.

@@ -13,6 +13,8 @@
 
 > 🍽 **All meals are walk-in.**
 
+> 🦷 **Soft food Fri 16** — congee, noodles, dim sum, tofu · from Sat, cut food small and chew on the other side · avoid crunchy, seeds, very spicy.
+
 ## 👝 What to carry
 
 Uniqlo moon bag: **phone** · Monzo card · some HKD cash · **power bank + cable** · tissues · sanitiser · black sunglasses
@@ -38,8 +40,7 @@ Uniqlo moon bag: **phone** · Monzo card · some HKD cash · **power bank + cabl
 - **~16:00** Check in · rest
 - **18:45** Walk to the **Avenue of Stars** · 10 min along the waterfront
 - **19:00** 🚌 **Big Bus night tour** · ref **XF7MVK0Z** · Stop #16, Bruce Lee statue · ~1h15 loop, ends where it starts
-- **~20:30** 🍽 **Flat Iron Steak** · Lower Lobby, The Langham, 8 Peking Road · 5 min from the bus · open till 23:30 · ask for salad instead of chips
-  - ☎ +852 6551 0667 · [Instagram](https://www.instagram.com/flatiron_hk/)
+- **~20:30** 🍽 **Born Ga**, TST · soft tofu stew — let it cool
 
 **If you still have energy:** K11 MUSEA, 18 Salisbury Road, till 22:00 · Temple Street Night Market, Jordan
 
@@ -84,7 +85,7 @@ Uniqlo moon bag: **phone** · Monzo card · some HKD cash · **power bank + cabl
 > 😴 **Too tired after the monastery?** Skip the afternoon — MTR back to TST and rest.
 
 - **19:00** MTR back to TST
-- **~19:45** 🍽 **Goobne Chicken** · 2/F, The Hart, 4 Hart Avenue · 5 min from the hotel · oven-roasted, not fried · open past midnight
+- **~19:45** 🍽 **Goobne Chicken** · 2/F, The Hart, 4 Hart Avenue · 5 min from the hotel · oven-roasted, not fried · open past midnight · boneless, cut small — decide on the day
   - *Or:* **Apgujeong Tent Bar**, 9 Knutsford Terrace — Korean · ☎ +852 3579 2992
 
 ---
@@ -117,12 +118,12 @@ Uniqlo moon bag: **phone** · Monzo card · some HKD cash · **power bank + cabl
   - 🛍 **Thrifting:** Apliu Street flea market · Sing Jai Kee vintage · Fuk Wing Street · Dragon Centre for air-con
 - **16:00** MTR back to TST · ~12 min
 - **17:00** 💆 **Tai Pan Reflexology** · 83 Nathan Road, basement · booked · 5 min walk · ☎ +852 2301 1990
-- **19:30** 🍽 **Born Ga**, TST · stone-pot bibimbap, soft tofu stew · good for one
-  - *Or:* **Hansung Co**, 10 Kimberley Street — bibimbap, beef stew · 5 min from the hotel
+- **19:30** 🍽 **Flat Iron Steak** · Lower Lobby, The Langham, 8 Peking Road · open till 23:30 · cut small, chew on the other side
+  - ☎ +852 6551 0667 · [Instagram](https://www.instagram.com/flatiron_hk/)
 
 ---
 
-## Day 4 — Monday 19 October: Manicure + welcome meeting
+## Day 4 — Monday 19 October: Manicure, dentist, welcome meeting
 
 > 🧳 **Pack on Sunday night.**
 
@@ -130,15 +131,17 @@ Uniqlo moon bag: **phone** · Monzo card · some HKD cash · **power bank + cabl
 - **10:45** 🧺 **Collect the laundry**
 - **11:15** **Check out** · leave luggage with the concierge
 - **12:00** 💅 **Nu Nail & Beauty** · Flat 10A, 10/F, Lokville Commercial Building, 27 Lock Road · 3 min walk · ☎ +852 5323 3617
-- **~13:30** 🎁 **Hong Kong Souvenir Shop 香港紀念品專門店** · **27–33 Nathan Road** · 4 min walk · 09:00–23:00
-  - Other TST branches: Chungking Mansions, Shop 4 G/F · Bo Fung Building, Haiphong Road
-- **~13:50** 💱 **CNY** — ATM, then a money changer at **Chungking Mansions**, across the road
-- **~14:15** ⭐ **REstore** · 1F 618 Shanghai Street, Mong Kok · 12:00–21:00 · ~8 min by MTR · back by ~15:15
-  - Minibus-sign keychains and HK convenience-store goods · [@restorehkshop](https://www.instagram.com/restorehkshop/)
-- **~15:15** 🍫 **Spend the Octopus down to zero** — snacks for tomorrow's 9-hour train, any 7-Eleven
-- **15:45** Collect luggage · **Uber to Harbour Plaza North Point**, 665 King's Road · ~25 min
-- **~16:15** Check in · shower, change
+- **~13:00** Quickly:
+  - 🎁 **Hong Kong Souvenir Shop 香港紀念品專門店** · **27–33 Nathan Road** · 4 min walk · 09:00–23:00
+  - 💱 **CNY** — ATM, then a money changer at **Chungking Mansions**, across the road
+- **~13:40** 🚇 MTR **TST → Admiralty → Causeway Bay** · ~20 min
+- **14:15** 🦷 **Dental check-up · Home Dental** · Rooms 2007–2010, 20/F, Hang Lung Centre, 2–20 Paterson Street, Causeway Bay · ☎/WhatsApp +852 3956 9387 · bring the Bangkok note / X-ray
+- **~15:00** 🚇 MTR back to TST · 🍫 **spend the Octopus down to zero** at a 7-Eleven — snacks for tomorrow's 9-hour train
+- **~15:30** Collect luggage
+- **~15:45** 🚕 **Uber to Harbour Plaza North Point**, 665 King's Road · ~25 min
+- **On arrival** Ask reception whether to check in now, and where the 18:00 welcome meeting is
 - **18:00** 👋 **Intrepid welcome meeting** · bring insurance and next-of-kin details
+- **After the meeting** 🏮 **Temple Street Night Market** with the group · included
 - **Evening** 📋 **China customs declaration** · **customsapp.chinaport.gov.cn** — *never* the Alipay mini-program · screenshot the QR code for tomorrow's crossing
 
 > ⚠ **Harbour Plaza North Point is on Hong Kong Island**, not Kowloon.
@@ -151,10 +154,10 @@ Same bookings, indoor swaps. Check **MyObservatory** each morning.
 
 | Day | If it rains |
 |---|---|
-| **Fri 16** | 🚌 Big Bus runs — **sit on the covered lower deck** · in a downpour, ask Big Bus to move it · dinner at Flat Iron as planned · *after:* **K11 MUSEA**, all indoors |
+| **Fri 16** | 🚌 Big Bus runs — **sit on the covered lower deck** · in a downpour, ask Big Bus to move it · dinner at Born Ga as planned · *after:* **K11 MUSEA**, all indoors |
 | **Sat 17** | 🛕 Monastery as booked — the grounds are open-air, so take the umbrella · *afternoon:* skip **Cat Street** · **PMQ** → **Tai Kwun** (former police station, galleries, free) → **Central Market**, via the covered **Mid-Levels escalator** |
 | **Sun 18** | Mei Ho House and JCCAC are indoors — no change · *afternoon:* skip **Apliu Street** · thrift in **Dragon Centre** · coffee on Tai Nan Street |
-| **Mon 19** | No change — REstore is 3 min from Mong Kok MTR, exit C2 · Uber to Harbour Plaza |
+| **Mon 19** | No change — MTR to the dentist · Uber to Harbour Plaza |
 
 ### 🏛 Whole day lost? Swap in
 
@@ -176,7 +179,6 @@ Same bookings, indoor swaps. Check **MyObservatory** each morning.
 | Tsz Shan Monastery | 09:30–17:00 | Wed |
 | Mei Ho House | 09:30–17:30 | — |
 | JCCAC | 10:00–20:00 | Mon |
-| REstore | 12:00–21:00 | — |
 | Souvenir Shop, TST | 09:00–23:00 | — |
 | M+ Museum *(rain plan)* | 10:00–18:00, Fri to 22:00 | Mon |
 | Tai Kwun galleries *(rain plan)* | 11:00–19:00 | Mon |
