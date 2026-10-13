@@ -60,7 +60,7 @@ Rooftop **Scarlett** for an evening after work
   - **18:00–19:00** 📅 Data results update · Boaz Chemtob
 
 ### Tuesday 13 · Dusit Arun rooftop
-- **~09:30** ☕ **ONIBUS Coffee** · Dusit Central Park
+- **~09:30** ☕ Coffee · Dusit Central Park
 - **~10:30** 🌿 **Dusit Arun rooftop garden** · floors 4–7, Dusit Central Park, 946 Rama IV Road
   - *Optional:* slow walk in **Lumphini Park**, across the road
 - **~12:15** 🥗 **Lunch** · Dusit Central Park mall restaurants · *or* **Farm Factory**, Silom Complex 2F
