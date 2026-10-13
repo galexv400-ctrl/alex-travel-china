@@ -13,7 +13,7 @@
 
 > 🍽 **All meals are walk-in.**
 
-> 🦷 **Soft food Fri–Sun** — congee, noodles, dim sum, tofu · avoid crunchy, seeds, very spicy.
+> 🦷 **Soft food Fri 16** — congee, noodles, dim sum, tofu · from Sat, cut food small and chew on the other side · avoid crunchy, seeds, very spicy.
 
 ## 👝 What to carry
 

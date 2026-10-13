@@ -11,7 +11,7 @@
 
 | Where | What |
 |---|---|
-| **Bangkok, Tue 13 Oct** | Universal travel adapter — HK UK-style + China flat 2-pin, ideally USB-C · pharmacy |
+| **Bangkok, Tue 13 Oct** | Reusable gel cold pack · universal travel adapter — HK UK-style + China flat 2-pin, ideally USB-C · pharmacy |
 | **Bangkok, Thu 15 Oct** | Shampoo + conditioner · body wash · moisturiser · small umbrella · mouthwash — Watsons, Silom |
 
 ---

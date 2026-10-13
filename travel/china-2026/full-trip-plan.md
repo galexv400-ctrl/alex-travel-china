@@ -108,7 +108,7 @@
 | Hong Kong, 16–19 Oct | £250–350 |
 | China, 20 Oct – 4 Nov | £360–465 |
 | Bangkok, 4–8 Nov | £250–350 |
-| **Total** | **£1,010–1,315** |
+| **Total** | **£990–1,295** |
 
 > 🍽 **The tour includes only 5 meals** — 4 breakfasts and the Chongqing hotpot. Budget about ¥2,400 for the other ~43, plus tipping (¥430–750) and any optional extras.
 

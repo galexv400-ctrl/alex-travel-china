@@ -73,7 +73,7 @@ Rooftop **Scarlett** for an evening after work
   - **16:30–17:00** 📤 **Submit S&P** · deadline 19:00
   - **17:00–17:30** 📅 WEEE weekly status
   - **17:30–18:30** 📅 Team meeting · Ivri Verbin · Teams · may not go ahead
-- **~18:45** 🥩 **Steak dinner** · **Meatchop**, Sala Daeng *(check hours)* · *or* **Santa Fe' Steak / Sizzler**, Silom Complex · cut small, chew on the good side
+- **~18:45** 🥩 **Steak dinner break** · **Meatchop**, Sala Daeng *(check hours)* · *or* **Santa Fe' Steak / Sizzler**, Silom Complex · cut small, chew on the good side
 - **After dinner** 🏪 **7-Eleven / Tops** — soft food for Wed–Thu, into the fridge: yoghurt · protein shakes / soy milk *(no straws)* · jok / congee cups · smooth soups · pudding · bananas · water
 
 ### Wednesday 14 · Pilates + wisdom tooth out
@@ -92,7 +92,6 @@ Rooftop **Scarlett** for an evening after work
 ### ☔ If it rains in the morning · 11–15 Oct
 | Day | Outdoor part | Instead |
 |---|---|---|
-| **Sun 11** | Central Chidlom | **Grab** both ways · dinner in the mall |
 | **Tue 13** | Lumphini walk | Skip it · stay in Dusit Central Park — coffee, rooftop garden, lunch in the mall |
 | **Wed 14** | Walk to the dentist | **Grab** · ~10 min |
 | **Thu 15** | Watsons · physio · Grab to Canalis | **Grab** to Watsons and physio · **leave for Canalis 30 min earlier** — rain slows the roads |
