@@ -69,11 +69,13 @@ Rooftop **Scarlett** for an evening after work
   - **Universal travel adapter** — Hong Kong UK-style plug + China flat 2-pin · ideally with USB-C
 - **~13:30** Back at the hotel
 - **14:00–21:30** 💻 Work · **hotel library** — quiet, plugs
-  - **15:00–16:30** 📅 HaFifa · Teams *(EcoVadis submission 15:00–15:30 alongside)*
-  - **16:30–17:00** 📤 **Submit S&P** · deadline 19:00
-  - **17:00–17:30** 📅 WEEE weekly status
-  - **17:30–18:30** 📅 Team meeting · Ivri Verbin · Teams · may not go ahead
-- **~18:45** 🥩 **Steak dinner break** · **Meatchop**, Sala Daeng *(check hours)* · *or* **Santa Fe' Steak / Sizzler**, Silom Complex · cut small, chew on the good side
+  - **15:00–15:30** 📅 EcoVadis submission
+  - **15:30–17:00** 📅 HaFifa · Teams
+  - **17:00–17:30** 📅 Infinidat / GoodVision
+  - **17:30–18:30** 📅 Team meeting · Ivri Verbin · Teams
+  - **18:30–19:00** 📤 **Submit S&P**
+  - **19:00–19:30** 📅 Alony Hetz catch-up
+- **~19:45** 🥩 **Steak dinner** · book the Grab at ~19:30 · **Santa Fe' Steak / Sizzler**, Silom Complex, linked to BTS Sala Daeng · *or* **Meatchop**, Sala Daeng *(check hours)* · cut small, chew on the good side
 - **After dinner** 🏪 **7-Eleven / Tops** — soft food for Wed–Thu, into the fridge: yoghurt · protein shakes / soy milk *(no straws)* · jok / congee cups · smooth soups · pudding · bananas · water
 
 ### Wednesday 14 · Pilates + wisdom tooth out
