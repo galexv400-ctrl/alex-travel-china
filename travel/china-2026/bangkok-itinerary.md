@@ -78,15 +78,16 @@ Rooftop **Scarlett** for an evening after work
 
 ### Wednesday 14 · Pilates + wisdom tooth out
 - **~08:30** 🍳 Breakfast
-- **09:55** Book the Grab · **10:10** leave · **at Isora by 10:30**
+- **~09:45** 🧺 Drop laundry if S.T. Laundry (Soi Sala Daeng 2) confirms same day · else hotel by 10:00 or self-service laundry in the evening
+- **10:10** 🚶 Walk to Isora · 10–15 min · **at Isora by 10:30**
 - **11:00** 🧘 **Reformer Pilates · Isora Wellness**, Sathorn Soi 12 · **drop-in ✅ paid** (THB 978.50, Monzo) · **grip socks needed** — buy at the studio, ~THB 200–400 · gentle
-- **~12:00** 🚕 Grab straight back · quick lunch · 💊 tablets after food
+- **~12:00** 🚶 Walk straight back · quick lunch · 💊 tablets after food
 - **~12:30–14:35** 💻 Work · hotel library
 - **~14:35** 🚶 Walk to the dentist · 12–15 min
 - **15:00** 🦷 **Wisdom tooth extraction** · specialist · **Silom Dental Building Clinic**, 439 Naradhiwas Rajanagarindra Rd · ☎ 02 636 9091
   - Ask: OK to fly Fri? · dissolvable stitches? · more antibiotics? · which mouthwash? · what to do if it bleeds in HK/China · **itemised receipt** · a **note / X-ray** for the Hong Kong dentist
 - **~16:30** Back · rest · 🧊 **cold pack** 15–20 min on / off, wrapped in cloth · work as able
-- **19:30–20:00** 📅 Data collection – climate risks · camera off
+- No meetings
 - 🍲 **Soft food dinner** · no straws · no hot drinks
 
 ### ☔ If it rains in the morning · 11–15 Oct
@@ -132,6 +133,7 @@ Booking.com **6637.638.401** · PIN 4470 · ⚠ **pay at check-in, ₪158** · n
 **Sindhorn Midtown** · 68 Langsuan Road, Lumphini · ☎ +66 2 796 8888
 Booking.com **6761.193.363** · PIN 6989 · room with private bathroom · breakfast included · ✅ paid
 Pool 18F · gym 19F · saunas
+🧺 **Big wash after China:** **WashDrop** app · pickup from the hotel · same-day option · THB 600 minimum
 
 ## Day 1 — Wednesday 4 November: Arrival
 
