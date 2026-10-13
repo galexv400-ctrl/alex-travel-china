@@ -78,7 +78,7 @@ Rooftop **Scarlett** for an evening after work
 
 ### Wednesday 14 · Pilates + wisdom tooth out
 - **~08:30** 🍳 Breakfast
-- **~09:45** 🧺 Drop laundry if S.T. Laundry (Soi Sala Daeng 2) confirms same day · else hotel by 10:00 or self-service laundry in the evening
+- 🧺 **Laundry · S.T. Laundry** collects from the hotel and delivers back same day · THB 400 · underwear ×4, socks ×3, shorts, sports bra, playsuit, jumpsuit
 - **10:10** 🚶 Walk to Isora · 10–15 min · **at Isora by 10:30**
 - **11:00** 🧘 **Reformer Pilates · Isora Wellness**, Sathorn Soi 12 · **drop-in ✅ paid** (THB 978.50, Monzo) · **grip socks needed** — buy at the studio, ~THB 200–400 · gentle
 - **~12:00** 🚶 Walk straight back · quick lunch · 💊 tablets after food
