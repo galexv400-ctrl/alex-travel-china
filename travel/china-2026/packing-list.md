@@ -192,7 +192,7 @@ Phone · **USB-C phone cable ×1** 🎒 — brown bag, for the plane · Anker 10
 
 | Currency | Plan |
 |---|---|
-| **THB** | 🎒 ~5,500 — **1,000 for the Pullman G cash deposit** (back at check-out on 15 Oct, then keep it for 4 Nov), the rest for 11–15 Oct · **no ATM needed in October** · withdraw **~8,000 on Thu 5 Nov** |
+| **THB** | 🎒 ~5,500 for 11–15 Oct · **no ATM needed in October** · withdraw **~8,000 on Thu 5 Nov** |
 | **HKD** | Change ~300 NIS at Ben Gurion on 10 Oct · then a **TST ATM** |
 | **CNY 1,200–1,500** | Buy in Hong Kong before 20 Oct — ATM, then a Chungking Mansions changer · covers tipping |
 | **Octopus** | ~HKD 500 · spend it down by Mon 19 Oct |
