@@ -100,8 +100,9 @@ Rooftop **Scarlett** for an evening after work
 **Canalis Suvarnabhumi Airport Hotel** · 1599/1 Lat Krabang Soi 13 · ☎ +66 2 332 1555
 Booking.com **6637.638.401** · PIN 4470 · ⚠ **pay at check-in, ₪158** · no breakfast · reception open till midnight
 
-- Slow morning · breakfast · pack
+- Slow morning · 🛂 **passports from the safe** · breakfast in the room — protein shake + yoghurt · 💊 tablets · pack shoes + toiletries
 - **12:00** Check out of the Pullman G · 💳 **ask for the deposit to be released** (paid by card) · **leave bags with the concierge**
+- **~12:15** 💍 **Necklace repair** · **Jewelry Trade Center (Silom Galleria)**, river end of Silom Road · ~10 min by Grab · bring all the pieces · ~THB 100–500 · quick lunch nearby · 💊 tablets after food · Grab to BNH by ~13:15
 - **13:30** 🩺 **Doctor**, then **14:30 physio** · **BNH Hospital**, 2nd floor, Convent Road · ✅ booked · ~10 min from the hotel · lower back / right SI-glute · mention the broken wisdom tooth + amoxicillin
 - **~15:45** 🛒 **Watsons, Silom** — shampoo + conditioner · body wash · moisturiser · **small umbrella** · **universal travel adapter** (HK UK-style + China flat 2-pin, ideally USB-C)
 - Collect bags · 🎒 **Backpack + laptop → Sindhorn Midtown** ✅ both stored until 4 Nov · 68 Langsuan Road · booking 6761.193.363 · get a **receipt**
