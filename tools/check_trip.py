@@ -99,7 +99,7 @@ LINE_RULES = [
     (r"TG628",                       r"10:30|14:20", "TG628 departs 10:30, lands 14:20"),
     (r"[Hh]ot stone|Let's Relax",    r"16:30",  "Hot stone massage is 16:30"),
     (r"Tai Pan",                     r"17:00",  "Tai Pan massage is 17:00"),
-    (r"Flat Iron",                   r"19:30|23:30|Sun", "Flat Iron is Sun 18 dinner 19:30"),
+    (r"Flat Iron",                   r"20:30|23:30|Fri", "Flat Iron is Fri 16 dinner ~20:30"),
     (r"Home Dental",                 r"14:15",  "HK dentist Mon 19 14:15"),
     (r"Nu Nail",                     r"12:00",  "Manicure is 12:00"),
     (r"Big Bus",                     r"19:00",  "Big Bus is 19:00"),
