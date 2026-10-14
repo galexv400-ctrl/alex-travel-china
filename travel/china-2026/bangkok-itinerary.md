@@ -54,7 +54,7 @@ Rooftop **Scarlett** for an evening after work
 
 ### Monday 12 · dentist
 - **11:30** 🦷 **Dentist consult done** · Silom Dental Building · broken wisdom tooth
-  - 💊 **Amoxicillin 500mg + ibuprofen 400mg** · 1 each, 3× a day, after food · **no naproxen or Kalbeten** meanwhile
+  - 💊 **Amoxicillin 500mg** 3× a day after food · **ibuprofen 400mg** as needed, max 3× a day, 6 h apart · **no naproxen or Kalbeten**
 - **13:30–21:30** 💻 Work
   - **15:00–15:30** 📅 Hannah – Alex · Teams
   - **18:00–19:00** 📅 Data results update · Boaz Chemtob
@@ -64,9 +64,6 @@ Rooftop **Scarlett** for an evening after work
 - **~10:30** 🌿 **Dusit Arun rooftop garden** · floors 4–7, Dusit Central Park, 946 Rama IV Road
   - *Optional:* slow walk in **Lumphini Park**, across the road
 - **~12:15** 🥗 **Lunch** · Dusit Central Park mall restaurants · *or* **Farm Factory**, Silom Complex 2F
-- **On the way back** 💊 **Pharmacy (Watsons / Boots)**
-  - Reusable **gel cold pack** · ~THB 100–250
-  - **Universal travel adapter** — Hong Kong UK-style plug + China flat 2-pin · ideally with USB-C
 - **~13:30** Back at the hotel
 - **14:00–21:30** 💻 Work · **hotel library** — quiet, plugs
   - **15:00–15:30** 📅 EcoVadis submission
@@ -86,7 +83,7 @@ Rooftop **Scarlett** for an evening after work
 - 🧳 **Pack** if there's time — the laundry goes in when it's back
 - 💊 Light lunch · tablets
 - **~14:35** 🚶 Walk to the dentist · 12–15 min
-- **15:00** 🦷 **Specialist · Silom Dental Building Clinic**, 439 Naradhiwas Rajanagarindra Rd · ☎ 02 636 9091 · **extraction postponed** — not before mainland China · finish the amoxicillin course · antiseptic mouthwash **once a day, at night**
+- **15:00** 🦷 **Specialist · Silom Dental Building Clinic**, 439 Naradhiwas Rajanagarindra Rd · ☎ 02 636 9091 · **extraction postponed** — book for Thu 5 Nov here, or in Israel after 8 Nov · finish the amoxicillin course · antiseptic mouthwash **once a day, at night**
 - 🥩 **Dinner · Scarlett**, Pullman G rooftop · or Meatchop, Sala Daeng · chew on the other side
 
 ### ☔ If it rains in the morning · 11–15 Oct
