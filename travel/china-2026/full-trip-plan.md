@@ -21,7 +21,7 @@
 | **Mon 12 Oct** | Bangkok | Dentist consult 11:30 · **work 13:30–21:30** |
 | **Tue 13 Oct** | Bangkok | Dusit Arun rooftop · **work 14:00–21:30** · steak dinner |
 | **Wed 14 Oct** | Bangkok | Canal-park walk · brunch · **wisdom tooth extraction 15:00** |
-| **Thu 15 Oct** | Bangkok | Watsons · physio 13:30 BNH · Canalis airport hotel |
+| **Thu 15 Oct** | Bangkok | Watsons · doctor 13:30 + physio 14:30, BNH · Canalis airport hotel |
 | **Fri 16 Oct** | ✈ → Hong Kong | 07:00 shuttle · TG628 10:30 → 14:20 · **Big Bus 19:00** |
 | **Sat 17 Oct** | Hong Kong | **Monastery 10:30** · Sheung Wan |
 | **Sun 18 Oct** | Hong Kong | Sham Shui Po · **massage 17:00** |

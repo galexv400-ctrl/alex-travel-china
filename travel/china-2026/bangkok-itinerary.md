@@ -116,8 +116,8 @@ Booking.com **6637.638.401** · PIN 4470 · ⚠ **pay at check-in, ₪158** · n
   - **Yes →** Grab to the Sindhorn, 68 Langsuan Road, on the way to the Canalis · ~20 min · get a **receipt**
   - **No →** **Bangkok Self Storage**, Rama 4 (Ard Narong Rd) · laptop allowed · own locker, 24/7 access code · contents not insured · ~THB 1,060 + THB 1,000 refundable deposit · drop on the way to the Canalis, office open till 18:00
 - **12:00** Check out of the Pullman G · 💳 **ask for the deposit to be released** (paid by card) · **leave bags with the concierge**
-- **13:30** 🩺 **Physio · BNH Hospital**, 2nd floor, Convent Road · ✅ booked · ~10 min from the hotel · lower back / right SI-glute
-- **~14:45** Collect bags · 🚕 **Grab** to the Canalis via storage · **leave Silom by ~15:30** · 40–60 min
+- **13:30** 🩺 **Doctor**, then **14:30 physio** · **BNH Hospital**, 2nd floor, Convent Road · ✅ booked · ~10 min from the hotel · lower back / right SI-glute · mention yesterday's extraction
+- **~15:45** Collect bags · 🚕 **Grab** to the Canalis via storage · rush hour from ~16:30 — allow 60–90 min · storage office open till 18:00
 - ⚠ **Book the 07:00 shuttle** at reception
 - 🏪 **7-Eleven** — water, breakfast, snacks for the flight
 - Room service until 21:30
