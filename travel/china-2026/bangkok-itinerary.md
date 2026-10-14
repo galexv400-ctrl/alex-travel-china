@@ -80,7 +80,6 @@ Rooftop **Scarlett** for an evening after work
 
 ### Wednesday 14 · wisdom tooth out
 - 🧺 **Before 10:00 · laundry** to the concierge for **S.T. Laundry** · same-day return · THB 400 · send S.T. a photo of the bag
-- 📞 **Before 10:00 · reception:** book the **physio** for Thu ~13:00
 - 🌿 **Walk · Chong Nonsi Canal Park** · flat, shaded · 20–30 min, slowly
 - 🍳 **Brunch · Rocket Coffeebar**, Sathorn Soi 12 *(check hours)* · or **Monochrome** · 💊 tablets after food
 - 💻 **Valentina's task**
@@ -117,8 +116,8 @@ Booking.com **6637.638.401** · PIN 4470 · ⚠ **pay at check-in, ₪158** · n
   - **Yes →** Grab to the Sindhorn, 68 Langsuan Road, on the way to the Canalis · ~20 min · get a **receipt**
   - **No →** **Bangkok Self Storage**, Rama 4 (Ard Narong Rd) · laptop allowed · own locker, 24/7 access code · contents not insured · ~THB 1,060 + THB 1,000 refundable deposit · drop on the way to the Canalis, office open till 18:00
 - **12:00** Check out of the Pullman G · 💳 **ask for the deposit to be released** (paid by card) · **leave bags with the concierge**
-- **~13:00** 🩺 **Physio, Silom** · lower back / right SI-glute · **to book** — **BNH Hospital rehabilitation**, Convent Road · *or* **Saladaeng Physiotherapy**, Silom Grand Terrace
-- **~14:30** Collect bags · 🚕 **Grab** to the Canalis · **leave Silom by 15:00–15:30** · 40–60 min
+- **13:30** 🩺 **Physio · BNH Hospital**, 2nd floor, Convent Road · ✅ booked · ~10 min from the hotel · lower back / right SI-glute
+- **~14:45** Collect bags · 🚕 **Grab** to the Canalis via storage · **leave Silom by ~15:30** · 40–60 min
 - ⚠ **Book the 07:00 shuttle** at reception
 - 🏪 **7-Eleven** — water, breakfast, snacks for the flight
 - Room service until 21:30
