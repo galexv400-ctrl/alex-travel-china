@@ -11,8 +11,7 @@
 
 | Where | What |
 |---|---|
-| **Bangkok, Tue 13 Oct** | Reusable gel cold pack · universal travel adapter — HK UK-style + China flat 2-pin, ideally USB-C · pharmacy |
-| **Bangkok, Thu 15 Oct** | Shampoo + conditioner · body wash · moisturiser · small umbrella · mouthwash — Watsons, Silom |
+| **Bangkok, Thu 15 Oct** | Shampoo + conditioner · body wash · moisturiser · small umbrella · universal travel adapter — Watsons, Silom, after the physio |
 
 ---
 
@@ -136,17 +135,17 @@ Black baseball cap 🎒 · **black sunglasses** 🎒 *(brown bag)* · neck warme
 - Toothbrush + toothpaste 🎒 · anti-chafe balm 🎒
 - Sanitiser wipes 🎒
 - **Pocket tissues** 🎒 — one pack in every bag; Chinese public toilets often have no paper
-- Lip balm 🎒 · 🇹🇭 shampoo, conditioner, body wash, moisturiser, mouthwash · deodorant 🎒 · razor 🎒 · tweezers 🎒
+- Lip balm 🎒 · 🇹🇭 shampoo, conditioner, body wash, moisturiser · antiseptic mouthwash 🎒 · deodorant 🎒 · razor 🎒 · tweezers 🎒
 
 ## 💊 Medication
 
-SSRI 🎒 · thyroid 🎒 · amoxicillin 500mg 🎒 *(dental, current)* · ibuprofen 🎒 · back pain meds 🎒 · iron 🎒 · magnesium 🎒 · blister plasters 🎒 · Imodium 🎒 · azithromycin 🎒 · Kalbeten 🎒 · pill splitter 🎒 *(main case zip pocket — blade)*
+SSRI 🎒 · thyroid 🎒 · amoxicillin 500mg 🎒 *(finish the course)* · paracetamol 🎒 · ibuprofen 🎒 · back pain meds 🎒 · iron 🎒 · magnesium 🎒 · blister plasters 🎒 · Imodium 🎒 · azithromycin 🎒 · Kalbeten 🎒 · pill splitter 🎒 *(main case zip pocket — blade)*
 
 > 💡 **When to take what, interactions and vaccinations** are on the **Medication** tab.
 
 ## 🔌 Tech
 
-Phone · **USB-C phone cable ×1** 🎒 — brown bag, for the plane · Anker 10,000mAh power bank 🎒 *(CCC-certified — required on Chinese flights)* · universal adapter 🛒 *(Bangkok, Tue 13)* · AirPods 🎒 *(brown bag)*
+Phone · **USB-C phone cable ×1** 🎒 — brown bag, for the plane · Anker 10,000mAh power bank 🎒 *(CCC-certified — required on Chinese flights)* · universal adapter 🛒 *(Bangkok, Thu 15)* · AirPods 🎒 *(brown bag)*
 
 ---
 

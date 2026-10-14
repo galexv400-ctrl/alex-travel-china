@@ -76,46 +76,39 @@ Rooftop **Scarlett** for an evening after work
   - **18:30–19:00** 📤 **Submit S&P**
   - **19:00–19:30** 📅 Alony Hetz catch-up
 - **~19:45** 🥩 **Steak dinner** · book the Grab at ~19:30 · **Santa Fe' Steak / Sizzler**, Silom Complex, linked to BTS Sala Daeng · *or* **Meatchop**, Sala Daeng *(check hours)* · cut small, chew on the good side
-- **After dinner** 🏪 **7-Eleven / Tops** — soft food for Wed–Thu, into the fridge: yoghurt · protein shakes / soy milk *(no straws)* · jok / congee cups · smooth soups · pudding · bananas · water
+- **After dinner** 🏪 **7-Eleven / Tops** — yoghurt, fruit, water for the fridge
 
-### Wednesday 14 · wisdom tooth out
+### Wednesday 14 · specialist
 - 🧺 **Before 10:00 · laundry** to the concierge for **S.T. Laundry** · same-day return · THB 400 · send S.T. a photo of the bag
 - 🌿 **Walk · Chong Nonsi Canal Park** · flat, shaded · 20–30 min, slowly
 - 🍳 **Brunch · Rocket Coffeebar**, Sathorn Soi 12 *(check hours)* · or **Monochrome** · 💊 tablets after food
 - 💻 **Valentina's task**
 - 🧳 **Pack** if there's time — the laundry goes in when it's back
-- 🧊 **Cold pack** from a pharmacy on the walk · or ask reception for **ice** after the extraction
 - 💊 Light lunch · tablets
 - **~14:35** 🚶 Walk to the dentist · 12–15 min
-- **15:00** 🦷 **Wisdom tooth extraction** · specialist · **Silom Dental Building Clinic**, 439 Naradhiwas Rajanagarindra Rd · ☎ 02 636 9091
-  - Ask: OK to fly Fri? · dissolvable stitches? · more antibiotics? · which mouthwash? · what to do if it bleeds in HK/China · **itemised receipt** · a **note / X-ray** for the Hong Kong dentist
-- **~16:30** Back · rest · 🧊 **cold pack** 15–20 min on / off, wrapped in cloth · work as able
-- No meetings
-- 🍲 **Soft food dinner** · no straws · no hot drinks
+- **15:00** 🦷 **Specialist · Silom Dental Building Clinic**, 439 Naradhiwas Rajanagarindra Rd · ☎ 02 636 9091 · **extraction postponed** — not before mainland China · finish the amoxicillin course · antiseptic mouthwash **once a day, at night**
+- 🥩 **Dinner · Scarlett**, Pullman G rooftop · or Meatchop, Sala Daeng · chew on the other side
 
 ### ☔ If it rains in the morning · 11–15 Oct
 | Day | Outdoor part | Instead |
 |---|---|---|
 | **Tue 13** | Lumphini walk | Skip it · stay in Dusit Central Park — coffee, rooftop garden, lunch in the mall |
 | **Wed 14** | Canal-park walk · walk to the dentist | Skip the walk · **Grab** to the dentist · ~10 min |
-| **Thu 15** | Watsons · physio · Grab to Canalis | **Grab** to Watsons and physio · **leave for Canalis 30 min earlier** — rain slows the roads |
+| **Thu 15** | Physio · Watsons · Grab to Canalis | **Grab** to physio and Watsons · **leave for Canalis 30 min earlier** — rain slows the roads |
 
 > ☂ **No umbrella until Thursday** — if rain is forecast sooner, any 7-Eleven, ~THB 100 · Tevas, not trainers · storms usually pass in 1–2 hrs
 
-## Thursday 15 October — Watsons, physio, then the airport hotel
+## Thursday 15 October — physio, Watsons, then the airport hotel
 
 **Canalis Suvarnabhumi Airport Hotel** · 1599/1 Lat Krabang Soi 13 · ☎ +66 2 332 1555
 Booking.com **6637.638.401** · PIN 4470 · ⚠ **pay at check-in, ₪158** · no breakfast · reception open till midnight
 
-> 🍲 **Soft food all day.**
-
 - Slow morning · breakfast · pack
-- **~10:00** 🛒 **Watsons, Silom** *(check Google Maps)* — shampoo + conditioner · body wash · moisturiser · **small umbrella** · the **mouthwash the specialist recommends** · **universal travel adapter** if not yet bought
-- 🎒 **Backpack → Sindhorn Midtown** ✅ agreed to store it until 4 Nov · 68 Langsuan Road · on the way to the Canalis · ~20 min · get a **receipt**
-  - 💻 **Ask there:** can the **laptop** be stored securely too? **Yes →** leave it · **No →** it travels: **day bag on flights**, padded in the middle of the suitcase on trains and buses
 - **12:00** Check out of the Pullman G · 💳 **ask for the deposit to be released** (paid by card) · **leave bags with the concierge**
-- **13:30** 🩺 **Doctor**, then **14:30 physio** · **BNH Hospital**, 2nd floor, Convent Road · ✅ booked · ~10 min from the hotel · lower back / right SI-glute · mention yesterday's extraction
-- **~15:45** Collect bags · 🚕 **Grab** to the Canalis via storage · rush hour from ~16:30 — allow 60–90 min
+- **13:30** 🩺 **Doctor**, then **14:30 physio** · **BNH Hospital**, 2nd floor, Convent Road · ✅ booked · ~10 min from the hotel · lower back / right SI-glute · mention the broken wisdom tooth + amoxicillin
+- **~15:45** 🛒 **Watsons, Silom** — shampoo + conditioner · body wash · moisturiser · **small umbrella** · **universal travel adapter** (HK UK-style + China flat 2-pin, ideally USB-C)
+- Collect bags · 🎒 **Backpack + laptop → Sindhorn Midtown** ✅ both stored until 4 Nov · 68 Langsuan Road · booking 6761.193.363 · get a **receipt**
+- 🚕 **Grab** to the Canalis · rush hour from ~16:30 — allow 60–90 min
 - ⚠ **Book the 07:00 shuttle** at reception
 - 🏪 **7-Eleven** — water, breakfast, snacks for the flight
 - Room service until 21:30
@@ -158,6 +151,7 @@ Pool 18F · gym 19F · saunas
 
 ## Day 2 — Thursday 5 November: Pool, Siam, hot stone
 
+- 🦷 **Wisdom tooth extraction** · Silom Dental Building Clinic · **to book** — or in Israel after 8 Nov
 - **Morning** · no alarm · breakfast · pool on 18, gym on 19
   - ☕ **Peace Oriental Teahouse** — on Langsuan
 - **12:30** 🍽 **Honmono Sushi** · 3F Central Chidlom
