@@ -40,7 +40,7 @@ Uniqlo moon bag: **phone** · Monzo card · some HKD cash · **power bank + cabl
 - **~16:00** Check in · rest
 - **18:45** Walk to the **Avenue of Stars** · 10 min along the waterfront
 - **19:00** 🚌 **Big Bus night tour** · ref **XF7MVK0Z** · Stop #16, Bruce Lee statue · ~1h15 loop, ends where it starts
-- **~20:30** 🍽 **Flat Iron Steak** · Lower Lobby, The Langham, 8 Peking Road · 5 min from the bus · open till 23:30 · ask for salad instead of chips
+- **~20:30** 🍽 **Flat Iron Steak** · Lower Lobby, The Langham, 8 Peking Road · 5 min from the bus · open till 23:30 · ask for salad instead of chips · ☎ +852 6551 0667 · [Instagram](https://www.instagram.com/flatiron_hk/)
 
 **If you still have energy:** K11 MUSEA, 18 Salisbury Road, till 22:00 · Temple Street Night Market, Jordan
 
@@ -120,7 +120,6 @@ Uniqlo moon bag: **phone** · Monzo card · some HKD cash · **power bank + cabl
 - **17:00** 💆 **Tai Pan Reflexology** · 83 Nathan Road, basement · booked · 5 min walk · ☎ +852 2301 1990
 - **19:30** 🍽 **Born Ga**, TST · stone-pot bibimbap, soft tofu stew · good for one
   - *Or:* **Hansung Co**, 10 Kimberley Street — bibimbap, beef stew · 5 min from the hotel
-  - ☎ +852 6551 0667 · [Instagram](https://www.instagram.com/flatiron_hk/)
 
 ---
 
