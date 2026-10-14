@@ -112,10 +112,10 @@ Booking.com **6637.638.401** · PIN 4470 · ⚠ **pay at check-in, ₪158** · n
 
 - Slow morning · breakfast · pack
 - **~10:00** 🛒 **Watsons, Silom** *(check Google Maps)* — shampoo + conditioner · body wash · moisturiser · **small umbrella** · the **mouthwash the specialist recommends** · **universal travel adapter** if not yet bought
-- 🎒 **Backpack + laptop bag → storage until 4 Nov** · no valuables · **laptop + charger come on the trip**
+- 🎒 **Backpack + laptop → storage until 4 Nov** · before: back up the laptop, sign out of work, password on, photograph it + serial number
   - 📧 **Sindhorn emailed** · ☎ +66 2 796 8888 · check for a reply
   - **Yes →** Grab to the Sindhorn, 68 Langsuan Road, on the way to the Canalis · ~20 min · get a **receipt**
-  - **No →** **Suvarnabhumi left-luggage** on Fri 16 Oct before the flight · 24 h · ~THB 2,000 for 20 days
+  - **No →** **Bangkok Self Storage**, Rama 4 (Ard Narong Rd) · laptop allowed · own locker, 24/7 access code · contents not insured · ~THB 1,060 + THB 1,000 refundable deposit · drop on the way to the Canalis, office open till 18:00
 - **12:00** Check out of the Pullman G · 💳 **ask for the deposit to be released** (paid by card) · **leave bags with the concierge**
 - **~13:00** 🩺 **Physio, Silom** · lower back / right SI-glute · **to book** — **BNH Hospital rehabilitation**, Convent Road · *or* **Saladaeng Physiotherapy**, Silom Grand Terrace
 - **~14:30** Collect bags · 🚕 **Grab** to the Canalis · **leave Silom by 15:00–15:30** · 40–60 min
