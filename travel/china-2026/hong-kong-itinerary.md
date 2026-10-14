@@ -40,7 +40,7 @@ Uniqlo moon bag: **phone** · Monzo card · some HKD cash · **power bank + cabl
 - **~16:00** Check in · rest
 - **18:45** Walk to the **Avenue of Stars** · 10 min along the waterfront
 - **19:00** 🚌 **Big Bus night tour** · ref **XF7MVK0Z** · Stop #16, Bruce Lee statue · ~1h15 loop, ends where it starts
-- **~20:30** 🍽 **Born Ga**, TST · soft tofu stew — let it cool
+- **~20:30** 🍽 **Flat Iron Steak** · Lower Lobby, The Langham, 8 Peking Road · 5 min from the bus · open till 23:30 · ask for salad instead of chips
 
 **If you still have energy:** K11 MUSEA, 18 Salisbury Road, till 22:00 · Temple Street Night Market, Jordan
 
@@ -85,7 +85,7 @@ Uniqlo moon bag: **phone** · Monzo card · some HKD cash · **power bank + cabl
 > 😴 **Too tired after the monastery?** Skip the afternoon — MTR back to TST and rest.
 
 - **19:00** MTR back to TST
-- **~19:45** 🍽 **Goobne Chicken** · 2/F, The Hart, 4 Hart Avenue · 5 min from the hotel · oven-roasted, not fried · open past midnight · boneless, cut small — decide on the day
+- **~19:45** 🍽 **Goobne Chicken** · 2/F, The Hart, 4 Hart Avenue · 5 min from the hotel · oven-roasted, not fried · open past midnight
   - *Or:* **Apgujeong Tent Bar**, 9 Knutsford Terrace — Korean · ☎ +852 3579 2992
 
 ---
@@ -118,7 +118,8 @@ Uniqlo moon bag: **phone** · Monzo card · some HKD cash · **power bank + cabl
   - 🛍 **Thrifting:** Apliu Street flea market · Sing Jai Kee vintage · Fuk Wing Street · Dragon Centre for air-con
 - **16:00** MTR back to TST · ~12 min
 - **17:00** 💆 **Tai Pan Reflexology** · 83 Nathan Road, basement · booked · 5 min walk · ☎ +852 2301 1990
-- **19:30** 🍽 **Flat Iron Steak** · Lower Lobby, The Langham, 8 Peking Road · open till 23:30 · cut small, chew on the other side
+- **19:30** 🍽 **Born Ga**, TST · stone-pot bibimbap, soft tofu stew · good for one
+  - *Or:* **Hansung Co**, 10 Kimberley Street — bibimbap, beef stew · 5 min from the hotel
   - ☎ +852 6551 0667 · [Instagram](https://www.instagram.com/flatiron_hk/)
 
 ---
@@ -154,7 +155,7 @@ Same bookings, indoor swaps. Check **MyObservatory** each morning.
 
 | Day | If it rains |
 |---|---|
-| **Fri 16** | 🚌 Big Bus runs — **sit on the covered lower deck** · in a downpour, ask Big Bus to move it · dinner at Born Ga as planned · *after:* **K11 MUSEA**, all indoors |
+| **Fri 16** | 🚌 Big Bus runs — **sit on the covered lower deck** · in a downpour, ask Big Bus to move it · dinner at Flat Iron as planned · *after:* **K11 MUSEA**, all indoors |
 | **Sat 17** | 🛕 Monastery as booked — the grounds are open-air, so take the umbrella · *afternoon:* skip **Cat Street** · **PMQ** → **Tai Kwun** (former police station, galleries, free) → **Central Market**, via the covered **Mid-Levels escalator** |
 | **Sun 18** | Mei Ho House and JCCAC are indoors — no change · *afternoon:* skip **Apliu Street** · thrift in **Dragon Centre** · coffee on Tai Nan Street |
 | **Mon 19** | No change — MTR to the dentist · Uber to Harbour Plaza |
