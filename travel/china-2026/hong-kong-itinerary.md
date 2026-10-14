@@ -13,7 +13,7 @@
 
 > 🍽 **All meals are walk-in.**
 
-> 🦷 **Soft food Fri 16** — congee, noodles, dim sum, tofu · from Sat, cut food small and chew on the other side · avoid crunchy, seeds, very spicy.
+> 🦷 **Broken wisdom tooth** — chew on the other side · avoid very hard food.
 
 ## 👝 What to carry
 
@@ -135,7 +135,7 @@ Uniqlo moon bag: **phone** · Monzo card · some HKD cash · **power bank + cabl
   - 🎁 **Hong Kong Souvenir Shop 香港紀念品專門店** · **27–33 Nathan Road** · 4 min walk · 09:00–23:00
   - 💱 **CNY** — ATM, then a money changer at **Chungking Mansions**, across the road
 - **~13:40** 🚇 MTR **TST → Admiralty → Causeway Bay** · ~20 min
-- **14:15** 🦷 **Dental check-up · Home Dental** · Rooms 2007–2010, 20/F, Hang Lung Centre, 2–20 Paterson Street, Causeway Bay · ☎/WhatsApp +852 3956 9387 · bring the Bangkok note / X-ray
+- **14:15** 🦷 **Dental check-up (tooth calm before China?) · Home Dental** · Rooms 2007–2010, 20/F, Hang Lung Centre, 2–20 Paterson Street, Causeway Bay · ☎/WhatsApp +852 3956 9387 · bring the Bangkok note / X-ray
 - **~15:00** 🚇 MTR back to TST · 🍫 **spend the Octopus down to zero** at a 7-Eleven — snacks for tomorrow's 9-hour train
 - **~15:30** Collect luggage
 - **~15:45** 🚕 **Uber to Harbour Plaza North Point**, 665 King's Road · ~25 min
