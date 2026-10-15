@@ -98,7 +98,7 @@ Rooftop **Scarlett** for an evening after work
 ## Thursday 15 October — physio, Watsons, then the airport hotel
 
 **Canalis Suvarnabhumi Airport Hotel** · 1599/1 Lat Krabang Soi 13 · ☎ +66 2 332 1555
-Booking.com **6637.638.401** · PIN 4470 · ⚠ **pay at check-in, ₪158** · no breakfast · reception open till midnight
+Booking.com **6637.638.401** · PIN 4470 · ✅ paid ₪158 · no breakfast · reception open till midnight
 
 - Slow morning · 🛂 **passports from the safe** · breakfast in the room — protein shake + yoghurt · 💊 tablets · pack shoes + toiletries
 - **12:00** Check out of the Pullman G · 💳 **ask for the deposit to be released** (paid by card) · **leave bags with the concierge**
@@ -107,7 +107,7 @@ Booking.com **6637.638.401** · PIN 4470 · ⚠ **pay at check-in, ₪158** · n
 - **~15:45** 🛒 **Watsons, Silom** — shampoo + conditioner · body wash · moisturiser · **small umbrella** · **universal travel adapter** (HK UK-style + China flat 2-pin, ideally USB-C)
 - Collect bags · 🎒 **Backpack + laptop → Sindhorn Midtown** ✅ both stored until 4 Nov · 68 Langsuan Road · booking 6761.193.363 · get a **receipt**
 - 🚕 **Grab** to the Canalis · rush hour from ~16:30 — allow 60–90 min
-- ⚠ **Book the 07:00 shuttle** at reception
+- ✅ 07:00 shuttle booked
 - 🏪 **7-Eleven** — water, breakfast, snacks for the flight
 - Room service until 21:30
 
@@ -117,7 +117,7 @@ Booking.com **6637.638.401** · PIN 4470 · ⚠ **pay at check-in, ₪158** · n
 - **07:00** 🚐 **Free shuttle** to the airport
   - ⚠ Runs only at 05:00 · 07:00 · 09:00 · 11:00 — the 09:00 is too late
 - 🍞 Breakfast airside
-- **10:30** ✈ **Thai TG628** to Hong Kong · ref **EASDQZ** · seat 44H
+- **10:30** ✈ **Thai TG628** to Hong Kong · ref **EASDQZ** · seat 44H · online check-in done · Hong Kong is +1 h
 - **14:20** Land Hong Kong, Terminal 1
 
 ---

@@ -56,7 +56,7 @@
 | | Flight | Times | Seat | Booking |
 |---|---|---|---|---|
 | **Sun 11 Oct** | El Al **LY85** TLV → BKK | **00:05** → 15:45 · 11h 40m | 49G · aisle | **ZUMSQL** · e-ticket 1142496363725 · **Flex** · 2 bags |
-| **Fri 16 Oct** | Thai **TG628** BKK → HKG | 10:30 → 14:20 · 2h 50m | 44H | **EASDQZ** · e-ticket 2172348955256 |
+| **Fri 16 Oct** | Thai **TG628** BKK → HKG | 10:30 → 14:20 · 2h 50m | 44H | **EASDQZ** · e-ticket 2172348955256 · check-in done |
 | **Wed 4 Nov** | Air China **CA959** PEK → BKK | **13:45** → 18:05 · 5h 20m | 46D | **ECFV7Q** · Air China **MESQ54** · e-ticket 999-2425129533 |
 | **Sun 8 Nov** | El Al **LY84** BKK → TLV | 16:30 → 22:55 · 11h 25m | 34D | **ZUMSQL** · frequent flyer 12956761 |
 
@@ -77,7 +77,7 @@
 
 | Hotel | Nights | Booking | Cost |
 |---|---|---|---|
-| **Canalis Suvarnabhumi** · 1599/1 Lat Krabang Soi 13 · ☎ +66 2 332 1555 | Thu 15 Oct | **6637.638.401** · PIN 4470 | ₪158 · ⚠ **pay at check-in** |
+| **Canalis Suvarnabhumi** · 1599/1 Lat Krabang Soi 13 · ☎ +66 2 332 1555 | Thu 15 Oct | **6637.638.401** · PIN 4470 | ₪158 · ✅ paid |
 | **The Luxe Manor** · 39 Kimberley Road, TST | 16–19 Oct | **5515516445** | ₪1,397 · ✅ prepaid |
 | **Pullman Bangkok Hotel G** · 188 Silom Road, Bang Rak · ☎ +66 2 352 4000 | 11–15 Oct | **6810.593.634** · PIN 4301 | ₪1,552 · breakfast · ✅ paid |
 | *Intrepid tour hotels* | 19 Oct – 4 Nov | — | In the tour |
@@ -94,7 +94,7 @@
 | Flights ×4 | ~$1,660 |
 | El Al change to 11 Oct · Flex | $680 |
 | Intrepid tour | ~$4,000 |
-| Hotels | ₪1,397 + ₪1,552 + THB 30,498 · Canalis ₪158 at check-in |
+| Hotels | ₪1,397 + ₪1,552 + THB 30,498 · Canalis ₪158 ✅ |
 | Insurance (PassportCard) | $229 · 11 Oct – 8 Nov |
 | Airalo eSIM | £41.77 |
 | Hot stone massage | 2,300 THB |
