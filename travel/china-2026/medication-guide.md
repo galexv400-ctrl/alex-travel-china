@@ -52,10 +52,18 @@
 
 ## The rules
 
-- 🦷 **Current dental course:** amoxicillin 3× a day after food — **finish the course** · ibuprofen 400mg as needed, max 3× a day, 6 h apart · antiseptic mouthwash **once a day, at night** · **no naproxen or Kalbeten** with ibuprofen · paracetamol is fine · extraction postponed to after China.
+- 💊 **Current medication:**
+  - **Amoxicillin** 3× a day after food — **finish the course**
+  - **Celebrex 200 mg** — once daily, straight after breakfast · 10 days from Fri 16 Oct
+  - **Norgesic** (orphenadrine + paracetamol) — 1 tablet 3× daily after meals, from Fri 16 dinner, ~3 days · may cause drowsiness · **no extra Panadol/Tylenol/paracetamol** while taking it
+  - **Locoa patch** (esflurbiprofen 40 mg) — 1 a day on clean, dry skin · keep the area out of strong sun
+  - **No Nurofen/ibuprofen, Kalbeten or naproxen** while on Celebrex
+  - Antiseptic mouthwash **once a day, at night**
+  - BNH 15 Oct: muscle strain, right SI/glute — not a disc · shockwave done
+  - 🦷 Wisdom tooth extraction postponed to after China
 - ❌ **Never take Imodium and Kalbeten together.** Pick one.
-- ❌ **Never take Kalbeten with ibuprofen.** Kalbeten is a salicylate, a relative of aspirin — together they raise the risk of stomach bleeding.
-- ⚠ **Kalbeten + SSRI** — SSRIs also raise bleeding risk with aspirin-type drugs, so **Imodium is the first choice**.
+- ❌ **Never take Kalbeten with Celebrex, ibuprofen or any other anti-inflammatory.** Kalbeten is a salicylate, a relative of aspirin — together they raise the risk of stomach bleeding.
+- ⚠ **Kalbeten + SSRI** — SSRIs also raise bleeding risk with aspirin-type drugs, so **Imodium is the first choice**. Celebrex also slightly raises bleeding risk with an SSRI — take it with food.
 - ⚠ **Azithromycin and magnesium** — take them **at least 2 hours apart.**
 - ⚠ **Thyroid pill** — keep **at least 4 hours** away from iron, magnesium **and Kalbeten.**
 - ⏱ **Imodium: stop after 48 hours.** Still needing it after that means azithromycin, and probably a doctor.

@@ -6,14 +6,17 @@
 | Booked | When |
 |---|---|
 | 🚌 Big Bus night tour · ref **XF7MVK0Z** | Fri 19:00 |
-| 🛕 Tsz Shan Monastery | Sat 10:30 |
+| 🛕 Tsz Shan Monastery · reg **P337465** · QR in email | Sat 10:30 |
 | 💆 Tai Pan massage | Sun 17:00 |
 | 💅 Nu Nail & Beauty | Mon 12:00 |
+| 🦷 Home Dental check-up | Mon 19, 14:15 |
 | 👋 Intrepid welcome meeting | Mon 18:00 |
 
 > 🍽 **All meals are walk-in.**
 
 > 🦷 **Broken wisdom tooth** — chew on the other side · avoid very hard food.
+
+> 💊 **Daily:** Celebrex after breakfast · Norgesic after meals (Fri 16 dinner → ~3 days, drowsy) · Locoa patch, keep the area out of the sun · mouthwash at night · no Panadol/Tylenol while on Norgesic
 
 ## 👝 What to carry
 
@@ -40,7 +43,7 @@ Uniqlo moon bag: **phone** · Monzo card · some HKD cash · **power bank + cabl
 - **~16:00** Check in · rest
 - **18:45** Walk to the **Avenue of Stars** · 10 min along the waterfront
 - **19:00** 🚌 **Big Bus night tour** · ref **XF7MVK0Z** · Stop #16, Bruce Lee statue · ~1h15 loop, ends where it starts
-- **~20:30** 🍽 **Flat Iron Steak** · Lower Lobby, The Langham, 8 Peking Road · 5 min from the bus · open till 23:30 · ask for salad instead of chips · ☎ +852 6551 0667 · [Instagram](https://www.instagram.com/flatiron_hk/)
+- **~20:30** 🍽 **Flat Iron Steak** · Lower Lobby, The Langham, 8 Peking Road · 5 min from the bus · open till 23:30 · ask for salad instead of chips · ☎ +852 6551 0667 · [Instagram](https://www.instagram.com/flatiron_hk/) · 💊 then start **Norgesic** (drowsy)
 
 **If you still have energy:** K11 MUSEA, 18 Salisbury Road, till 22:00 · Temple Street Night Market, Jordan
 
@@ -52,7 +55,7 @@ Uniqlo moon bag: **phone** · Monzo card · some HKD cash · **power bank + cabl
 - **09:15** MTR to **Tai Po Market** · ~45 min
   - Then to the monastery: **taxi** from outside the station (~10 min) — show the driver **慈山寺**
   - ⚠ The 20T minibus does not run on Saturdays. Backup: minibus **20B** to Tong Tsz Road, then 10 min uphill
-- **10:30** 🛕 **Tsz Shan Monastery** · booked · giant Guanyin statue, wooded grounds · **allow 75–90 min**
+- **10:30** 🛕 **Tsz Shan Monastery** · booked · reg P337465 · QR code in email · giant Guanyin statue, wooded grounds · **allow 75–90 min**
   - ⚠ **Covered shoulders** — swirl short-sleeve + H&M cropped
   - [Booking](https://www.tszshan.org/home/new/en/visit.php) · [Instagram](https://www.instagram.com/tszshanmonastery/)
 - **~11:45** Ask reception to **call a taxi** back to Tai Po Market — the return is the harder direction
@@ -95,7 +98,7 @@ Uniqlo moon bag: **phone** · Monzo card · some HKD cash · **power bank + cabl
 > 😴 **Jet lag makes you later, not earlier** — you flew east. Take the morning slowly; nothing is booked before 17:00.
 
 - **09:30** 🍳 Breakfast at the hotel
-- **10:00** 🧺 **Drop the laundry** · **Carlye Laundry**, Golden Crown Court, Nathan Road · ☎ +852 2367 2463 · by weight · ask the price first
+- **10:00** 🧺 **Drop the laundry** · **Carlye Laundry**, Golden Crown Court, Nathan Road · ☎ +852 2367 2463 · by weight · ask the price first · ask if same-day is possible
 - **10:15** MTR to **Sham Shui Po** · ~15 min, Tsuen Wan Line, no change
 - **10:30** 🏛 **Mei Ho House** · 70 Berwick Street · restored 1950s housing · free · 45 min
 - **11:30** 🎨 **JCCAC** · 30 Pak Tin Street · converted factory, 100+ artist studios · free · ~1.5 hrs · [Instagram](https://www.instagram.com/jccac_artsvillage/)
@@ -135,7 +138,7 @@ Uniqlo moon bag: **phone** · Monzo card · some HKD cash · **power bank + cabl
   - 🎁 **Hong Kong Souvenir Shop 香港紀念品專門店** · **27–33 Nathan Road** · 4 min walk · 09:00–23:00
   - 💱 **CNY** — ATM, then a money changer at **Chungking Mansions**, across the road
 - **~13:40** 🚇 MTR **TST → Admiralty → Causeway Bay** · ~20 min
-- **14:15** 🦷 **Dental check-up (tooth calm before China?) · Home Dental** · Rooms 2007–2010, 20/F, Hang Lung Centre, 2–20 Paterson Street, Causeway Bay · ☎/WhatsApp +852 3956 9387 · bring the Bangkok note / X-ray
+- **14:15** 🦷 **Dental check-up · Home Dental** · check-up only — extraction after China · Rooms 2007–2010, 20/F, Hang Lung Centre, 2–20 Paterson Street, Causeway Bay · ☎/WhatsApp +852 3956 9387 · bring the Bangkok note / X-ray
 - **~15:00** 🚇 MTR back to TST · 🍫 **spend the Octopus down to zero** at a 7-Eleven — snacks for tomorrow's 9-hour train
 - **~15:30** Collect luggage
 - **~15:45** 🚕 **Uber to Harbour Plaza North Point**, 665 King's Road · ~25 min

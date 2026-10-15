@@ -7,14 +7,6 @@
 
 ---
 
-## 🛒 Still to buy
-
-| Where | What |
-|---|---|
-| **Bangkok, Thu 15 Oct** | Shampoo + conditioner · body wash · moisturiser · small umbrella · universal travel adapter — Watsons, Silom, after the physio |
-
----
-
 ## 🧳 The three bags
 
 ### 1 · Main case — American Tourister Instagon 69 spinner, hold luggage
@@ -135,17 +127,17 @@ Black baseball cap 🎒 · **black sunglasses** 🎒 *(brown bag)* · neck warme
 - Toothbrush + toothpaste 🎒 · anti-chafe balm 🎒
 - Sanitiser wipes 🎒
 - **Pocket tissues** 🎒 — one pack in every bag; Chinese public toilets often have no paper
-- Lip balm 🎒 · 🇹🇭 shampoo, conditioner, body wash, moisturiser · antiseptic mouthwash 🎒 · deodorant 🎒 · razor 🎒 · tweezers 🎒
+- Lip balm 🎒 · 🇹🇭 shampoo, conditioner, body wash, moisturiser 🎒 · antiseptic mouthwash 🎒 · deodorant 🎒 · razor 🎒 · tweezers 🎒
 
 ## 💊 Medication
 
-SSRI 🎒 · thyroid 🎒 · amoxicillin 500mg 🎒 *(finish the course)* · paracetamol 🎒 · ibuprofen 🎒 · back pain meds 🎒 · iron 🎒 · magnesium 🎒 · blister plasters 🎒 · Imodium 🎒 · azithromycin 🎒 · Kalbeten 🎒 · pill splitter 🎒 *(main case zip pocket — blade)*
+SSRI 🎒 · thyroid 🎒 · amoxicillin 500mg 🎒 *(finish the course)* · paracetamol 🎒 · Celebrex 200 mg 🎒 · Norgesic 🎒 · Locoa patches 🎒 · antiseptic mouthwash 🎒 · iron 🎒 · magnesium 🎒 · blister plasters 🎒 · Imodium 🎒 · azithromycin 🎒 · Kalbeten 🎒 · pill splitter 🎒 *(main case zip pocket — blade)*
 
 > 💡 **When to take what, interactions and vaccinations** are on the **Medication** tab.
 
 ## 🔌 Tech
 
-Phone · **USB-C phone cable ×1** 🎒 — brown bag, for the plane · Anker 10,000mAh power bank 🎒 *(CCC-certified — required on Chinese flights)* · universal adapter 🛒 *(Bangkok, Thu 15)* · AirPods 🎒 *(brown bag)*
+Phone · **USB-C phone cable ×1** 🎒 — brown bag, for the plane · Anker 10,000mAh power bank 🎒 *(CCC-certified — required on Chinese flights)* · universal adapter 🎒 · AirPods 🎒 *(brown bag)*
 
 ---
 
@@ -160,6 +152,8 @@ Phone · **USB-C phone cable ×1** 🎒 — brown bag, for the plane · Anker 10
 | | TDAC QR ×2 — **#1 ✅ 3B6E45A** (11 Oct) · #2 on 2 Nov |
 | | Vaccine book + clinic summary |
 | | Hotel addresses in Chinese |
+| | Luxe Manor ref 5515516445 |
+| | Tsz Shan Monastery reg P337465 (QR in email) |
 
 **Passports:** **Israeli** at Ben Gurion, out and back · **UK** everywhere in Asia — Thailand, Hong Kong, mainland China
 

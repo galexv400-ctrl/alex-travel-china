@@ -58,6 +58,8 @@ FORBIDDEN = [
     (r"Israeli (for|passport —) ?(Hong Kong|HK|Thailand)|Israeli or UK", "UK passport for HK and Thailand; Israeli only at Ben Gurion"),
     (r"[Pp]ending pharmacist|Still to confirm with the pharmacist", "Pharmacist questions dropped by Alexandra"),
     (r"(?i)(azithromycin|kalbeten)\W{0,6}🛒|🛒\W{0,6}(azithromycin|kalbeten)", "Azithromycin and Kalbeten are collected"),
+    (r"(?i)pay at check-in",        "Canalis is paid — ₪158 settled"),
+    (r"(?i)ibuprofen 400\s?mg as needed", "On Celebrex now — no ibuprofen"),
     (r"(Canalis|6637\.638\.401).*prepaid", "Canalis is NOT prepaid — pay at check-in"),
     (r"(Sindhorn|6761\.193\.363).*(charged automatically|THB 30,498\.42, charged)", "Sindhorn is paid"),
     (r"(?i)black short-sleeve|plain black\*\*|black one needs", "Plain short-sleeve is now grey, not black"),
