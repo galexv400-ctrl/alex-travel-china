@@ -80,7 +80,7 @@ A default for every day, so you never stand over a suitcase deciding. Swap freel
 | **Wed 4** | Flight · 12°C → 30°C | ✈ Khaki + Amazon flares, puffer in the day bag → **change at the hotel** |
 | **Thu 5** | Pool · Siam · massage · El Gaucho | Bra top + bike shorts → **dinner:** cropped trousers + short-sleeve + kimono + Tevas |
 | **Fri 6** | Charoenkrung walk | Green playsuit · Skechers · cap |
-| **Sat 7** | Chatuchak · Mozza | Bra top + bike shorts · cap · Skechers → **dinner:** red playsuit |
+| **Sat 7** | Pilates · Chatuchak · Mozza | Bra top + bike shorts · 🧦 grip socks · cap · Skechers → **dinner:** red playsuit |
 | **Sun 8** | ✈ Home | H&M cropped + short-sleeve + kimono · Skechers |
 
 > 🍽 **El Gaucho is the smartest meal** — Tevas, not flip-flops.

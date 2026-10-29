@@ -208,11 +208,16 @@ A walk along the river — Sarnies is the one backtrack, 10–15 min south.
 
 ---
 
-## Day 4 — Saturday 7 November: Chatuchak + souvenirs
+## Day 4 — Saturday 7 November: Pilates, Chatuchak + souvenirs
 
 - **09:30** Breakfast
-- **10:30** ⭐ **MRT Lumphini → Kamphaeng Phet** · no change · **Exit 2 opens into the market**
-- **11:00** 🛍 **Chatuchak** · ~3 hours
+- **10:30** 🚕 **Grab → Isora** · ~15–25 min · 3rd floor, Sathorn Boutique Spa & Wellness, 199/1 Sathon Soi 12
+- **11:00–11:50** 🧘 **Pilates · Office Syndrome** · booked
+  - 🧦 **Grip socks** — required · tell the instructor about the right SI joint and glute
+  - 🍌 Snack after class — lunch is not until ~14:45
+- **~12:00** 🚶 **BTS Chong Nonsi** · ~10 min walk · or Grab straight to Chatuchak, ~30–40 min
+- **~12:10** 🚆 **BTS Chong Nonsi → Siam**, change → **Mo Chit** · ~30 min · Exit 1, follow the crowds into the market
+- **~12:45** 🛍 **Chatuchak** · ~1¾ hours · hottest and busiest now — water, stay under cover
 
 | Go to | For |
 |---|---|
@@ -230,8 +235,8 @@ A walk along the river — Sarnies is the one backtrack, 10–15 min south.
 > 🚪 **Too busy?** Give sections 5–6 twenty minutes. Still shuffling? Leave:
 > ⭐ **Union Mall** — two MRT stops north, Phahon Yothin, trendy clothes at market prices · ⭐ **Siam** · **Or Tor Kor** fresh market, across the road · or give up and use Sunday morning
 
-- **~14:00** Leave · **BTS Mo Chit → Ari** · 2 stops, ~5 min
-- **~14:15** 🌿 **Ari** · leafy sois, independent cafés, small boutiques · lunch here
+- **~14:30** Leave · **BTS Mo Chit → Ari** · 2 stops, ~5 min
+- **~14:45** 🌿 **Ari** · leafy sois, independent cafés, small boutiques · lunch here
   - 🍽 **Lay Lao**, Phahon Yothin Soi 7 · Isan food, seafood · or any café on Soi Ari 1
 - **~16:00** **BTS Ari → Chit Lom** · ~20 min · hotel · shower · rest
 - 🎒 **Backpack home:** check LY84 baggage in the El Al app — buy a 2nd checked bag online, or fold the empty backpack into the suitcase (expansion zip) · ≤23 kg · laptop in the cabin
@@ -306,26 +311,26 @@ The dry plan is a long outdoor walk. This keeps the indoor stops and hops betwee
 
 > ✂ **Skip in rain:** Talat Noi lanes · Song Wat Road · Hong Sieng Kong's waterside tables.
 
-### Sat 7 Nov — Chatuchak
+### Sat 7 Nov — Pilates, then Chatuchak
 
 Most stalls are **under roofs**, but the alleys between sections are open, they get crowded and they flood.
 
 | If it's | Do this |
 |---|---|
 | 🌦 **Light rain** | **Go as planned** · Tevas · umbrella · head straight to **sections 5–6** — then leave |
-| 🌧 **Raining hard at 10:00** | Swap the day — see below |
+| 🌧 **Raining hard at 12:00** | Pilates as booked, then swap the afternoon — see below |
 | ⛈ **Storm while you're there** | Shelter in a covered section or **Mixt Chatuchak** next door — it usually passes in under an hour · then MRT from Kamphaeng Phet, **Exit 2** |
 
 **Hard rain — indoor Saturday**
 
-- **10:30** 🚇 **MRT Lumphini → Phahon Yothin** · 2 stops past Kamphaeng Phet · no change
-- **11:00** 🛍 **Union Mall** — Chatuchak-style clothes at market prices, all indoors
-  - **Central Ladprao** across the road — big mall, food hall
-- **13:30** 🚇 MRT → **Sukhumvit**, change to BTS at Asok → **Siam**, change → **National Stadium** · ~40 min
-- **14:15** 🎨 **BACC** — Bangkok Art and Culture Centre · free · skywalk from BTS National Stadium · 10:00–20:00, closed Mon
+- **10:30** 🚕 Grab → **Isora** · **11:00–11:50** 🧘 Pilates — as booked
+- **12:00** 🚕 **Grab → Union Mall**, Phahon Yothin · ~35–45 min — Chatuchak-style clothes at market prices, all indoors
+  - **Central Ladprao** across the road — big mall, food hall · lunch here
+- **14:30** 🚇 MRT Phahon Yothin → **Sukhumvit**, change to BTS at Asok → **Siam**, change → **National Stadium** · ~40 min
+- **15:15** 🎨 **BACC** — Bangkok Art and Culture Centre · free · skywalk from BTS National Stadium · 10:00–20:00, closed Mon
   - Small independent shops and cafés on the lower floors — good for souvenirs
-- **16:00** 🚶 Skywalk → **MBK** or **Siam** · 5 min, all covered
-- **17:00** BTS Siam → Chit Lom · hotel · 🌶 **Lao Gan Ma** at Tops, Central Chidlom basement
+- **16:30** 🚶 Skywalk → **MBK** or **Siam** · 5 min, all covered
+- **17:30** BTS Siam → Chit Lom · hotel · 🌶 **Lao Gan Ma** at Tops, Central Chidlom basement
 - **19:30** 🍽 **Mozza**, Central Chidlom
 
 > 🛍 **Still want Chatuchak?** It is open **Sunday** too. **08:30** MRT, **09:00–10:45** sections 5–6 only, back by **11:30** · pack on Saturday night first.
