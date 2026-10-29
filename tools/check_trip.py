@@ -50,7 +50,7 @@ FORBIDDEN = [
     (r"500[–-]750",                  "CNY plan is 1,200–1,500"),
     (r"\$500",                       "Not carrying a USD fund"),
     (r"15,000[–-]20,000|10,000 THB|~10,000", "Bangkok withdrawal is ~8,000 THB"),
-    (r"09:30[–-]13:00",              "Chatuchak is 11:00–14:00"),
+    (r"09:30[–-]13:00|11:00\*\* 🛍|Chatuchak 11:00|Chatuchak · ~3 hours|Raining hard at 10:00|Lumphini → Kamphaeng Phet", "Sat 7 Nov: Pilates 11:00–11:50 at Isora, Chatuchak ~12:45–14:30"),
     (r"Stradivarius",                "Stradivarius bra tops not bringing"),
     (r"[Cc]rocs",                    "Flip-flops, not Crocs — Crocs too bulky"),
     (r"KOKONI|Vaso",                 "Removed/unverified venue"),
