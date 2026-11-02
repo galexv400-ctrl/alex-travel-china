@@ -129,7 +129,7 @@ Pool 18F · gym 19F · saunas
 
 ## Day 1 — Wednesday 4 November: Arrival
 
-- **18:05** Land from Beijing on CA959 · **TDAC QR ready**
+- **18:05** Land from Beijing on CA959 · 🇬🇧 **UK passport + TDAC QR** (A8C0E92) at immigration
 - **~19:00** 🚕 **Grab** · pick-up points on Level 1 of arrivals · ~£9–15 · 40–60 min
 - **~20:00** Check in
 
