@@ -83,7 +83,7 @@ Rooftop **Scarlett** for an evening after work
 - 🧳 **Pack** if there's time — the laundry goes in when it's back
 - 💊 Light lunch · tablets
 - **~14:35** 🚶 Walk to the dentist · 12–15 min
-- **15:00** 🦷 **Specialist · Silom Dental Building Clinic**, 439 Naradhiwas Rajanagarindra Rd · ☎ 02 636 9091 · **extraction postponed** — book for Thu 5 Nov here, or in Israel after 8 Nov · finish the amoxicillin course · antiseptic mouthwash **once a day, at night**
+- **15:00** 🦷 **Specialist · Silom Dental Building Clinic**, 439 Naradhiwas Rajanagarindra Rd · ☎ 02 636 9091 · **extraction in Israel** after 8 Nov · finish the amoxicillin course · antiseptic mouthwash **once a day, at night**
 - 🥩 **Dinner · Scarlett**, Pullman G rooftop · or Meatchop, Sala Daeng · chew on the other side
 
 ### ☔ If it rains in the morning · 11–15 Oct
@@ -149,7 +149,6 @@ Pool 18F · gym 19F · saunas
 
 ## Day 2 — Thursday 5 November: Pool, Siam, hot stone
 
-- 🦷 **Wisdom tooth extraction** · Silom Dental Building Clinic · **to book** — or in Israel after 8 Nov
 - **Morning** · no alarm · breakfast · pool on 18, gym on 19
   - ☕ **Peace Oriental Teahouse** — on Langsuan
 - **12:30** 🍽 **Honmono Sushi** · 3F Central Chidlom

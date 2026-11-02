@@ -60,7 +60,7 @@
   - **No Nurofen/ibuprofen, Kalbeten or naproxen** while on Celebrex
   - Antiseptic mouthwash **once a day, at night**
   - BNH 15 Oct: muscle strain, right SI/glute — not a disc · shockwave done
-  - 🦷 Wisdom tooth extraction postponed to after China
+  - 🦷 Wisdom tooth extraction in Israel, after 8 Nov
 - ❌ **Never take Imodium and Kalbeten together.** Pick one.
 - ❌ **Never take Kalbeten with Celebrex, ibuprofen or any other anti-inflammatory.** Kalbeten is a salicylate, a relative of aspirin — together they raise the risk of stomach bleeding.
 - ⚠ **Kalbeten + SSRI** — SSRIs also raise bleeding risk with aspirin-type drugs, so **Imodium is the first choice**. Celebrex also slightly raises bleeding risk with an SSRI — take it with food.
