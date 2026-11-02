@@ -149,7 +149,7 @@ Phone · **USB-C phone cable ×1** 🎒 — brown bag, for the plane · Anker 10
 | Flight confirmations 🎒 | Intrepid emergency line **+86 17200311621** |
 | Hotel confirmations 🎒 | Next of kin |
 | UK passport copy 🎒 | Hong Kong booking refs *(Big Bus XF7MVK0Z)* |
-| | TDAC QR ×2 — **#1 ✅ 3B6E45A** (11 Oct) · #2 on 2 Nov |
+| | TDAC QR ×2 — **#1 ✅ 3B6E45A** (11 Oct) · **#2 ✅ A8C0E92** (4 Nov) |
 | | Vaccine book + clinic summary |
 | | Hotel addresses in Chinese |
 | | Luxe Manor ref 5515516445 |
