@@ -192,6 +192,7 @@ A walk along the river — Sarnies is the one backtrack, 10–15 min south.
 - **16:00** **Talat Noi** — old shophouses, street art
   - ☕ **Mother Roaster** · ☕ **La Cabra**
 - **16:45** **Song Wat Road** — old rice-trading street, now cafés and galleries
+  - 🥣 **Hot dessert:** **บัวลอยน้ำขิง** (bua loi nam khing) — sesame rice balls in hot ginger syrup · Yaowarat (Chinatown) stalls, next to Song Wat
 - **17:00** ⭐ **Hong Sieng Kong** — riverside, tables on the water, golden hour
 - **18:00** Ferry or BTS back
 - **19:30** 🍽 **Maison Saigon** · Velaa · Vietnamese, grilled chicken and beef
@@ -307,6 +308,7 @@ The dry plan is a long outdoor walk. This keeps the indoor stops and hops betwee
 - **14:15** 🚕 Grab · ~5 min · 🏛 **TCDC**, Grand Postal Building · open till 21:00 · design library, exhibitions, rooftop café
 - **15:45** 🚕 Grab · ~5 min · ⭐ **River City Bangkok** · art galleries and antiques, indoors
 - **17:00** 🚕 Grab · ~10 min, or the free shuttle boat from Sathorn Pier · ⭐ **ICONSIAM** · riverside mall · **SookSiam** — an indoor floating-market-style food hall
+  - 🥣 **Hot dessert:** look for **บัวลอยน้ำขิง** (bua loi nam khing, sesame rice balls in hot ginger syrup) or **บัวลอย** (rice balls in warm coconut milk)
 - **18:30** 🚇 **Gold Line** from ICONSIAM (Charoen Nakhon) → Krung Thon Buri → **Silom Line** → Siam → Chit Lom · ~40 min
 - **19:30** 🍽 **Maison Saigon**, Velaa · next door
 
