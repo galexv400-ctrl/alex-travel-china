@@ -224,6 +224,7 @@ A walk along the river — Sarnies is the one backtrack, 10–15 min south.
 | **2 and 4** | Fashion, accessories |
 | **12–14, 21** | Clothes, bags, shoes |
 | *As you go* | Small souvenirs — canvas bags, keyrings, passport holders |
+| 👢 **Rain boots** | Shoe stalls · ask **รองเท้าบูทกันฝน** · try on, sizes run small · soft ones pack flatter |
 
 *Skip:* books · silk · antiques · ceramics · soaps (section 8) · home décor
 
@@ -254,6 +255,7 @@ A walk along the river — Sarnies is the one backtrack, 10–15 min south.
 - **Morning free** · pool, or Central Embassy
   - ☕ **Open House**, 6F Central Embassy — books, cafés
   - 🎁 Last chance for souvenirs · 🌶 Lao Gan Ma if you missed it
+  - 👢 No rain boots from Chatuchak? **Big C Ratchadamri**, opposite CentralWorld · ~10 min by Grab · ~฿200–500
 - **12:00** Check out
 - **12:15** 🚕 **Grab** to Suvarnabhumi · 40–60 min
 - **~13:00** At the airport — El Al desks open ~13:30
