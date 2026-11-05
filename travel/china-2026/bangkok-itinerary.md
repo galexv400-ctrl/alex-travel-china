@@ -162,9 +162,7 @@ Pool 18F · gym 19F · saunas
   - **Let's Relax, Grande Centre Point Ploenchit, 30th floor** · 100 Witthayu Road
   - Booking **BLR2611050011** · ☎ +66 2651 5225 · BTS Ploenchit Exit 5, then 300m
 - **18:00** Walk back to the hotel · 10–15 min
-- **19:30** 🍽 **El Gaucho** · Velaa · Argentinian grill · walk-in
-  - Want to be sure? Call at ~17:00
-  - Full? **Bisou** — wagyu, on Langsuan
+- **19:30** 🍽 **Maison Saigon** · Velaa · Vietnamese — pho, fresh spring rolls, grilled chicken and beef
   - 👗 H&M cropped · short-sleeve · kimono · Tevas
 
 > 🔁 **Too full a day?** Drop a coffee first, then the pool, then Siam — the malls are open till ~22:00, and Sunday morning is free.
@@ -194,8 +192,11 @@ A walk along the river — Sarnies is the one backtrack, 10–15 min south.
 - **16:45** **Song Wat Road** — old rice-trading street, now cafés and galleries
 - **17:00** ⭐ **Hong Sieng Kong** — riverside, tables on the water, golden hour
 - **18:00** Ferry or BTS back
-- **19:30** 🍽 **Maison Saigon** · Velaa · Vietnamese, grilled chicken and beef
-  - *Or:* **Bistrot de la Mer** · 19F Kempinski · baked turbot
+- **19:30** 🍽 **El Gaucho** · Velaa · Argentinian grill · walk-in
+  - Want to be sure? Call at ~17:00
+  - Full? **Bisou** — wagyu, on Langsuan · or **Bistrot de la Mer**, 19F Kempinski · baked turbot
+  - 🥩 Tenderloin, medium rare · chimichurri · mash or salad — no fries
+  - 👗 Change at the hotel first — Tevas
 
 > ☔ **Raining?** Use the indoor version of this day in the **Rain plan** below.
 
@@ -293,7 +294,7 @@ Early November is the tail of the rainy season — usually a heavy afternoon sto
 | **Afternoon** | BTS to Siam | 🚶 **Walk the covered skywalk** Chidlom → Gaysorn → CentralWorld → Siam — under cover the whole way |
 | **To the massage** | BTS Siam → Ploenchit | Same · then **4 min** to Grande Centre Point — umbrella |
 | **After** | Walk back, 10–15 min | 🚕 **Grab** — ask reception at Let's Relax to call one |
-| **Dinner** | El Gaucho, Velaa | Same — next door |
+| **Dinner** | Maison Saigon, Velaa | Same — next door |
 
 ### Fri 6 Nov — riverside, indoor version
 
@@ -308,7 +309,7 @@ The dry plan is a long outdoor walk. This keeps the indoor stops and hops betwee
 - **15:45** 🚕 Grab · ~5 min · ⭐ **River City Bangkok** · art galleries and antiques, indoors
 - **17:00** 🚕 Grab · ~10 min, or the free shuttle boat from Sathorn Pier · ⭐ **ICONSIAM** · riverside mall · **SookSiam** — an indoor floating-market-style food hall
 - **18:30** 🚇 **Gold Line** from ICONSIAM (Charoen Nakhon) → Krung Thon Buri → **Silom Line** → Siam → Chit Lom · ~40 min
-- **19:30** 🍽 **Maison Saigon**, Velaa · next door
+- **19:30** 🍽 **El Gaucho**, Velaa · next door
 
 > 🌤 **Clears up?** **Talat Noi** is 10 min on foot from TCDC — go back to the dry plan from 16:00.
 
@@ -353,8 +354,8 @@ Most stalls are **under roofs**, but the alleys between sections are open, they 
 | Night | Where | What |
 |---|---|---|
 | Wed 4 | **August**, Langsuan — or anything | Healthy |
-| Thu 5 | **El Gaucho**, Velaa | Steak |
-| Fri 6 | **Maison Saigon**, Velaa | Vietnamese |
+| Thu 5 | **Maison Saigon**, Velaa | Vietnamese |
+| Fri 6 | **El Gaucho**, Velaa | Steak |
 | Sat 7 | **Mozza**, Central Chidlom | Salads |
 
 **Reserves, all walkable:** Bisou (wagyu) · Bistrot de la Mer (fish) · Sushi Kuuya
