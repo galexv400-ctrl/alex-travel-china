@@ -52,7 +52,7 @@ FORBIDDEN = [
     (r"15,000[–-]20,000|10,000 THB|~10,000", "Bangkok withdrawal is ~8,000 THB"),
     (r"09:30[–-]13:00|11:00\*\* 🛍|Chatuchak 11:00|Chatuchak · ~3 hours|Raining hard at 10:00|Lumphini → Kamphaeng Phet", "Sat 7 Nov: Pilates 11:00–11:50 at Isora, Chatuchak ~12:45–14:30"),
     (r"book for Thu 5 Nov here|extraction postponed|Wisdom tooth extraction\*\* · Silom", "Wisdom tooth extraction is in Israel after 8 Nov, not Bangkok"),
-    (r"Maison Saigon", "Fri 6 Nov dinner is Korea Town, Sukhumvit Plaza — Maison Saigon dropped"),
+    (r"\*\*SOT\*\*", "Fri 6 Nov dinner is Maison Saigon, Velaa — SOT dropped"),
     (r"Gourmet Market\*\*,? (or \*\*Mozza\*\*, )?Central Chidlom", "Central Chidlom's supermarket is Tops Food Hall — Gourmet Market is at Siam Paragon"),
     (r"Stradivarius",                "Stradivarius bra tops not bringing"),
     (r"[Cc]rocs",                    "Flip-flops, not Crocs — Crocs too bulky"),
