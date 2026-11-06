@@ -195,9 +195,8 @@ A walk along the river — Sarnies is the one backtrack, 10–15 min south.
   - 🥣 **Hot dessert:** **บัวลอยน้ำขิง** (bua loi nam khing) — sesame rice balls in hot ginger syrup · Yaowarat (Chinatown) stalls, next to Song Wat
 - **17:00** ⭐ **Hong Sieng Kong** — riverside, tables on the water, golden hour
 - **18:00** Ferry or BTS back
-- **19:30** 🍚 **SOT** · Siam Paragon, 4F, EATELIER zone · Korean **sotbap** — rice cooked to order in a sizzling stone pot · open till ~21:00
-  - 🚆 BTS Chit Lom → Siam · 1 stop · or Grab ~10 min
-  - Finish with hot water poured into the pot — warm "rice tea" from the crispy bits
+- **19:30** 🍜 **Maison Saigon** · Velaa, next to the hotel · Vietnamese
+  - **Chicken pho (phở gà)** — light clear broth, gentle on the stomach · skip the chilli, sriracha and hoisin
 
 > ☔ **Raining?** Use the indoor version of this day in the **Rain plan** below.
 
@@ -312,7 +311,7 @@ The dry plan is a long outdoor walk. This keeps the indoor stops and hops betwee
 - **17:00** 🚕 Grab · ~10 min, or the free shuttle boat from Sathorn Pier · ⭐ **ICONSIAM** · riverside mall · **SookSiam** — an indoor floating-market-style food hall
   - 🥣 **Hot dessert:** look for **บัวลอยน้ำขิง** (bua loi nam khing, sesame rice balls in hot ginger syrup) or **บัวลอย** (rice balls in warm coconut milk)
 - **18:30** 🚇 **Gold Line** from ICONSIAM (Charoen Nakhon) → Krung Thon Buri → **Silom Line** → Siam → Chit Lom · ~40 min
-- **19:30** 🍚 **SOT**, Siam Paragon 4F · BTS Chit Lom → Siam, 1 stop
+- **19:30** 🍜 **Maison Saigon**, Velaa · next door
 
 > 🌤 **Clears up?** **Talat Noi** is 10 min on foot from TCDC — go back to the dry plan from 16:00.
 
@@ -358,7 +357,7 @@ Most stalls are **under roofs**, but the alleys between sections are open, they 
 |---|---|---|
 | Wed 4 | **August**, Langsuan — or anything | Healthy |
 | Thu 5 | **El Gaucho**, Velaa | Steak |
-| Fri 6 | **SOT**, Siam Paragon | Korean stone-pot rice |
+| Fri 6 | **Maison Saigon**, Velaa | Pho |
 | Sat 7 | **Korea Town**, Sukhumvit Plaza | Korean soups |
 
 **Reserves, all walkable:** Bisou (wagyu) · Bistrot de la Mer (fish) · Sushi Kuuya
