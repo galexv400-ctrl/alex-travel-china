@@ -138,7 +138,7 @@ Pool 18F · gym 19F · saunas
 | If you want | Go to |
 |---|---|
 | A proper meal | **August**, Langsuan · 5 min walk |
-| ⭐ Something light | **Gourmet Market**, Central Chidlom · salads, sushi, fruit — take it back to the room |
+| ⭐ Something light | **Tops Food Hall**, Central Chidlom basement · salads, sushi, fruit — take it back to the room |
 | A wander | **Velaa Sindhorn Village** · next door |
 | Barely anything | **7-Eleven** on Langsuan |
 | Not leaving the room | Room service |
@@ -285,7 +285,7 @@ Early November is the tail of the rainy season — usually a heavy afternoon sto
 ### Wed 4 Nov — arrival
 
 - 🚕 Grab slow or surging? Use the **public taxi queue**, Level 1 · meter + THB 50 airport fee + tolls
-- 🍽 Dinner: **Gourmet Market** or **Mozza**, Central Chidlom — 10 min on foot, take the umbrella
+- 🍽 Dinner: **Tops Food Hall** or **Mozza**, Central Chidlom — 10 min on foot, take the umbrella
 
 ### Thu 5 Nov — Siam and the massage
 
