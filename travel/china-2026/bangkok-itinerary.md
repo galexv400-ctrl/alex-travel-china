@@ -195,8 +195,9 @@ A walk along the river — Sarnies is the one backtrack, 10–15 min south.
   - 🥣 **Hot dessert:** **บัวลอยน้ำขิง** (bua loi nam khing) — sesame rice balls in hot ginger syrup · Yaowarat (Chinatown) stalls, next to Song Wat
 - **17:00** ⭐ **Hong Sieng Kong** — riverside, tables on the water, golden hour
 - **18:00** Ferry or BTS back
-- **19:30** 🍲 **Korea Town, Sukhumvit Plaza** · Sukhumvit Soi 12 · 🚕 Grab ~10–15 min · casual Korean restaurants, choose there
-  - Warm soups: **samgyetang** (ginseng chicken soup) · **galbitang** (clear beef short-rib soup) · **sundubu jjigae** (soft tofu stew — ask "not spicy")
+- **19:30** 🍚 **SOT** · Siam Paragon, 4F, EATELIER zone · Korean **sotbap** — rice cooked to order in a sizzling stone pot · open till ~21:00
+  - 🚆 BTS Chit Lom → Siam · 1 stop · or Grab ~10 min
+  - Finish with hot water poured into the pot — warm "rice tea" from the crispy bits
 
 > ☔ **Raining?** Use the indoor version of this day in the **Rain plan** below.
 
@@ -245,7 +246,8 @@ A walk along the river — Sarnies is the one backtrack, 10–15 min south.
 - 🎒 **Backpack home:** check LY84 baggage in the El Al app — buy a 2nd checked bag online, or fold the empty backpack into the suitcase (expansion zip) · ≤23 kg · laptop in the cabin
 - 🌶 **Lao Gan Ma** · **Tops Market**, Central Chidlom basement
   - Wrap each jar in clothing, inside the **dry bag** · checked luggage only
-- **19:30** 🍽 **Mozza** · Central Chidlom · salads — Niçoise, crab and mango, beetroot carpaccio
+- **19:30** 🍲 **Korea Town, Sukhumvit Plaza** · Sukhumvit Soi 12 · 🚕 Grab ~10–15 min · casual Korean restaurants, choose there
+  - Warm soups: **samgyetang** (ginseng chicken soup) · **galbitang** (clear beef short-rib soup) · **sundubu jjigae** (soft tofu stew — ask "not spicy")
 
 ---
 
@@ -310,7 +312,7 @@ The dry plan is a long outdoor walk. This keeps the indoor stops and hops betwee
 - **17:00** 🚕 Grab · ~10 min, or the free shuttle boat from Sathorn Pier · ⭐ **ICONSIAM** · riverside mall · **SookSiam** — an indoor floating-market-style food hall
   - 🥣 **Hot dessert:** look for **บัวลอยน้ำขิง** (bua loi nam khing, sesame rice balls in hot ginger syrup) or **บัวลอย** (rice balls in warm coconut milk)
 - **18:30** 🚇 **Gold Line** from ICONSIAM (Charoen Nakhon) → Krung Thon Buri → **Silom Line** → Siam → Chit Lom · ~40 min
-- **19:30** 🍲 **Korea Town, Sukhumvit Plaza** · Sukhumvit Soi 12 · 🚕 Grab ~10–15 min
+- **19:30** 🍚 **SOT**, Siam Paragon 4F · BTS Chit Lom → Siam, 1 stop
 
 > 🌤 **Clears up?** **Talat Noi** is 10 min on foot from TCDC — go back to the dry plan from 16:00.
 
@@ -336,7 +338,7 @@ Most stalls are **under roofs**, but the alleys between sections are open, they 
   - Small independent shops and cafés on the lower floors — good for souvenirs
 - **16:30** 🚶 Skywalk → **MBK** or **Siam** · 5 min, all covered
 - **17:30** BTS Siam → Chit Lom · hotel · 🌶 **Lao Gan Ma** at Tops, Central Chidlom basement
-- **19:30** 🍽 **Mozza**, Central Chidlom
+- **19:30** 🍲 **Korea Town, Sukhumvit Plaza** · Grab ~10–15 min
 
 > 🛍 **Still want Chatuchak?** It is open **Sunday** too. **08:30** MRT, **09:00–10:45** sections 5–6 only, back by **11:30** · pack on Saturday night first.
 
@@ -356,8 +358,8 @@ Most stalls are **under roofs**, but the alleys between sections are open, they 
 |---|---|---|
 | Wed 4 | **August**, Langsuan — or anything | Healthy |
 | Thu 5 | **El Gaucho**, Velaa | Steak |
-| Fri 6 | **Korea Town**, Sukhumvit Plaza | Korean soups |
-| Sat 7 | **Mozza**, Central Chidlom | Salads |
+| Fri 6 | **SOT**, Siam Paragon | Korean stone-pot rice |
+| Sat 7 | **Korea Town**, Sukhumvit Plaza | Korean soups |
 
 **Reserves, all walkable:** Bisou (wagyu) · Bistrot de la Mer (fish) · Sushi Kuuya
 
