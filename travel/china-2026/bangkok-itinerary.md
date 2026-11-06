@@ -195,8 +195,8 @@ A walk along the river — Sarnies is the one backtrack, 10–15 min south.
   - 🥣 **Hot dessert:** **บัวลอยน้ำขิง** (bua loi nam khing) — sesame rice balls in hot ginger syrup · Yaowarat (Chinatown) stalls, next to Song Wat
 - **17:00** ⭐ **Hong Sieng Kong** — riverside, tables on the water, golden hour
 - **18:00** Ferry or BTS back
-- **19:30** 🍽 **Maison Saigon** · Velaa · Vietnamese, grilled chicken and beef
-  - *Or:* **Bistrot de la Mer** · 19F Kempinski · baked turbot
+- **19:30** 🍲 **Korea Town, Sukhumvit Plaza** · Sukhumvit Soi 12 · 🚕 Grab ~10–15 min · casual Korean restaurants, choose there
+  - Warm soups: **samgyetang** (ginseng chicken soup) · **galbitang** (clear beef short-rib soup) · **sundubu jjigae** (soft tofu stew — ask "not spicy")
 
 > ☔ **Raining?** Use the indoor version of this day in the **Rain plan** below.
 
@@ -310,7 +310,7 @@ The dry plan is a long outdoor walk. This keeps the indoor stops and hops betwee
 - **17:00** 🚕 Grab · ~10 min, or the free shuttle boat from Sathorn Pier · ⭐ **ICONSIAM** · riverside mall · **SookSiam** — an indoor floating-market-style food hall
   - 🥣 **Hot dessert:** look for **บัวลอยน้ำขิง** (bua loi nam khing, sesame rice balls in hot ginger syrup) or **บัวลอย** (rice balls in warm coconut milk)
 - **18:30** 🚇 **Gold Line** from ICONSIAM (Charoen Nakhon) → Krung Thon Buri → **Silom Line** → Siam → Chit Lom · ~40 min
-- **19:30** 🍽 **Maison Saigon**, Velaa · next door
+- **19:30** 🍲 **Korea Town, Sukhumvit Plaza** · Sukhumvit Soi 12 · 🚕 Grab ~10–15 min
 
 > 🌤 **Clears up?** **Talat Noi** is 10 min on foot from TCDC — go back to the dry plan from 16:00.
 
@@ -356,7 +356,7 @@ Most stalls are **under roofs**, but the alleys between sections are open, they 
 |---|---|---|
 | Wed 4 | **August**, Langsuan — or anything | Healthy |
 | Thu 5 | **El Gaucho**, Velaa | Steak |
-| Fri 6 | **Maison Saigon**, Velaa | Vietnamese |
+| Fri 6 | **Korea Town**, Sukhumvit Plaza | Korean soups |
 | Sat 7 | **Mozza**, Central Chidlom | Salads |
 
 **Reserves, all walkable:** Bisou (wagyu) · Bistrot de la Mer (fish) · Sushi Kuuya
