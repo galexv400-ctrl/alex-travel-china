@@ -243,8 +243,6 @@ A walk along the river — Sarnies is the one backtrack, 10–15 min south.
 - **~16:45** 🍒 **Patisserie Rosie** · 113/2 Thonglor Soi 10 · realistic fruit mousse desserts — **Cherry Ripe** ~฿200 · ☎ +66 92 542 9900 · hours vary, call ahead
 - **~17:45** 🚕 **Grab → hotel** · ~20 min · shower · rest
 - 🎒 **Backpack home:** check LY84 baggage in the El Al app — buy a 2nd checked bag online, or fold the empty backpack into the suitcase (expansion zip) · ≤23 kg · laptop in the cabin
-- 🌶 **Lao Gan Ma** · **Tops Market**, Central Chidlom basement
-  - Wrap each jar in clothing, inside the **dry bag** · checked luggage only
 - **19:30** 🍲 **Korea Town, Sukhumvit Plaza** · Sukhumvit Soi 12 · 🚕 Grab ~10–15 min · casual Korean restaurants, choose there
   - Warm soups: **samgyetang** (ginseng chicken soup) · **galbitang** (clear beef short-rib soup) · **sundubu jjigae** (soft tofu stew — ask "not spicy")
 
@@ -253,10 +251,10 @@ A walk along the river — Sarnies is the one backtrack, 10–15 min south.
 ## Day 5 — Sunday 8 November: Home
 
 - **Breakfast** — last one
-- 🧳 **Pack first** — jars wrapped in the dry bag
-- **Morning free** · pool, or Central Embassy
-  - ☕ **Open House**, 6F Central Embassy — books, cafés
-  - 🎁 Last chance for souvenirs · 🌶 Lao Gan Ma if you missed it
+- 🧳 **Pack first** — leave space for the jars
+- **~10:00** 🌶 **Lao Gan Ma** · **Tops Food Hall**, Central Chidlom basement · opens ~10:00 · 10 min on foot
+- **~11:00** Back at the hotel · wrap each jar in clothing, inside the **dry bag** · checked luggage only
+  - 🎁 Last chance for souvenirs at Central Chidlom
   - 👢 No rain boots from Chatuchak? **Big C Ratchadamri**, opposite CentralWorld · ~10 min by Grab · ~฿200–500
 - **12:00** Check out
 - **12:15** 🚕 **Grab** to Suvarnabhumi · 40–60 min
